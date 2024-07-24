@@ -6,3 +6,25 @@
 14.22.20.172:80 - 403 Forbidden
 196.51.232.95:80 - ERROR: The requested URL could not be retrieved
 104.140.93.8:80 - 403 Forbidden
+165.227.83.165:80 - Homepage
+ - Amajed
+192.126.183.14:80 - ERROR: The requested URL could not be retrieved
+23.63.201.15:80 - Заголовок не найден
+207.154.194.5:80 - Wefix
+37.187.72.66:80 - 403 Forbidden
+187.142.247.158:80 - Acceso Web
+159.192.86.165:80 - 403 Forbidden
+51.68.125.58:80 - 500 Internal Server Error
+2.23.199.154:80 - Заголовок не найден
+177.207.164.148:80 - IIS Windows
+172.67.250.255:80 - Direct IP access not allowed | Cloudflare
+85.214.61.167:80 - Web Server's Default Page
+151.237.107.228:80 - Please wait, the page is opening...
+12.97.37.100:80 - Заголовок не найден
+23.43.8.73:80 - Заголовок не найден
+184.24.228.209:80 - Заголовок не найден
+146.148.193.149:80 - 404 Not Found
+83.169.18.217:80 - Domain Default page
+18.66.45.199:80 - Заголовок не найден
+217.111.138.32:80 - Welcome to nginx!
+23.46.243.51:80 - Заголовок не найден
