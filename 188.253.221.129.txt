@@ -864,3 +864,17 @@
 104.17.153.131:80 - Direct IP access not allowed | Cloudflare
 154.204.147.149:80 - 404 Not Found
 173.44.219.171:80 - ERROR: The requested URL could not be retrieved
+54.230.211.125:80 - Заголовок не найден
+104.37.214.26:80 - 403 Forbidden
+104.84.19.77:80 - Заголовок не найден
+104.64.200.234:80 - Заголовок не найден
+35.237.116.39:80 - Sign in to your account
+36.54.189.4:80 - Index of /
+104.114.93.80:80 - Заголовок не найден
+185.110.95.82:80 - RouterOS
+45.92.18.74:80 - Error
+72.23.193.147:80 - 
+188.165.16.249:80 - 503 Service Temporarily Unavailable
+212.193.63.68:80 - Apache2 Ubuntu Default Page: It works
+23.77.27.85:80 - Заголовок не найден
+154.12.116.12:80 - ERROR: The requested URL could not be retrieved
