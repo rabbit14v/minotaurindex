@@ -185,3 +185,20 @@
 2.21.83.31:80 - Заголовок не найден
 41.75.215.227:80 - Заголовок не найден
 45.60.13.183:80 - Заголовок не найден
+51.195.90.173:80 - Homepage - AT-Fenster
+60.190.255.216:80 - 403 - ½ûÖ¹·ÃÎÊ: ·ÃÎÊ±»¾Ü¾ø¡£
+154.204.13.162:80 - Заголовок не найден
+38.152.55.255:80 - ERROR: The requested URL could not be retrieved
+34.70.184.240:80 - IIS Windows Server
+207.154.206.185:80 - Welcome to nginx!
+20.85.167.212:80 - Заголовок не найден
+167.99.128.65:80 - 404 Not Found
+27.25.140.42:80 - Заголовок не найден
+103.205.181.121:80 - Заголовок не найден
+45.248.121.77:80 - Login Portal
+43.155.186.118:80 - Заголовок не найден
+151.101.232.221:80 - Fastly error: unknown domain 151.101.232.221
+20.243.105.69:80 - Welcome to nginx!
+52.193.20.131:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+200.233.193.74:80 - Apache HTTP Server Test Page powered by CentOS
+13.41.29.21:80 - 503 Service Temporarily Unavailable
