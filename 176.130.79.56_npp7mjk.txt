@@ -6808,3 +6808,17 @@
 163.5.132.16:80 - 403 Forbidden
 98.226.164.218:80 - Temperature Monitoring
 192.81.211.123:80 - 404 Not Found
+45.33.145.209:80 - ERROR: The requested URL could not be retrieved
+41.59.54.93:80 - System Login
+52.70.141.198:80 - Redirecting to https://vikingservice.polymerhq.io/hub/login
+95.100.123.74:80 - Заголовок не найден
+157.255.135.22:80 - Заголовок не найден
+104.16.139.151:80 - Direct IP access not allowed | Cloudflare
+39.104.207.0:80 - 404 Not Found
+218.75.150.63:80 - Заголовок не найден
+185.252.193.174:80 - 403 - Forbidden: Access is denied.
+150.60.3.121:80 - Заголовок не найден
+166.0.232.121:80 - Error
+110.78.149.128:80 - 403 Forbidden
+185.225.204.2:80 - RouterOS router configuration page
+23.206.180.199:80 - Заголовок не найден
