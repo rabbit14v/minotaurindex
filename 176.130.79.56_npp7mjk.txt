@@ -6860,3 +6860,13 @@
 107.181.238.164:80 - Welcome to nginx!
 23.204.170.137:80 - Заголовок не найден
 104.77.174.98:80 - Заголовок не найден
+23.59.119.197:80 - Заголовок не найден
+92.63.193.13:80 - Website ambss.ru is ready. The content is to be added
+104.27.83.6:80 - Direct IP access not allowed | Cloudflare
+45.88.109.102:80 - Apache2 Debian Default Page: It works
+88.231.123.255:80 - 403 Forbidden
+52.118.76.149:80 - Заголовок не найден
+200.110.58.71:80 - ONT-4GE-2VW
+219.144.91.48:80 - Заголовок не найден
+212.68.186.38:80 - Index of /
+104.19.159.216:80 - Direct IP access not allowed | Cloudflare
