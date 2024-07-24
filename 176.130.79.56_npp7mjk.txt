@@ -242,3 +242,15 @@
 147.92.66.186:80 - Login
 83.224.147.221:80 - Заголовок не найден
 54.65.74.39:80 - Untitled - BLAND NAME
+23.216.58.205:80 - Заголовок не найден
+31.44.227.129:80 - Ping Communication NPA201E : Login
+103.17.209.41:80 - Default Site
+54.206.119.122:80 - Apache2 Ubuntu Default Page: It works
+104.218.12.24:80 - Home - Raising Grounds
+69.160.59.154:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+173.223.216.109:80 - Заголовок не найден
+188.166.95.134:80 - Rhbm. We tell your story...
+86.106.184.94:80 - GPON Home Gateway
+89.35.170.218:80 - Заголовок не найден
+91.226.80.45:80 - Доступ к сайту невозможен
+172.247.160.235:80 - 404 Not Found
