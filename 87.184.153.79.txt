@@ -1,0 +1,8 @@
+209.200.87.235:80 - Car Wash Equipment & Service CT RI MA VT NH NJ NY | Car Washing Systems
+85.234.145.23:80 - Web Server's Default Page
+183.182.75.110:80 - 403 Forbidden
+164.155.185.46:80 - 403 Forbidden
+3.83.64.176:80 - Заголовок не найден
+3.83.124.145:80 - 502 Bad Gateway
+203.189.117.84:80 - Заголовок не найден
+195.192.159.32:80 - Welcome to nginx!
