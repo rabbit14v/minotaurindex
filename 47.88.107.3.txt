@@ -12346,3 +12346,24 @@ Context: {&quot;exception&quot;:{}}
 36.97.238.4:80 - Заголовок не найден
 52.52.7.232:80 - Заголовок не найден
 104.16.63.224:80 - Direct IP access not allowed | Cloudflare
+34.226.84.54:80 - 404 Not Found
+23.90.35.203:80 - 403 Forbidden
+148.72.176.29:80 - Apache HTTP Server Test Page powered by CentOS
+103.195.30.194:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+45.95.186.169:80 - 404 Not Found
+208.79.153.240:80 - 403 Forbidden
+66.18.20.72:80 - 403 Forbidden
+18.164.94.117:80 - Заголовок не найден
+14.225.43.96:80 - Apache2 Ubuntu Default Page: It works
+18.165.139.222:80 - Заголовок не найден
+34.73.202.49:80 - Site Not Configured | 404 Not Found
+40.83.200.177:80 - Microsoft Azure Web App - Error 404
+18.245.34.80:80 - Заголовок не найден
+20.15.109.59:80 - Your Mental Health Companion
+151.236.89.133:80 - Заголовок не найден
+96.44.185.196:80 - 500 Internal Server Error
+85.235.150.217:80 - Web Server's Default Page
+118.38.88.112:80 - Заголовок не найден
+23.201.239.194:80 - Заголовок не найден
+54.153.68.232:80 - 404 Not Found
+185.60.40.53:80 - Index of /
