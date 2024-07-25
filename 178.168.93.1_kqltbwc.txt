@@ -174,3 +174,13 @@
 104.172.14.78:80 - 
 199.83.177.236:80 - Заголовок не найден
 212.52.183.211:80 - Заголовок не найден
+139.129.164.181:80 - Error
+5.250.185.8:80 - PATIENTCHECKER
+62.245.172.176:80 - 500 Internal Server Error
+185.116.193.137:80 - Apache2 Debian Default Page: It works
+35.180.248.171:80 - Swagger UI
+195.82.109.135:80 - Welcome to nginx!
+121.145.32.192:80 - main page
+45.58.48.16:80 - ERROR: The requested URL could not be retrieved
+50.87.148.134:80 - Not Acceptable!
+209.151.236.41:80 - crumpton.me
