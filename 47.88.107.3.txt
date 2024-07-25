@@ -9857,3 +9857,20 @@ Context: {&quot;exception&quot;:{}}
 64.78.162.50:80 - Заголовок не найден
 38.152.131.219:80 - ERROR: The requested URL could not be retrieved
 65.92.232.137:80 - 
+219.151.25.49:80 - 403 Forbidden
+188.132.181.92:80 - Заголовок не найден
+23.45.14.152:80 - Заголовок не найден
+154.30.192.162:80 - Заголовок не найден
+192.249.122.89:80 - Default Web Page
+83.68.38.109:80 - Document Error: Unauthorized
+23.64.167.111:80 - Заголовок не найден
+222.113.122.100:80 - WEB SERVICE
+14.4.250.49:80 - Hello! Welcome to Synology Web Station!
+51.77.237.231:80 - Web Server's Default Page
+3.252.95.203:80 - Test Page for the Nginx HTTP Server on the Amazon Linux AMI
+50.87.144.22:80 - Not Acceptable!
+104.231.93.11:80 - 
+139.144.96.182:80 - Welcome to CentOS
+23.6.250.98:80 - Заголовок не найден
+23.10.169.6:80 - Заголовок не найден
+154.92.234.158:80 - 403 Forbidden
