@@ -1,0 +1,22 @@
+104.18.63.57:80 - Direct IP access not allowed | Cloudflare
+3.98.201.227:80 - Apache2 Ubuntu Default Page: It works
+23.196.24.96:80 - Заголовок не найден
+38.80.73.133:80 - Заголовок не найден
+23.34.86.149:80 - Заголовок не найден
+34.35.42.200:80 - WordPress on Google Compute Engine
+191.37.11.97:80 - Login
+154.12.165.186:80 - ERROR: The requested URL could not be retrieved
+125.177.91.178:80 - Заголовок не найден
+216.124.134.40:80 - Заголовок не найден
+168.76.35.85:80 - 404 Not Found
+23.32.131.81:80 - Заголовок не найден
+3.165.35.133:80 - Заголовок не найден
+167.99.158.239:80 - Home Page - solarwiki
+87.164.197.215:80 - Login – Nextcloud
+164.57.217.167:80 - RequestForm Servlet
+184.30.159.163:80 - Заголовок не найден
+142.4.110.117:80 - Welcome to nginx!
+76.8.55.174:80 - ERROR: The requested URL could not be retrieved
+216.235.203.145:80 - 500 - Internal server error.
+187.233.88.115:80 - 
+47.104.148.50:80 - ç½ç«è®¿é®æ¥é
