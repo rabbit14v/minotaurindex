@@ -1297,3 +1297,62 @@
 52.129.122.41:80 - IIS7
 20.103.241.96:80 - 404 Not Found
 34.143.41.45:80 - Заголовок не найден
+3.131.236.220:80 - Welcome to nginx!
+37.139.20.99:80 - Welcome to nginx!
+8.210.15.218:80 - ç½ç«è®¿é®æ¥é
+23.75.213.48:80 - Заголовок не найден
+131.221.192.222:80 - Intelbras
+133.167.38.174:80 - Apache HTTP Server Test Page powered by CentOS
+52.70.225.183:80 - Заголовок не найден
+63.35.145.108:80 - PHP Application - AWS Elastic Beanstalk
+47.104.14.77:80 - 404 Not Found
+102.129.196.16:80 - ERROR: The requested URL could not be retrieved
+188.94.90.144:80 - Заголовок не найден
+23.202.164.42:80 - Заголовок не найден
+34.142.179.30:80 - Заголовок не найден
+141.0.180.139:80 - Заголовок не найден
+147.161.129.1:80 - Internet Security by Zscaler
+95.131.202.103:80 - Заголовок не найден
+37.58.54.222:80 - Заголовок не найден
+177.221.165.86:80 - &#70;&#54;&#55;&#48;&#76;
+83.118.34.147:80 - M.T.R Asset Managers
+111.249.132.95:80 - Hello! Welcome to Synology Web Station!
+103.149.46.191:80 - Proudly Managed By ServerAvatar
+80.118.157.4:80 - Centrale
+195.90.218.245:80 - Default Site
+94.23.211.174:80 - 404 Not Found
+216.92.250.205:80 - Welcome to Phoca
+20.227.40.54:80 - Your Azure Function App is up and running.
+93.147.161.93:80 - Заголовок не найден
+93.184.215.7:80 - 404 - Not Found
+34.87.148.229:80 - æ²¡ææ¾å°ç«ç¹
+103.80.210.116:80 - RouterOS router configuration page
+2.18.225.2:80 - Заголовок не найден
+157.7.204.92:80 - HTTP Server Test Page powered by: Rocky Linux
+47.245.37.100:80 - Welcome to nginx!
+173.194.50.99:80 - Error 404 (Not Found)!!1
+85.128.155.44:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+111.67.203.77:80 - Заголовок не найден
+209.15.97.59:80 - Apache HTTP Server Test Page powered by CentOS
+220.160.45.182:80 - 403 Forbidden
+23.59.190.105:80 - Заголовок не найден
+130.250.199.49:80 - User Login
+186.146.244.219:80 - Заголовок не найден
+156.238.56.56:80 - æ²¡ææ¾å°ç«ç¹
+156.250.114.134:80 - 403 Forbidden
+198.47.23.93:80 - 403 Forbidden
+101.201.103.202:80 - lilishop
+2.18.234.114:80 - Заголовок не найден
+23.54.41.21:80 - Заголовок не найден
+23.37.163.10:80 - Заголовок не найден
+39.98.176.34:80 - 404 Not Found
+23.207.87.132:80 - Заголовок не найден
+61.19.218.44:80 - HP Integrated Lights-Out 2
+149.28.155.122:80 - Softaculous Webuzo | Default Website Page
+197.254.4.10:80 - SCI Kenya - IT Services
+35.181.146.10:80 - Welcome to nginx!
+193.183.87.86:80 - Database Error
+75.143.8.87:80 - 
+190.208.29.98:80 - Document Moved
+77.242.139.150:80 - Welcome to Citrix XenServer 7.2.0
+51.15.9.128:80 - Заголовок не найден
