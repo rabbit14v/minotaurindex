@@ -546,3 +546,8 @@
 88.198.7.235:80 - Web Server's Default Page
 2.23.136.71:80 - Заголовок не найден
 37.143.86.174:80 - Error 404 (Not Found)!!1
+45.89.51.24:80 - Index of /
+95.216.148.142:80 - 403 Forbidden
+158.101.11.2:80 - Welcome to nginx!
+146.75.122.107:80 - Fastly error: unknown domain 146.75.122.107
+178.49.150.10:80 - 
