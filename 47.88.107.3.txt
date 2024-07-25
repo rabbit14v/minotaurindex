@@ -8667,3 +8667,22 @@ Context: {&quot;exception&quot;:{}}
 137.116.247.61:80 - Заголовок не найден
 52.5.36.242:80 - Trellix Page Not Found
 192.24.59.36:80 - 404 Not Found
+192.185.158.133:80 - Not Acceptable!
+199.232.5.149:80 - Fastly error: unknown domain 199.232.5.149
+158.247.18.126:80 - Trust &amp; Safety Policies
+116.68.126.242:80 - IIS Windows
+14.41.84.215:80 - 
+45.43.159.110:80 - Заголовок не найден
+31.186.243.130:80 - 400 Bad Request
+23.203.123.200:80 - Заголовок не найден
+46.101.151.68:80 - SABASLOT &gt; SABASLOT, SABA SLOT, daftar SABASLOT, link alternatif SABAS
+
+ &ndash; SABASLOT
+18.204.129.56:80 - 503 Service Temporarily Unavailable
+108.139.52.209:80 - Заголовок не найден
+65.60.22.182:80 - Заголовок не найден
+54.69.167.134:80 - 502 Bad Gateway
+172.245.0.68:80 - Заголовок не найден
+5.254.38.239:80 - 500 Internal Server Error
+52.158.252.73:80 - Psalted
+85.105.94.135:80 - WEB SERVICE
