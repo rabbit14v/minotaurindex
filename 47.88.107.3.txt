@@ -6954,3 +6954,21 @@ Context: {&quot;exception&quot;:{}}
 202.79.169.218:80 - IIS Windows Server
 115.165.217.207:80 - 
 172.64.18.35:80 - Direct IP access not allowed | Cloudflare
+13.212.253.210:80 - ADVANCE SERVICE KIOSK
+23.221.29.200:80 - Заголовок не найден
+20.14.104.168:80 - Microsoft Azure Web App - Error 404
+92.249.40.225:80 - 
+23.38.93.131:80 - Заголовок не найден
+216.169.114.167:80 - Заголовок не найден
+66.22.221.57:80 - Заголовок не найден
+104.20.68.8:80 - Direct IP access not allowed | Cloudflare
+41.111.135.108:80 - 503 - Page Indisponible
+45.244.54.176:80 - RouterOS router configuration page
+64.135.68.23:80 - 403 Forbidden
+47.104.136.36:80 - 403 Forbidden
+52.216.109.62:80 - Amazon S3 - Cloud Object Storage  - AWS
+37.99.194.33:80 - ACCESSIT
+54.145.247.151:80 - 403 Forbidden
+85.111.41.207:80 - Заголовок не найден
+172.233.181.128:80 - 404 Not Found
+154.194.146.12:80 - 404 Not Found
