@@ -407,3 +407,7 @@
 23.210.8.136:80 - Заголовок не найден
 23.200.127.137:80 - Заголовок не найден
 68.183.103.39:80 - Welcome to nginx!
+104.17.90.87:80 - Direct IP access not allowed | Cloudflare
+162.252.169.39:80 - ERROR: The requested URL could not be retrieved
+158.201.242.45:80 - 403 Forbidden
+167.82.38.169:80 - Fastly error: unknown domain 167.82.38.169
