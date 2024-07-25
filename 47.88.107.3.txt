@@ -9344,3 +9344,19 @@ Context: {&quot;exception&quot;:{}}
 104.140.33.86:80 - 403 Forbidden
 3.209.218.84:80 - Заголовок не найден
 45.85.191.204:80 - Заголовок не найден
+95.170.86.74:80 - Web Server's Default Page
+222.194.60.224:80 - 404 Not Found
+23.35.20.187:80 - Заголовок не найден
+23.89.194.20:80 - Заголовок не найден
+37.77.205.40:80 - Заголовок не найден
+167.172.27.167:80 - Homepage - Isuzu Finance of America, Inc
+20.166.159.170:80 - Your Azure Function App is up and running.
+47.88.218.91:80 - IIS Windows Server
+192.99.151.221:80 - FASTPANEL2
+129.151.232.76:80 - Welcome to nginx!
+2.17.238.73:80 - Заголовок не найден
+104.21.102.87:80 - Direct IP access not allowed | Cloudflare
+3.165.69.201:80 - Заголовок не найден
+40.90.225.169:80 - GDZ Computer Services - Shipping Liner & Agency Software
+124.254.94.245:80 - IIS Windows Server
+3.81.179.37:80 - GSOL- INICIO
