@@ -1,3 +1,4 @@
 95.100.124.241:80 - Заголовок не найден
 77.92.149.185:80 - Web Server's Default Page
 100.20.193.194:80 - Not Acceptable!
+104.20.50.34:80 - Direct IP access not allowed | Cloudflare
