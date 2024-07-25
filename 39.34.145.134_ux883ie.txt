@@ -273,3 +273,5 @@
 176.255.225.35:80 - Заголовок не найден
 154.12.201.188:80 - ERROR: The requested URL could not be retrieved
 93.93.115.128:80 - Web Server's Default Page
+38.153.175.34:80 - ERROR: The requested URL could not be retrieved
+64.227.188.34:80 - Welcome to nginx!
