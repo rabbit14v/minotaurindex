@@ -6,3 +6,6 @@
 52.57.199.95 - Заголовок не найден !80!
 68.145.130.164 - Default Site !80!
 216.246.14.107 - Icecast Streaming Media Server !80!
+157.173.216.219 - 403 Forbidden !80!
+143.47.182.79 - 404 Not Found !80!
+212.102.45.179 - Nodecraft - Game Servers Done Right !80!
