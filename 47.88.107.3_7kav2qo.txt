@@ -4571,3 +4571,17 @@
 156.245.49.243:80 - 404 Not Found
 109.228.47.83:80 - Web Server's Default Page
 104.32.208.69:80 - 
+52.207.37.172:80 - Welcome to nginx!
+23.208.179.61:80 - Заголовок не найден
+154.212.36.55:80 - 404 Not Found
+52.49.229.28:80 - All-in-one fitness management software | LegitFit
+64.44.112.2:80 - Заголовок не найден
+125.228.30.40:80 - Заголовок не найден
+47.254.251.148:80 - Apache HTTP Server Test Page powered by CentOS
+138.117.60.19:80 - Apache2 Debian Default Page: It works
+170.130.9.145:80 - 403 Forbidden
+154.41.227.135:80 - 403 Forbidden
+50.71.72.80:80 - 
+54.209.20.255:80 - Free Wedding Websites - Best Wedding Websites
+34.96.118.61:80 - 403
+8.10.15.219:80 - 403 Forbidden
