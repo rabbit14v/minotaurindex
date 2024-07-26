@@ -1,0 +1,7 @@
+23.217.24.226 - Заголовок не найден !80!
+104.17.136.20 - Direct IP access not allowed | Cloudflare !80!
+162.159.251.151 - Direct IP access not allowed | Cloudflare !80!
+164.155.183.199 - 404 Not Found !80!
+132.239.8.162 - OEC Support Site - Site Offline Redirect !80!
+18.136.110.185 - Заголовок не найден !80!
+38.242.153.167 - NethServer Enterprise !80!
