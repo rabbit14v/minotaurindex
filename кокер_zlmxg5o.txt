@@ -6320,3 +6320,164 @@ find my artist
 165.225.221.177:80 - Internet Security by Zscaler
 34.70.102.104:80 - Zeraa AI Dashboard
 157.230.50.217:80 - Apache2 Ubuntu Default Page: It works
+8.141.81.149:80 - 500 Internal Server Error
+54.235.251.239:80 - IIS Windows Server
+34.194.123.219:80 - Welcome to nginx!
+52.216.93.178:80 - Amazon S3 - Cloud Object Storage  - AWS
+50.32.255.93:80 - Server Error
+104.88.234.61:80 - Заголовок не найден
+23.77.242.154:80 - Заголовок не найден
+52.85.37.65:80 - Заголовок не найден
+222.66.235.13:80 - 403 Forbidden
+65.181.130.152:80 - Заголовок не найден
+67.218.68.55:80 - Micro_I
+167.71.238.229:80 - 502 Bad Gateway
+13.224.68.55:80 - Заголовок не найден
+185.59.44.224:80 - Web Server's Default Page
+207.148.24.247:80 - Заголовок не найден
+104.19.170.233:80 - Direct IP access not allowed | Cloudflare
+101.126.22.251:80 - 404 Not Found
+38.25.117.122:80 - 
+176.58.50.230:80 - Заголовок не найден
+75.119.142.99:80 - Al-Nizam ERP - Login
+38.12.14.141:80 - IIS Windows Server
+3.161.184.233:80 - Заголовок не найден
+20.108.89.106:80 - Microsoft Azure Web App - Error 404
+34.204.13.38:80 - 404 Not Found
+23.251.43.207:80 - 网站建设中，敬请期待
+47.111.155.84:80 - ç®¡çç«¯
+13.224.255.5:80 - Заголовок не найден
+24.78.237.152:80 - WEB SERVICE
+79.171.2.71:80 - Apache HTTP Server Test Page powered by CentOS
+51.255.109.160:80 - ONYPHE | Attack Surface Management &amp; Cyber Defense Search Engine
+23.47.85.74:80 - Заголовок не найден
+95.82.174.35:80 - Заголовок не найден
+54.168.232.178:80 - Заголовок не найден
+103.249.108.7:80 - 404 Not Found
+79.96.239.197:80 - ldautomotive.pl
+45.95.194.154:80 - Index of /
+123.57.70.140:80 - 阿里云万网虚机IP访问报错提示
+149.100.150.33:80 - 403 Forbidden
+112.184.91.161:80 - 
+104.101.19.126:80 - Заголовок не найден
+13.234.55.214:80 - Заголовок не найден
+199.188.109.136:80 - Welcome to nginx!
+107.173.236.28:80 - ERROR: The requested URL could not be retrieved
+54.230.179.144:80 - Заголовок не найден
+3.34.156.123:80 - Apache2 Ubuntu Default Page: It works
+104.16.14.22:80 - Direct IP access not allowed | Cloudflare
+192.99.241.238:80 - Hosted By BisectHosting - BisectHosting
+3.161.40.49:80 - Заголовок не найден
+59.127.234.42:80 - Заголовок не найден
+45.56.217.155:80 - Заголовок не найден
+65.254.145.90:80 - Defiance Municipal Court
+111.70.42.116:80 - ShinSoft
+172.64.88.129:80 - Direct IP access not allowed | Cloudflare
+52.217.32.171:80 - Amazon S3 - Cloud Object Storage  - AWS
+104.25.27.92:80 - Direct IP access not allowed | Cloudflare
+61.218.3.43:80 - 403 Forbidden
+24.171.0.64:80 - 
+104.19.234.135:80 - Direct IP access not allowed | Cloudflare
+45.77.210.207:80 - Apache2 Debian Default Page: It works
+2.20.225.163:80 - Заголовок не найден
+92.222.83.226:80 - Final Interface
+13.224.162.182:80 - Заголовок не найден
+23.59.250.119:80 - Заголовок не найден
+62.72.2.17:80 - 403 Forbidden
+183.61.168.78:80 - 403 Forbidden
+104.16.103.33:80 - Direct IP access not allowed | Cloudflare
+60.107.170.81:80 - Заголовок не найден
+199.195.140.43:80 - Hosted By BisectHosting - BisectHosting
+157.245.38.155:80 - Заголовок не найден
+23.37.139.20:80 - Заголовок не найден
+23.43.126.28:80 - Заголовок не найден
+196.51.147.140:80 - ERROR: The requested URL could not be retrieved
+3.163.22.109:80 - Заголовок не найден
+3.210.27.176:80 - 400 The plain HTTP request was sent to HTTPS port
+101.76.200.50:80 - 404 Not Found
+220.128.217.141:80 - 
+114.214.40.200:80 - 404 Not Found
+58.97.49.162:80 - 403 Forbidden
+34.143.43.36:80 - Заголовок не найден
+64.207.176.123:80 - Business-Class Web Hosting by (mt) Media Temple
+172.64.207.131:80 - Direct IP access not allowed | Cloudflare
+20.234.213.185:80 - 404 Not Found
+3.129.28.31:80 - 502 Bad Gateway
+63.110.36.75:80 - Заголовок не найден
+52.67.17.13:80 - Заголовок не найден
+82.165.104.81:80 - Заголовок не найден
+47.102.116.30:80 - æ²¡ææ¾å°ç«ç¹
+67.7.149.234:80 - Instant WiFi
+103.113.218.82:80 - Заголовок не найден
+104.67.201.7:80 - Заголовок не найден
+20.209.192.35:80 - Заголовок не найден
+202.182.122.121:80 - Apache2 Ubuntu Default Page: It works
+38.11.184.2:80 - Заголовок не найден
+13.32.84.98:80 - Заголовок не найден
+220.94.41.96:80 - 
+72.34.53.12:80 - Softaculous Webuzo | Default Website Page
+3.133.77.112:80 - Energy Management System
+20.31.237.91:80 - Заголовок не найден
+85.172.12.91:80 - Default Site
+118.99.33.94:80 - 403 Forbidden
+3.111.89.250:80 - Заголовок не найден
+39.100.100.251:80 - nps error
+46.4.36.154:80 - Заголовок не найден
+184.87.36.229:80 - Заголовок не найден
+192.185.86.1:80 - Not Acceptable!
+3.161.54.205:80 - Заголовок не найден
+151.101.249.69:80 - Fastly error: unknown domain: 151.101.249.69
+23.66.134.213:80 - Заголовок не найден
+184.26.176.181:80 - Заголовок не найден
+150.136.245.197:80 - Welcome to nginx!
+68.64.227.203:80 - WEB SERVICE
+103.147.248.57:80 - Заголовок не найден
+34.194.235.226:80 - Заголовок не найден
+68.66.213.67:80 - Life Changes LLC
+195.171.56.31:80 - Заголовок не найден
+212.46.198.114:80 - Заголовок не найден
+47.133.242.142:80 - 
+108.158.131.101:80 - Заголовок не найден
+23.108.79.146:80 - Page not found
+78.188.19.148:80 - 
+210.243.166.198:80 - ¼Æ¦ì¾\Åªºô | ­º­¶
+164.92.84.108:80 - 404 Not Found
+5.29.209.180:80 - 
+104.26.88.237:80 - Direct IP access not allowed | Cloudflare
+95.215.1.170:80 - The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/user/www/kinobaza/storage/logs/laravel-2024-07-26.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/home/user/www/kinobaza/storage/framework/sessions/odacZRUWCwuyuEP0KgiUOuEGjhwryLXiz4215oF9): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+89.184.75.102:80 - Сайт 89.184.75.102
+52.220.231.92:80 - 503 Service Temporarily Unavailable
+20.69.150.166:80 - Login
+195.201.251.233:80 - Заголовок не найден
+92.38.149.189:80 - Apache2 Ubuntu Default Page: It works
+59.27.208.124:80 - Заголовок не найден
+88.232.199.237:80 - Заголовок не найден
+104.88.239.247:80 - Заголовок не найден
+88.26.224.135:80 - movistar
+20.193.62.67:80 - Заголовок не найден
+135.148.209.84:80 - Oops!
+104.81.98.192:80 - Заголовок не найден
