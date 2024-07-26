@@ -5892,3 +5892,18 @@ No service configured for this hostname
 18.185.26.158:80 - 404 Not Found
 146.148.226.224:80 - IIS7
 101.201.75.82:80 - Welcome to nginx!
+218.208.115.109:80 - IIS Windows Server
+54.206.195.252:80 - Заголовок не найден
+64.121.85.157:80 - index
+37.110.143.176:80 - 401 Authorization Required
+23.56.202.191:80 - Заголовок не найден
+65.21.245.139:80 - Apache2 Debian Default Page: It works
+20.33.6.199:80 - IIS Windows Server
+89.58.57.21:80 - Hier erfolgt in 2 Sekunden eine Weiterleitung
+52.224.194.50:80 - Your Azure Function App is up and running.
+61.133.124.111:80 - 503 Service Temporarily Unavailable
+108.61.211.233:80 - Unknown Domain
+184.31.192.139:80 - Заголовок не найден
+66.129.145.34:80 - Web Server's Default Page
+23.64.29.14:80 - Заголовок не найден
+54.89.22.139:80 - 403 Forbidden
