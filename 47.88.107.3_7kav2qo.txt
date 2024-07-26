@@ -6367,3 +6367,18 @@ No service configured for this hostname
 35.195.115.177:80 - Site indisponible - 503
 184.87.37.40:80 - Заголовок не найден
 213.167.225.244:80 - 404 Not Found
+23.212.102.180:80 - Заголовок не найден
+43.198.60.143:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+104.206.134.47:80 - 403 Forbidden
+182.220.87.8:80 - main page
+125.228.57.125:80 - 
+50.66.165.172:80 - 
+18.245.54.143:80 - Заголовок не найден
+66.112.211.159:80 - 404 Not Found
+91.146.96.33:80 - 
+205.147.97.138:80 - Best International Schools in faridabad  - Aravali Eduworld
+216.55.186.126:80 - Заголовок не найден
+52.216.204.241:80 - Amazon S3 - Cloud Object Storage  - AWS
+108.158.128.205:80 - Заголовок не найден
+18.65.158.23:80 - Заголовок не найден
+3.0.96.239:80 - 404 Not Found
