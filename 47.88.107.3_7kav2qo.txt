@@ -1351,3 +1351,17 @@
 107.149.39.106:80 - Welcome to nginx!
 188.214.138.147:80 - Заголовок не найден
 35.83.202.219:80 - 
+162.214.164.50:80 - 404 Not Found
+35.71.161.151:80 - Not Found
+209.221.136.24:80 - The Inn at Virginia Mason - Capitol Hill Seattle Hotel
+151.80.30.178:80 - Alarme, caméra et kit de vidéosurveillance: acheter en ligne | Kamatec
+45.39.165.137:80 - 403 Forbidden
+79.96.222.74:80 - Заголовок не найден
+54.192.48.65:80 - Заголовок не найден
+121.36.96.122:80 - Заголовок не найден
+217.182.66.201:80 - Заголовок не найден
+186.27.154.158:80 - welcome
+155.159.157.134:80 - 404 Not Found
+173.0.139.81:80 - IIS7
+176.236.89.85:80 - Microsoft Internet Information Services 8
+80.60.245.107:80 - 404 Not Found
