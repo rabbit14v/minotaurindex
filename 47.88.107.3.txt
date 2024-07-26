@@ -13986,3 +13986,17 @@ Context: {&quot;exception&quot;:{}}
 12.109.73.53:80 - redirect to DAS login
 23.32.79.86:80 - Заголовок не найден
 118.45.72.196:80 - Заголовок не найден
+188.128.186.40:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+121.174.150.138:80 - Заголовок не найден
+46.105.44.150:80 - Apache2 Ubuntu Default Page: It works
+80.254.236.44:80 - Заголовок не найден
+192.240.160.156:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+47.102.129.244:80 - Welcome to nginx!
+66.71.242.69:80 - Заголовок не найден
+174.136.26.34:80 - Brookhaven Queens and Drones Golf Association
+161.35.239.69:80 - Welcome to nginx!
+95.179.200.14:80 - Unknown Domain
+172.64.135.140:80 - Direct IP access not allowed | Cloudflare
+23.195.94.212:80 - Заголовок не найден
+54.185.5.150:80 - Bitnami LAMP
+70.158.107.243:80 - About IP Office R11.0
