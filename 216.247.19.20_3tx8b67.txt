@@ -2555,3 +2555,60 @@
 35.74.26.169:80 - 500 Internal Server Error
 18.102.184.147:80 - IIS Windows Server
 177.36.40.21:80 - Apache2 Ubuntu Default Page: It works
+23.220.114.242:80 - Заголовок не найден
+45.144.220.255:80 - Welcome to nginx!
+68.66.233.148:80 - Conestoga Ranch: Log in to the site
+136.243.254.57:80 - Home
+23.48.245.202:80 - Заголовок не найден
+13.124.117.40:80 - HTTP Status 404 – Not Found
+40.70.240.94:80 - IIS Windows Server
+52.87.56.189:80 - Заголовок не найден
+159.203.160.147:80 - 404 Not Found
+23.200.14.224:80 - Заголовок не найден
+52.9.189.221:80 - Welcome to nginx!
+88.177.211.204:80 - D-Link Corporation. | CAMÉRA INTERNET SANS FIL | ACCUEIL
+83.229.34.80:80 - Page not found
+46.38.238.140:80 - mailcow UI
+23.15.45.174:80 - Заголовок не найден
+66.35.41.98:80 - 403 - Forbidden: Access is denied.
+54.38.247.174:80 - Заголовок не найден
+193.134.188.99:80 - 403 Forbidden
+103.172.67.52:80 - Apache HTTP Server Test Page powered by CentOS
+190.15.247.65:80 - Ubiquiti
+13.224.75.204:80 - Заголовок не найден
+211.170.237.9:80 - main page
+108.158.29.175:80 - Заголовок не найден
+92.205.185.135:80 - Заголовок не найден
+18.161.108.217:80 - Заголовок не найден
+20.27.236.169:80 - Заголовок не найден
+154.217.66.233:80 - 404 Not Found
+3.162.78.138:80 - Заголовок не найден
+52.49.45.16:80 - IIS Windows Server
+107.173.112.108:80 - 407 Proxy Authentication Required
+119.194.24.155:80 - Заголовок не найден
+45.51.204.20:80 - 
+154.12.126.190:80 - ERROR: The requested URL could not be retrieved
+124.223.69.233:80 - 403 Forbidden
+52.10.187.21:80 - 404 Not Found
+64.227.107.227:80 - 404 Not Found
+90.46.217.235:80 - 404 Not Found
+64.94.14.153:80 - 502 Bad Gateway
+142.202.191.114:80 - Welcome to nginx!
+107.180.234.149:80 - phpMyAdmin
+64.41.94.162:80 - 403 - Forbidden: Access is denied.
+121.200.52.254:80 - Bitnami: Open Source. Simplified
+156.250.215.51:80 - IIS7
+23.41.99.200:80 - Заголовок не найден
+104.206.141.248:80 - 403 Forbidden
+192.240.167.136:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+14.34.136.155:80 - IIS7
+125.6.37.72:80 - BBB
+162.215.120.228:80 - Not Acceptable!
+110.40.236.18:80 - 提示信息 -  Discuz! Board -  Powered by Discuz!
+54.169.232.41:80 - Apache2 Ubuntu Default Page: It works
+36.131.158.111:80 - 403 Forbidden
+104.80.4.111:80 - Заголовок не найден
+115.160.167.230:80 - WEB SERVICE
+177.155.231.59:80 - 403 Forbidden
+23.227.60.185:80 - Direct IP access not allowed | Cloudflare
+65.109.177.161:80 - United States Navy - Home
