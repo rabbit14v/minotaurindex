@@ -5907,3 +5907,26 @@ No service configured for this hostname
 66.129.145.34:80 - Web Server's Default Page
 23.64.29.14:80 - Заголовок не найден
 54.89.22.139:80 - 403 Forbidden
+112.13.108.112:80 - 403 Forbidden
+139.9.218.150:80 - 首页
+210.4.196.67:80 - 404 Not Found
+117.66.17.14:80 - 403 Forbidden
+162.240.231.182:80 - Заголовок не найден
+137.184.168.119:80 - 404 Not Found
+118.215.176.89:80 - Заголовок не найден
+196.51.128.122:80 - ERROR: The requested URL could not be retrieved
+54.196.153.146:80 - Welcome to Example.com!
+23.2.51.184:80 - Заголовок не найден
+108.61.222.33:80 - Website Unavailable
+20.232.26.8:80 - 503 Service Temporarily Unavailable
+65.110.3.171:80 - [Inter-Corporate] Junk eMail (also known as "spam")
+34.225.238.6:80 - Bad Request (400)
+139.180.157.161:80 - Заголовок не найден
+120.78.10.82:80 - Заголовок не найден
+143.110.190.140:80 - Заголовок не найден
+34.120.153.100:80 - Trang chủ
+76.189.247.56:80 - 
+121.12.173.44:80 - 400 Bad Request
+35.196.31.143:80 - Administrative division of the Czech Republic
+23.63.66.150:80 - UNKNOWN
+196.51.243.134:80 - ERROR: The requested URL could not be retrieved
