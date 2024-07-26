@@ -220,3 +220,5 @@
 93.94.24.118 - NethServer Enterprise !80!
 80.149.132.6 - 403 Forbidden !80!
 92.241.98.18 - Welcome to Smoltelecom Server !80!
+149.30.210.123 - 404 Not Found !80!
+163.47.74.220 - Заголовок не найден !80!
