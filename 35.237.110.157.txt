@@ -14,3 +14,5 @@
 103.228.37.22 - Заголовок не найден !80!
 129.153.119.91 - Welcome to nginx! !80!
 3.1.27.23 - Redirect !80!
+18.136.221.34 - J24 Stores - Your Store Next Door !80!
+196.51.124.181 - ERROR: The requested URL could not be retrieved !80!
