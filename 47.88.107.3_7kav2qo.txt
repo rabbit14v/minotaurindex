@@ -5234,3 +5234,18 @@ No service configured for this hostname
 20.23.208.160:80 - Заголовок не найден
 97.74.94.187:80 - KOKO69: Link Official Resmi Login Via Desktop & Mobile Terbaru
 52.225.239.131:80 - MTA Taxi Access II home page
+20.242.104.135:80 - IIS Windows Server
+104.23.112.219:80 - Direct IP access not allowed | Cloudflare
+195.54.114.218:80 - 401 Unauthorized
+164.155.164.73:80 - 404 Not Found
+23.44.78.150:80 - Заголовок не найден
+161.38.10.154:80 - main page
+52.190.36.243:80 - Your Azure Function App is up and running.
+23.208.248.77:80 - Заголовок не найден
+103.190.118.52:80 - è®¿é®åºé
+137.175.55.236:80 - 403 Forbidden
+104.70.58.83:80 - Заголовок не найден
+154.12.121.48:80 - ERROR: The requested URL could not be retrieved
+172.122.58.164:80 - Заголовок не найден
+104.68.6.217:80 - Заголовок не найден
+62.72.19.97:80 - Заголовок не найден
