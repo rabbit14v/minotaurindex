@@ -3809,3 +3809,54 @@
 20.126.238.18:80 - Your Azure Function App is up and running.
 186.128.73.148:80 - Заголовок не найден
 104.18.45.162:80 - Direct IP access not allowed | Cloudflare
+3.160.142.10:80 - Заголовок не найден
+34.84.152.87:80 - Заголовок не найден
+154.204.148.119:80 - 404 Not Found
+203.41.50.4:80 - Заголовок не найден
+177.231.135.133:80 - 503 Service Not Available
+2.23.149.121:80 - Заголовок не найден
+196.51.97.118:80 - ERROR: The requested URL could not be retrieved
+172.64.143.189:80 - Direct IP access not allowed | Cloudflare
+80.96.33.170:80 - Заголовок не найден
+17.248.243.80:80 - 400 Bad Request
+106.51.18.121:80 - WEB SERVICE
+212.132.108.185:80 - Web Server's Default Page
+18.161.66.154:80 - Заголовок не найден
+92.122.15.68:80 - Заголовок не найден
+200.118.59.52:80 - 
+158.51.61.115:80 - 404 Not Found
+104.25.184.200:80 - Direct IP access not allowed | Cloudflare
+104.21.65.89:80 - Direct IP access not allowed | Cloudflare
+103.248.172.107:80 - Please wait, the login page is opening...
+114.214.50.150:80 - 404 Not Found
+23.1.245.90:80 - Заголовок не найден
+43.135.97.118:80 - 404 Not Found
+88.216.8.121:80 - 502 Bad Gateway
+171.64.78.18:80 - Stanford Computer Security Laboratory
+103.148.195.26:80 - JSP Page
+103.213.104.38:80 - RouterOS router configuration page
+173.232.108.217:80 - 403 Forbidden
+67.223.102.247:80 - Заголовок не найден
+151.101.95.166:80 - Fastly error: unknown domain 151.101.95.166
+24.12.185.97:80 - 
+172.67.134.89:80 - Direct IP access not allowed | Cloudflare
+23.48.137.47:80 - Заголовок не найден
+191.101.207.219:80 - 404 Not Found
+52.27.172.203:80 - Заголовок не найден
+23.47.30.185:80 - Заголовок не найден
+23.196.92.107:80 - Заголовок не найден
+191.82.199.211:80 - Заголовок не найден
+114.108.191.26:80 - Заголовок не найден
+187.150.101.186:80 - WEB SERVICE
+34.173.35.177:80 - Заголовок не найден
+120.26.144.173:80 - Заголовок не найден
+118.183.41.82:80 - 404 Not Found
+174.82.127.186:80 - 
+34.117.93.183:80 - Le guide des bonnes pratiques pour travailler avec vos prestataires
+192.185.120.228:80 - Not Acceptable!
+144.168.10.215:80 - Apache2 Ubuntu Default Page: It works
+104.80.50.252:80 - Заголовок не найден
+104.93.13.189:80 - Заголовок не найден
+154.86.30.141:80 - 请使用域名访问
+184.28.60.203:80 - Заголовок не найден
+185.189.221.132:80 - Apache2 Ubuntu Default Page: It works
