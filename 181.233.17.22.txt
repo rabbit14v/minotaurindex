@@ -4,3 +4,9 @@
 41.242.77.23:80 - RouterOS router configuration page
 45.162.54.195:80 - welcome
 35.175.225.119:80 - Заголовок не найден
+51.178.228.139:80 - Apache2 Debian Default Page: It works
+13.227.202.61:80 - Заголовок не найден
+201.166.173.89:80 - Заголовок не найден
+41.242.77.23:80 - RouterOS router configuration page
+45.162.54.195:80 - welcome
+35.175.225.119:80 - Заголовок не найден
