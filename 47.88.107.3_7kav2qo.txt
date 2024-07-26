@@ -5031,3 +5031,16 @@
 72.34.41.20:80 - Softaculous Webuzo | Default Website Page
 107.148.211.9:80 - Заголовок не найден
 62.37.248.172:80 - Nextcloud
+104.89.113.226:80 - Заголовок не найден
+107.158.116.93:80 - 407 Proxy Authentication Required
+136.243.239.28:80 - zabbix: Zabbix
+185.145.254.94:80 - Заголовок не найден
+41.73.9.254:80 - 
+43.250.249.45:80 - Заголовок не найден
+183.104.137.234:80 - Gargoyle Router Management Utility
+150.101.108.11:80 - 403 - Forbidden: Access is denied.
+125.134.207.212:80 - Заголовок не найден
+23.54.164.55:80 - Заголовок не найден
+129.240.121.232:80 - Ingen tjeneste konfigurert for dette domenenavnet /
+No service configured for this hostname
+168.76.86.35:80 - 403 Forbidden
