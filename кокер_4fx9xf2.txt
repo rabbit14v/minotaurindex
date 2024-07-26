@@ -3624,3 +3624,96 @@ High Cholesterol, Stroke, and Other Cardiac Problems !80!
 140.248.132.74 - Fastly error: unknown domain 140.248.132.74 !80!
 190.11.82.62 - 403 - Forbidden !80!
 103.11.127.193 - Заголовок не найден !80!
+108.139.100.42 - Заголовок не найден !80!
+122.2.166.209 - Заголовок не найден !80!
+158.194.163.36 - etathermK14 !80!
+13.35.247.40 - Заголовок не найден !80!
+162.55.187.145 - Apache2 Ubuntu Default Page: It works !80!
+38.14.216.101 - 403 Forbidden !80!
+104.24.1.160 - Direct IP access not allowed | Cloudflare !80!
+8.137.23.105 - æ²¡ææ¾å°ç«ç¹ !80!
+188.40.32.41 - Herzlich Willkommen! !80!
+155.248.236.19 - 404 Not Found !80!
+107.148.197.2 - 400 Bad Request !80!
+220.245.62.158 - Redirecting to Make Architects Info Exchange log in page !80!
+200.110.57.103 - ONT-4GE-2VW !80!
+112.74.104.240 - 403 Forbidden !80!
+52.159.110.194 - Microsoft Azure Web App - Error 404 !80!
+45.205.253.172 - 404 Not Found !80!
+108.187.248.160 - IIS Windows Server !80!
+18.133.182.244 - MADDE 12 &#8211; Türkiye&#039;de Bilişsel Engellilik, Vesayet Sistemi ve Destekli Karar Mekanizmaları !80!
+106.105.253.31 -  !80!
+196.51.156.190 - ERROR: The requested URL could not be retrieved !80!
+219.231.136.15 - 404 Not Found !80!
+47.243.194.83 - Wordpress &#8211; 又一个WordPress站点 !80!
+20.29.129.160 - Заголовок не найден !80!
+13.114.120.102 - Заголовок не найден !80!
+201.73.111.194 - Intelbras !80!
+111.43.169.64 - Заголовок не найден !80!
+23.61.236.143 - Заголовок не найден !80!
+88.160.15.65 - Hello! Welcome to Synology Web Station! !80!
+118.233.194.176 -  !80!
+194.65.15.153 - Заголовок не найден !80!
+104.78.162.131 - Заголовок не найден !80!
+175.210.20.189 - NetBird Dashboard !80!
+200.76.48.8 - ::: CAAAREM ::: !80!
+185.178.208.224 - DDoS-Guard !80!
+18.142.38.125 - 404 Not Found !80!
+168.62.222.175 - Your Azure Function App is up and running. !80!
+34.243.163.244 - Заголовок не найден !80!
+104.73.64.143 - Заголовок не найден !80!
+23.1.173.233 - Заголовок не найден !80!
+116.203.230.182 - Заголовок не найден !80!
+38.94.57.191 - Заголовок не найден !80!
+63.134.239.132 - casio label maker !80!
+85.254.224.77 - Заголовок не найден !80!
+119.245.204.79 - Заголовок не найден !80!
+185.58.96.71 - Beheer Heemkundige Collecties - Information Page !80!
+52.57.57.61 - 403 Forbidden !80!
+84.197.40.176 - TL-WPA8635P !80!
+123.184.55.194 - 400 Bad Request !80!
+114.173.195.100 - Top !80!
+23.203.241.10 - Заголовок не найден !80!
+186.237.71.50 - 500 Internal Server Error !80!
+34.92.213.129 - 404 Not Found !80!
+108.158.109.133 - Заголовок не найден !80!
+2.16.15.138 - Заголовок не найден !80!
+185.244.192.135 - Open Genomes - Mission Statement !80!
+167.71.37.75 - Welcome to OpenResty! !80!
+23.209.22.157 - Заголовок не найден !80!
+13.35.240.191 - Заголовок не найден !80!
+162.253.180.249 - Заголовок не найден !80!
+112.74.87.223 - vulfocus !80!
+104.75.120.70 - Заголовок не найден !80!
+107.151.202.101 - 404 Not Found !80!
+99.192.241.58 - EarlMiller.com Official Site !80!
+75.47.208.155 - AT&T WiFi Portal !80!
+23.63.20.34 - Заголовок не найден !80!
+195.231.75.227 - Web Server's Default Page !80!
+175.29.127.149 - IIS Windows Server !80!
+23.44.133.132 - Заголовок не найден !80!
+23.50.95.186 - Заголовок не найден !80!
+184.31.200.179 - Заголовок не найден !80!
+212.57.53.157 - Shared IP !80!
+80.151.36.207 - LANCOM: Error - Access Forbidden !80!
+122.155.180.96 - ออกแบบเสื้อโปโล เสื้อทีม ยูนิฟอร์ม โดย PMK POLOMAKER !80!
+167.82.61.219 - Fastly error: unknown domain 167.82.61.219 !80!
+198.2.249.141 - 404 Not Found !80!
+172.247.164.87 - 404 Not Found !80!
+23.57.223.172 - Заголовок не найден !80!
+175.99.0.127 - 403 Forbidden !80!
+44.214.38.122 - Page Not Found !80!
+38.153.190.236 - ERROR: The requested URL could not be retrieved !80!
+99.80.209.16 - Välkommen till Activage Center APP - Seniorträning &amp; medlemsaktiviteter !80!
+111.31.67.160 - 400 Bad Request !80!
+60.56.128.75 - Redirect Page !80!
+62.3.57.31 - IIS Windows Server !80!
+149.96.94.141 - 403 Forbidden !80!
+50.88.156.75 -  !80!
+18.64.190.152 - Заголовок не найден !80!
+199.34.228.242 - Direct IP access not allowed | Cloudflare !80!
+82.156.243.123 - è´¢å¡ç®¡çç³»ç» !80!
+91.215.155.50 - Google !80!
+74.81.78.179 - Заголовок не найден !80!
+45.32.185.52 - Unknown Domain !80!
+111.229.28.97 - Welcome to nginx111! !80!
