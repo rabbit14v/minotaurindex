@@ -472,3 +472,20 @@
 98.101.197.126:80 - Document Moved
 45.137.20.124:80 - 404 Not Found
 213.241.163.136:80 - Заголовок не найден
+172.66.142.56:80 - Direct IP access not allowed | Cloudflare
+159.65.128.203:80 - 404 Not Found
+18.185.210.198:80 - Заголовок не найден
+54.73.163.141:80 - Error de la base de datos
+104.166.75.55:80 - 404 Not Found
+47.100.23.190:80 - Sonatype Nexus Repository
+104.194.214.77:80 - Apache2 Ubuntu Default Page: It works
+98.64.180.140:80 - Your Azure Function App is up and running.
+124.175.154.194:80 - Welcome to nginx!
+47.242.83.244:80 - Заголовок не найден
+60.31.144.133:80 - Web user login
+35.73.43.11:80 - 連絡掲示板 | Restricted Site
+47.111.206.36:80 - Заголовок не найден
+23.53.187.167:80 - Заголовок не найден
+94.154.11.208:80 - 403 Forbidden
+2.21.202.117:80 - Заголовок не найден
+92.205.179.178:80 - Заголовок не найден
