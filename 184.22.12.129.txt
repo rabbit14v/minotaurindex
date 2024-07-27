@@ -25,3 +25,12 @@
 205.154.226.125:80 - Web Page Blocked
 154.201.182.193:80 - Welcome to nginx!
 5.188.238.194:80 - 404 Not Found
+1.1.80.138:80 - NADIA -ナディア- | オーガニック・ラグジュアリー
+39.59.96.220:80 - Заголовок не найден
+178.77.80.209:80 - Host Europe GmbH
+45.67.255.229:80 - STARFACE VoIP Software
+82.153.231.137:80 - Apache2 Debian Default Page: It works
+23.196.23.47:80 - Заголовок не найден
+205.154.226.125:80 - Web Page Blocked
+154.201.182.193:80 - Welcome to nginx!
+5.188.238.194:80 - 404 Not Found
