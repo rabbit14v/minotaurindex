@@ -11120,3 +11120,212 @@
 200.136.177.69:80 - Univap - Universidade do Vale do Paraíba
 2.20.47.39:80 - Заголовок не найден
 203.147.66.211:80 - 403 Forbidden
+43.135.49.221:80 - 403 Forbidden
+54.146.70.53:80 - 
+193.3.157.74:80 - BFA tools
+20.221.42.198:80 - Microsoft Azure Web App - Error 404
+127.218.72.123:80 - IIS Windows Server
+127.211.136.45:80 - IIS Windows Server
+34.247.10.148:80 - Welcome to nginx!
+127.105.223.154:80 - IIS Windows Server
+127.253.29.45:80 - IIS Windows Server
+145.239.70.125:80 - Заголовок не найден
+23.54.224.60:80 - Заголовок не найден
+39.107.57.200:80 - åäº¬æèç§ææéå¬å¸
+94.29.129.110:80 - Заголовок не найден
+85.208.121.239:80 - ERROR: The requested URL could not be retrieved
+127.174.36.125:80 - IIS Windows Server
+64.29.178.222:80 - Apache2 Ubuntu Default Page: It works
+170.187.184.205:80 - Anchor ERP
+127.93.171.141:80 - IIS Windows Server
+18.206.90.65:80 - Заголовок не найден
+87.117.11.65:80 - Welcome to nginx!
+43.205.21.156:80 - Заголовок не найден
+87.229.70.83:80 - Home
+127.219.240.84:80 - IIS Windows Server
+127.91.186.229:80 - IIS Windows Server
+23.211.162.121:80 - Заголовок не найден
+127.194.71.162:80 - IIS Windows Server
+127.126.12.187:80 - IIS Windows Server
+23.42.170.98:80 - Заголовок не найден
+52.17.138.247:80 - Error
+127.183.144.139:80 - IIS Windows Server
+104.81.21.143:80 - Заголовок не найден
+94.125.109.124:80 - Préfabrication béton, Fabricant construction béton précontraint
+138.68.161.62:80 - 404 Not Found
+160.121.172.62:80 - 404 Not Found
+114.115.235.21:80 - Заголовок не найден
+77.37.39.86:80 - 403 Forbidden
+159.253.221.234:80 - 403 Forbidden
+23.199.49.208:80 - Заголовок не найден
+39.118.188.37:80 - main page
+85.10.159.81:80 - Заголовок не найден
+121.4.57.19:80 - è¾èè
+54.231.193.205:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.36.121.210:80 - Заголовок не найден
+127.113.245.143:80 - IIS Windows Server
+187.204.13.187:80 - Заголовок не найден
+127.232.174.48:80 - IIS Windows Server
+41.180.170.147:80 - Заголовок не найден
+50.48.54.94:80 - Server Error
+115.8.131.175:80 - CMS Web Viewer
+198.58.121.131:80 - Climber.com - CSA
+127.57.130.223:80 - IIS Windows Server
+52.65.105.251:80 - Заголовок не найден
+127.7.237.26:80 - IIS Windows Server
+77.109.143.30:80 - IIS Windows Server
+192.53.175.107:80 - Welcome to nginx!
+127.122.47.26:80 - IIS Windows Server
+127.108.226.210:80 - IIS Windows Server
+154.53.132.27:80 - Web Server's Default Page
+15.204.43.137:80 - Index of /
+127.216.80.170:80 - IIS Windows Server
+158.199.191.190:80 - Заголовок не найден
+23.211.154.135:80 - Заголовок не найден
+38.127.172.192:80 - Apache HTTP Server Test Page powered by CentOS
+127.198.27.15:80 - IIS Windows Server
+37.99.207.241:80 - Webinterface
+127.98.105.54:80 - IIS Windows Server
+39.98.68.254:80 - IIS Windows Server
+13.107.235.57:80 - Заголовок не найден
+127.139.181.238:80 - IIS Windows Server
+23.50.239.156:80 - Заголовок не найден
+168.119.166.250:80 - Sign in · GitLab
+104.123.146.133:80 - Заголовок не найден
+127.171.193.5:80 - IIS Windows Server
+108.157.46.44:80 - Заголовок не найден
+127.147.90.211:80 - IIS Windows Server
+127.168.157.220:80 - IIS Windows Server
+147.92.33.99:80 - 400 Bad Request
+162.159.44.69:80 - Direct IP access not allowed | Cloudflare
+127.138.129.85:80 - IIS Windows Server
+54.156.218.191:80 - Server
+193.93.15.53:80 - 
+5.75.171.26:80 - Portalangebote der Initiative Auslandszeit GmbH
+66.102.134.160:80 - Заголовок не найден
+23.194.237.33:80 - Заголовок не найден
+104.81.105.208:80 - Заголовок не найден
+127.13.117.165:80 - IIS Windows Server
+127.226.157.196:80 - IIS Windows Server
+52.216.26.132:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.202.125.8:80 - Заголовок не найден
+127.13.76.59:80 - IIS Windows Server
+185.74.228.24:80 - 403 Forbidden
+94.154.44.133:80 - Заголовок не найден
+127.118.191.117:80 - IIS Windows Server
+37.228.132.154:80 - Welcome to nginx!
+178.19.150.231:80 - PHP 7.4.33 - phpinfo()
+3.71.45.105:80 - 401 Authorization Required
+107.148.240.66:80 - 501 Not Implemented
+162.215.113.76:80 - Not Acceptable!
+54.178.245.93:80 - 303 See Other
+104.108.223.43:80 - Заголовок не найден
+213.136.71.199:80 - The page you're looking for could not be found (404)
+127.221.255.169:80 - IIS Windows Server
+127.164.212.33:80 - IIS Windows Server
+23.215.193.17:80 - Заголовок не найден
+77.55.87.177:80 - Domain  is hosted on netart.com servers
+104.104.0.46:80 - Заголовок не найден
+104.91.5.140:80 - Заголовок не найден
+127.243.155.23:80 - IIS Windows Server
+35.83.244.114:80 - India's Premier Research and Training Institute for SSC, Bank, Teaching, and Other Government Recruitment Exams.
+127.213.43.193:80 - IIS Windows Server
+195.82.24.237:80 - GPON Home Gateway
+127.9.124.54:80 - IIS Windows Server
+127.101.70.60:80 - IIS Windows Server
+47.111.98.104:80 - Заголовок не найден
+127.33.123.238:80 - IIS Windows Server
+3.163.3.29:80 - Заголовок не найден
+5.56.53.71:80 - 403 Forbidden
+127.168.110.103:80 - IIS Windows Server
+54.179.58.183:80 - Заголовок не найден
+174.91.48.26:80 - 404 Not Found
+37.110.132.21:80 - Apache2 Ubuntu Default Page: It works
+130.211.47.251:80 - 403 Forbidden
+1.12.47.112:80 - 会员管理系统
+84.35.28.18:80 - 
+23.60.235.194:80 - Заголовок не найден
+104.91.115.152:80 - Заголовок не найден
+154.26.253.27:80 - Заголовок не найден
+154.198.239.134:80 - 直接访问节点IP
+183.95.190.6:80 - 403 éè¯¯ - phpstudy
+127.30.173.46:80 - IIS Windows Server
+127.20.133.88:80 - IIS Windows Server
+127.39.219.250:80 - IIS Windows Server
+176.57.71.53:80 - Success!
+100.25.32.1:80 - Заголовок не найден
+65.108.90.73:80 - Заголовок не найден
+104.124.1.153:80 - Заголовок не найден
+185.56.168.166:80 - Web Server's Default Page
+3.7.20.133:80 - 503 Service Temporarily Unavailable
+211.37.176.43:80 - IIS Windows Server
+54.230.71.177:80 - Заголовок не найден
+18.65.57.116:80 - Заголовок не найден
+187.132.44.241:80 - 
+23.214.189.219:80 - Заголовок не найден
+131.175.187.207:80 - Заголовок не найден
+75.47.206.112:80 - AT&T WiFi Portal
+80.78.226.90:80 - CPPLUS DVR âWeb View
+104.109.135.195:80 - Заголовок не найден
+18.160.169.154:80 - Заголовок не найден
+127.189.252.60:80 - IIS Windows Server
+156.239.10.151:80 - 403 Forbidden
+127.238.232.244:80 - IIS Windows Server
+95.100.81.66:80 - Заголовок не найден
+107.158.76.188:80 - 403 Forbidden
+23.208.134.54:80 - Заголовок не найден
+192.151.239.74:80 - æ²¡ææ¾å°ç«ç¹
+52.57.83.148:80 - Mojo Merchant
+52.74.198.56:80 - Заголовок не найден
+35.244.166.173:80 - 502 Server Error
+24.179.129.200:80 - 
+63.247.128.178:80 - 406 Not Acceptable
+137.220.199.100:80 - 400
+127.58.13.47:80 - IIS Windows Server
+127.82.198.45:80 - IIS Windows Server
+73.210.207.152:80 - Web Viewer for Samsung DVR
+127.188.250.209:80 - IIS Windows Server
+123.59.121.134:80 - Заголовок не найден
+127.86.165.207:80 - IIS Windows Server
+47.26.114.235:80 - 
+127.44.0.54:80 - IIS Windows Server
+47.97.221.77:80 - 404 Not Found
+127.61.22.196:80 - IIS Windows Server
+52.196.170.103:80 - Welcome to nginx!
+127.17.203.182:80 - IIS Windows Server
+54.36.212.255:80 - Error 503: server unavailable
+184.87.186.176:80 - Заголовок не найден
+52.214.83.179:80 - Заголовок не найден
+196.245.247.14:80 - 407 Proxy Authentication Required
+127.252.113.7:80 - IIS Windows Server
+127.135.125.194:80 - IIS Windows Server
+31.222.235.27:80 - Заголовок не найден
+13.32.120.109:80 - Заголовок не найден
+154.204.18.135:80 - æ²¡ææ¾å°ç«ç¹
+23.73.186.136:80 - Заголовок не найден
+104.89.197.38:80 - Заголовок не найден
+92.122.45.193:80 - Заголовок не найден
+213.176.84.59:80 - Заголовок не найден
+89.187.86.102:80 - Заголовок не найден
+38.63.249.183:80 - 404 Not Found
+127.166.140.247:80 - IIS Windows Server
+78.47.242.233:80 - ODRAZ - on-line verze časopisu Města Roztoky
+127.47.239.22:80 - IIS Windows Server
+38.12.14.175:80 - 404 Not Found
+73.8.178.233:80 - 
+110.42.255.51:80 - EäºEæ¶
+95.65.31.237:80 - 403 Forbidden
+210.172.159.58:80 - 404 Error - Not Found
+127.154.58.254:80 - IIS Windows Server
+45.200.39.154:80 - 404 Not Found
+127.180.67.83:80 - IIS Windows Server
+23.49.79.23:80 - Заголовок не найден
+99.84.63.220:80 - Заголовок не найден
+86.126.158.170:80 - Apache2 Ubuntu Default Page: It works
+137.184.157.91:80 - Заголовок не найден
+212.227.213.236:80 - Apache2 Ubuntu Default Page: It works
+142.126.197.7:80 - 
+195.202.152.9:80 - 404 Not Found
+44.226.224.172:80 - Taekwondo Lessons in Portland, Oregon for kids, teens, adults &amp; family | USWC Taekwondo Hollywood
+127.181.118.253:80 - IIS Windows Server
+127.218.220.250:80 - IIS Windows Server
