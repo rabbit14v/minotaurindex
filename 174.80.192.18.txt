@@ -1,0 +1,22 @@
+23.10.237.60:80 - Заголовок не найден
+79.96.193.219:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+203.151.73.34:80 - 403 - Forbidden: Access is denied.
+80.247.229.95:80 - Test Page for Apache Installation
+47.110.79.118:80 - 阿里云万网虚机IP访问报错提示
+42.192.228.182:80 - Заголовок не найден
+104.248.227.240:80 - 404 Not Found
+85.215.56.23:80 - RiFLTRADE
+23.19.249.168:80 - 404 Not Found
+14.230.38.36:80 - 
+123.136.80.233:80 - 403 Forbidden
+23.64.164.74:80 - Заголовок не найден
+20.63.174.1:80 - Azure Container App - Unavailable
+18.64.137.121:80 - Заголовок не найден
+8.142.101.81:80 - HTTP Server Test Page
+75.185.153.137:80 - 503 Service Not Available
+178.32.202.206:80 - Apache2 Debian Default Page: It works
+219.95.55.36:80 - 
+58.95.194.214:80 - 
+39.105.114.160:80 - 403 Forbidden
+101.76.222.249:80 - 404 Not Found
+223.6.111.129:80 - ç½ç«è®¿é®æ¥é
