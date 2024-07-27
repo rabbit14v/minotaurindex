@@ -8261,3 +8261,214 @@
 54.245.254.110:80 - Заголовок не найден
 94.153.136.250:80 - Заголовок не найден
 51.195.103.16:80 - Elto
+127.122.110.124:80 - IIS Windows Server
+127.204.154.45:80 - IIS Windows Server
+99.142.74.92:80 - AT&T WiFi Portal
+23.36.221.109:80 - Заголовок не найден
+23.193.167.213:80 - Заголовок не найден
+127.64.191.77:80 - IIS Windows Server
+65.108.154.231:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+143.95.40.158:80 - Not Acceptable!
+127.61.248.15:80 - IIS Windows Server
+18.165.75.104:80 - Заголовок не найден
+127.240.87.61:80 - IIS Windows Server
+103.71.77.98:80 - Please wait, the login page is opening...
+13.92.250.3:80 - IIS Windows Server
+104.120.216.165:80 - Заголовок не найден
+192.228.25.153:80 - WhoisWeb
+67.202.86.188:80 - Заголовок не найден
+127.82.106.116:80 - IIS Windows Server
+54.38.115.204:80 - 403 Forbidden
+23.14.78.208:80 - Заголовок не найден
+127.215.161.96:80 - IIS Windows Server
+31.11.35.25:80 - Заголовок не найден
+96.113.177.118:80 - Заголовок не найден
+127.77.130.218:80 - IIS Windows Server
+127.30.18.107:80 - IIS Windows Server
+123.108.97.116:80 - IIS Windows Server
+23.36.90.55:80 - Заголовок не найден
+18.244.70.45:80 - Заголовок не найден
+127.85.68.72:80 - IIS Windows Server
+104.21.17.174:80 - Direct IP access not allowed | Cloudflare
+45.205.220.92:80 - 400 Bad Request
+217.21.89.168:80 - 403 Forbidden
+127.161.188.197:80 - IIS Windows Server
+103.24.249.76:80 - 403 Forbidden
+142.11.242.103:80 - Coming Soon - ravvbn.pro
+127.120.111.179:80 - IIS Windows Server
+52.165.80.246:80 - Apache2 Ubuntu Default Page: It works
+85.217.240.146:80 - Заголовок не найден
+143.198.32.190:80 - 2NGE - Nous veillons sur la résolution des problèmes de nos clients
+77.215.140.121:80 - MediaAccess Gateway - Login
+59.102.116.111:80 - 404 Not Found
+127.253.228.96:80 - IIS Windows Server
+216.246.113.51:80 - Заголовок не найден
+45.164.16.13:80 - RouterOS router configuration page
+127.87.203.137:80 - IIS Windows Server
+127.198.80.237:80 - IIS Windows Server
+13.83.8.141:80 - Your Azure Function App is up and running.
+1.240.130.194:80 - Заголовок не найден
+127.180.6.53:80 - IIS Windows Server
+94.177.134.113:80 - ERROR: The requested URL could not be retrieved
+87.224.66.109:80 - 
+185.17.99.179:80 - IIS Windows Server
+66.63.181.66:80 - 500 Internal Server Error
+211.108.56.12:80 - Заголовок не найден
+23.217.228.56:80 - Заголовок не найден
+18.196.203.180:80 - Web Server's Default Page
+128.17.211.37:80 - 403 - Forbidden: Access is denied.
+81.169.169.64:80 - Web Server's Default Page
+127.2.30.222:80 - IIS Windows Server
+160.124.160.101:80 - 403 Forbidden
+23.11.240.247:80 - Заголовок не найден
+20.8.35.206:80 - Your Azure Function App is up and running.
+116.108.19.200:80 - WEB SERVICE
+131.150.129.230:80 - 
+178.145.57.249:80 - Заголовок не найден
+52.85.241.124:80 - Заголовок не найден
+23.199.81.156:80 - Заголовок не найден
+127.232.231.241:80 - IIS Windows Server
+127.184.87.211:80 - IIS Windows Server
+127.91.125.244:80 - IIS Windows Server
+37.156.8.174:80 - WEB SERVICE
+207.192.132.185:80 - 
+212.58.86.18:80 - Заголовок не найден
+20.233.102.17:80 - Welcome to nginx!
+185.158.164.75:80 - Заголовок не найден
+191.85.37.13:80 - Заголовок не найден
+127.31.222.253:80 - IIS Windows Server
+172.120.115.35:80 - 404 Not Found
+127.185.185.77:80 - IIS Windows Server
+23.5.252.231:80 - Заголовок не найден
+102.182.28.8:80 - Заголовок не найден
+213.184.146.238:80 - Заголовок не найден
+104.168.69.250:80 - Page not found
+127.81.161.238:80 - IIS Windows Server
+120.76.158.12:80 - 测试
+58.215.84.62:80 - Заголовок не найден
+69.146.26.204:80 - 
+127.200.231.115:80 - IIS Windows Server
+82.80.209.7:80 - Заголовок не найден
+89.161.157.45:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+177.66.14.36:80 - Заголовок не найден
+59.48.24.28:80 - 403 Forbidden
+189.173.116.108:80 - Заголовок не найден
+120.76.46.192:80 - Заголовок не найден
+127.157.196.112:80 - IIS Windows Server
+123.207.217.134:80 - Eraser Wipe Effect
+82.57.202.150:80 - TiAlarm WebServer
+127.86.167.135:80 - IIS Windows Server
+34.229.33.155:80 - Заголовок не найден
+119.3.80.131:80 - 开封党史方志网
+127.67.245.102:80 - IIS Windows Server
+3.127.185.188:80 - Заголовок не найден
+23.200.212.21:80 - Заголовок не найден
+199.91.74.174:80 - 403 Forbidden
+8.137.102.112:80 - 500 Internal Server Error
+206.214.82.23:80 - ERROR: The requested URL could not be retrieved
+127.210.131.57:80 - IIS Windows Server
+127.78.136.113:80 - IIS Windows Server
+127.10.122.150:80 - IIS Windows Server
+64.71.232.129:80 - Parallels H-Sphere Account has been suspended
+54.154.97.142:80 - 503 Service Temporarily Unavailable
+23.202.171.52:80 - Заголовок не найден
+108.156.24.136:80 - Заголовок не найден
+127.115.127.213:80 - IIS Windows Server
+103.87.173.141:80 - LOGIN HERE
+13.94.236.170:80 - Microsoft Azure Web App - Error 404
+38.55.219.105:80 - æ²¡ææ¾å°ç«ç¹
+20.206.225.16:80 - 404 Not Found
+39.124.242.68:80 - SK브로드밴드 비즈메시징
+156.241.124.158:80 - 404 Not Found
+158.199.230.10:80 - Заголовок не найден
+183.236.22.135:80 - 403 Forbidden
+127.137.200.154:80 - IIS Windows Server
+23.221.166.228:80 - Заголовок не найден
+120.55.10.215:80 - 503 Service Temporarily Unavailable
+127.206.113.129:80 - IIS Windows Server
+160.238.96.95:80 - 403 Forbidden
+169.62.27.134:80 - IBM Cognos Analytics
+106.41.206.197:80 - 403 Forbidden
+78.157.200.222:80 - IIS Windows Server
+35.226.62.1:80 - Site Not Configured | 404 Not Found
+219.144.88.29:80 - Заголовок не найден
+47.35.132.85:80 - 
+127.123.72.255:80 - IIS Windows Server
+50.87.234.127:80 - Not Acceptable!
+23.59.28.205:80 - Заголовок не найден
+47.95.114.0:80 - 404 Not Found
+193.252.110.118:80 - WAGO Ethernet Web-based Management
+89.203.49.134:80 - Заголовок не найден
+127.168.22.156:80 - IIS Windows Server
+118.31.51.191:80 - IIS Windows Server
+172.247.126.183:80 - 403 Forbidden
+127.168.214.63:80 - IIS Windows Server
+23.204.75.44:80 - Заголовок не найден
+161.97.135.103:80 - 404 Not Found
+127.35.110.170:80 - IIS Windows Server
+193.198.184.158:80 - škole.hr - Ukorak sa suvremenim obrazovanjem - Portal za škole
+52.51.114.59:80 - Flybreak &#8211; Places for your travel bucket list&#8230;
+127.63.252.6:80 - IIS Windows Server
+121.36.51.230:80 - æ°æ®å è½½ä¸­...
+127.165.181.62:80 - IIS Windows Server
+178.128.51.241:80 - Welcome to nginx!
+117.193.55.65:80 - Заголовок не найден
+64.19.70.209:80 - Заголовок не найден
+65.8.203.250:80 - Заголовок не найден
+206.238.198.85:80 - 404 Not Found
+65.8.83.26:80 - Заголовок не найден
+13.33.158.22:80 - Заголовок не найден
+192.135.199.38:80 - 404 Not Found
+127.60.18.165:80 - IIS Windows Server
+34.196.205.38:80 - Apache2 Ubuntu Default Page: It works
+99.142.77.239:80 - AT&T WiFi Portal
+18.239.229.168:80 - Заголовок не найден
+125.252.217.182:80 - Заголовок не найден
+67.225.222.5:80 - 403 Forbidden
+221.130.74.195:80 - Error
+206.233.161.229:80 - Заголовок не найден
+103.178.165.175:80 - 403 - Forbidden: Access is denied.
+23.79.60.5:80 - Заголовок не найден
+174.97.241.77:80 - 
+104.64.217.48:80 - Заголовок не найден
+47.93.36.18:80 - IIS Windows Server
+34.247.34.12:80 - Apache2 Ubuntu Default Page: It works
+127.252.26.147:80 - IIS Windows Server
+185.85.75.3:80 - WordPress.com: Build a Site, Sell Your Stuff, Start a Blog &amp; More
+120.78.6.164:80 - 404 Not Found
+108.186.19.71:80 - Заголовок не найден
+23.218.247.139:80 - Заголовок не найден
+190.216.250.150:80 - Заголовок не найден
+104.18.243.131:80 - Direct IP access not allowed | Cloudflare
+47.252.27.9:80 - Заголовок не найден
+23.201.223.186:80 - Заголовок не найден
+40.88.211.112:80 - Your Azure Function App is up and running.
+127.102.4.22:80 - IIS Windows Server
+127.159.114.38:80 - IIS Windows Server
+222.73.34.56:80 - Заголовок не найден
+127.191.212.143:80 - IIS Windows Server
+20.112.248.240:80 - Microsoft Azure Web App - Error 404
+127.227.19.224:80 - IIS Windows Server
+220.101.3.17:80 - Welcome to nginx!
+69.27.40.147:80 - Заголовок не найден
+193.112.254.224:80 - Заголовок не найден
+203.149.200.209:80 - Заголовок не найден
+127.252.215.27:80 - IIS Windows Server
+127.110.135.124:80 - IIS Windows Server
+23.193.85.37:80 - Заголовок не найден
+190.48.2.37:80 - Заголовок не найден
+127.199.201.218:80 - IIS Windows Server
+47.75.19.147:80 - Заголовок не найден
+38.12.10.92:80 - Заголовок не найден
+127.18.62.178:80 - IIS Windows Server
+52.71.200.173:80 - Welcome to nginx!
+54.225.0.184:80 - 404 Not Found
+182.163.105.58:80 - Заголовок не найден
+127.165.87.141:80 - IIS Windows Server
+20.8.218.232:80 - Microsoft Azure Web App - Error 404
+54.213.114.234:80 - Заголовок не найден
+127.249.73.252:80 - IIS Windows Server
+198.41.204.130:80 - Direct IP access not allowed | Cloudflare
+108.159.85.200:80 - Заголовок не найден
+127.6.252.128:80 - IIS Windows Server
+127.142.101.206:80 - IIS Windows Server
