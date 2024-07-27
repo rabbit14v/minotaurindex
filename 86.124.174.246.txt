@@ -10454,3 +10454,178 @@ Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich - APD
 114.215.253.100:80 - 404 Not Found
 49.44.131.186:80 - Заголовок не найден
 37.139.18.203:80 - Archived Event - Rystad Energy Week 2023
+54.158.188.108:80 - 503 Service Temporarily Unavailable
+185.213.164.65:80 - Заголовок не найден
+217.27.173.130:80 - 401 Unauthorized
+192.241.83.63:80 - ERROR: The requested URL could not be retrieved
+183.110.217.100:80 - PHP 8.1.21 - phpinfo()
+173.203.187.131:80 - Заголовок не найден
+52.212.114.37:80 - Заголовок не найден
+44.238.113.200:80 - TURN AROUND!
+108.156.6.55:80 - Заголовок не найден
+13.64.92.58:80 - IIS Windows Server
+59.120.178.5:80 - 
+123.183.235.165:80 - Заголовок не найден
+45.79.98.57:80 - FASTPANEL
+108.156.174.197:80 - Заголовок не найден
+220.133.59.187:80 - 
+104.91.82.40:80 - Заголовок не найден
+63.195.193.95:80 - AT&T WiFi Portal
+198.50.136.187:80 - Web Server's Default Page
+81.130.153.197:80 - IIS Windows Server
+136.226.86.89:80 - Internet Security by Zscaler
+188.165.30.216:80 - 403 Forbidden
+23.211.83.59:80 - Заголовок не найден
+154.41.234.232:80 - 403 Forbidden
+172.247.162.101:80 - Welcome to OpenResty!
+3.78.103.140:80 - Welcome to nginx!
+18.224.38.245:80 - User&#039;s blog &#8211; Just another WordPress site
+103.146.160.150:80 - 404 Not Found
+98.158.113.74:80 - Bandwidth Speed Test
+35.92.155.188:80 - Django packaged by Bitnami
+156.241.145.154:80 - 403 Forbidden
+3.125.208.149:80 - Apps and Downs
+104.24.61.43:80 - Direct IP access not allowed | Cloudflare
+173.236.42.238:80 - Заголовок не найден
+104.96.186.41:80 - Заголовок не найден
+23.196.63.91:80 - Заголовок не найден
+108.138.15.43:80 - Заголовок не найден
+52.195.58.168:80 - 503 Service Temporarily Unavailable
+212.85.116.22:80 - Strona w przygotowaniu...
+23.204.106.52:80 - Заголовок не найден
+190.174.25.13:80 - Заголовок не найден
+172.104.218.114:80 - Welcome to nginx!
+54.233.217.62:80 - Заголовок не найден
+185.246.67.32:80 - 401 Authorization Required
+167.88.86.179:80 - Attention Required! | Cloudflare
+184.87.229.233:80 - Заголовок не найден
+62.91.6.202:80 - Schlüsselschutz System | KeyRefinder
+71.40.77.36:80 - IIS Windows
+92.46.129.217:80 - GPON Home Gateway
+3.123.120.42:80 - 403 Forbidden
+194.150.226.154:80 - 403 Forbidden
+195.253.20.203:80 - File not found
+104.24.244.202:80 - Direct IP access not allowed | Cloudflare
+23.195.195.8:80 - Заголовок не найден
+166.146.128.106:80 - Device Webserver
+103.95.87.141:80 - Заголовок не найден
+23.65.130.240:80 - Заголовок не найден
+3.22.163.127:80 - 
+5.64.14.155:80 - Заголовок не найден
+23.204.123.53:80 - Заголовок не найден
+146.75.66.156:80 - Fastly error: unknown domain 146.75.66.156
+195.25.74.157:80 - Web Site Blocked
+18.65.41.88:80 - Заголовок не найден
+52.215.215.54:80 - Welcome to nginx!
+38.152.209.45:80 - ERROR: The requested URL could not be retrieved
+99.86.215.77:80 - Заголовок не найден
+23.218.34.160:80 - Заголовок не найден
+147.189.174.146:80 - Welcome to XAMPP
+68.115.21.96:80 - 
+3.82.37.180:80 - Заголовок не найден
+133.159.21.69:80 - Заголовок не найден
+47.155.181.44:80 - IIS Windows Server
+96.250.99.226:80 - IIS Windows Server
+104.27.200.206:80 - Direct IP access not allowed | Cloudflare
+23.200.206.208:80 - Заголовок не найден
+167.82.51.219:80 - Fastly error: unknown domain 167.82.51.219
+34.197.27.192:80 - 404 Not Found
+23.201.165.54:80 - Заголовок не найден
+23.12.214.125:80 - Заголовок не найден
+172.205.11.147:80 - Your Azure Function App is up and running.
+196.196.211.51:80 - 403 Forbidden
+23.9.113.106:80 - Заголовок не найден
+34.202.215.98:80 - Заголовок не найден
+3.36.163.234:80 - Welcome to nginx!
+111.6.251.195:80 - Заголовок не найден
+66.135.8.195:80 - Unknown Domain
+185.162.124.128:80 - 404 Not Found
+52.222.243.100:80 - Заголовок не найден
+200.183.146.252:80 - Заголовок не найден
+178.235.240.70:80 - Apache2 Debian Default Page: It works
+104.140.245.248:80 - Заголовок не найден
+176.118.129.27:80 - IIS7
+3.162.144.243:80 - Заголовок не найден
+194.113.235.64:80 - Заголовок не найден
+23.34.117.128:80 - Заголовок не найден
+178.211.204.118:80 - Заголовок не найден
+18.172.138.219:80 - Заголовок не найден
+52.95.130.162:80 - Amazon S3 - Cloud Object Storage  - AWS
+216.92.232.23:80 - 401 Unauthorized
+46.105.199.229:80 - Error 520: Website not authorized on OVH CDN
+97.100.237.228:80 - 
+104.85.147.54:80 - Заголовок не найден
+8.213.30.181:80 - IIS Windows Server
+3.17.166.56:80 - VulnScope | Reduce el Riesgo de Incidentes de Seguridad
+75.176.218.93:80 - 
+91.192.118.132:80 - Заголовок не найден
+18.245.54.164:80 - Заголовок не найден
+80.235.129.166:80 - WEB SERVICE
+47.94.42.221:80 - Заголовок не найден
+146.59.37.246:80 - Hosted By BisectHosting - BisectHosting
+185.17.9.183:80 - Заголовок не найден
+38.177.202.178:80 - 404 Not Found
+86.43.75.154:80 - Apache2 Ubuntu Default Page: It works
+123.194.185.82:80 - 
+208.113.188.194:80 - Site not found &middot; DreamHost
+45.81.143.132:80 - Page not found
+172.66.138.4:80 - Direct IP access not allowed | Cloudflare
+193.84.111.244:80 - Apache2 Ubuntu Default Page: It works
+52.178.99.254:80 - Заголовок не найден
+185.18.205.243:80 - IIS7
+23.214.240.163:80 - Заголовок не найден
+23.35.136.94:80 - Заголовок не найден
+187.248.71.34:80 - Заголовок не найден
+23.210.40.235:80 - Заголовок не найден
+184.50.211.120:80 - Заголовок не найден
+146.59.157.237:80 - Web Server's Default Page
+210.154.239.125:80 - 401 Unauthorized
+13.227.208.238:80 - Заголовок не найден
+34.96.247.212:80 - Заголовок не найден
+3.114.178.161:80 - Apache HTTP Server Test Page powered by CentOS
+207.204.36.238:80 - 403 Forbidden
+45.90.13.15:80 - Apache2 Ubuntu Default Page: It works
+52.209.248.160:80 - Country Blocked
+41.33.131.3:80 - RouterOS router configuration page
+154.91.64.62:80 - 404 Not Found
+41.162.114.161:80 - Заголовок не найден
+185.219.43.17:80 - Apache HTTP Server Test Page powered by CentOS
+117.187.90.137:80 - 
+38.14.87.221:80 - 403 Forbidden
+190.145.120.217:80 - F660
+46.21.239.106:80 - Hosting Provider voor E-commerce &amp; Webshops - Hypernode
+23.192.243.108:80 - Заголовок не найден
+71.83.64.235:80 - 
+101.34.246.254:80 - IIS Windows Server
+52.95.134.51:80 - Amazon S3 - Cloud Object Storage  - AWS
+24.218.78.105:80 - NETGEAR ReadyNAS
+18.163.68.66:80 - Situs Judi Bola Online Resmi Terpercaya | 123BOLA
+207.192.144.22:80 - 
+23.210.16.131:80 - Заголовок не найден
+106.183.103.7:80 - HITACHI Management
+154.197.157.178:80 - 404 Not Found
+203.29.241.153:80 - Default Site
+40.74.244.111:80 - Microsoft Azure Web App - Error 404
+120.25.177.138:80 - Заголовок не найден
+91.138.206.54:80 - Document Error: Unauthorized
+38.47.230.89:80 - 400 Bad Request
+2.23.199.184:80 - Заголовок не найден
+23.3.62.16:80 - Заголовок не найден
+52.92.139.74:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.10.38.39:80 - Заголовок не найден
+104.81.7.88:80 - Заголовок не найден
+203.158.3.24:80 - Заголовок не найден
+213.225.250.174:80 - Connection denied by Geolocation
+121.138.247.246:80 - DVR ActiveX Viewer
+23.219.99.67:80 - Заголовок не найден
+2.23.113.177:80 - Заголовок не найден
+184.27.75.245:80 - Заголовок не найден
+220.87.84.206:80 - Gargoyle Router Management Utility
+18.238.71.30:80 - Заголовок не найден
+109.95.217.206:80 - Заголовок не найден
+150.95.91.77:80 - Web Server's Default Page
+185.113.25.36:80 - We've got some trouble | 503 - Backend unavailable
+18.238.24.53:80 - Заголовок не найден
+20.204.34.205:80 - Innovative Learning Experience Platform, Onboarding and Dynamic Performance Management System
+54.255.51.87:80 - 404 Not Found
+178.210.129.92:80 - Заголовок не найден
