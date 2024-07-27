@@ -9828,3 +9828,145 @@ Context: {&quot;exception&quot;:{}}
 4.144.202.108:80 - 
 18.161.28.124:80 - Заголовок не найден
 167.100.225.3:80 - 
+94.73.162.60:80 - Заголовок не найден
+199.250.201.22:80 - Заголовок не найден
+178.79.183.142:80 - 🧨 The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/vhosts/curium-erp/htdocs/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/var/www/vhosts/curium-erp/htdocs/storage/framework/sessions/raHyBhmFTICjY8WZqpsMGSLiTM73rZN0uwcXT2gx): failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+162.0.232.47:80 - Заголовок не найден
+108.61.252.180:80 - Заголовок не найден
+18.65.153.109:80 - Заголовок не найден
+52.221.50.121:80 - Заголовок не найден
+63.42.87.35:80 - Compass
+104.24.208.211:80 - Direct IP access not allowed | Cloudflare
+23.49.198.177:80 - Заголовок не найден
+177.84.14.124:80 - 
+49.235.253.87:80 - 403 Forbidden
+52.217.166.197:80 - Amazon S3 - Cloud Object Storage  - AWS
+18.161.196.192:80 - Заголовок не найден
+108.159.78.99:80 - Заголовок не найден
+185.118.140.64:80 - Page not found
+15.237.42.218:80 - Welcome to nginx!
+91.38.45.29:80 - Заголовок не найден
+54.159.184.194:80 - 404 Not Found
+13.200.222.9:80 - Servito Tour
+23.43.193.29:80 - Заголовок не найден
+23.214.183.210:80 - Заголовок не найден
+36.93.127.138:80 - RouterOS router configuration page
+13.33.208.251:80 - Заголовок не найден
+108.54.94.194:80 - 
+167.82.86.206:80 - Fastly error: unknown domain 167.82.86.206
+211.75.51.84:80 - Заголовок не найден
+2.22.58.225:80 - Заголовок не найден
+18.65.68.23:80 - Заголовок не найден
+23.42.175.213:80 - Заголовок не найден
+2.132.110.233:80 - GPON Home Gateway
+23.63.103.151:80 - Заголовок не найден
+23.65.7.87:80 - Заголовок не найден
+13.224.31.169:80 - Заголовок не найден
+104.206.118.219:80 - 403 Forbidden
+47.105.113.222:80 - Apache HTTP Server Test Page powered by CentOS
+206.119.32.34:80 - 403 Forbidden
+185.45.166.27:80 - 403 Forbidden
+176.57.64.207:80 - 403
+104.23.208.41:80 - Direct IP access not allowed | Cloudflare
+191.103.121.254:80 - 401 Authorization Required
+149.56.22.160:80 - Заголовок не найден
+23.101.59.18:80 - 403 Forbidden
+191.84.42.143:80 - Заголовок не найден
+52.216.94.3:80 - Amazon S3 - Cloud Object Storage  - AWS
+50.3.183.74:80 - 407 Proxy Authentication Required
+183.96.219.165:80 - 登录
+158.160.42.161:80 - Welcome to nginx!
+196.89.23.180:80 - Заголовок не найден
+91.92.251.145:80 - Apache2 Ubuntu Default Page: It works
+31.31.89.21:80 - Заголовок не найден
+5.204.248.27:80 - Teltonika Networks
+207.192.134.121:80 - 
+3.115.2.40:80 - 403 - Forbidden: Access is denied.
+45.193.69.203:80 - Welcome to nginx!
+174.84.149.84:80 - 
+13.225.113.206:80 - Заголовок не найден
+104.236.195.32:80 - Login | Wiki.js
+66.94.100.127:80 - Xibo Digital Signage
+203.196.43.35:80 - Заголовок не найден
+43.230.38.40:80 - Please wait, the login page is opening...
+89.184.70.9:80 - Сайт 89.184.70.9
+202.194.194.198:80 - 404 Not Found
+222.116.94.40:80 - CMS Web Viewer
+35.74.138.247:80 - Josanin
+52.217.230.221:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.35.212.245:80 - Заголовок не найден
+197.52.196.171:80 - 
+165.22.5.188:80 - Заголовок не найден
+151.40.252.144:80 - Login
+67.199.77.14:80 - Заголовок не найден
+38.152.193.39:80 - ERROR: The requested URL could not be retrieved
+23.58.239.149:80 - Заголовок не найден
+115.111.75.170:80 - Apache2 Ubuntu Default Page: It works
+82.223.108.247:80 - Biochousa
+96.6.17.51:80 - Заголовок не найден
+62.72.36.76:80 - Softaculous Webuzo | Default Website Page
+171.6.204.21:80 - 
+67.222.55.34:80 - Not Acceptable!
+99.84.165.154:80 - Заголовок не найден
+167.99.85.124:80 - Apache2 Ubuntu Default Page: It works
+108.137.16.151:80 - Заголовок не найден
+54.196.110.7:80 - 404 Not Found
+103.96.142.23:80 - YMPL
+49.213.192.210:80 - 401 Unauthorized
+23.38.40.91:80 - Заголовок не найден
+67.222.108.34:80 - Softaculous Webuzo | Default Website Page
+108.186.182.201:80 - 403 Forbidden
+51.77.194.170:80 - Welcome to nginx!
+38.35.69.42:80 - 403 Forbidden
+23.224.239.229:80 - é¥è¿ççæ³ä¹¡
+188.128.163.129:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+194.228.174.3:80 - Заголовок не найден
+18.164.39.149:80 - Заголовок не найден
+202.194.2.232:80 - 404 Not Found
+65.34.163.42:80 - 
+104.119.110.223:80 - Заголовок не найден
+189.238.42.60:80 - DVR LOGIN
+23.79.176.171:80 - Заголовок не найден
+165.225.232.123:80 - Internet Security by Zscaler
+54.221.163.5:80 - Amazon ECS Sample App
+184.31.36.168:80 - Заголовок не найден
+23.60.138.80:80 - Заголовок не найден
+3.85.91.127:80 - 403 Forbidden
+13.93.93.251:80 - UDGroup API Examples
+120.77.219.13:80 - Заголовок не найден
+156.250.193.68:80 - 403 Forbidden
+104.75.124.215:80 - Заголовок не найден
+34.18.51.27:80 - Заголовок не найден
+156.245.90.55:80 - 404 Not Found
+64.44.198.161:80 - YourBrand
+23.60.194.20:80 - Заголовок не найден
+102.211.210.68:80 - Заголовок не найден
+104.27.7.90:80 - Direct IP access not allowed | Cloudflare
+96.9.31.63:80 - 403 Forbidden
+2.17.70.45:80 - Заголовок не найден
+104.84.33.114:80 - Заголовок не найден
+87.249.38.139:80 - 500 Internal Server Error
