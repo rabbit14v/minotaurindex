@@ -215,3 +215,59 @@
 185.43.46.155:80 - 404 Not Found
 52.218.108.172:80 - Amazon S3 - Cloud Object Storage  - AWS
 172.64.101.77:80 - Direct IP access not allowed | Cloudflare
+13.35.17.170:80 - Заголовок не найден
+154.81.37.232:80 - Welcome to nginx!
+85.145.251.231:80 - Hello! Welcome to Synology Web Station!
+51.255.41.184:80 - IIS Windows Server
+186.27.245.119:80 - Заголовок не найден
+23.60.123.198:80 - Заголовок не найден
+104.25.200.143:80 - Direct IP access not allowed | Cloudflare
+44.208.192.41:80 - Just a moment...
+54.166.100.235:80 - Заголовок не найден
+20.164.66.47:80 - Your Azure Function App is up and running.
+23.196.204.84:80 - Заголовок не найден
+108.62.70.49:80 - ERROR: The requested URL could not be retrieved
+173.255.244.239:80 - Welcome to nginx!
+68.178.233.40:80 - Coming Soon
+52.14.157.27:80 - Заголовок не найден
+75.102.51.217:80 - Apache2 Debian Default Page: It works
+199.246.76.163:80 - 401 Authorization Required
+162.144.21.10:80 - Not Acceptable!
+158.199.166.80:80 - 403 Forbidden
+104.114.98.122:80 - Заголовок не найден
+96.239.26.204:80 - Skwerrll.com
+152.228.241.44:80 - IIS Windows Server
+54.153.156.29:80 - Заголовок не найден
+101.37.42.214:80 - 阿里云 Web应用防火墙
+192.64.112.148:80 - Apache2 Ubuntu Default Page: It works
+20.242.228.51:80 - Заголовок не найден
+23.207.154.3:80 - Заголовок не найден
+118.36.155.158:80 - Заголовок не найден
+212.237.38.19:80 - Apache2 Ubuntu Default Page: It works
+89.207.18.147:80 - Заголовок не найден
+37.34.205.156:80 - 
+154.39.31.70:80 - ERROR: The requested URL could not be retrieved
+39.108.5.170:80 - Test Page for Apache Installation
+45.223.150.132:80 - Заголовок не найден
+18.65.52.58:80 - Заголовок не найден
+35.84.87.186:80 - 403 Forbidden
+104.88.251.220:80 - Заголовок не найден
+159.89.199.49:80 - 404 Not Found
+70.39.77.238:80 - 404 - File or directory not found.
+54.36.250.11:80 - Заголовок не найден
+57.152.102.185:80 - 404 Not Found
+50.20.201.195:80 - Hosted By BisectHosting - BisectHosting
+212.150.186.134:80 - Заголовок не найден
+104.95.242.147:80 - Заголовок не найден
+196.51.60.192:80 - ERROR: The requested URL could not be retrieved
+154.26.170.16:80 - ERROR: The requested URL could not be retrieved
+107.148.87.82:80 - Welcome to nginx!
+52.155.122.64:80 - 404 Not Found
+162.144.5.186:80 - Not Acceptable!
+128.199.62.43:80 - Coming Soon
+156.208.16.61:80 - Заголовок не найден
+67.165.178.69:80 - 
+51.81.254.133:80 - Hosted By BisectHosting - BisectHosting
+34.195.2.114:80 - Заголовок не найден
+38.180.91.75:80 - Success!
+202.61.253.163:80 - 404 Not Found
