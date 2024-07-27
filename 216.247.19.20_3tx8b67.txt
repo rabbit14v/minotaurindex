@@ -2887,3 +2887,15 @@
 13.32.223.223:80 - Заголовок не найден
 197.156.82.10:80 - Заголовок не найден
 23.52.242.12:80 - Заголовок не найден
+65.181.128.123:80 - Заголовок не найден
+83.142.232.124:80 - Success!
+13.213.99.102:80 - BioTective Diabetes Management System
+112.121.179.114:80 - æ²¡ææ¾å°ç«ç¹
+18.232.9.194:80 - Заголовок не найден
+195.111.1.132:80 - Заголовок не найден
+121.186.52.196:80 - DVR ActiveX Viewer
+104.206.81.140:80 - 407 Proxy Authentication Required
+191.234.181.214:80 - Microsoft Azure Web App - Error 404
+38.152.92.249:80 - ERROR: The requested URL could not be retrieved
+4.71.251.139:80 - NDT (Network Diagnostic Tool) Server from Measurement Lab
+108.181.118.122:80 - New Page 1
