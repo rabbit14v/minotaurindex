@@ -1068,3 +1068,211 @@
 184.24.110.111:80 - Заголовок не найден
 127.92.108.119:80 - IIS Windows Server
 190.199.86.247:80 - 
+101.227.48.252:80 - Test Page for Apache Installation
+219.94.160.16:80 - æ¨ªæµå¸æ¯å­å®¶åº­ç­å°±æ¥­ã»èªç«æ¯æ´ã»ã³ã¿ã¼ ã²ã¨ãè¦ªãµãã¼ãããã¯ã¾
+127.179.72.53:80 - IIS Windows Server
+188.165.244.11:80 - 403 Forbidden
+89.190.169.68:80 - Заголовок не найден
+127.95.60.250:80 - IIS Windows Server
+54.163.194.83:80 - Amazon ECS Sample App
+127.120.161.8:80 - IIS Windows Server
+127.27.54.84:80 - IIS Windows Server
+2.101.247.157:80 - Заголовок не найден
+127.208.182.84:80 - IIS Windows Server
+162.245.51.53:80 - Заголовок не найден
+49.13.43.104:80 - Заголовок не найден
+165.73.82.153:80 - Заголовок не найден
+127.110.205.34:80 - IIS Windows Server
+23.192.242.7:80 - Заголовок не найден
+127.222.225.95:80 - IIS Windows Server
+69.162.125.35:80 - DJ Setup, Games, Wallpapers, Fun DJ Stuff - FunDJStuff.com
+35.168.160.248:80 - 503 Service Temporarily Unavailable
+43.251.107.223:80 - 403 Forbidden
+108.141.118.10:80 - Your Azure Function App is up and running.
+104.67.63.163:80 - Заголовок не найден
+127.135.6.156:80 - IIS Windows Server
+127.123.110.238:80 - IIS Windows Server
+13.213.34.2:80 - Django packaged by Bitnami
+184.31.43.187:80 - Заголовок не найден
+127.174.133.85:80 - IIS Windows Server
+127.145.248.236:80 - IIS Windows Server
+99.86.191.111:80 - Заголовок не найден
+71.89.121.149:80 - 
+35.213.137.174:80 - Login | Panel
+144.126.156.137:80 - Website Unavailable
+184.29.235.89:80 - Заголовок не найден
+127.38.197.34:80 - IIS Windows Server
+20.71.9.34:80 - Welcome to nginx!
+218.148.226.230:80 - WEB SERVICE
+127.97.19.145:80 - IIS Windows Server
+123.24.205.99:80 - Vigor Login Page
+127.66.196.58:80 - IIS Windows Server
+66.251.89.243:80 - 403 - Forbidden: Access is denied.
+127.50.131.225:80 - IIS Windows Server
+104.19.229.221:80 - Direct IP access not allowed | Cloudflare
+47.108.130.96:80 - Wordpress &#8211; 又一个WordPress站点
+65.73.197.243:80 - Missing Web Site
+3.20.124.67:80 - Arpo - AutomaÃ§Ã£o rÃ¡pida para Olx
+127.51.250.98:80 - IIS Windows Server
+158.160.109.27:80 - Sign in · GitLab
+120.76.158.36:80 - Заголовок не найден
+134.101.14.134:80 - IIS Windows
+127.252.180.44:80 - IIS Windows Server
+127.238.37.107:80 - IIS Windows Server
+118.34.0.73:80 - Login to TLR-2005KSH
+127.113.239.154:80 - IIS Windows Server
+127.102.176.26:80 - IIS Windows Server
+127.20.27.213:80 - IIS Windows Server
+38.28.133.187:80 - 404 Not Found
+172.105.125.127:80 - Apache2 Ubuntu Default Page: It works
+104.68.242.162:80 - Заголовок не найден
+158.199.154.30:80 - Заголовок не найден
+185.23.139.150:80 - IIS Windows Server
+3.120.18.60:80 - 404 Not Found
+20.90.190.64:80 - IIS Windows Server
+127.101.133.133:80 - IIS Windows Server
+127.33.76.225:80 - IIS Windows Server
+23.22.141.12:80 - Заголовок не найден
+91.57.180.148:80 - Заголовок не найден
+201.217.243.206:80 - Заголовок не найден
+34.251.73.85:80 - UN Booking Hub
+162.221.93.241:80 - 403 Forbidden
+127.175.2.186:80 - IIS Windows Server
+127.249.253.72:80 - IIS Windows Server
+144.24.145.247:80 - Lucky International School
+23.212.22.2:80 - Заголовок не найден
+74.83.144.37:80 - Buy Water Now &#8211; Serving All Your Water Transportation Needs
+64.68.204.22:80 - 404 Not Found
+127.110.101.191:80 - IIS Windows Server
+127.4.35.210:80 - IIS Windows Server
+149.18.66.184:80 - Index of /
+127.126.149.211:80 - IIS Windows Server
+127.251.59.146:80 - IIS Windows Server
+23.221.126.59:80 - Заголовок не найден
+45.60.249.122:80 - Заголовок не найден
+127.255.43.25:80 - IIS Windows Server
+23.6.198.46:80 - Заголовок не найден
+108.139.192.177:80 - Заголовок не найден
+85.167.62.204:80 - Заголовок не найден
+222.186.181.173:80 - Заголовок не найден
+41.222.74.177:80 - Заголовок не найден
+185.56.78.131:80 - ARCADIA. AVALON INFORMATICA.
+127.13.88.20:80 - IIS Windows Server
+154.39.207.104:80 - æ²¡ææ¾å°ç«ç¹
+127.52.98.185:80 - IIS Windows Server
+127.205.197.63:80 - IIS Windows Server
+127.120.240.167:80 - IIS Windows Server
+63.135.107.211:80 - Заголовок не найден
+107.148.239.68:80 - 404 Not Found
+119.188.213.112:80 - 403 Forbidden
+154.72.200.137:80 - IIS Windows Server
+178.63.77.162:80 - This site is under construction!
+184.27.72.102:80 - Заголовок не найден
+38.11.172.228:80 - 404 Not Found
+127.143.3.223:80 - IIS Windows Server
+127.255.211.140:80 - IIS Windows Server
+162.216.240.44:80 - Page not found
+196.51.141.113:80 - ERROR: The requested URL could not be retrieved
+1.119.200.52:80 - Заголовок не найден
+88.146.221.53:80 - Заголовок не найден
+151.101.201.67:80 - Fastly error: unknown domain 151.101.201.67
+108.156.92.91:80 - Заголовок не найден
+98.64.84.151:80 - Your Azure Function App is up and running.
+104.17.103.103:80 - Direct IP access not allowed | Cloudflare
+23.229.73.255:80 - ERROR: The requested URL could not be retrieved
+127.54.87.62:80 - IIS Windows Server
+23.203.75.191:80 - Заголовок не найден
+188.209.134.11:80 - Apache2 Ubuntu Default Page: It works
+13.249.251.131:80 - Заголовок не найден
+162.208.58.243:80 - Jacob Junker Vintage Cycle Bay - Vintage Motorcycles & Parts 1975 & Older
+104.24.232.112:80 - Direct IP access not allowed | Cloudflare
+184.31.20.101:80 - Заголовок не найден
+116.118.241.115:80 - IIS Windows Server
+127.105.155.25:80 - IIS Windows Server
+127.143.157.248:80 - IIS Windows Server
+127.109.19.158:80 - IIS Windows Server
+185.87.196.24:80 - Ð¥Ð¾ÑÑÐ¸Ð½Ð³ VPS VDS Ð°ÑÐµÐ½Ð´Ð° ÑÐµÑÐ²ÐµÑÐ° | ÐÐ½ÑÐµÑÐ½ÐµÑ Ð¥Ð¾ÑÑÐ¸Ð½Ð³ Ð¦ÐµÐ½ÑÑ
+127.65.109.193:80 - IIS Windows Server
+207.153.127.248:80 - Заголовок не найден
+127.6.177.6:80 - IIS Windows Server
+127.153.160.224:80 - IIS Windows Server
+132.204.8.243:80 - Explorer par discipline - Bibliothèques - Université de Montréal
+104.90.78.98:80 - Заголовок не найден
+5.161.212.49:80 - Notes
+47.92.33.248:80 - Welcome to nginx!
+127.60.233.151:80 - IIS Windows Server
+127.185.152.203:80 - IIS Windows Server
+85.153.17.176:80 - Index of /
+35.214.165.50:80 - Заголовок не найден
+104.97.28.55:80 - Заголовок не найден
+18.102.82.107:80 - Sign in to Gnutti-INT
+86.60.233.29:80 - Заголовок не найден
+172.245.12.170:80 - Заголовок не найден
+124.64.195.111:80 - 403 Forbidden
+111.13.77.205:80 - Заголовок не найден
+127.252.2.218:80 - IIS Windows Server
+146.59.133.213:80 - Index of /
+184.86.2.136:80 - Заголовок не найден
+104.27.82.241:80 - Direct IP access not allowed | Cloudflare
+127.38.196.150:80 - IIS Windows Server
+45.64.60.21:80 - Заголовок не найден
+52.19.49.230:80 - Заголовок не найден
+104.96.157.182:80 - Заголовок не найден
+93.191.156.31:80 - 555 Security Incident Detected
+127.207.101.106:80 - IIS Windows Server
+213.152.214.140:80 - Заголовок не найден
+127.95.39.185:80 - IIS Windows Server
+127.96.93.223:80 - IIS Windows Server
+127.220.59.186:80 - IIS Windows Server
+3.121.169.183:80 - 404 Not Found
+44.233.210.212:80 - Apache2 Ubuntu Default Page: It works
+23.206.206.155:80 - Заголовок не найден
+127.154.235.53:80 - IIS Windows Server
+183.232.188.37:80 - Заголовок не найден
+78.193.74.150:80 - Freebox OS :: Identification
+51.38.64.8:80 - Welcome to nginx!
+193.106.64.162:80 - Welcome to nginx!
+172.203.188.190:80 - Welcome to nginx!
+127.185.47.93:80 - IIS Windows Server
+127.57.232.162:80 - IIS Windows Server
+18.160.23.130:80 - Заголовок не найден
+18.239.13.240:80 - Заголовок не найден
+209.214.83.252:80 - Заголовок не найден
+185.65.151.191:80 - Загородный парк отель «Басовское» официальный сайт
+34.96.66.158:80 - Child's Play - Play Games, Feel Better&trade;
+52.12.16.228:80 - Заголовок не найден
+23.59.121.28:80 - Заголовок не найден
+127.141.69.196:80 - IIS Windows Server
+172.120.228.139:80 - 403 Forbidden
+127.241.28.136:80 - IIS Windows Server
+144.48.140.138:80 - Index of /
+149.28.228.238:80 - 404 Not Found
+13.56.75.4:80 - ARCH
+47.57.140.91:80 - 503 Service Temporarily Unavailable
+188.40.137.174:80 - Заголовок не найден
+3.160.75.217:80 - Заголовок не найден
+127.197.164.74:80 - IIS Windows Server
+127.112.40.31:80 - IIS Windows Server
+52.248.98.85:80 - Заголовок не найден
+44.238.232.133:80 - Заголовок не найден
+34.217.192.240:80 - 403 Forbidden
+3.163.179.45:80 - Заголовок не найден
+35.202.108.152:80 - Заголовок не найден
+23.221.123.150:80 - Заголовок не найден
+89.116.53.33:80 - 403 Forbidden
+188.132.204.25:80 - Web Server's Default Page
+104.27.109.133:80 - Direct IP access not allowed | Cloudflare
+122.11.135.66:80 - 
+127.223.180.233:80 - IIS Windows Server
+89.46.107.187:80 - Заголовок не найден
+188.240.54.10:80 - Meteo Server - Weer API's voor productiesystemen, high availability, high performance, configureerbaar
+49.13.152.252:80 - WordPress &rsaquo; Fehler
+127.60.237.66:80 - IIS Windows Server
+108.184.2.85:80 - 
+127.118.31.113:80 - IIS Windows Server
+85.128.221.58:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.8.149.173:80 - IIS Windows Server
+3.215.104.167:80 - Заголовок не найден
+2.23.222.238:80 - Заголовок не найден
+127.185.127.142:80 - IIS Windows Server
+45.244.172.28:80 - ZXHN H108N V2.5
