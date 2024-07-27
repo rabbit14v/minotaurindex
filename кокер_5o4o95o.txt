@@ -1436,3 +1436,203 @@
 68.142.103.21:80 - Заголовок не найден
 194.250.124.225:80 - Заголовок не найден
 18.66.225.82:80 - Заголовок не найден
+18.228.38.243:80 - Заголовок не найден
+184.25.235.39:80 - Заголовок не найден
+176.126.101.220:80 - Заголовок не найден
+124.237.225.76:80 - 404 Not Found
+52.216.58.61:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.62.116.201:80 - Заголовок не найден
+23.37.243.24:80 - Заголовок не найден
+66.49.192.106:80 - Indian Hindi Music, Songs, MP3, FOR FREE!! Live band in
+Toronto
+117.50.181.104:80 - Заголовок не найден
+46.11.254.178:80 - 
+52.192.172.90:80 - Welcome to nginx!
+2.132.168.37:80 - GPON Home Gateway
+103.242.216.122:80 - Заголовок не найден
+185.194.252.68:80 - Заголовок не найден
+104.112.10.64:80 - Заголовок не найден
+18.194.43.129:80 - Bad Request (400)
+45.58.60.57:80 - ERROR: The requested URL could not be retrieved
+38.55.222.29:80 - 404 Not Found
+23.15.45.106:80 - Заголовок не найден
+219.231.172.210:80 - 404 Not Found
+173.198.237.193:80 - Forbidden!
+210.159.85.99:80 - 403 Forbidden
+36.95.220.46:80 - Заголовок не найден
+91.102.177.1:80 - Заголовок не найден
+38.11.54.48:80 - Заголовок не найден
+54.171.117.166:80 - Streamlit
+4.245.95.71:80 - Your Azure Function App is up and running.
+94.152.163.18:80 - Заголовок не найден
+54.214.125.233:80 - 502 Bad Gateway
+41.161.93.74:80 - 403 Forbidden
+217.61.53.101:80 - Benvenuto nel nuovo portale Clienti e Partners di SCM e CMS! • myPortal
+38.54.234.153:80 - Заголовок не найден
+121.48.165.8:80 - Laboratory of Molecular and Cell Biology
+45.11.56.58:80 - Welcome to nginx!
+23.43.32.143:80 - Заголовок не найден
+18.164.95.104:80 - Заголовок не найден
+160.121.122.168:80 - 404 Not Found
+39.107.137.25:80 - Заголовок не найден
+23.95.88.158:80 - Coming Soon - lutton.online
+159.69.26.65:80 - Welcome to nginx!
+193.57.248.10:80 - Заголовок не найден
+86.228.181.121:80 - WEB SERVICE
+152.199.44.202:80 - 404 - Not Found
+18.238.101.77:80 - Заголовок не найден
+40.123.45.228:80 - 
+2.18.154.89:80 - Заголовок не найден
+139.5.243.22:80 - Заголовок не найден
+71.69.161.29:80 - 
+210.44.210.73:80 - 404 Not Found
+109.150.194.153:80 - Dericam
+184.86.219.57:80 - Заголовок не найден
+103.101.212.171:80 - Please wait, the login page is opening...
+72.34.59.23:80 - Заголовок не найден
+162.216.240.166:80 - Coming Soon - automations.click
+37.187.147.3:80 - Apache2 Debian Default Page: It works
+52.7.226.112:80 - 404 Not Found
+172.105.152.35:80 - Index of /
+220.134.27.115:80 - 
+18.66.164.208:80 - Заголовок не найден
+23.62.33.215:80 - Заголовок не найден
+2.118.31.231:80 - I-GRAINE NEW | Registro Italiano Emicrania
+47.121.205.36:80 - æ²¡ææ¾å°ç«ç¹
+149.96.250.108:80 - 403 Forbidden
+18.244.216.159:80 - Заголовок не найден
+161.111.124.76:80 - Rasp_TXUS
+23.56.17.7:80 - Заголовок не найден
+38.152.209.228:80 - ERROR: The requested URL could not be retrieved
+156.244.98.253:80 - 404 Not Found
+112.175.63.152:80 - Заголовок не найден
+54.169.114.156:80 - Заголовок не найден
+184.28.207.77:80 - Заголовок не найден
+54.172.219.69:80 - Apache2 Ubuntu Default Page: It works
+52.177.114.96:80 - Microsoft Azure Web App - Error 404
+160.124.211.215:80 - 400 Bad Request
+24.74.16.13:80 - Document Moved
+23.192.211.224:80 - Заголовок не найден
+34.173.57.147:80 - Заголовок не найден
+199.60.103.253:80 - Direct IP access not allowed | Cloudflare
+175.132.211.55:80 - Welcome to nginx!
+89.32.46.13:80 - Заголовок не найден
+104.25.69.217:80 - Direct IP access not allowed | Cloudflare
+38.6.223.217:80 - 404 Not Found
+34.79.181.171:80 - 404 Not Found
+18.239.141.193:80 - Заголовок не найден
+213.202.252.152:80 - Web Server's Default Page
+34.168.192.48:80 - 🧨 The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/sub-gacha/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: No authenticated user or shop domain
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+23.42.178.133:80 - Заголовок не найден
+23.204.198.220:80 - Заголовок не найден
+23.42.89.90:80 - Заголовок не найден
+34.231.82.173:80 - Jake Hansen
+14.152.89.21:80 - Заголовок не найден
+54.222.114.34:80 - Amazon S3 - Cloud Object Storage  - AWS
+91.223.110.41:80 - Заголовок не найден
+108.139.24.73:80 - Заголовок не найден
+23.57.169.65:80 - Заголовок не найден
+159.89.40.166:80 - Apache2 Ubuntu Default Page: It works
+18.177.23.118:80 - 403 Forbidden
+200.201.12.46:80 - Gerenciamento de Senhas
+52.219.108.194:80 - Amazon S3 - Cloud Object Storage  - AWS
+94.55.0.10:80 - 403 Forbidden
+39.96.50.147:80 - Заголовок не найден
+190.166.196.131:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+174.127.123.200:80 - 404 Not Found
+129.213.121.105:80 - Just a moment...
+34.204.65.244:80 - Заголовок не найден
+118.99.35.42:80 - 404 Not Found
+161.35.76.55:80 - Заголовок не найден
+108.139.133.185:80 - Заголовок не найден
+77.244.10.96:80 - Audiobookshelf
+23.84.108.144:80 - 
+34.192.84.26:80 - Заголовок не найден
+12.34.68.105:80 - Заголовок не найден
+23.37.209.74:80 - Заголовок не найден
+3.161.55.197:80 - Заголовок не найден
+108.142.14.191:80 - Заголовок не найден
+155.186.98.128:80 - Заголовок не найден
+183.192.205.149:80 - Заголовок не найден
+45.60.147.11:80 - Заголовок не найден
+52.67.100.84:80 - Welcome to nginx!
+23.45.248.126:80 - Заголовок не найден
+128.199.171.138:80 - Apache2 Ubuntu Default Page: It works
+92.47.170.110:80 - GPON Home Gateway
+120.78.207.86:80 - Welcome to OpenResty!
+88.86.81.86:80 - 403 Forbidden
+202.44.6.116:80 - IIS Windows Server
+15.206.170.11:80 - 404 Not Found
+34.93.39.177:80 - Welcome to nginx!
+173.209.33.24:80 - Under Construction - Webzie
+83.166.135.133:80 - web host not found
+91.209.59.89:80 - RouterOS router configuration page
+23.225.106.108:80 - Welcome to nginx!
+45.33.98.249:80 - JSON Viewer and Downloader
+23.88.50.1:80 - Powered by CapRover
+46.149.202.22:80 - æ²¡ææ¾å°ç«ç¹
+5.185.54.231:80 - 403 Forbidden
+23.211.201.206:80 - Заголовок не найден
+23.66.145.232:80 - Заголовок не найден
+34.110.215.52:80 - Заголовок не найден
+84.235.246.1:80 - Заголовок не найден
+94.237.94.12:80 - Apache2 Debian Default Page: It works
+24.193.13.243:80 - 
+36.233.97.137:80 - Access Denied
+190.1.224.178:80 - Заголовок не найден
+5.101.10.155:80 - 403 Forbidden
+23.199.39.112:80 - Заголовок не найден
+59.106.171.105:80 - ãããã®ã¬ã³ã¿ã«ãµã¼ã
+82.209.149.171:80 - D-LINK
+87.121.251.35:80 - Jellyfin
+5.161.97.18:80 - 404 Not Found
+173.167.134.249:80 - 
+20.57.99.227:80 - Заголовок не найден
+43.206.4.15:80 - Welcome to nginx!
+154.218.160.84:80 - 404 Not Found
+3.228.35.211:80 - 403 Forbidden
+116.203.70.143:80 - Psychologin Andrea Salzmann - Hilfe für Kinder &amp; Jugendliche
+74.175.103.94:80 - Error
+108.157.175.168:80 - Заголовок не найден
+91.97.94.181:80 - 
+23.53.67.238:80 - Заголовок не найден
+193.107.78.79:80 - Заголовок не найден
+154.204.128.250:80 - 301 Moved Permanently
+13.237.123.141:80 - Заголовок не найден
+172.247.189.104:80 - 404 Not Found
+185.193.67.31:80 - Virtualmin
+52.85.35.4:80 - Заголовок не найден
