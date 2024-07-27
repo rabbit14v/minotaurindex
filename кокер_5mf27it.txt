@@ -674,3 +674,90 @@
 23.66.207.81:80 - Заголовок не найден
 52.210.199.209:80 - 404 Not Found
 184.51.213.222:80 - Заголовок не найден
+104.21.211.165:80 - Direct IP access not allowed | Cloudflare
+104.80.247.254:80 - Заголовок не найден
+81.30.161.169:80 - Заголовок не найден
+104.20.110.174:80 - Direct IP access not allowed | Cloudflare
+13.249.60.130:80 - Заголовок не найден
+71.79.180.57:80 - 
+166.247.16.39:80 - 
+115.139.194.86:80 - main page
+23.193.86.29:80 - Заголовок не найден
+62.165.159.212:80 - Kahvipannu.Com RY - Shell-palvelut
+191.102.166.152:80 - 407 Proxy Authentication Required
+44.196.249.175:80 - Infrasys Integrations Console
+103.147.91.204:80 - POLNES (Politeknik Negeri Samarinda) Official Website
+79.96.75.113:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+212.132.120.148:80 - Web Server's Default Page
+196.247.46.225:80 - 407 Proxy Authentication Required
+195.175.59.74:80 - WEB SERVICE
+20.113.51.8:80 - Заголовок не найден
+104.17.39.209:80 - Direct IP access not allowed | Cloudflare
+13.226.180.127:80 - Заголовок не найден
+205.196.217.134:80 - Site not found &middot; DreamHost
+156.224.137.16:80 - 404 Not Found
+13.50.69.241:80 - Ochno &#8211; One port for everything.
+108.138.193.102:80 - Заголовок не найден
+172.64.91.8:80 - Direct IP access not allowed | Cloudflare
+217.196.58.205:80 - 403 Forbidden
+216.104.189.238:80 - Bradley Foundation Scholars
+162.240.52.213:80 - Заголовок не найден
+200.40.118.16:80 - eXpand Digital Channel
+106.75.162.76:80 - 500 - ÄÚ²¿·þÎñÆ÷´íÎó¡£
+119.159.144.61:80 - PHC- Case Flow Management System
+156.251.33.132:80 - 403 Forbidden
+47.13.91.54:80 - 
+149.102.140.75:80 - Apache2 Ubuntu Default Page: It works
+147.30.32.81:80 - GPON Home Gateway
+17.253.3.47:80 - Заголовок не найден
+220.146.7.189:80 - Заголовок не найден
+186.130.38.236:80 - Заголовок не найден
+45.58.143.36:80 - 403 Forbidden
+219.152.87.77:80 - 403 Forbidden
+3.162.11.198:80 - Заголовок не найден
+8.217.0.100:80 - 
+165.22.196.14:80 - Welcome to nginx!
+14.128.136.9:80 - 403 Forbidden
+18.154.151.87:80 - Заголовок не найден
+50.240.211.27:80 - IIS Windows Server
+165.227.39.253:80 - 404 Not Found
+47.243.50.24:80 - 404 Not Found
+181.52.189.53:80 - Заголовок не найден
+23.219.101.187:80 - Заголовок не найден
+165.227.188.183:80 - 404 Not Found
+192.227.232.172:80 - 404 Not Found
+173.223.108.198:80 - Заголовок не найден
+46.4.163.20:80 - Apache2 Ubuntu Default Page: It works
+2.16.1.174:80 - Заголовок не найден
+167.82.32.174:80 - Fastly error: unknown domain 167.82.32.174
+23.198.58.212:80 - Заголовок не найден
+154.7.77.166:80 - Заголовок не найден
+104.25.43.72:80 - Direct IP access not allowed | Cloudflare
+142.251.134.55:80 - Google
+54.192.252.25:80 - Заголовок не найден
+75.2.24.154:80 - 503 Service Temporarily Unavailable
+185.197.100.47:80 - IIS Windows Server
+171.228.105.212:80 - MobiProxy
+23.10.131.249:80 - Заголовок не найден
+41.63.9.43:80 - IIS Windows Server
+182.40.40.155:80 - Заголовок не найден
+35.241.58.61:80 - Заголовок не найден
+104.83.141.64:80 - Заголовок не найден
+198.16.34.254:80 - 403 Forbidden
+3.89.139.134:80 - Domain Monitoring
+79.96.196.179:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+81.0.249.215:80 - IIS Windows Server
+82.64.121.152:80 - Заголовок не найден
+20.121.245.176:80 - Microsoft Azure Web App - Error 404
+58.231.97.207:80 - Заголовок не найден
+103.205.87.136:80 - 404 Not Found
+64.95.69.118:80 - 404 Not Found
+24.70.240.157:80 - Transponder/EOL Configuration: Status - HMS Data
+144.168.127.126:80 - æ²¡ææ¾å°ç«ç¹
+35.247.13.115:80 - Заголовок не найден
+202.61.242.5:80 - 401 Authorization Required
+23.50.202.20:80 - Заголовок не найден
+64.71.33.78:80 - Заголовок не найден
+217.182.108.249:80 - Web Server's Default Page
+107.178.252.146:80 - Заголовок не найден
+90.145.22.155:80 - ACME Access Only
