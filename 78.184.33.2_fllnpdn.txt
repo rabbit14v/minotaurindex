@@ -5067,3 +5067,195 @@
 13.33.185.170:80 - Заголовок не найден
 127.121.102.85:80 - IIS Windows Server
 104.85.225.253:80 - Заголовок не найден
+43.136.26.141:80 - æ²¡ææ¾å°ç«ç¹
+79.173.87.225:80 - NETSurveillance WEB
+127.44.75.173:80 - IIS Windows Server
+78.41.204.13:80 - Powered by lighttpd
+35.211.135.28:80 - Заголовок не найден
+127.134.193.222:80 - IIS Windows Server
+127.3.24.202:80 - IIS Windows Server
+107.163.168.147:80 - Заголовок не найден
+192.249.60.46:80 - Blaise Jarrett - Portfolio
+23.35.54.178:80 - Заголовок не найден
+72.133.147.164:80 - 
+38.14.68.185:80 - Welcome to nginx!
+127.68.176.169:80 - IIS Windows Server
+127.110.40.74:80 - IIS Windows Server
+23.206.146.245:80 - Заголовок не найден
+92.123.142.121:80 - Заголовок не найден
+13.111.180.175:80 - 403 - Forbidden: Access is denied.
+105.96.12.76:80 - PORTAIL ÉLECTRONIQUE DE LA MGPTT
+212.70.49.50:80 - IIS Windows Server
+79.98.29.11:80 - 403 Forbidden
+127.157.33.12:80 - IIS Windows Server
+127.203.41.237:80 - IIS Windows Server
+45.196.244.234:80 - 404 Not Found
+127.89.120.31:80 - IIS Windows Server
+81.70.197.126:80 - æ¬¢è¿è®¿é®èç¼äºå¨±
+193.122.154.46:80 - Welcome to nginx!
+34.252.195.179:80 - 403 Forbidden
+76.68.147.249:80 - Заголовок не найден
+3.123.204.168:80 - 403 Forbidden
+127.188.239.139:80 - IIS Windows Server
+91.246.57.150:80 - Welcome to Railo 5.2
+127.16.163.166:80 - IIS Windows Server
+118.215.33.73:80 - Заголовок не найден
+127.184.20.177:80 - IIS Windows Server
+160.124.243.36:80 - 404 Not Found
+23.63.141.119:80 - Заголовок не найден
+127.136.196.5:80 - IIS Windows Server
+127.92.198.127:80 - IIS Windows Server
+127.134.132.162:80 - IIS Windows Server
+92.122.8.163:80 - Заголовок не найден
+79.96.155.180:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+65.108.211.38:80 - Error
+23.38.171.132:80 - Заголовок не найден
+127.86.25.144:80 - IIS Windows Server
+23.51.67.55:80 - Заголовок не найден
+146.190.234.84:80 - Заголовок не найден
+18.182.12.70:80 - Apache2 Debian Default Page: It works
+23.61.57.174:80 - Заголовок не найден
+218.153.211.78:80 - CMS Web Viewer
+106.51.36.239:80 - IIS Windows Server
+23.2.22.105:80 - Заголовок не найден
+91.107.129.185:80 - Top cryptocurrencies | CoinTrust
+23.126.188.77:80 - Default Site
+184.86.226.20:80 - Заголовок не найден
+2.22.190.99:80 - Заголовок не найден
+127.233.66.69:80 - IIS Windows Server
+198.54.119.237:80 - TICULNET Internet Fibra Optica + TV
+157.255.154.109:80 - 403 Forbidden
+190.85.245.133:80 - Заголовок не найден
+127.139.31.226:80 - IIS Windows Server
+127.51.145.126:80 - IIS Windows Server
+107.151.126.236:80 - Sorry, the website has been stopped
+104.21.79.134:80 - Direct IP access not allowed | Cloudflare
+45.202.231.162:80 - Заголовок не найден
+127.35.56.16:80 - IIS Windows Server
+138.113.171.25:80 - RP888: Situs Slot Online Terbaik dan Terbaru di Indonesia
+20.161.175.92:80 - Заголовок не найден
+38.253.128.231:80 - 
+192.177.163.85:80 - 403 Forbidden
+127.209.240.116:80 - IIS Windows Server
+51.8.61.248:80 - Your Azure Function App is up and running.
+127.246.116.148:80 - IIS Windows Server
+175.194.187.228:80 - hue personal wireless lighting
+108.139.27.89:80 - Заголовок не найден
+3.163.135.12:80 - Заголовок не найден
+104.20.0.24:80 - Direct IP access not allowed | Cloudflare
+65.108.183.213:80 - 401 Unauthorized
+211.78.8.206:80 - 
+5.252.230.114:80 - Заголовок не найден
+104.21.211.4:80 - Direct IP access not allowed | Cloudflare
+220.167.103.177:80 - ERROR
+96.16.86.49:80 - Заголовок не найден
+13.227.76.54:80 - Заголовок не найден
+91.75.73.237:80 - Заголовок не найден
+23.10.189.128:80 - Заголовок не найден
+162.241.70.66:80 - Заголовок не найден
+51.161.91.212:80 - The Ottawa Tennis & Lawn Bowling Club
+127.130.64.127:80 - IIS Windows Server
+127.155.14.173:80 - IIS Windows Server
+20.203.66.210:80 - Server Unavailable
+127.148.100.9:80 - IIS Windows Server
+149.104.174.82:80 - 404 Not Found
+181.24.209.195:80 - Заголовок не найден
+116.121.181.29:80 - Заголовок не найден
+41.60.81.111:80 - 
+18.139.29.40:80 - Заголовок не найден
+61.205.127.19:80 - Заголовок не найден
+108.157.192.219:80 - Заголовок не найден
+127.21.147.78:80 - IIS Windows Server
+70.33.51.66:80 - Account Suspended
+127.70.246.194:80 - IIS Windows Server
+184.31.70.187:80 - Заголовок не найден
+50.88.108.49:80 - 
+23.195.175.218:80 - Заголовок не найден
+67.160.21.125:80 - Stowe Family Portal
+127.175.82.122:80 - IIS Windows Server
+77.81.228.48:80 - Web Server's Default Page
+127.219.194.186:80 - IIS Windows Server
+186.91.101.234:80 - Заголовок не найден
+174.86.50.224:80 - 
+196.192.88.108:80 - Error 404 (Not Found)!!1
+127.70.214.197:80 - IIS Windows Server
+127.176.111.59:80 - IIS Windows Server
+127.191.55.188:80 - IIS Windows Server
+93.241.78.106:80 - Device Webserver
+64.85.107.80:80 - Apache2 Ubuntu Default Page: It works
+47.39.160.48:80 - 
+127.98.102.237:80 - IIS Windows Server
+127.41.203.178:80 - IIS Windows Server
+34.214.221.11:80 - 403 - Forbidden: Access is denied.
+176.31.141.201:80 - 403 Forbidden
+127.218.119.191:80 - IIS Windows Server
+54.230.54.159:80 - Заголовок не найден
+83.166.132.13:80 - web host not found
+104.69.149.174:80 - Заголовок не найден
+118.214.73.20:80 - Заголовок не найден
+127.78.251.155:80 - IIS Windows Server
+23.221.107.156:80 - Заголовок не найден
+127.100.117.240:80 - IIS Windows Server
+23.203.200.152:80 - Заголовок не найден
+23.54.190.158:80 - Заголовок не найден
+3.164.207.50:80 - Заголовок не найден
+202.34.242.193:80 - Заголовок не найден
+127.216.6.147:80 - IIS Windows Server
+154.212.50.100:80 - ä¹æ¸¸å¨±ä¹
+77.45.3.118:80 - Web Server's Default Page
+156.227.24.241:80 - KAKA Movies - Xem phim HD ÄÆ°á»£c ÄÃ¡nh giÃ¡ cao miá»n phÃ­
+127.78.7.195:80 - IIS Windows Server
+114.67.248.48:80 - 灵小播
+184.83.216.219:80 - Default Site
+152.42.149.19:80 - 404 Not Found
+81.19.131.72:80 - Apache2 Ubuntu Default Page: It works
+137.184.59.59:80 - 502 Bad Gateway
+127.254.73.37:80 - IIS Windows Server
+195.82.24.187:80 - GPON Home Gateway
+127.57.210.206:80 - IIS Windows Server
+23.212.24.119:80 - Заголовок не найден
+2.22.44.241:80 - Заголовок не найден
+181.94.245.165:80 - 
+127.124.247.30:80 - IIS Windows Server
+127.184.98.194:80 - IIS Windows Server
+127.93.134.150:80 - IIS Windows Server
+127.201.105.191:80 - IIS Windows Server
+87.236.196.182:80 - 403 Forbidden
+127.93.184.145:80 - IIS Windows Server
+178.128.219.89:80 - Fuse - Angular 7+ Material Design Admin Template
+13.32.216.238:80 - Заголовок не найден
+156.254.145.19:80 - 404 Not Found
+3.163.84.203:80 - Заголовок не найден
+127.94.165.22:80 - IIS Windows Server
+186.132.16.133:80 - Заголовок не найден
+194.62.245.86:80 - Subcribe and Anti-Spam and Privacy for 194.62.245.86
+47.180.234.136:80 - Заголовок не найден
+134.209.199.126:80 - 404 Not Found
+205.151.119.56:80 - Заголовок не найден
+43.206.204.245:80 - Заголовок не найден
+127.181.150.187:80 - IIS Windows Server
+127.43.119.8:80 - IIS Windows Server
+31.28.27.197:80 - 404 Not Found
+95.216.202.249:80 - Заголовок не найден
+127.59.55.141:80 - IIS Windows Server
+127.23.64.159:80 - IIS Windows Server
+154.38.217.46:80 - æ²¡ææ¾å°ç«ç¹
+181.94.193.12:80 - Заголовок не найден
+23.6.178.183:80 - Заголовок не найден
+127.116.251.192:80 - IIS Windows Server
+23.76.37.36:80 - Заголовок не найден
+23.223.115.141:80 - Заголовок не найден
+216.198.182.191:80 - Заголовок не найден
+34.174.14.25:80 - beSAFE
+2.23.192.17:80 - Заголовок не найден
+127.224.126.35:80 - IIS Windows Server
+127.145.141.228:80 - IIS Windows Server
+127.143.144.12:80 - IIS Windows Server
+127.202.206.200:80 - IIS Windows Server
+108.139.47.157:80 - Заголовок не найден
+93.185.167.30:80 - Coming Soon - sub.adutchmaninwalldorf.de
+127.133.72.141:80 - IIS Windows Server
+190.178.97.169:80 - Заголовок не найден
+127.152.72.208:80 - IIS Windows Server
+18.232.212.129:80 - 403 - Forbidden: Access is denied.
+127.71.251.0:80 - IIS Windows Server
