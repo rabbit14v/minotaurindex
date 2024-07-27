@@ -154,3 +154,4 @@
 51.161.19.114 - Заголовок не найден !80!
 178.91.63.6 - GPON Home Gateway !80!
 145.14.219.133 - Administrative Console !80!
+92.118.108.169 - 403 - Forbidden: Access is denied. !80!
