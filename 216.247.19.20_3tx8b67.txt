@@ -2899,3 +2899,11 @@
 38.152.92.249:80 - ERROR: The requested URL could not be retrieved
 4.71.251.139:80 - NDT (Network Diagnostic Tool) Server from Measurement Lab
 108.181.118.122:80 - New Page 1
+181.233.53.159:80 - 
+175.178.131.239:80 - 404 Not Found
+77.76.146.221:80 - 403 Forbidden
+193.12.211.180:80 - 200 Site not hosted here.
+174.83.206.244:80 - 
+71.6.233.201:80 - Welcome to nginx!
+138.197.88.66:80 - Apache2 Ubuntu Default Page: It works
+23.205.88.37:80 - Заголовок не найден
