@@ -14419,3 +14419,235 @@
 162.144.123.6:80 - Заголовок не найден
 62.234.175.16:80 - è¥ä¾ç®¡çç³»ç»
 210.50.57.89:80 - Заголовок не найден
+139.196.151.49:80 - IIS7
+46.99.188.84:80 - 
+89.161.219.129:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.160.154.187:80 - IIS Windows Server
+95.153.41.246:80 - 
+149.96.165.48:80 - 403 Forbidden
+23.216.73.206:80 - Заголовок не найден
+18.160.183.20:80 - Заголовок не найден
+127.157.120.161:80 - IIS Windows Server
+173.95.57.21:80 - Document Moved
+127.27.57.190:80 - IIS Windows Server
+52.214.50.35:80 - Заголовок не найден
+23.90.2.249:80 - 403 Forbidden
+127.180.211.45:80 - IIS Windows Server
+23.14.62.77:80 - Заголовок не найден
+127.61.87.76:80 - IIS Windows Server
+127.151.146.100:80 - IIS Windows Server
+3.161.228.59:80 - Заголовок не найден
+8.43.118.74:80 - Page not found
+127.76.45.165:80 - IIS Windows Server
+206.237.11.151:80 - 404 Not Found
+104.102.11.161:80 - Заголовок не найден
+80.123.206.122:80 - Document Moved
+185.166.197.127:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+220.134.120.81:80 - 
+127.71.82.104:80 - IIS Windows Server
+23.5.17.214:80 - Заголовок не найден
+83.147.1.170:80 - Bandwidth Speed Test
+127.140.18.128:80 - IIS Windows Server
+18.208.102.90:80 - 503 Service Temporarily Unavailable
+127.50.97.184:80 - IIS Windows Server
+160.119.9.234:80 - Default
+34.246.157.174:80 - Apache2 Ubuntu Default Page: It works
+185.139.76.146:80 - 404 Not Found
+127.100.201.252:80 - IIS Windows Server
+127.106.189.59:80 - IIS Windows Server
+23.203.196.43:80 - Заголовок не найден
+127.111.254.251:80 - IIS Windows Server
+52.38.28.40:80 - Заголовок не найден
+185.146.87.117:80 - Autentificare
+87.118.115.231:80 - Welcome to nginx!
+20.210.119.79:80 - Заголовок не найден
+31.141.252.212:80 - 
+52.178.140.219:80 - 500 - Internal server error.
+69.192.38.147:80 - Заголовок не найден
+147.182.224.39:80 - Заголовок не найден
+195.200.99.180:80 - Заголовок не найден
+77.55.167.149:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+218.48.226.33:80 - Windows CE
+23.89.45.52:80 - Error
+127.176.63.170:80 - IIS Windows Server
+127.74.55.64:80 - IIS Windows Server
+38.11.76.79:80 - Заголовок не найден
+203.189.40.148:80 - 401 - Unauthorized
+127.188.224.217:80 - IIS Windows Server
+127.82.213.194:80 - IIS Windows Server
+23.45.150.243:80 - Заголовок не найден
+127.61.4.16:80 - IIS Windows Server
+23.210.122.220:80 - Заголовок не найден
+127.102.198.180:80 - IIS Windows Server
+127.235.35.147:80 - IIS Windows Server
+127.123.214.239:80 - IIS Windows Server
+127.68.49.222:80 - IIS Windows Server
+64.46.159.82:80 - Default Site
+3.160.234.176:80 - Заголовок не найден
+52.72.54.47:80 - Заголовок не найден
+127.108.49.97:80 - IIS Windows Server
+176.226.135.103:80 - Minion.MyFTP.org
+127.62.32.98:80 - IIS Windows Server
+104.140.173.5:80 - 403 Forbidden
+185.198.156.55:80 - Заголовок не найден
+62.92.51.34:80 - 
+127.187.48.81:80 - IIS Windows Server
+62.72.11.136:80 - Apache2 Ubuntu Default Page: It works
+127.3.121.163:80 - IIS Windows Server
+127.48.207.138:80 - IIS Windows Server
+191.31.122.210:80 - Document Moved
+127.84.185.191:80 - IIS Windows Server
+127.4.2.178:80 - IIS Windows Server
+90.83.195.115:80 - Apache2 Debian Default Page: It works
+172.200.95.160:80 - Заголовок не найден
+144.202.81.124:80 - Welcome to OpenResty!
+23.59.9.235:80 - Заголовок не найден
+123.184.30.105:80 - 403 Forbidden
+146.75.2.108:80 - Fastly error: unknown domain 146.75.2.108
+217.149.11.82:80 - Заголовок не найден
+127.69.72.66:80 - IIS Windows Server
+189.90.65.184:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+23.209.49.14:80 - Заголовок не найден
+51.68.84.131:80 - قیمت طلا, قیمت سکه, قیمت دلار - شبکه اطلاع رسانی طلا و ارز
+15.229.53.57:80 - Заголовок не найден
+81.169.196.148:80 - Web Server's Default Page
+127.100.36.100:80 - IIS Windows Server
+71.136.139.33:80 - 401 Authorization
+127.207.120.244:80 - IIS Windows Server
+47.242.240.5:80 - Заголовок не найден
+104.85.51.110:80 - Заголовок не найден
+127.127.146.69:80 - IIS Windows Server
+104.97.59.79:80 - Заголовок не найден
+127.194.73.19:80 - IIS Windows Server
+202.59.235.9:80 - 404 Not Found
+104.74.187.133:80 - Заголовок не найден
+154.7.57.35:80 - 403 Forbidden
+103.109.32.36:80 - 404 Not Found
+86.48.3.222:80 - 404 Not Found
+54.180.35.89:80 - CCO
+127.26.120.132:80 - IIS Windows Server
+178.174.184.186:80 - RouterOS router configuration page
+127.189.174.101:80 - IIS Windows Server
+111.31.104.149:80 - 404 Not Found
+144.48.24.232:80 - Заголовок не найден
+127.12.251.233:80 - IIS Windows Server
+127.38.88.21:80 - IIS Windows Server
+173.223.209.145:80 - Заголовок не найден
+23.215.153.19:80 - Заголовок не найден
+156.226.63.52:80 - 尊龙凯时(官网)人生就是博!
+127.202.243.32:80 - IIS Windows Server
+52.68.197.96:80 - 請再重新搜尋您所指定的服務 - 台北數位集團-亞普達
+221.254.148.142:80 - Заголовок не найден
+211.14.79.68:80 - Заголовок не найден
+127.236.218.39:80 - IIS Windows Server
+23.231.79.122:80 - 403 Forbidden
+127.227.50.140:80 - IIS Windows Server
+127.177.197.243:80 - IIS Windows Server
+2.17.237.192:80 - Заголовок не найден
+108.174.194.81:80 - Заголовок не найден
+127.223.112.247:80 - IIS Windows Server
+127.17.162.225:80 - IIS Windows Server
+127.114.212.92:80 - IIS Windows Server
+52.85.24.27:80 - Заголовок не найден
+127.86.222.243:80 - IIS Windows Server
+154.209.183.219:80 - Заголовок не найден
+123.56.64.198:80 - æ²¡ææ¾å°ç«ç¹
+108.157.226.110:80 - Заголовок не найден
+209.42.193.246:80 - Заголовок не найден
+64.250.46.94:80 - Log On
+130.63.78.72:80 - Welcome to the LearningOnline Network with CAPA
+167.235.154.76:80 - 404 Not Found
+13.33.98.236:80 - Заголовок не найден
+188.66.74.81:80 - 403 - Forbidden
+172.255.103.207:80 - 404 Not Found
+138.197.128.124:80 - Home - TS Bergman Inc
+160.124.89.249:80 - 404 Not Found
+85.236.251.50:80 - Access forbidden!
+103.135.120.112:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+127.75.46.107:80 - IIS Windows Server
+66.211.78.207:80 - Заголовок не найден
+127.169.225.34:80 - IIS Windows Server
+104.85.20.32:80 - Заголовок не найден
+172.120.241.145:80 - 403 Forbidden
+162.255.165.108:80 - Заголовок не найден
+52.18.178.123:80 - 403 Forbidden
+141.95.213.118:80 - Заголовок не найден
+127.45.22.182:80 - IIS Windows Server
+192.185.140.251:80 - Not Acceptable!
+34.203.107.129:80 - Ido Worker - Admin & Dashboard Template
+127.241.40.220:80 - IIS Windows Server
+74.91.17.222:80 - Заголовок не найден
+89.34.118.86:80 - Заголовок не найден
+178.33.71.22:80 - Apache2 Debian Default Page: It works
+116.203.177.109:80 - 404 Not Found
+65.188.106.163:80 - Tarry With Us
+4.185.89.164:80 - KACE Systems Management Appliance Administrator Console
+127.4.96.181:80 - IIS Windows Server
+154.19.246.120:80 - Site is created successfully!
+89.108.202.237:80 - Заголовок не найден
+157.245.61.235:80 - บาคาร่า สล็อต ฟุตบอล ออนไลน์ รวมทุกค่ายในเว็ปเดียว | หน้าบ้าน
+47.92.241.60:80 - æ²¡ææ¾å°ç«ç¹
+52.151.35.197:80 - Microsoft Azure Web App - Error 404
+212.85.109.7:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+51.81.8.182:80 - Log In &lsaquo; ILRE Members Only Website &#8212; WordPress
+127.201.195.232:80 - IIS Windows Server
+112.50.197.197:80 - Заголовок не найден
+76.223.78.182:80 - 404 Not Found
+3.128.187.120:80 - Заголовок не найден
+45.191.251.20:80 - nPerfServer
+72.246.148.227:80 - Заголовок не найден
+134.175.213.225:80 - 502 Bad Gateway
+127.41.78.112:80 - IIS Windows Server
+154.31.163.202:80 - 403 Forbidden
+1.34.156.209:80 - Заголовок не найден
+127.147.223.245:80 - IIS Windows Server
+45.151.120.174:80 - 403 Forbidden
+213.241.9.179:80 - Success!
+46.139.17.1:80 - 
+179.36.136.201:80 - Заголовок не найден
+127.190.122.107:80 - IIS Windows Server
+127.238.130.127:80 - IIS Windows Server
+54.225.183.12:80 - 502 Bad Gateway
+127.51.146.114:80 - IIS Windows Server
+124.216.61.3:80 - Заголовок не найден
+127.94.177.69:80 - IIS Windows Server
+154.217.112.182:80 - 404 Not Found
+127.50.249.157:80 - IIS Windows Server
+15.204.140.151:80 - 403 Forbidden
+192.185.12.254:80 - Not Acceptable!
+13.35.91.232:80 - Заголовок не найден
+79.140.178.226:80 - Apache2 Debian Default Page: It works
+91.134.131.232:80 - Domain Default page
+45.33.204.39:80 - Заголовок не найден
+42.81.21.179:80 - 403 Forbidden
+127.134.19.213:80 - IIS Windows Server
+86.124.234.123:80 - Document Error: Site or Page Not Found
+127.47.164.144:80 - IIS Windows Server
+52.53.121.112:80 - To Do Dashboard
+111.31.112.41:80 - 404 Not Found
+85.214.250.164:80 - Sie sehen hier eine soeben freigeschaltete Homepage
+127.17.134.144:80 - IIS Windows Server
+66.165.225.234:80 - 504 Gateway Time-out
+127.252.52.54:80 - IIS Windows Server
+127.126.79.27:80 - IIS Windows Server
+46.159.191.130:80 - 403 Forbidden
+127.166.244.43:80 - IIS Windows Server
+23.224.26.44:80 - 403 Forbidden
+3.123.153.185:80 - Eurocash - logowanie
+127.211.198.78:80 - IIS Windows Server
+127.77.22.132:80 - IIS Windows Server
+195.252.194.49:80 - SonicWall - Authentication
+23.43.152.173:80 - Заголовок не найден
+91.188.69.55:80 - Заголовок не найден
+127.236.205.210:80 - IIS Windows Server
+146.75.28.101:80 - Fastly error: unknown domain 146.75.28.101
+4.174.212.92:80 - Заголовок не найден
+54.220.169.46:80 - Заголовок не найден
+127.240.186.133:80 - IIS Windows Server
+18.238.134.190:80 - Заголовок не найден
+127.152.146.89:80 - IIS Windows Server
+44.194.132.134:80 - Toronto Symphony Orchestra
+185.194.237.15:80 - i-MSCP internet - Multi Server Control Panel - Server Default Page
+23.11.130.51:80 - Заголовок не найден
+160.121.104.7:80 - 404 Not Found
+127.34.47.26:80 - IIS Windows Server
