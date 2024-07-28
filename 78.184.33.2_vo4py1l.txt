@@ -2712,3 +2712,225 @@
 127.75.248.183:80 - IIS Windows Server
 188.165.121.172:80 - Apache2 Ubuntu Default Page: It works
 127.6.105.141:80 - IIS Windows Server
+63.222.22.225:80 - NetScaler Gateway
+176.28.125.229:80 - Заголовок не найден
+110.42.253.40:80 - Welcome to nginx!
+220.122.233.250:80 - NVR
+108.142.228.223:80 - Sign in to your account
+104.76.64.115:80 - Заголовок не найден
+109.239.144.58:80 - Cubeworld.fr - Communauté Française de Cube World
+127.12.110.240:80 - IIS Windows Server
+94.46.8.36:80 - 403 Forbidden
+127.19.221.139:80 - IIS Windows Server
+127.50.91.240:80 - IIS Windows Server
+114.205.33.69:80 - DM-AP240 WebServer
+63.35.69.242:80 - 503 Service Temporarily Unavailable
+127.132.196.28:80 - IIS Windows Server
+18.154.64.86:80 - Заголовок не найден
+34.149.120.98:80 - 403
+16.171.255.68:80 - Welcome to XAMPP
+23.26.249.117:80 - Apache2 Ubuntu Default Page: It works
+8.209.110.204:80 - Заголовок не найден
+198.1.251.197:80 - Заголовок не найден
+13.53.36.168:80 - Sara Plastic Official Website
+127.226.171.184:80 - IIS Windows Server
+13.224.137.172:80 - Заголовок не найден
+18.135.141.109:80 - RedSky Software
+34.122.134.224:80 - Welcome to nginx!
+36.111.174.226:80 - 403 Forbidden
+127.52.216.239:80 - IIS Windows Server
+23.60.212.48:80 - Заголовок не найден
+127.2.233.133:80 - IIS Windows Server
+104.140.34.78:80 - 403 Forbidden
+186.207.187.212:80 - 
+127.185.142.6:80 - IIS Windows Server
+3.163.76.75:80 - Заголовок не найден
+23.57.25.65:80 - Заголовок не найден
+187.153.99.21:80 - WEB SERVICE
+127.32.196.10:80 - IIS Windows Server
+127.64.111.96:80 - IIS Windows Server
+45.13.151.8:80 - Заголовок не найден
+127.132.161.143:80 - IIS Windows Server
+45.33.156.76:80 - ERROR: The requested URL could not be retrieved
+127.221.178.24:80 - IIS Windows Server
+47.243.164.86:80 - Заголовок не найден
+13.224.187.110:80 - Заголовок не найден
+104.112.143.77:80 - Заголовок не найден
+192.180.177.1:80 - 
+96.47.37.151:80 - 404 Not Found
+89.116.36.52:80 - 403 Forbidden
+5.39.51.83:80 - Web Server's Default Page
+127.250.53.225:80 - IIS Windows Server
+217.160.197.232:80 - 403 Forbidden
+136.226.57.0:80 - Internet Security by Zscaler
+54.65.87.69:80 - Заголовок не найден
+5.190.110.172:80 - RouterOS router configuration page
+209.172.62.69:80 - Заголовок не найден
+107.149.162.150:80 - IIS7
+45.202.247.136:80 - Заголовок не найден
+23.37.110.152:80 - Заголовок не найден
+92.246.130.66:80 - Заголовок не найден
+2.21.55.24:80 - Заголовок не найден
+154.16.115.69:80 - Заголовок не найден
+38.12.51.211:80 - 404 Not Found
+23.229.192.17:80 - Chesapeake Bay, Tangier Island, Smith Island,Eastern Shore of Virginia, Santee, Georgetown, Pawley's Island, South Carolina, Eastern Southern Vacation Alliance
+23.213.255.224:80 - Заголовок не найден
+45.223.59.219:80 - Заголовок не найден
+127.49.34.32:80 - IIS Windows Server
+185.221.20.138:80 - PlatCP -         PlatCP
+66.219.100.116:80 - IIS Windows Server
+176.170.65.231:80 - Centrale
+23.49.204.102:80 - Заголовок не найден
+121.40.221.239:80 - 论坛 -  Powered by Discuz!
+127.130.195.163:80 - IIS Windows Server
+127.253.165.233:80 - IIS Windows Server
+104.85.47.141:80 - Заголовок не найден
+222.97.58.115:80 - IIS Windows
+64.227.165.186:80 - Apache2 Ubuntu Default Page: It works
+74.220.216.82:80 - Not Acceptable!
+79.120.171.76:80 - Asajah - Spirituális tanácsadás
+127.98.146.219:80 - IIS Windows Server
+23.204.63.116:80 - Заголовок не найден
+68.182.253.128:80 - Заголовок не найден
+54.92.47.118:80 - Cloudbric | ERROR! | 470
+211.45.183.167:80 - 403 Forbidden
+115.28.12.132:80 - Заголовок не найден
+168.61.98.17:80 - Заголовок не найден
+3.164.148.1:80 - Заголовок не найден
+13.230.105.217:80 - ﻿商品管理
+104.90.17.244:80 - Заголовок не найден
+127.141.211.254:80 - IIS Windows Server
+66.29.133.241:80 - Заголовок не найден
+127.219.56.217:80 - IIS Windows Server
+127.222.195.26:80 - IIS Windows Server
+51.75.16.166:80 - Welcome to nginx!
+73.56.0.249:80 - 
+127.133.222.206:80 - IIS Windows Server
+127.22.186.118:80 - IIS Windows Server
+128.140.86.123:80 - Welcome to nginx!
+127.179.99.198:80 - IIS Windows Server
+127.59.142.194:80 - IIS Windows Server
+40.134.84.35:80 - 
+171.247.189.6:80 - MobiProxy
+47.97.166.172:80 - HTTP Status 404 – Not Found
+103.224.22.153:80 - Default Parallels Plesk Panel Page
+3.164.165.117:80 - Заголовок не найден
+67.199.84.34:80 - Заголовок не найден
+18.238.134.43:80 - Заголовок не найден
+127.209.178.203:80 - IIS Windows Server
+127.246.9.39:80 - IIS Windows Server
+184.85.91.157:80 - Заголовок не найден
+222.186.156.34:80 - Заголовок не найден
+23.10.239.15:80 - Заголовок не найден
+73.180.157.94:80 - Заголовок не найден
+38.180.53.9:80 - Sorry, the website has been stopped
+47.105.62.53:80 - æ­¦ç°æµåå¤çç³»ç»
+72.184.81.71:80 - 
+46.8.43.35:80 - Welcome to CentOS
+104.104.190.122:80 - Заголовок не найден
+146.19.4.52:80 - æ²¡ææ¾å°ç«ç¹
+211.110.64.83:80 - Заголовок не найден
+3.115.156.248:80 - テストサイト &#8211; Just another WordPress site
+127.42.93.163:80 - IIS Windows Server
+68.169.145.187:80 - Заголовок не найден
+127.127.146.124:80 - IIS Windows Server
+179.38.94.147:80 - Заголовок не найден
+20.70.9.216:80 - Заголовок не найден
+104.97.55.92:80 - Заголовок не найден
+127.239.158.80:80 - IIS Windows Server
+154.0.166.127:80 - Page Redirection
+127.118.223.200:80 - IIS Windows Server
+23.42.250.72:80 - Заголовок не найден
+123.138.255.143:80 - Заголовок не найден
+127.230.59.221:80 - IIS Windows Server
+127.88.45.119:80 - IIS Windows Server
+127.114.100.152:80 - IIS Windows Server
+216.151.13.131:80 - Заголовок не найден
+127.181.206.65:80 - IIS Windows Server
+127.175.167.75:80 - IIS Windows Server
+34.251.189.197:80 - Patrick Ward Resume
+127.10.120.210:80 - IIS Windows Server
+127.210.35.95:80 - IIS Windows Server
+127.42.17.100:80 - IIS Windows Server
+127.199.112.244:80 - IIS Windows Server
+127.232.215.207:80 - IIS Windows Server
+73.175.109.215:80 - Multicraft - Home
+127.196.202.239:80 - IIS Windows Server
+108.159.55.63:80 - Заголовок не найден
+23.202.247.43:80 - Заголовок не найден
+169.62.178.154:80 - Заголовок не найден
+127.64.48.92:80 - IIS Windows Server
+127.199.215.108:80 - IIS Windows Server
+3.84.55.11:80 - Заголовок не найден
+67.205.57.244:80 - Site not found &middot; DreamHost
+36.37.130.217:80 - 
+23.42.244.89:80 - Заголовок не найден
+149.115.27.81:80 - Заголовок не найден
+192.250.205.28:80 - 400 Bad Request
+23.210.169.243:80 - Заголовок не найден
+127.192.74.97:80 - IIS Windows Server
+127.236.117.214:80 - IIS Windows Server
+127.33.3.166:80 - IIS Windows Server
+127.105.174.206:80 - IIS Windows Server
+23.231.244.92:80 - Test Page for Apache Installation
+159.69.46.251:80 - 404 Not Found
+204.197.208.52:80 - Access forbidden!
+161.97.144.70:80 - Default Site
+96.7.158.225:80 - Заголовок не найден
+174.85.14.32:80 - 
+193.183.201.135:80 - Hej! VÃ¤lkommen till Synology Web Station!
+127.235.129.95:80 - IIS Windows Server
+85.214.238.19:80 - Trend Decoder, Day Trading, Robot, AI, Algorithm, Geometry, Simulation
+47.243.84.76:80 - ç½ç«è®¿é®æ¥é
+23.214.50.209:80 - Заголовок не найден
+23.59.226.158:80 - Заголовок не найден
+127.206.187.177:80 - IIS Windows Server
+127.163.230.33:80 - IIS Windows Server
+96.7.225.8:80 - Заголовок не найден
+75.239.156.28:80 - FortiExtender
+23.1.24.14:80 - Заголовок не найден
+23.12.206.122:80 - Заголовок не найден
+59.151.129.41:80 - Заголовок не найден
+23.37.190.24:80 - Заголовок не найден
+217.115.114.207:80 - IIS Windows Server
+18.140.33.223:80 - 503 Service Temporarily Unavailable
+127.3.210.81:80 - IIS Windows Server
+127.112.95.235:80 - IIS Windows Server
+85.214.215.30:80 - BenStorch main site
+101.34.143.44:80 - 404 Not Found
+127.50.68.109:80 - IIS Windows Server
+95.217.156.220:80 - moziz.fi
+127.216.147.78:80 - IIS Windows Server
+98.208.183.124:80 - 
+89.161.129.102:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.123.194.5:80 - IIS Windows Server
+54.204.92.75:80 - 403 Forbidden
+95.216.206.34:80 - Sign in · GitLab
+50.17.174.53:80 - 405 Not Allowed
+35.76.107.68:80 - 401 Authorization Required
+39.136.123.17:80 - 403 Forbidden
+127.193.85.130:80 - IIS Windows Server
+127.189.214.87:80 - IIS Windows Server
+127.179.73.13:80 - IIS Windows Server
+127.53.16.237:80 - IIS Windows Server
+154.64.57.52:80 - Заголовок не найден
+38.152.169.196:80 - ERROR: The requested URL could not be retrieved
+127.177.226.245:80 - IIS Windows Server
+91.203.52.201:80 - 500 Internal Server Error
+18.173.154.111:80 - Заголовок не найден
+107.151.109.188:80 - 404 Not Found
+127.133.18.194:80 - IIS Windows Server
+99.86.71.145:80 - Заголовок не найден
+170.130.26.46:80 - 403 Forbidden
+209.213.241.27:80 - Заголовок не найден
+3.7.135.135:80 - 502 Bad Gateway
+52.31.57.241:80 - Заголовок не найден
+137.26.103.250:80 - Web Site Blocked
+38.154.11.235:80 - ERROR: The requested URL could not be retrieved
+104.114.95.12:80 - Заголовок не найден
+108.139.98.92:80 - Заголовок не найден
+12.120.36.16:80 - Заголовок не найден
+200.60.190.104:80 - Заголовок не найден
+34.141.31.152:80 - Заголовок не найден
+18.64.191.139:80 - Заголовок не найден
+127.6.144.39:80 - IIS Windows Server
