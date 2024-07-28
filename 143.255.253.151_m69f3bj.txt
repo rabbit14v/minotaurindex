@@ -4835,3 +4835,33 @@
 74.133.51.109:80 - Trugreen Evansville
 104.83.207.204:80 - Заголовок не найден
 3.217.89.150:80 - 404 Not Found
+154.212.220.84:80 - 404 Not Found
+121.41.165.234:80 - IIS Windows Server
+154.30.223.241:80 - Заголовок не найден
+49.157.12.62:80 - Identity Authentication System
+23.212.108.72:80 - Заголовок не найден
+137.74.78.50:80 - Concorsando.it
+123.139.125.147:80 - Заголовок не найден
+208.109.61.118:80 - 403 Forbidden
+172.67.147.229:80 - Direct IP access not allowed | Cloudflare
+104.89.199.224:80 - Заголовок не найден
+23.60.152.63:80 - Заголовок не найден
+23.49.77.219:80 - Заголовок не найден
+82.209.196.205:80 - 
+192.81.213.58:80 - Apache2 Ubuntu Default Page: It works
+194.145.180.230:80 - 404 Not Found
+104.223.44.59:80 - VEGASGG â Situs Penyedia Game Online Resmi Banyak Keuntungannya
+62.129.206.18:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+139.199.210.54:80 - webææ«å¤§ä½ä¸
+34.116.100.233:80 - 404 Not Found
+38.12.37.113:80 - ç¬¬ä¸å½±è§
+195.24.207.137:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+13.114.211.34:80 - 502 Bad Gateway
+34.90.119.27:80 - Заголовок не найден
+18.182.57.102:80 - 403 Forbidden
+74.136.107.152:80 - 
+104.88.160.235:80 - Заголовок не найден
+135.181.220.167:80 - 403 Forbidden
+86.122.92.27:80 - Monirom comenzi online login
+15.152.38.143:80 - Заголовок не найден
+103.99.231.239:80 - Web Server's Default Page
