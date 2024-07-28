@@ -64,3 +64,11 @@
 52.19.43.30 - 9WICKETS !80!
 109.75.39.87 -  !80!
 61.220.165.7 - Home Page !80!
+104.130.13.15 - BidPay Freight® | Active Accounts Payable Discounting !80!
+2.17.94.173 - Заголовок не найден !80!
+192.241.242.186 - Welcome to nginx! !80!
+133.130.115.22 - 404 Not Found !80!
+209.54.110.176 - 404 Not Found !80!
+150.158.89.127 - 404 Not Found !80!
+38.154.87.232 - Заголовок не найден !80!
+45.83.154.246 - Apache2 Ubuntu Default Page: It works !80!
