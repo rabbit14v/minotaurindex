@@ -1866,3 +1866,26 @@
 23.65.10.239:80 - Заголовок не найден
 99.86.206.40:80 - Заголовок не найден
 38.152.48.63:80 - ERROR: The requested URL could not be retrieved
+104.17.229.194:80 - Direct IP access not allowed | Cloudflare
+38.154.51.100:80 - ERROR: The requested URL could not be retrieved
+59.37.80.124:80 - 403 Forbidden
+167.82.123.175:80 - Fastly error: unknown domain 167.82.123.175
+212.64.23.225:80 - 红林阁 - 渭南红林阁公益爱心餐厅欢迎您！
+185.248.197.205:80 - Заголовок не найден
+91.39.128.114:80 - Hello! Welcome to Synology Web Station!
+45.234.40.138:80 - 403 Forbidden
+179.31.48.95:80 - Заголовок не найден
+85.128.242.109:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+157.245.199.234:80 - Welcome to nginx!
+18.172.142.205:80 - Заголовок не найден
+23.54.57.97:80 - Заголовок не найден
+104.18.204.11:80 - Direct IP access not allowed | Cloudflare
+194.164.74.102:80 - 403 Forbidden
+51.210.29.5:80 - Hosted By BisectHosting - BisectHosting
+23.253.41.169:80 - Apache HTTP Server Test Page powered by CentOS
+34.128.77.70:80 - 404 Not Found
+23.7.220.28:80 - Заголовок не найден
+173.209.218.139:80 - 403 Forbidden
+134.236.36.101:80 - 403 Forbidden
+43.135.160.208:80 - 403 Forbidden
+213.214.122.219:80 - MPAS
