@@ -12555,3 +12555,215 @@
 23.251.158.1:80 - Free Cell Phone Service: Unlock the Power of Connectivity
 127.8.159.33:80 - IIS Windows Server
 127.180.235.246:80 - IIS Windows Server
+125.131.215.249:80 - main page
+23.59.56.198:80 - Заголовок не найден
+104.253.56.23:80 - IIS7
+127.239.83.49:80 - IIS Windows Server
+120.24.249.46:80 - ASP å­¦ä¹
+23.4.250.212:80 - Заголовок не найден
+47.102.143.146:80 - ä¹åæåº - èº«è¾¹çç¥è¯å°å¸®æï¼ä¸æ³¨åææ°çå­¦ä¹ åèèµæï¼
+23.207.91.152:80 - Заголовок не найден
+127.108.107.184:80 - IIS Windows Server
+108.139.51.183:80 - Заголовок не найден
+54.148.44.223:80 - 502 Bad Gateway
+45.207.54.83:80 - 404 Not Found
+50.112.211.81:80 - Virtual Sign Language Interpreter - Sign AI (2024)
+127.81.199.221:80 - IIS Windows Server
+104.233.190.75:80 - 501 Not Implemented
+127.7.240.131:80 - IIS Windows Server
+127.186.17.72:80 - IIS Windows Server
+127.251.211.121:80 - IIS Windows Server
+127.244.161.19:80 - IIS Windows Server
+127.179.198.116:80 - IIS Windows Server
+211.20.27.244:80 - 
+127.190.144.138:80 - IIS Windows Server
+149.169.146.114:80 - Mars Space Flight Facility at Arizona State University
+3.13.5.216:80 - vv-payment
+127.2.125.9:80 - IIS Windows Server
+187.145.98.199:80 - 
+45.195.124.136:80 - 404 Not Found
+127.157.239.174:80 - IIS Windows Server
+50.2.52.30:80 - 403 Forbidden
+116.205.182.46:80 - 404 Not Found
+23.48.140.152:80 - Заголовок не найден
+127.117.72.0:80 - IIS Windows Server
+69.192.40.85:80 - Заголовок не найден
+127.176.248.131:80 - IIS Windows Server
+185.138.253.20:80 - Заголовок не найден
+219.234.5.31:80 - 404 Not Found
+127.196.57.113:80 - IIS Windows Server
+63.192.252.29:80 - AT&T WiFi Portal
+164.92.165.189:80 - Заголовок не найден
+23.218.52.167:80 - Заголовок не найден
+14.233.219.226:80 - WEB SERVICE
+104.197.28.59:80 - Constructing Careers One Job At A Time
+154.217.20.243:80 - 403 Forbidden
+99.86.191.125:80 - Заголовок не найден
+127.16.162.170:80 - IIS Windows Server
+127.132.95.60:80 - IIS Windows Server
+20.86.199.132:80 - Заголовок не найден
+13.115.101.142:80 - Заголовок не найден
+222.105.17.162:80 - Заголовок не найден
+66.84.10.180:80 - Real Estate - View Display Homes.com
+103.105.248.9:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+127.37.168.4:80 - IIS Windows Server
+127.132.45.44:80 - IIS Windows Server
+118.232.129.3:80 - Заголовок не найден
+13.32.71.114:80 - Заголовок не найден
+98.27.228.155:80 - 
+127.92.129.111:80 - IIS Windows Server
+23.59.95.14:80 - Заголовок не найден
+142.44.215.89:80 - Заголовок не найден
+127.100.180.208:80 - IIS Windows Server
+119.245.185.206:80 - Заголовок не найден
+104.106.110.8:80 - Заголовок не найден
+218.4.165.10:80 - Document Moved
+45.60.195.137:80 - Заголовок не найден
+127.35.221.55:80 - IIS Windows Server
+127.242.119.164:80 - IIS Windows Server
+127.25.157.153:80 - IIS Windows Server
+35.158.152.49:80 - Заголовок не найден
+45.114.227.119:80 - Заголовок не найден
+127.111.110.130:80 - IIS Windows Server
+149.154.92.120:80 - Error
+127.83.71.62:80 - IIS Windows Server
+127.201.238.63:80 - IIS Windows Server
+127.246.187.83:80 - IIS Windows Server
+43.201.229.25:80 - íëìë² ì´ì¤ì¤ì¼
+143.204.92.61:80 - Заголовок не найден
+127.233.123.30:80 - IIS Windows Server
+209.58.151.9:80 - 407 Proxy Authentication Required
+81.70.145.177:80 - Index of /
+87.226.23.68:80 - 406 Not Acceptable
+24.31.137.89:80 - 
+5.76.232.22:80 - Default
+156.240.50.47:80 - 400 Bad Request
+178.16.136.159:80 - 403 Forbidden
+127.193.106.80:80 - IIS Windows Server
+127.209.144.229:80 - IIS Windows Server
+127.83.124.204:80 - IIS Windows Server
+127.177.254.33:80 - IIS Windows Server
+3.11.191.94:80 - Artboard
+188.240.173.5:80 - 403 Forbidden
+127.223.45.159:80 - IIS Windows Server
+198.2.210.226:80 - 404 Not Found
+149.104.167.26:80 - Заголовок не найден
+198.23.48.49:80 - Congratulations! You have successfully set up your website!
+127.10.59.196:80 - IIS Windows Server
+173.247.249.134:80 - Заголовок не найден
+135.125.160.62:80 - 502 Bad Gateway
+190.49.34.75:80 - Заголовок не найден
+81.157.112.173:80 - WEB SERVICE
+184.30.170.124:80 - Заголовок не найден
+186.179.22.92:80 - 407 Proxy Authentication Required
+57.152.55.200:80 - Your Azure Function App is up and running.
+3.7.45.119:80 - KritrimLabs &#8211; Bringing AI To Your Door Step
+88.86.121.161:80 - 
+116.199.10.79:80 - 403 Forbidden
+52.210.209.118:80 - Заголовок не найден
+23.218.98.6:80 - Заголовок не найден
+54.204.25.150:80 - Заголовок не найден
+203.233.111.179:80 - CMS Web Viewer
+127.228.138.138:80 - IIS Windows Server
+127.220.41.180:80 - IIS Windows Server
+108.139.131.67:80 - Заголовок не найден
+108.157.204.6:80 - Заголовок не найден
+212.34.240.214:80 - 
+127.120.85.93:80 - IIS Windows Server
+135.181.73.212:80 - 404 Not Found
+178.16.57.13:80 - 178.16.57.13
+127.93.122.107:80 - IIS Windows Server
+23.61.88.121:80 - Заголовок не найден
+127.36.196.128:80 - IIS Windows Server
+127.44.216.0:80 - IIS Windows Server
+20.150.51.6:80 - Заголовок не найден
+127.182.159.99:80 - IIS Windows Server
+139.180.198.74:80 - 403 Forbidden
+127.69.94.213:80 - IIS Windows Server
+127.23.30.140:80 - IIS Windows Server
+178.216.111.232:80 - F660
+47.76.60.64:80 - 403 Forbidden
+127.63.214.167:80 - IIS Windows Server
+104.87.222.190:80 - Заголовок не найден
+52.50.139.231:80 - Welcome
+52.217.102.94:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.35.157.136:80 - IIS Windows Server
+34.102.138.35:80 - Unleash - Enterprise ready feature toggles
+127.229.236.105:80 - IIS Windows Server
+127.255.197.190:80 - IIS Windows Server
+193.59.67.43:80 - VPBX
+20.233.178.159:80 - 403 Forbidden
+223.109.81.65:80 - 403 Forbidden
+127.46.159.146:80 - IIS Windows Server
+127.65.230.141:80 - IIS Windows Server
+54.76.113.244:80 - 404 Not Found
+127.146.69.190:80 - IIS Windows Server
+127.196.72.253:80 - IIS Windows Server
+65.9.33.181:80 - Заголовок не найден
+142.11.214.165:80 - Fieldstrom LLC &#8211; Staffing and HR Solutions
+34.232.38.218:80 - Web Server's Default Page
+108.177.121.148:80 - Google
+70.23.58.106:80 - Заголовок не найден
+49.51.197.77:80 - æ±æ­ï¼ç«ç¹å·²æå
+3.94.199.35:80 - Login
+173.198.240.236:80 - Forbidden!
+127.175.42.113:80 - IIS Windows Server
+127.160.150.100:80 - IIS Windows Server
+23.12.85.47:80 - Заголовок не найден
+184.26.49.127:80 - Заголовок не найден
+95.217.182.63:80 - Metronic - the world's #1 selling Bootstrap Admin Theme Ecosystem for HTML, Vue, React, Angular &amp; Laravel by Keenthemes
+79.201.73.82:80 - Test Webseite KÃLTE IP65
+5.181.156.93:80 - 401 Authorization Required
+45.10.163.164:80 - Заголовок не найден
+127.6.17.147:80 - IIS Windows Server
+47.104.141.172:80 - ç½ç«è®¿é®æ¥é
+196.51.164.53:80 - ERROR: The requested URL could not be retrieved
+46.41.0.241:80 - Web Server's Default Page
+23.216.136.180:80 - Заголовок не найден
+127.24.29.91:80 - IIS Windows Server
+127.214.25.188:80 - IIS Windows Server
+127.213.234.47:80 - IIS Windows Server
+74.48.72.217:80 - 
+109.123.243.181:80 - Default Site
+180.210.80.172:80 - Заголовок не найден
+52.152.29.110:80 - Заголовок не найден
+45.131.64.215:80 - Home | 45.131.64.215
+127.4.2.157:80 - IIS Windows Server
+31.148.103.250:80 - Заголовок не найден
+88.221.237.25:80 - Заголовок не найден
+23.217.36.32:80 - Заголовок не найден
+85.31.63.99:80 - 404 Not Found
+127.10.208.112:80 - IIS Windows Server
+62.173.0.215:80 - Заголовок не найден
+127.129.60.93:80 - IIS Windows Server
+18.65.0.246:80 - Заголовок не найден
+104.16.122.149:80 - Direct IP access not allowed | Cloudflare
+65.8.113.200:80 - Заголовок не найден
+127.63.46.113:80 - IIS Windows Server
+51.75.79.139:80 - Заголовок не найден
+127.13.214.61:80 - IIS Windows Server
+127.111.209.223:80 - IIS Windows Server
+72.52.117.91:80 - Apache2 Ubuntu Default Page: It works
+47.101.131.211:80 - 404 Not Found
+154.214.110.158:80 - 澳门尼威斯人网站8311-【首页】
+220.88.27.17:80 - Заголовок не найден
+23.58.112.221:80 - Заголовок не найден
+24.159.99.142:80 - 
+23.9.52.129:80 - Заголовок не найден
+103.189.173.140:80 - Avyukta Intellicall
+13.75.122.106:80 - 404 Not Found
+127.176.76.228:80 - IIS Windows Server
+13.115.114.18:80 - 403 Forbidden
+85.10.130.145:80 - Заголовок не найден
+149.28.63.230:80 - 404 Not Found
+45.117.167.171:80 - 403 Forbidden
+127.116.76.237:80 - IIS Windows Server
+127.32.19.160:80 - IIS Windows Server
+95.179.229.224:80 - Unknown Domain
+66.68.4.138:80 - 403 Forbidden
+193.19.105.22:80 - 404 Not Found
+47.94.209.246:80 - Заголовок не найден
+90.63.233.14:80 - Заголовок не найден
+127.75.100.26:80 - IIS Windows Server
+23.222.130.188:80 - Заголовок не найден
+75.127.185.42:80 - Document Moved
