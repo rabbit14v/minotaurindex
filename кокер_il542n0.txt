@@ -3228,3 +3228,158 @@
 52.108.46.15:80 - Login | Microsoft 365
 20.166.162.100:80 - Заголовок не найден
 201.177.91.68:80 - Заголовок не найден
+35.158.190.72:80 - Заголовок не найден
+192.185.237.133:80 - Not Acceptable!
+52.17.94.90:80 - Заголовок не найден
+77.62.189.27:80 - 
+3.38.244.54:80 - ì¤ë§í¸ë§
+13.113.200.170:80 - 503 Service Temporarily Unavailable
+168.206.170.57:80 - æ²¡ææ¾å°ç«ç¹
+52.21.154.66:80 - ShareNote Cancellation Request
+23.54.190.150:80 - Заголовок не найден
+62.138.8.58:80 - Заголовок не найден
+173.195.14.235:80 - Bandwidth Speed Test
+104.82.123.211:80 - Заголовок не найден
+52.219.172.84:80 - Amazon S3 - Cloud Object Storage  - AWS
+79.137.33.75:80 - Web Server's Default Page
+186.132.166.146:80 - Заголовок не найден
+108.181.248.124:80 - Error
+83.174.29.139:80 - Mobilegen
+52.204.215.114:80 - 403 Forbidden
+192.169.176.72:80 - Заголовок не найден
+23.204.230.174:80 - Заголовок не найден
+18.218.166.25:80 - Заголовок не найден
+13.33.21.196:80 - Заголовок не найден
+122.114.89.161:80 - 404 Not Found
+3.89.147.34:80 - Apache HTTP Server Test Page powered by CentOS
+216.119.108.31:80 - Заголовок не найден
+103.119.3.120:80 - Welcome to nginx!
+90.115.22.113:80 - 
+38.162.69.31:80 - 403 Forbidden
+23.48.113.211:80 - Заголовок не найден
+23.55.74.251:80 - Заголовок не найден
+13.226.212.145:80 - Заголовок не найден
+58.144.224.161:80 - 403 Forbidden
+18.116.122.204:80 - Заголовок не найден
+192.254.144.112:80 - Culebra Real Estate Houses, Land, Commercial Properties For Sale
+83.174.142.235:80 - Заголовок не найден
+202.208.176.123:80 - 403-Forbidden
+79.18.231.235:80 - Smartweb - Combivox
+178.183.110.106:80 - Заголовок не найден
+195.112.99.105:80 - 
+101.0.117.29:80 - 403 Forbidden
+63.34.109.104:80 - Exchange Partner Portal: Login
+13.224.198.56:80 - Заголовок не найден
+195.191.248.173:80 - Galactica - aplikacje internetowe dla firm, oprogramowanie dedykowane i oprogramowanie internetowe, aplikacje dedykowane oraz systemy internetowe
+24.53.149.153:80 - Заголовок не найден
+91.105.0.40:80 - 
+13.226.118.211:80 - Заголовок не найден
+3.160.157.112:80 - Заголовок не найден
+23.43.146.218:80 - Заголовок не найден
+45.18.254.163:80 - Заголовок не найден
+162.211.14.47:80 - ePMP
+18.64.196.39:80 - Заголовок не найден
+220.126.185.15:80 - main page
+109.62.187.7:80 - 403 Forbidden
+139.59.143.194:80 - Web Server's Default Page
+39.100.91.4:80 - ç®¡çç³»ç»
+18.222.237.184:80 - The Comonad.Reader
+104.102.103.192:80 - Заголовок не найден
+77.37.91.135:80 - 403 Forbidden
+139.144.243.240:80 - Apache2 Ubuntu Default Page: It works
+124.243.91.8:80 - 롯데하이마트 전자영수증 시스템
+92.52.223.204:80 - Заголовок не найден
+18.220.134.248:80 - Заголовок не найден
+18.164.151.146:80 - Заголовок не найден
+14.50.68.82:80 - Заголовок не найден
+130.185.212.106:80 - 
+45.89.30.205:80 - Welcome to XAMPP
+104.125.10.116:80 - Заголовок не найден
+172.105.188.37:80 - Apache2 Debian Default Page: It works
+15.164.222.214:80 - Заголовок не найден
+154.53.80.97:80 - ERROR: The requested URL could not be retrieved
+120.138.105.4:80 - index
+144.76.118.47:80 - 403 Forbidden
+37.97.194.144:80 - LinQhost Managed Hostingdiensten - Standaard HPW pagina - Default HPW Test Page
+34.95.237.23:80 - Заголовок не найден
+54.93.245.43:80 - user&#039;s Blog! &#8211; Just another WordPress site
+18.66.109.153:80 - Заголовок не найден
+120.26.38.107:80 - 登录若依系统
+104.24.190.203:80 - Direct IP access not allowed | Cloudflare
+23.96.234.225:80 - Your Azure Function App is up and running.
+54.36.152.144:80 - Заголовок не найден
+38.154.67.88:80 - ERROR: The requested URL could not be retrieved
+135.237.108.43:80 - Azure Container App - Unavailable
+80.210.94.82:80 - Заголовок не найден
+221.161.87.49:80 - WEB SERVICE
+212.21.158.249:80 - Заголовок не найден
+104.69.155.139:80 - Заголовок не найден
+13.226.245.149:80 - Заголовок не найден
+202.164.238.12:80 - Company Name
+205.251.153.208:80 - Заголовок не найден
+159.65.168.77:80 - Apache2 Debian Default Page: It works
+38.63.50.69:80 - 404 Not Found
+108.181.170.107:80 - Smart Factory Solution | Smart Factory
+103.217.230.82:80 - Please wait, the login page is opening...
+173.222.199.168:80 - Заголовок не найден
+160.87.178.155:80 - Заголовок не найден
+20.31.90.10:80 - Your Azure Function App is up and running.
+51.178.55.183:80 - Web Server's Default Page
+54.89.201.20:80 - Заголовок не найден
+34.234.248.74:80 - Corradi Mazzer | Igualdade Salarial de Mulheres e Homens
+45.43.206.239:80 - 404 Not Found
+47.97.211.110:80 - Заголовок не найден
+43.198.66.68:80 - Welcome to nginx!
+154.36.168.165:80 - 400 Bad Request
+153.126.213.29:80 - Apache HTTP Server Test Page powered by CentOS
+3.110.19.196:80 - Заголовок не найден
+35.202.125.69:80 - IIS Windows Server
+18.210.117.55:80 - Highest quality Kratom For Sale At Kratom Country
+143.125.255.245:80 - åæ·å¸æ°´å³¶ã®æ ¼å®ãã¸ãã¹ããã« ãã¸ãã¹ããã«æ¡ç¾æ(ããã°ãã)
+184.87.45.103:80 - Заголовок не найден
+54.205.45.83:80 - 404 Not Found
+201.225.247.193:80 - Bienvenidos al sitio de 201.225.247.193!
+104.16.226.208:80 - Direct IP access not allowed | Cloudflare
+186.148.76.235:80 - Apache HTTP Server Test Page powered by CentOS
+60.248.238.211:80 - 
+136.226.12.88:80 - Internet Security by Zscaler
+23.201.250.87:80 - Заголовок не найден
+155.159.181.254:80 - 404 Not Found
+64.222.234.23:80 - Заголовок не найден
+186.179.22.80:80 - 407 Proxy Authentication Required
+108.139.96.242:80 - Заголовок не найден
+216.92.25.95:80 - The Kampe School Home Page
+23.38.80.250:80 - Заголовок не найден
+71.38.99.193:80 - Login - Time Clock
+44.203.225.77:80 - 404 Not Found
+87.240.198.6:80 - 
+23.216.91.211:80 - Заголовок не найден
+82.64.208.171:80 - Заголовок не найден
+138.197.185.151:80 - ⚡️ Electricity prices Europe
+183.181.91.105:80 - ç¡å¹ãªURLã§ã
+116.68.197.47:80 - RouterOS router configuration page
+104.18.4.195:80 - Direct IP access not allowed | Cloudflare
+18.161.12.37:80 - Заголовок не найден
+34.168.244.252:80 - Site Not Configured | 404 Not Found
+62.129.220.130:80 - Strona w przygotowaniu...
+207.192.162.168:80 - 
+209.182.197.20:80 - 209.182.197.20
+85.128.217.187:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+185.61.124.71:80 - Заголовок не найден
+45.231.217.211:80 - Заголовок не найден
+139.59.69.227:80 - Apache2 Ubuntu Default Page: It works
+13.225.189.113:80 - Заголовок не найден
+167.99.149.31:80 - Home | American Hardwood Flooring | Cochrans Lumber
+195.234.242.147:80 - Заголовок не найден
+62.171.164.215:80 - Apache2 Ubuntu Default Page: It works
+40.78.124.230:80 - Your Azure Function App is up and running.
+133.236.230.213:80 - Заголовок не найден
+103.154.87.108:80 - Login - eXtplorer
+103.37.110.135:80 - 403 Forbidden
+18.64.183.60:80 - Заголовок не найден
+104.19.224.197:80 - Direct IP access not allowed | Cloudflare
+18.66.62.148:80 - Заголовок не найден
+52.69.229.12:80 - Заголовок не найден
+84.237.134.207:80 - 
+104.103.166.106:80 - Заголовок не найден
+40.78.83.52:80 - Microsoft Azure Web App - Error 404
