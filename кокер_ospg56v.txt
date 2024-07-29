@@ -8235,3 +8235,40 @@ t Found
 50.31.12.200:80 - Introduction
 52.196.232.224:80 - 404 Not Found
 45.79.116.217:80 - Заголовок не найден
+201.203.100.36:80 - 403 - Prohibido: acceso denegado.
+205.174.24.81:80 - 403 Forbidden
+74.15.7.38:80 - 
+23.211.190.107:80 - Заголовок не найден
+104.21.27.18:80 - Direct IP access not allowed | Cloudflare
+69.195.99.134:80 - Not Acceptable!
+23.95.200.140:80 - Welcome to nginx!
+104.81.0.179:80 - Заголовок не найден
+104.83.129.198:80 - Заголовок не найден
+52.53.211.64:80 - Заголовок не найден
+66.96.201.139:80 - Default Site
+204.44.91.79:80 - Заголовок не найден
+18.64.117.173:80 - Заголовок не найден
+141.147.67.77:80 - Maintenance - HorizonRPG
+216.247.96.230:80 - Apache2 Ubuntu Default Page: It works
+18.169.217.104:80 - 503 Service Temporarily Unavailable
+204.225.220.124:80 - Заголовок не найден
+89.161.201.42:80 - Olanpak - Olanpak
+15.235.112.175:80 - This server is powered by PebbleHost!
+210.32.159.37:80 - 大型仪器共享管理系统
+3.6.64.218:80 - INDrummy
+104.168.9.162:80 - Test Page for the Nginx HTTP Server on AlmaLinux
+23.205.188.234:80 - Заголовок не найден
+23.52.61.97:80 - Заголовок не найден
+185.242.213.215:80 - 403 Forbidden
+217.15.162.14:80 - Log in
+104.252.3.106:80 - 403 Forbidden
+187.212.195.235:80 - WEB SERVICE
+23.40.222.240:80 - Заголовок не найден
+20.93.117.46:80 - Apache2 Ubuntu Default Page: It works
+54.190.114.105:80 - Welcome to CentOS
+85.10.30.10:80 - 404 Not Found
+103.175.216.124:80 - Welcome to nginx!
+217.160.92.45:80 - Заголовок не найден
+13.32.152.109:80 - Заголовок не найден
+176.104.45.140:80 - Заголовок не найден
+85.208.122.8:80 - ERROR: The requested URL could not be retrieved
