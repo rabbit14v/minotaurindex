@@ -481,3 +481,28 @@
 15.184.8.254:80 - Grafana
 43.175.251.85:80 - Заголовок не найден
 192.185.115.157:80 - Not Acceptable!
+154.44.31.217:80 - 404 Not Found
+35.201.53.179:80 - 35.201.53.179.corp.google.com - Google Single Sign On: Sign into corp
+203.77.200.31:80 - IIS Windows Server
+18.65.111.56:80 - Заголовок не найден
+35.186.205.22:80 - 502 Server Error
+104.76.192.143:80 - Заголовок не найден
+61.255.219.245:80 - LIVE CHANNEL
+23.217.8.43:80 - Заголовок не найден
+185.27.197.63:80 - Заголовок не найден
+15.228.220.29:80 - 500 - Internal server error.
+51.38.202.146:80 - TORELLO - WebApp
+104.218.120.129:80 - Заголовок не найден
+117.185.129.103:80 - 404 Not Found
+108.139.24.196:80 - Заголовок не найден
+103.16.100.161:80 - MegaHostZone - Affordable Dedicated Server Hosting Services in India
+104.123.69.134:80 - Заголовок не найден
+149.30.201.133:80 - 404 Not Found
+43.229.79.235:80 - Заголовок не найден
+15.229.16.118:80 - Заголовок не найден
+192.111.150.50:80 - 503 Service Temporarily Unavailable
+93.47.69.75:80 - Aethra Telecommunications Operating System 5
+203.161.52.180:80 - 404 Not Found
+13.233.137.104:80 - Welcome to Rajabaji - Gateway to Exciting Games and Bonuses
+114.79.146.145:80 - SonicWall - Authentication
+3.6.204.254:80 - 403 Forbidden
