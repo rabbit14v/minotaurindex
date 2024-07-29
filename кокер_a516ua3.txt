@@ -7233,3 +7233,8 @@
 117.223.114.131:80 - index
 193.6.150.75:80 - Unideb Portal
 18.220.59.120:80 - Donatos Pizza | Every Piece Is Important
+95.229.173.12:80 - Apache2 Debian Default Page: It works
+201.182.53.71:80 - Заголовок не найден
+84.239.55.45:80 - Apache HTTP Server Test Page powered by CentOS
+23.36.227.54:80 - Заголовок не найден
+23.212.243.118:80 - Заголовок не найден
