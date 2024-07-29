@@ -7380,3 +7380,7 @@ Documentation - Apache HTTP Server Version 2.2
 107.22.47.75:80 - Заголовок не найден
 208.69.126.6:80 - Test Page for the Apache HTTP Server & InterWorx-CP
 37.17.230.161:80 - Froxlor
+199.187.23.207:80 - 403 Forbidden
+147.0.175.156:80 - ACME Access Only
+34.133.114.141:80 - Markov PG
+41.32.178.250:80 - 
