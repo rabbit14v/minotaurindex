@@ -6485,3 +6485,9 @@ Documentation - Apache HTTP Server Version 2.2
 35.168.245.66:80 - Заголовок не найден
 186.167.80.62:80 - RouterOS
 13.249.167.31:80 - Заголовок не найден
+23.81.87.167:80 - Apache HTTP Server Test Page powered by CentOS
+178.185.206.206:80 - Welcome to nginx!
+23.9.192.58:80 - Заголовок не найден
+94.46.184.89:80 - ERROR: The requested URL could not be retrieved
+172.64.169.188:80 - Direct IP access not allowed | Cloudflare
+172.80.77.98:80 - æ²¡ææ¾å°ç«ç¹
