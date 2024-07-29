@@ -553,3 +553,42 @@
 87.27.104.248:80 - 403 Forbidden
 47.100.223.157:80 - 500 Internal Server Error
 125.229.131.21:80 - WEB SERVICE
+18.164.220.235:80 - Заголовок не найден
+103.233.27.54:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+120.220.195.82:80 - 403 Forbidden
+104.252.249.232:80 - 403 Forbidden
+104.21.69.192:80 - Direct IP access not allowed | Cloudflare
+202.134.147.113:80 - 
+50.249.146.205:80 - Document Moved
+186.57.187.159:80 - Заголовок не найден
+67.11.116.198:80 - AXIS
+52.169.155.58:80 - Заголовок не найден
+142.93.95.42:80 - Website Unavailable
+156.234.52.140:80 - æ²¡ææ¾å°ç«ç¹
+96.7.105.59:80 - Заголовок не найден
+76.227.245.146:80 - Connection denied by Geolocation
+112.137.137.5:80 - Control Panel - Login
+54.197.242.54:80 - Заголовок не найден
+46.23.197.85:80 - ePMP
+203.240.246.242:80 - Apache2 Debian Default Page: It works
+18.154.4.233:80 - Заголовок не найден
+172.64.95.92:80 - Direct IP access not allowed | Cloudflare
+23.60.19.204:80 - Заголовок не найден
+173.44.152.126:80 - 407 Proxy Authentication Required
+103.57.142.130:80 - 
+66.227.133.14:80 - 
+156.251.184.163:80 - 403 Forbidden
+52.152.223.183:80 - 502 Bad Gateway
+3.160.9.78:80 - Заголовок не найден
+129.226.175.43:80 - 404 Not Found
+99.83.150.225:80 - 403 Forbidden
+175.29.127.229:80 - 404 Not Found
+52.192.17.119:80 - Заголовок не найден
+38.177.177.225:80 - 404 Not Found
+13.126.125.163:80 - Apache2 Ubuntu Default Page: It works
+95.183.178.114:80 - IIS Windows Server
+62.159.147.119:80 - Connection denied by Geolocation
+43.138.52.151:80 - Заголовок не найден
+121.42.112.183:80 - Заголовок не найден
+20.120.89.26:80 - Welcome to nginx!
+184.87.24.195:80 - Заголовок не найден
