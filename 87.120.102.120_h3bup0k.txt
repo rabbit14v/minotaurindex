@@ -117,3 +117,8 @@
 23.216.241.65 - Заголовок не найден !80!
 18.214.236.5 - 404 Not Found !80!
 203.189.97.158 - Apache HTTP Server Test Page powered by CentOS !80!
+104.168.244.169 - Заголовок не найден !80!
+23.41.163.172 - Заголовок не найден !80!
+38.12.207.194 - 404 Not Found !80!
+51.148.252.105 - .::Welcome to the Web-Based Configurator::. !80!
+35.225.57.114 - Apache2 Ubuntu Default Page: It works !80!
