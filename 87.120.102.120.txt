@@ -213,3 +213,5 @@
 66.7.149.43 - Default Parallels Plesk Panel Page !80!
 20.219.207.64 - Azure Container App - Unavailable !80!
 187.190.111.72 - 404 Not Found !80!
+160.16.203.145 - Заголовок не найден !80!
+95.156.54.162 - RouterOS router configuration page !80!
