@@ -185,3 +185,4 @@
 54.183.234.204 - Apache2 Ubuntu Default Page: It works !80!
 190.131.196.45 - IIS Windows Server !80!
 52.220.5.232 - 404 Not Found !80!
+104.100.215.217 - Заголовок не найден !80!
