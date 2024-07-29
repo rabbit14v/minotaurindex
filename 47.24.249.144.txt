@@ -3919,3 +3919,8 @@ Documentation - Apache HTTP Server Version 2.2
 198.44.183.153:80 - Welcome to nginx!
 154.12.241.234:80 - Apache2 Ubuntu Default Page: It works
 23.225.187.146:80 - 404 Not Found
+159.13.36.216:80 - Welcome to nginx!
+170.130.66.82:80 - ERROR: The requested URL could not be retrieved
+18.155.4.111:80 - Заголовок не найден
+185.59.93.201:80 - Заголовок не найден
+81.223.62.232:80 - 403 Forbidden
