@@ -1799,3 +1799,5 @@
 85.31.239.247:80 - Apache2 Ubuntu Default Page: It works
 157.197.144.195:80 - Заголовок не найден
 192.186.141.123:80 - ERROR: The requested URL could not be retrieved
+83.217.72.162:80 - Заголовок не найден
+198.177.123.22:80 - BIRU138 : Daftar &amp; Login Link Alternatif Gacor BIRU 138
