@@ -7815,3 +7815,9 @@ Documentation - Apache HTTP Server Version 2.2
 79.248.40.1:80 - Заголовок не найден
 45.77.77.149:80 - Apache2 Ubuntu Default Page: It works
 86.108.124.68:80 - Wireless - Administrative Console
+23.196.184.236:80 - Заголовок не найден
+74.121.149.206:80 - Home
+160.124.48.77:80 - 404 Not Found
+211.193.24.16:80 - WEB SERVICE
+23.60.195.183:80 - Заголовок не найден
+12.133.121.46:80 - Заголовок не найден
