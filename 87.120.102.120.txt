@@ -605,3 +605,7 @@
 23.54.4.2 - Заголовок не найден !80!
 162.186.3.5 - Заголовок не найден !80!
 79.96.60.61 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365 !80!
+52.216.168.45 - Amazon S3 - Cloud Object Storage  - AWS !80!
+140.238.54.107 - Заголовок не найден !80!
+154.201.253.162 - 404 Not Found !80!
+195.167.164.215 - 403 Forbidden !80!
