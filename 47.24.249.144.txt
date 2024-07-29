@@ -5201,3 +5201,18 @@ Documentation - Apache HTTP Server Version 2.2
 8.215.34.98:80 - Website Unavailable
 5.180.149.158:80 - Welcome to nginx!
 108.139.100.90:80 - Заголовок не найден
+67.211.68.50:80 - 400 - 錯誤請求
+50.2.206.161:80 - 403 Forbidden
+142.171.184.155:80 - æ²¡ææ¾å°ç«ç¹
+3.163.130.137:80 - Заголовок не найден
+184.72.198.185:80 - Welcome to nginx!
+220.77.85.73:80 - IIS Windows
+87.117.25.220:80 - Real2D - Главная - stop hack this IOT - Device Name
+211.193.193.218:80 - Заголовок не найден
+35.208.128.176:80 - Заголовок не найден
+95.154.109.237:80 - RouterOS router configuration page
+179.53.164.0:80 - 
+60.244.188.183:80 - Заголовок не найден
+87.110.31.148:80 - 
+154.9.46.2:80 - ERROR: The requested URL could not be retrieved
+13.233.196.124:80 - Web Server's Default Page
