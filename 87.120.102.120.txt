@@ -223,3 +223,49 @@
 68.171.53.201 - Заголовок не найден !80!
 199.232.159.222 - Fastly error: unknown domain 199.232.159.222 !80!
 108.138.60.33 - Заголовок не найден !80!
+35.230.8.199 - Заголовок не найден !80!
+141.95.243.13 - Default Page !80!
+13.33.162.53 - Заголовок не найден !80!
+149.28.153.49 - Website Unavailable !80!
+18.158.58.52 - Заголовок не найден !80!
+23.214.249.76 - Заголовок не найден !80!
+52.204.133.209 - Anti-abuse Policy !80!
+23.0.25.17 - Заголовок не найден !80!
+54.254.127.114 - Not Found !80!
+104.27.1.140 - Direct IP access not allowed | Cloudflare !80!
+47.101.57.145 - Заголовок не найден !80!
+202.154.36.127 - RouterOS router configuration page !80!
+94.182.149.148 - THOR ⚡ !80!
+171.33.96.72 - Заголовок не найден !80!
+138.68.178.167 - Artboard !80!
+151.101.98.229 - Fastly error: unknown domain 151.101.98.229 !80!
+31.220.6.130 - Website Unavailable !80!
+45.77.205.237 - 404 Not Found !80!
+18.132.196.5 - KasunDon - !80!
+103.73.162.245 - IIS7 !80!
+133.242.56.100 - Welcome to nginx! !80!
+54.75.177.119 - 401 Unauthorized !80!
+190.218.166.83 - WEB SERVICE !80!
+153.92.223.110 - Apache2 Ubuntu Default Page: It works !80!
+18.185.79.152 - 404 Not Found !80!
+20.206.94.94 - IIS Windows Server !80!
+68.183.67.216 - Baltijas Pastorālais institūts !80!
+13.227.79.207 - Заголовок не найден !80!
+45.126.183.12 - æ²¡ææ¾å°ç«ç¹ !80!
+37.61.205.112 - Default Parallels Plesk Page !80!
+50.221.81.117 - Blue Iris Login !80!
+138.199.44.75 - Заголовок не найден !80!
+38.55.18.198 - 403 Forbidden !80!
+66.113.104.243 - Заголовок не найден !80!
+42.96.43.143 - Welcome to nginx! !80!
+68.154.50.127 - Apache2 Ubuntu Default Page: It works !80!
+18.244.123.104 - Заголовок не найден !80!
+98.66.222.118 - GenAI-Factory !80!
+177.170.129.31 - RouterOS router configuration page !80!
+104.18.200.155 - Direct IP access not allowed | Cloudflare !80!
+216.59.164.23 -  !80!
+34.120.180.164 - CamFind - Free Visual Search Engine for the Physical World !80!
+160.121.191.232 - Заголовок не найден !80!
+52.9.158.49 - TURN AROUND! !80!
+178.62.121.240 - Monex Logistics Academy | UK based training provider for drivers and logistical needs !80!
+41.45.61.221 -  !80!
