@@ -37,3 +37,9 @@
 84.245.87.134 - Kronos @ Gymnazium Detva !80!
 45.60.106.230 - Заголовок не найден !80!
 20.44.223.191 - Microsoft Azure Web App - Error 404 !80!
+222.173.164.24 - 403 Forbidden !80!
+43.142.160.134 - HTTP Server Test Page powered by opencloudos !80!
+139.198.29.131 - 404 Not Found !80!
+69.64.68.19 - Apache HTTP Server Test Page powered by CentOS !80!
+23.61.6.83 - Заголовок не найден !80!
+197.56.58.34 -  !80!
