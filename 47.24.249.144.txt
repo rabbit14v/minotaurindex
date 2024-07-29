@@ -7821,3 +7821,13 @@ Documentation - Apache HTTP Server Version 2.2
 211.193.24.16:80 - WEB SERVICE
 23.60.195.183:80 - Заголовок не найден
 12.133.121.46:80 - Заголовок не найден
+102.17.46.40:80 - RouterOS router configuration page
+2.132.106.15:80 - Default
+151.237.6.91:80 - WEB SERVICE
+212.68.184.118:80 - Index of /
+178.32.104.162:80 - Hosted By BisectHosting - BisectHosting
+18.165.133.190:80 - Заголовок не найден
+217.26.209.121:80 - Index of /
+18.160.38.2:80 - Заголовок не найден
+23.9.152.105:80 - Заголовок не найден
+38.180.190.140:80 - Welcome to nginx!
