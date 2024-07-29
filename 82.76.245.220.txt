@@ -7219,3 +7219,37 @@
 121.37.6.226:80 - PrOmiSeSä¹±è
 103.101.199.44:80 - 403 Forbidden
 104.19.62.153:80 - Direct IP access not allowed | Cloudflare
+47.88.85.126:80 - 403 Forbidden
+62.127.145.27:80 - Заголовок не найден
+62.92.54.142:80 - Заголовок не найден
+104.24.209.209:80 - Direct IP access not allowed | Cloudflare
+177.73.94.81:80 - Intelbras
+52.178.72.250:80 - Microsoft Azure Web App - Error 404
+104.22.70.69:80 - Direct IP access not allowed | Cloudflare
+45.196.6.71:80 - 404 Not Found
+23.14.132.144:80 - Заголовок не найден
+49.12.211.64:80 - Welcome to nginx!
+23.231.33.234:80 - 407 Proxy Authentication Required
+139.162.132.18:80 - 404 Not Found
+189.230.136.110:80 - Document Error: Not Found
+135.181.212.44:80 - duisenberg.eurobilltracker.com
+114.35.136.149:80 - 
+152.53.35.167:80 - Web Server's Default Page
+45.39.164.99:80 - 403 Forbidden
+16.171.164.212:80 - Test Page for the Apache HTTP Server
+218.158.136.95:80 - harmony&nbsp;-&nbsp;Synology&nbsp;DiskStation
+113.252.66.224:80 - Заголовок не найден
+47.98.126.198:80 - ä¼ä¸å®å¨AIé£æ§å¹³å°
+104.89.224.237:80 - Заголовок не найден
+152.195.53.35:80 - 404 - Not Found
+155.159.143.79:80 - 404 Not Found
+43.207.83.109:80 - MYoACT ENGINE オフィシャルサイト
+96.17.50.167:80 - Заголовок не найден
+34.239.100.141:80 - 403 Forbidden
+103.220.16.221:80 - Please wait, the login page is opening...
+103.68.23.130:80 - Please wait, the login page is opening...
+54.150.85.4:80 - 403 Forbidden
+38.31.165.178:80 - 404 Not Found
+173.194.65.153:80 - 404 Not Found
+23.56.48.40:80 - Заголовок не найден
+23.1.145.180:80 - Заголовок не найден
