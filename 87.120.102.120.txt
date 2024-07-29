@@ -380,3 +380,5 @@
 52.112.238.59 - Заголовок не найден !80!
 34.246.149.144 - 503 Service Temporarily Unavailable !80!
 20.76.54.12 - Заголовок не найден !80!
+192.210.203.226 - nps error !80!
+50.18.183.57 - Apache2 Ubuntu Default Page: It works !80!
