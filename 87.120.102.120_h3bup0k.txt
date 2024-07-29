@@ -114,3 +114,6 @@
 178.79.183.227 - 404 Not Found !80!
 177.47.138.245 -  !80!
 67.205.60.80 - Site not found &middot; DreamHost !80!
+23.216.241.65 - Заголовок не найден !80!
+18.214.236.5 - 404 Not Found !80!
+203.189.97.158 - Apache HTTP Server Test Page powered by CentOS !80!
