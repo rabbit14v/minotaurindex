@@ -1,0 +1,51 @@
+47.103.106.98:80 - 500 Internal Server Error
+88.221.213.153:80 - Заголовок не найден
+58.147.140.35:80 - IIS Windows
+104.108.102.160:80 - Заголовок не найден
+58.64.151.71:80 - Document Moved
+35.201.0.12:80 - Заголовок не найден
+107.154.195.173:80 - Заголовок не найден
+18.164.255.214:80 - Заголовок не найден
+192.185.199.229:80 - Not Acceptable!
+139.59.72.84:80 - Apache2 Ubuntu Default Page: It works
+3.114.180.44:80 - Заголовок не найден
+78.72.72.17:80 - Заголовок не найден
+18.165.109.93:80 - Заголовок не найден
+199.232.98.168:80 - Fastly error: unknown domain 199.232.98.168
+38.152.94.195:80 - ERROR: The requested URL could not be retrieved
+199.115.117.247:80 - 500 Proxy Error
+79.96.68.48:80 - Strona w przygotowaniu...
+16.162.211.135:80 - 405 Method Not Allowed
+176.187.151.19:80 - Maundy - Bootstrap Coming Soon Template
+23.208.46.107:80 - Заголовок не найден
+76.216.201.132:80 - 
+80.211.241.207:80 - Welcome to CentOS
+51.254.115.15:80 - Web Server's Default Page
+172.217.4.174:80 - Google
+8.217.49.176:80 - Welcome to nginx!
+44.202.46.173:80 - Welcome to nginx!
+71.81.40.246:80 - 
+13.201.96.182:80 - 
+153.126.195.65:80 - Test
+198.16.50.194:80 - Заголовок не найден
+70.35.19.2:80 - Apply to Virginia's Community Colleges - Sign In
+143.204.124.251:80 - Заголовок не найден
+181.30.168.58:80 - 401 Authorization Required
+87.107.152.121:80 - Welcome to nginx!
+39.102.92.224:80 - 游戏账号搜索_易天手游账号交易
+85.9.113.80:80 - Заголовок не найден
+94.199.199.66:80 - Заголовок не найден
+18.64.105.202:80 - Заголовок не найден
+195.214.225.141:80 - Nom de domaine rÃ©servÃ© | Groupe Aquitem
+88.218.116.198:80 - Domain Not Found
+104.108.83.113:80 - Заголовок не найден
+83.87.9.110:80 - Hello! Welcome to Synology Web Station!
+196.51.69.214:80 - ERROR: The requested URL could not be retrieved
+104.75.7.130:80 - Заголовок не найден
+103.56.70.167:80 - Universitas Pattimura :: Apps Server
+162.219.251.200:80 - Softaculous Webuzo | Default Website Page
+3.6.193.45:80 - Something went wrong
+112.74.172.146:80 - 403 Forbidden
+203.255.161.241:80 - 이화여자대학교 :: CORE Campus
+35.174.112.190:80 - Заголовок не найден
+188.128.228.132:80 - INSIGNIA | Transport expresowy
