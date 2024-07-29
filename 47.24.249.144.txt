@@ -6922,3 +6922,6 @@ Documentation - Apache HTTP Server Version 2.2
 163.172.182.222:80 - Welcome to nginx!
 20.71.167.236:80 - IIS Windows Server
 52.220.4.107:80 - Заголовок не найден
+114.55.65.40:80 - Welcome to nginx!
+156.224.187.199:80 - Welcome to nginx!
+91.246.36.190:80 - IIS Windows Server
