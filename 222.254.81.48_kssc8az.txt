@@ -11740,3 +11740,154 @@ pentru conservare
 13.249.79.100:80 - Заголовок не найден
 98.10.96.106:80 - 
 59.110.244.19:80 - 阿里云 Web应用防火墙
+128.1.32.25:80 - å®å¡ç½ç«é²ç«å¢åè´¹ç
+206.162.176.70:80 - Comrex ACCESS
+23.192.115.72:80 - Заголовок не найден
+117.148.139.118:80 - Заголовок не найден
+139.180.155.210:80 - Sorry, the website has been stopped
+47.107.83.41:80 - TVU Command Center
+52.4.55.135:80 - Welcome to nginx!
+18.141.68.167:80 - 404 Not Found
+166.226.8.232:80 - 
+5.54.221.210:80 - Заголовок не найден
+104.104.244.182:80 - Заголовок не найден
+108.186.240.55:80 - æ²¡ææ¾å°ç«ç¹
+216.127.59.207:80 - Заголовок не найден
+23.9.218.120:80 - Заголовок не найден
+54.242.140.160:80 - 403 Forbidden
+31.46.187.177:80 - Index of /
+110.239.140.251:80 - 
+101.126.84.69:80 - Not Found
+103.250.6.253:80 - 404 Not Found
+164.132.209.245:80 - 404
+121.254.254.55:80 - Заголовок не найден
+151.236.55.125:80 - Coming Soon - olivenoel.cloud
+23.53.93.61:80 - Заголовок не найден
+18.238.29.202:80 - Заголовок не найден
+129.237.249.225:80 - Заголовок не найден
+52.84.7.219:80 - Заголовок не найден
+46.11.255.183:80 - 
+89.161.144.35:80 - Strona w przygotowaniu...
+188.187.200.24:80 - Заголовок не найден
+88.221.64.202:80 - Заголовок не найден
+113.6.252.36:80 - Заголовок не найден
+23.219.2.92:80 - Заголовок не найден
+104.102.44.13:80 - Заголовок не найден
+20.226.224.7:80 - Your Azure Function App is up and running.
+100.43.13.25:80 - Apogee ResNet
+123.6.38.253:80 - 403 Forbidden
+23.196.219.236:80 - Заголовок не найден
+80.186.157.86:80 - Заголовок не найден
+74.134.106.229:80 - 
+23.8.35.106:80 - Заголовок не найден
+23.223.181.3:80 - Заголовок не найден
+3.163.122.82:80 - Заголовок не найден
+23.41.237.34:80 - Заголовок не найден
+133.232.68.110:80 - 
+172.93.139.94:80 - ERROR: The requested URL could not be retrieved
+4.242.117.70:80 - Заголовок не найден
+51.79.128.177:80 - Заголовок не найден
+67.225.250.17:80 - Заголовок не найден
+221.6.165.67:80 - 403 Forbidden
+23.47.88.203:80 - Заголовок не найден
+138.68.224.118:80 - Заголовок не найден
+141.164.51.214:80 - 404 Not Found
+54.180.205.134:80 - 503 Service Temporarily Unavailable
+52.8.103.67:80 - DOSCI
+184.85.115.81:80 - Заголовок не найден
+47.242.64.219:80 - Welcome to CentOS
+172.83.73.145:80 - Direct IP access not allowed | Cloudflare
+178.74.98.104:80 - 
+50.3.86.185:80 - 407 Proxy Authentication Required
+23.43.210.13:80 - Заголовок не найден
+23.56.233.182:80 - Заголовок не найден
+40.129.52.194:80 - SonicWall - Authentication
+191.83.142.3:80 - Заголовок не найден
+173.223.84.110:80 - Заголовок не найден
+104.168.162.23:80 - Заголовок не найден
+54.184.142.164:80 - We're sorry, but something went wrong (500)
+3.208.134.50:80 - 502 Bad Gateway
+134.209.194.52:80 - Welcome to nginx!
+184.50.112.161:80 - Заголовок не найден
+3.124.61.60:80 - Welcome to nginx!
+34.242.178.102:80 - Заголовок не найден
+20.241.93.180:80 - Заголовок не найден
+18.154.123.232:80 - Заголовок не найден
+184.26.76.128:80 - Заголовок не найден
+183.182.71.237:80 - 403 Forbidden
+202.194.3.255:80 - 404 Not Found
+43.156.65.13:80 - Welcome to nginx!
+184.26.254.143:80 - Заголовок не найден
+85.168.145.40:80 - Login
+199.232.155.109:80 - Fastly error: unknown domain 199.232.155.109
+101.35.52.226:80 - Aiå©æ
+180.149.232.177:80 - RouterOS
+34.231.83.213:80 - Hello World
+72.14.246.160:80 - Error 404 (Not Found)!!1
+212.239.56.74:80 - Prove tecniche di trasmissione
+23.201.95.154:80 - Заголовок не найден
+73.210.94.128:80 - WEB SERVICE
+38.242.238.103:80 - Front Page
+64.22.66.52:80 - Заголовок не найден
+63.134.187.241:80 - RouterOS router configuration page
+198.7.113.162:80 - Заголовок не найден
+63.35.212.241:80 - Kempower Charger simulator
+112.65.132.134:80 - 
+137.184.150.242:80 - Заголовок не найден
+18.165.247.193:80 - Заголовок не найден
+182.242.215.254:80 - Заголовок не найден
+23.222.34.30:80 - Заголовок не найден
+20.248.203.235:80 - Заголовок не найден
+154.64.40.86:80 - Заголовок не найден
+47.207.79.106:80 - Заголовок не найден
+203.137.183.141:80 - Заголовок не найден
+104.21.17.97:80 - Direct IP access not allowed | Cloudflare
+89.223.68.171:80 - The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/home/vk-parser/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/home/vk-parser/storage/framework/sessions/VOqJ57t82g3YkhWdNmGUkKaYAozJkxGiDOHRQ0WP): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+52.193.229.191:80 - Заголовок не найден
+185.100.235.69:80 - Index of /
+146.112.255.161:80 - Proxy Test Page
+157.245.43.252:80 - Заголовок не найден
+23.218.120.57:80 - Заголовок не найден
+47.79.49.237:80 - Заголовок не найден
+87.254.162.115:80 - Заголовок не найден
+141.94.250.241:80 - Apache2 Ubuntu Default Page: It works
+81.90.44.80:80 - Vision64 - Tools Login
+23.215.138.249:80 - Заголовок не найден
+178.163.80.61:80 - index
+167.86.119.155:80 - Welcome to nginx!
+104.115.237.105:80 - Заголовок не найден
+189.39.219.147:80 - Apache HTTP Server Test Page powered by CentOS
+104.70.237.62:80 - Заголовок не найден
+155.159.177.235:80 - 404 Not Found
+94.18.233.56:80 - IIS Windows Server
+124.216.196.230:80 - Заголовок не найден
+71.71.253.88:80 - 
+18.158.221.113:80 - Заголовок не найден
+178.251.136.21:80 - Blocked/Доступ ограничен
+68.183.194.196:80 - Заголовок не найден
+27.147.28.9:80 - 
+76.142.23.81:80 - 
