@@ -1729,3 +1729,150 @@
 217.239.162.78:80 - 2SBM Netzwerk für integrierte Kommunikation &amp; Value Marketing GmbH
 114.41.178.49:80 - Заголовок не найден
 212.225.142.237:80 - WEB SERVICE
+80.229.0.99:80 - Default Site
+210.3.90.242:80 - GWL-HK
+78.47.218.98:80 - Welcome to nginx!
+217.18.85.206:80 - Welcome to CentOS
+178.13.101.32:80 - Default PLESK Page
+23.194.37.29:80 - Заголовок не найден
+112.48.167.220:80 - 403 Forbidden
+174.166.69.150:80 - WEB SERVICE
+45.33.60.93:80 - æ²¡ææ¾å°ç«ç¹
+18.184.205.157:80 - Заголовок не найден
+13.224.66.36:80 - Заголовок не найден
+99.84.234.184:80 - Заголовок не найден
+149.106.226.62:80 - 
+50.109.97.193:80 - Server Error
+52.222.203.112:80 - Заголовок не найден
+13.111.238.132:80 - 403 - Forbidden: Access is denied.
+72.246.47.98:80 - Error
+52.165.148.173:80 - Microsoft Azure Web App - Error 404
+112.170.161.139:80 - Default Site
+47.111.147.200:80 - ç½ç«è®¿é®æ¥é
+109.89.87.38:80 - Заголовок не найден
+13.224.214.72:80 - Заголовок не найден
+103.166.184.251:80 - Sorry, the website has been stopped
+3.11.207.157:80 - IIS Windows Server
+103.68.174.76:80 - Please use the domain name to access
+123.27.152.123:80 - RouterOS router configuration page
+177.20.147.30:80 - Plataforma LoP
+208.52.170.68:80 - Pelican Engineering
+174.176.147.227:80 - Login
+34.155.113.248:80 - Заголовок не найден
+186.129.179.80:80 - Заголовок не найден
+109.205.182.71:80 - Заголовок не найден
+45.167.136.143:80 - Apache2 Debian Default Page: It works
+109.235.66.213:80 - SvetainÄ neegzistuoja
+194.180.191.160:80 - Apache2 Ubuntu Default Page: It works
+3.165.123.140:80 - Заголовок не найден
+74.221.122.200:80 - Заголовок не найден
+23.48.90.44:80 - Заголовок не найден
+52.84.208.22:80 - Заголовок не найден
+38.33.143.73:80 - Заголовок не найден
+178.62.194.35:80 - Заголовок не найден
+104.82.112.173:80 - Заголовок не найден
+104.16.65.214:80 - Direct IP access not allowed | Cloudflare
+168.206.40.99:80 - 404 Not Found
+60.199.235.209:80 - Заголовок не найден
+201.229.111.196:80 - WEB SERVICE
+118.220.213.161:80 - Заголовок не найден
+49.159.95.14:80 - Заголовок не найден
+23.192.157.145:80 - Заголовок не найден
+20.40.8.253:80 - Gaia Project
+45.60.141.187:80 - Заголовок не найден
+213.229.49.105:80 - 403 Forbidden
+23.43.21.199:80 - Заголовок не найден
+3.0.254.236:80 - Mercury Lines &#8211; Just another WordPress site
+172.82.175.82:80 - Заголовок не найден
+165.225.196.105:80 - Internet Security by Zscaler
+50.227.29.163:80 - Error
+203.124.32.61:80 - Login
+23.200.233.28:80 - Заголовок не найден
+66.97.41.208:80 - 
+52.73.167.44:80 - 404 Not Found
+18.167.66.122:80 - Заголовок не найден
+23.53.190.108:80 - Заголовок не найден
+185.133.42.146:80 - Welcome!
+158.199.204.144:80 - 広島針の製造・販売はチューリップ株式会社 - Tulip Company Limited -
+154.41.255.201:80 - 403 Forbidden
+64.40.159.94:80 - Page not found
+202.74.16.193:80 - Заголовок не найден
+110.42.229.232:80 - 404 Not Found
+178.119.251.48:80 - WEB SERVICE
+52.37.40.243:80 - Welcome to nginx!
+80.241.217.205:80 - Apache HTTP Server Test Page powered by CentOS
+23.215.124.103:80 - Заголовок не найден
+23.55.9.190:80 - Заголовок не найден
+117.161.144.84:80 - 404 Not Found
+192.229.162.41:80 - 404 - Not Found
+13.225.11.94:80 - Заголовок не найден
+184.31.205.229:80 - Заголовок не найден
+13.38.14.43:80 - Site is undergoing maintenance
+103.124.105.208:80 - 404 not found
+122.117.209.126:80 - 404 Not Found
+5.185.206.10:80 - 
+83.171.122.211:80 - RouterOS router configuration page
+23.207.92.131:80 - Заголовок не найден
+51.89.21.175:80 - 404 Not Found
+162.159.51.209:80 - Blocked by Cloudflare Gateway
+38.12.83.120:80 - 404 Not Found
+23.223.186.34:80 - Заголовок не найден
+87.27.201.30:80 - Collaboration
+193.70.124.100:80 - Shared IP
+107.173.147.10:80 - Apache2 Ubuntu Default Page: It works
+207.204.30.80:80 - 403 Forbidden
+18.161.95.168:80 - Заголовок не найден
+36.232.226.153:80 - Заголовок не найден
+188.19.85.102:80 - Заголовок не найден
+196.51.152.115:80 - ERROR: The requested URL could not be retrieved
+217.79.255.88:80 - 404 Not Found
+23.203.36.192:80 - Заголовок не найден
+108.163.147.37:80 - Заголовок не найден
+203.242.185.50:80 - Apache Tomcat/5.5.26 - Error report
+23.217.199.179:80 - Заголовок не найден
+44.240.78.150:80 - Metabase
+141.95.100.36:80 - 404 Not Found
+198.23.227.39:80 - 电竞竞猜- 竞猜网站导航
+47.236.88.26:80 - nps error
+72.230.209.147:80 - 
+23.56.43.6:80 - Заголовок не найден
+200.50.252.33:80 - 
+123.60.203.224:80 - 403 Forbidden
+91.238.10.6:80 - Компания ЗЕНОН: материалы, оборудование и технологии для рекламного производства
+34.241.241.166:80 - Заголовок не найден
+192.169.150.84:80 - VFT SOLUTION (PVT) LTD. | Visual Future Technology | Software Solution | Web Development | CCTV Camera | Sri Lanka web development | software development | Human Resource Management | Web Design | Best web design | Creative web design sri lanka | Customized software development | Web design company Sri lanka | Web development company Sri lanka | software development company sri lanka | software | online Time Attendance sri lanka | CCTV Camera | IP Camera | Online HRM System | Online Human Resource Management System
+81.149.193.83:80 - 300Mbps Wireless N ADSL2+ Modem Router TD-W8960N
+41.78.156.173:80 - Welcome to nginx!
+104.253.244.28:80 - 403 Forbidden
+103.116.159.10:80 - 403 Forbidden
+91.241.59.15:80 - Welcome to nginx!
+91.231.235.58:80 - Welcome to nginx!
+108.156.7.215:80 - Заголовок не найден
+171.6.153.211:80 - 
+5.161.199.174:80 - Welcome to nginx!
+192.185.147.126:80 - Not Acceptable!
+87.120.253.50:80 - Home | 87.120.253.50
+35.180.30.37:80 - IIS Windows Server
+24.177.64.114:80 - 
+104.195.21.9:80 - Заголовок не найден
+79.164.41.225:80 - 403 Forbidden
+79.96.210.104:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+154.26.173.100:80 - ERROR: The requested URL could not be retrieved
+67.240.113.18:80 - 
+103.22.220.135:80 - KAIST FTP TEST
+220.146.38.59:80 - Apache2 Debian Default Page: It works
+115.126.72.163:80 - Заголовок не найден
+23.67.25.31:80 - Заголовок не найден
+202.164.239.145:80 - È¡´Û´Ñ¸÷Î¹¹Ô¤Ï¥¹¥Þ¥¤¥ë¥¿¥¯¥·¡¼ | Æ»Æî¥Ï¥¤¥ä¡¼ | ÃÏ°èNo.1ÌÜ»Ø¤·¤Þ¤¹¡ª
+42.112.243.184:80 - Заголовок не найден
+195.201.9.146:80 - Apache2 Ubuntu Default Page: It works
+158.51.52.182:80 - Заголовок не найден
+18.238.108.86:80 - Заголовок не найден
+80.74.137.6:80 - www.oliviaruprecht.ch
+106.15.234.18:80 - æ²¡ææ¾å°ç«ç¹
+68.154.109.86:80 - Mushroom Cloud Small Language Module
+115.28.10.197:80 - Заголовок не найден
+65.188.249.210:80 - 
+139.177.195.38:80 - Apache2 Debian Default Page: It works
+167.172.77.212:80 - Apache2 Ubuntu Default Page: It works
+3.96.55.34:80 - Welcome to nginx!
