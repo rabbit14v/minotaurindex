@@ -468,3 +468,23 @@
 91.204.64.228:80 - Welcome to nginx!
 211.87.195.74:80 - 404 Not Found
 199.91.97.123:80 - Index of /
+37.59.167.19:80 - Neftis - Bientot disponible ....
+185.47.156.193:80 - 403 Forbidden
+80.15.99.114:80 - IIS Windows Server
+52.0.196.203:80 - Заголовок не найден
+23.197.27.213:80 - Заголовок не найден
+196.51.4.248:80 - ERROR: The requested URL could not be retrieved
+23.77.145.232:80 - Заголовок не найден
+139.196.103.109:80 - ERROR: The requested URL could not be retrieved
+104.125.91.146:80 - Заголовок не найден
+139.155.94.118:80 - MCCæ¥è¯¢_MCCç§¯åæ¥è¯¢_æè¡å¹¿åäº¤éæ°çé»ååæ¥è¯¢_æ¯ä»çç§æ¥è¯¢
+157.65.19.226:80 - Заголовок не найден
+118.99.51.26:80 - Заголовок не найден
+38.48.170.245:80 - Заголовок не найден
+185.239.216.36:80 - Apache2 Debian Default Page: It works
+130.162.195.151:80 - CasaOS
+154.194.175.109:80 - 404 Not Found
+46.248.178.4:80 - Tworzymy wyjątkowe konstrukcje stalowe, z aluminium, ze szkła - Dandav
+35.154.192.183:80 - 503 Service Temporarily Unavailable
+23.14.32.188:80 - Заголовок не найден
+172.64.156.224:80 - Direct IP access not allowed | Cloudflare
