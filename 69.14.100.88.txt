@@ -3327,3 +3327,32 @@
 44.240.106.118:80 - Заголовок не найден
 18.244.202.202:80 - Заголовок не найден
 139.59.237.225:80 - RETRO777 SITUS DAFTAR JUDI ONLINE PAY4D TERPERCAYA
+35.200.245.25:80 - Rebate_v2
+3.22.55.203:80 - 503 Service Temporarily Unavailable
+79.114.156.198:80 - 
+156.67.75.175:80 - 403 Forbidden
+203.169.123.49:80 - Заголовок не найден
+18.135.232.128:80 - 403 Forbidden
+104.24.146.75:80 - Direct IP access not allowed | Cloudflare
+120.201.47.2:80 - 403 Forbidden
+184.50.151.213:80 - Заголовок не найден
+171.229.210.234:80 - MobiProxy
+64.233.163.119:80 - Google
+176.32.152.97:80 - Заголовок не найден
+169.50.188.102:80 - Заголовок не найден
+165.232.176.124:80 - NiceSnippets | IT | Web | Code Blog Tutorials
+192.126.204.106:80 - ERROR: The requested URL could not be retrieved
+18.156.211.201:80 - Заголовок не найден
+211.43.14.135:80 - URP 검색 시스템
+88.34.149.18:80 - 
+43.138.188.180:80 - 404 Not Found
+178.62.137.44:80 - 502 Bad Gateway
+96.78.204.118:80 - Apache2 Ubuntu Default Page: It works
+150.109.150.162:80 - Заголовок не найден
+202.83.168.1:80 - .:: Welcome to the Web-Based Configurator::.
+167.103.10.140:80 - Internet Security by Zscaler
+62.204.248.203:80 - PÅihlÃ¡sit se
+89.190.74.189:80 - IIS Windows Server
+44.240.106.118:80 - Заголовок не найден
+18.244.202.202:80 - Заголовок не найден
+139.59.237.225:80 - RETRO777 SITUS DAFTAR JUDI ONLINE PAY4D TERPERCAYA
