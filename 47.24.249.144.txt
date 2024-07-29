@@ -1287,3 +1287,25 @@ Documentation - Apache HTTP Server Version 2.2
 68.66.248.25:80 - Заголовок не найден
 108.61.148.121:80 - Welcome to nginx!
 129.118.186.85:80 - IIS Windows Server
+2.20.100.112:80 - Заголовок не найден
+117.52.145.146:80 - Cannot find server
+85.105.177.206:80 - Заголовок не найден
+23.231.50.130:80 - 403 Forbidden
+38.207.213.222:80 - Sorry, the website has been stopped
+157.7.172.88:80 - 404 Not Found
+171.103.24.78:80 - Welcome to nginx!
+119.42.75.44:80 - 403 Forbidden
+34.30.190.145:80 - FUTURA100
+84.145.121.182:80 - IIS Windows
+135.181.14.217:80 - 404 Not Found
+185.2.5.15:80 - 410 Gone
+192.95.23.164:80 - Заголовок не найден
+138.113.171.32:80 - RP8888: Situs Slot Online Terbaik dan Terbaru di Indonesia
+148.216.120.94:80 - AXIS
+72.246.152.127:80 - Заголовок не найден
+49.12.84.126:80 - Success!
+165.227.123.115:80 - Wiki
+103.241.43.95:80 - Заголовок не найден
+3.161.79.132:80 - Заголовок не найден
+206.189.98.215:80 - Welcome to nginx!
+193.159.232.33:80 - EuroNet - Informationen zur W&auml;hrungsunion
