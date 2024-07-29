@@ -1715,3 +1715,4 @@ Documentation - Apache HTTP Server Version 2.2
 69.192.132.219:80 - Заголовок не найден
 177.84.12.26:80 - 
 104.20.176.200:80 - Direct IP access not allowed | Cloudflare
+192.177.177.210:80 - 403 Forbidden
