@@ -1307,3 +1307,23 @@
 23.211.11.99 - Заголовок не найден !80!
 23.50.90.7 - Заголовок не найден !80!
 151.101.35.82 - Fastly error: unknown domain 151.101.35.82 !80!
+207.154.247.192 - Головна - Upshift - Україна !80!
+103.113.98.51 - Please wait, the page is opening... !80!
+173.222.49.134 - Заголовок не найден !80!
+79.112.254.242 - WEB SERVICE !80!
+104.129.166.203 - Direct IP access not allowed | Cloudflare !80!
+23.14.38.185 - Заголовок не найден !80!
+141.148.243.186 - Apache2 Debian Default Page: It works !80!
+194.15.104.30 - ERROR: The requested URL could not be retrieved !80!
+45.87.43.148 - 404 Not Found !80!
+199.232.226.135 - Fastly error: unknown domain 199.232.226.135 !80!
+184.30.7.84 - Заголовок не найден !80!
+23.88.100.98 - Welcome to noengi !80!
+68.183.231.43 - 404 Not Found !80!
+172.232.68.75 - Success! !80!
+176.97.26.44 - mikrotik routeros > administration !80!
+115.146.116.99 - Заголовок не найден !80!
+173.208.167.190 -  !80!
+192.136.160.35 - APMax Webserver !80!
+89.238.202.12 - Заголовок не найден !80!
+116.163.41.158 - 此IP地址不允许直接访问 | SCDN !80!
