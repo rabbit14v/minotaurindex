@@ -4675,3 +4675,46 @@
 106.96.23.105:80 - Заголовок не найден
 184.25.143.40:80 - Заголовок не найден
 140.82.3.184:80 - Welcome to nginx!
+15.207.218.62:80 - 404 Not Found
+51.89.25.224:80 - Dreamz Wallet &#8211; Your Dream Payment Wallet
+190.85.239.80:80 - 403 Forbidden
+107.162.138.170:80 - Request Rejected
+18.238.181.157:80 - Заголовок не найден
+54.38.55.149:80 - Apraksja.pl - prace serwisowe
+13.200.253.198:80 - My Mandi
+154.7.134.81:80 - Apache HTTP Server Test Page powered by CentOS
+193.218.201.6:80 - æ²¡ææ¾å°ç«ç¹
+104.106.175.45:80 - Заголовок не найден
+159.192.193.212:80 - 403 Forbidden
+93.89.203.66:80 - 
+192.229.202.82:80 - 404 - Not Found
+47.251.8.129:80 - ç½ç«è®¿é®æ¥é
+172.67.165.62:80 - Direct IP access not allowed | Cloudflare
+159.89.242.101:80 - ONRUT Ecuador | Sistema de Turnos y Atencion al Cliente
+107.154.230.137:80 - Заголовок не найден
+106.119.173.227:80 - 404 Not Found
+184.29.76.98:80 - Заголовок не найден
+54.80.29.244:80 - Заголовок не найден
+168.150.228.177:80 - 403 Forbidden
+103.235.250.17:80 - Welcome to nginx!
+104.16.199.70:80 - Direct IP access not allowed | Cloudflare
+3.165.247.68:80 - Заголовок не найден
+155.159.194.92:80 - 404 Not Found
+104.17.187.67:80 - Direct IP access not allowed | Cloudflare
+185.121.169.191:80 - Sorry, the website has been stopped
+52.83.139.218:80 - CamScanner: text and image scanning and recognition, PDF to Word, document format conversion, online editor
+66.151.76.178:80 - Certified Public Accountant - Pasadena, Texas | Melinda A. Haas PC.
+109.203.100.111:80 - RGL Electronics
+18.165.117.187:80 - Заголовок не найден
+104.74.63.53:80 - Заголовок не найден
+54.88.229.103:80 - Заголовок не найден
+34.95.40.160:80 - Заголовок не найден
+3.72.219.130:80 - 404 Not Found
+23.51.69.134:80 - Заголовок не найден
+38.14.195.157:80 - 404 Not Found
+74.208.12.111:80 - 403 Forbidden
+213.159.144.175:80 - Mobile, Internet, TV &amp; Festnetz für Privat- &amp; Businesskunden | Rii Seez Net
+173.162.82.242:80 - Заголовок не найден
+77.55.165.192:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+52.222.217.43:80 - Заголовок не найден
+89.161.214.188:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
