@@ -468,3 +468,15 @@
 59.127.235.237 -  !80!
 34.142.30.147 - Site Not Configured | 404 Not Found !80!
 103.40.116.156 - Apache HTTP Server Test Page powered by CentOS !80!
+23.204.166.211 - Заголовок не найден !80!
+173.240.150.17 - Hosted By BisectHosting - BisectHosting !80!
+119.221.206.23 - Заголовок не найден !80!
+156.56.66.204 - Заголовок не найден !80!
+20.242.182.205 - Your Azure Function App is up and running. !80!
+134.122.15.2 - Nothing to Look at !80!
+193.181.23.199 - 500 Internal Server Error !80!
+23.49.36.53 - Заголовок не найден !80!
+154.220.52.163 - 403 Forbidden !80!
+24.51.81.192 -  !80!
+193.42.157.135 - 403 Forbidden !80!
+192.177.73.58 - 404 Not Found !80!
