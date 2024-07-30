@@ -1950,3 +1950,10 @@
 83.133.246.101:80 - Web Server's Default Page
 3.215.250.37:80 - 403 Forbidden
 104.18.8.158:80 - Direct IP access not allowed | Cloudflare
+165.22.222.7:80 - CollaborationRoom.AI
+43.129.162.173:80 - Заголовок не найден
+89.161.173.34:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+188.172.118.137:80 - Заголовок не найден
+23.43.34.44:80 - Заголовок не найден
+183.78.170.68:80 - Заголовок не найден
+106.14.78.178:80 - BC1600
