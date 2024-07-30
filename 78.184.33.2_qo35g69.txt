@@ -5851,3 +5851,179 @@
 39.105.119.2:80 - ç½ç«è®¿é®æ¥é
 44.238.246.140:80 - Заголовок не найден
 127.243.167.181:80 - IIS Windows Server
+127.182.64.79:80 - IIS Windows Server
+206.119.20.138:80 - 403 Forbidden
+127.203.30.251:80 - IIS Windows Server
+127.191.114.191:80 - IIS Windows Server
+202.146.223.157:80 - 404 Not Found
+127.152.122.50:80 - IIS Windows Server
+52.217.236.226:80 - Amazon S3 - Cloud Object Storage  - AWS
+120.48.20.77:80 - 404 Not Found
+162.217.96.173:80 - Error
+127.26.31.77:80 - IIS Windows Server
+104.24.137.100:80 - Direct IP access not allowed | Cloudflare
+51.91.99.114:80 - 503 Service Temporarily Unavailable
+37.1.110.178:80 - 403 Forbidden
+93.199.232.156:80 - 
+13.33.156.244:80 - Заголовок не найден
+127.220.240.158:80 - IIS Windows Server
+18.168.96.179:80 - 404 Not Found
+192.197.251.56:80 - 403 - Forbidden: Access is denied.
+127.140.201.41:80 - IIS Windows Server
+96.9.35.144:80 - 403 Forbidden
+18.160.181.193:80 - Заголовок не найден
+152.136.202.12:80 - Заголовок не найден
+208.106.249.248:80 - Заголовок не найден
+13.224.166.57:80 - Заголовок не найден
+139.59.92.237:80 - Заголовок не найден
+85.235.147.71:80 - GlobaLeaks
+18.167.47.80:80 - Welcome to nginx!
+69.28.95.113:80 - .:Cash Advance:.
+127.14.174.255:80 - IIS Windows Server
+68.182.243.219:80 - Заголовок не найден
+52.8.86.177:80 - KAKAO / Login
+114.143.27.2:80 - IIS Windows Server
+127.78.19.110:80 - IIS Windows Server
+47.92.194.214:80 - å¥½ä¸è¥¿ï¼ä¸ç½æ¿ï¼é¦å®¶ç©è¶£æ¨ªççè´­ç©æå¡å¹³å°ââäºå°è±-åå
+127.119.179.153:80 - IIS Windows Server
+18.172.44.210:80 - Заголовок не найден
+140.238.135.164:80 - Заголовок не найден
+131.72.237.86:80 - Заголовок не найден
+179.52.224.169:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+127.215.73.199:80 - IIS Windows Server
+127.45.172.34:80 - IIS Windows Server
+111.89.142.62:80 - Заголовок не найден
+127.243.147.245:80 - IIS Windows Server
+159.69.207.104:80 - Welcome to nginx!
+127.78.186.205:80 - IIS Windows Server
+176.99.11.159:80 - Агентство недвижимости в Сочи Vertex — Недвижимость Сочи
+18.66.229.9:80 - Заголовок не найден
+146.19.233.242:80 - Заголовок не найден
+1.34.173.137:80 - DVR
+127.74.8.122:80 - IIS Windows Server
+191.252.48.159:80 - Заголовок не найден
+20.237.142.251:80 - Заголовок не найден
+127.168.135.120:80 - IIS Windows Server
+85.214.138.132:80 - Web Server's Default Page
+127.46.243.146:80 - IIS Windows Server
+213.194.141.11:80 - WEB SERVICE
+109.69.108.254:80 - 407 Proxy Authentication Required
+104.164.109.90:80 - 403 Forbidden
+66.11.118.112:80 - Apache2 Debian Default Page: It works
+3.12.203.4:80 - Account Lookup
+127.233.119.69:80 - IIS Windows Server
+127.242.96.249:80 - IIS Windows Server
+127.247.88.60:80 - IIS Windows Server
+102.134.38.28:80 - 403 Forbidden
+40.117.149.71:80 - Заголовок не найден
+162.254.39.175:80 - Jordan eVisa | Apply for Jordan Visa Online
+18.181.101.78:80 - Заголовок не найден
+127.249.180.170:80 - IIS Windows Server
+127.26.207.104:80 - IIS Windows Server
+127.71.114.159:80 - IIS Windows Server
+127.197.152.180:80 - IIS Windows Server
+127.86.109.15:80 - IIS Windows Server
+127.127.209.121:80 - IIS Windows Server
+3.7.62.151:80 - 401 Authorization Required
+187.174.101.178:80 - 403 Forbidden
+45.243.131.231:80 - Заголовок не найден
+52.194.76.7:80 - Заголовок не найден
+162.55.153.145:80 - 404 Not Found
+51.89.165.84:80 - 404 Not Found
+127.233.163.101:80 - IIS Windows Server
+104.223.126.52:80 - 404 Not Found
+127.56.199.151:80 - IIS Windows Server
+127.118.45.111:80 - IIS Windows Server
+127.210.161.212:80 - IIS Windows Server
+94.242.229.110:80 - Direct IP access not allowed | Cloudflare
+117.232.101.229:80 - About Us
+127.19.81.2:80 - IIS Windows Server
+127.208.135.183:80 - IIS Windows Server
+34.193.68.211:80 - Заголовок не найден
+128.119.110.159:80 - 403 - Forbidden: Access is denied.
+127.29.56.156:80 - IIS Windows Server
+127.30.13.64:80 - IIS Windows Server
+127.232.121.154:80 - IIS Windows Server
+127.148.96.189:80 - IIS Windows Server
+47.107.96.248:80 - Заголовок не найден
+223.109.123.17:80 - Заголовок не найден
+127.54.42.193:80 - IIS Windows Server
+66.248.198.31:80 - Hosted By BisectHosting - BisectHosting
+127.61.219.250:80 - IIS Windows Server
+184.27.138.31:80 - Заголовок не найден
+127.246.255.148:80 - IIS Windows Server
+38.182.173.164:80 - 403 Forbidden
+127.207.18.201:80 - IIS Windows Server
+108.156.24.221:80 - Заголовок не найден
+127.108.145.201:80 - IIS Windows Server
+95.217.231.18:80 - Welcome to nginx!
+127.149.91.205:80 - IIS Windows Server
+23.32.191.73:80 - Заголовок не найден
+127.66.162.31:80 - IIS Windows Server
+34.252.224.76:80 - 502 Bad Gateway
+127.243.72.66:80 - IIS Windows Server
+212.227.144.60:80 - Web Server's Default Page
+127.170.240.156:80 - IIS Windows Server
+207.228.230.234:80 - Заголовок не найден
+13.32.2.150:80 - Заголовок не найден
+13.249.152.79:80 - Заголовок не найден
+52.32.80.251:80 - Заголовок не найден
+47.132.226.50:80 - 
+156.224.39.167:80 - 403 Forbidden
+111.171.127.196:80 - 
+127.130.248.119:80 - IIS Windows Server
+80.211.220.47:80 - Apache2 Ubuntu Default Page: It works
+34.130.20.230:80 - Заголовок не найден
+160.121.54.53:80 - 404 Not Found
+154.195.65.240:80 - 404 Not Found
+18.140.219.202:80 - HTTP Status 404 – Not Found
+127.234.17.247:80 - IIS Windows Server
+127.164.126.254:80 - IIS Windows Server
+154.203.125.236:80 - 404 Not Found
+40.119.40.91:80 - Заголовок не найден
+127.165.175.66:80 - IIS Windows Server
+123.6.81.243:80 - 404 Not Found
+127.15.168.186:80 - IIS Windows Server
+88.157.214.51:80 - 
+127.44.98.102:80 - IIS Windows Server
+127.251.23.151:80 - IIS Windows Server
+175.178.120.9:80 - Welcome to nginx 222222!
+127.48.48.72:80 - IIS Windows Server
+23.36.248.139:80 - Заголовок не найден
+127.161.17.110:80 - IIS Windows Server
+203.122.10.30:80 - Заголовок не найден
+18.168.217.113:80 - Заголовок не найден
+51.21.47.25:80 - Plan-B
+127.53.27.184:80 - IIS Windows Server
+127.42.140.124:80 - IIS Windows Server
+127.216.148.115:80 - IIS Windows Server
+139.9.32.118:80 - 404 Not Found
+71.217.0.73:80 - 
+127.161.158.42:80 - IIS Windows Server
+127.129.222.37:80 - IIS Windows Server
+67.22.32.227:80 - Welcome to nginx!
+206.233.253.45:80 - 404 Not Found
+127.74.245.42:80 - IIS Windows Server
+127.101.58.165:80 - IIS Windows Server
+127.174.100.88:80 - IIS Windows Server
+127.58.157.55:80 - IIS Windows Server
+192.16.58.97:80 - 404 - Not Found
+23.63.174.135:80 - Заголовок не найден
+127.185.138.76:80 - IIS Windows Server
+127.181.235.76:80 - IIS Windows Server
+127.85.49.184:80 - IIS Windows Server
+152.207.31.86:80 - Заголовок не найден
+127.113.231.78:80 - IIS Windows Server
+127.153.193.51:80 - IIS Windows Server
+58.194.182.59:80 - 404 Not Found
+127.75.230.202:80 - IIS Windows Server
+127.254.46.59:80 - IIS Windows Server
+127.110.250.206:80 - IIS Windows Server
+54.192.4.59:80 - Заголовок не найден
+127.2.62.104:80 - IIS Windows Server
+109.205.186.202:80 - Заголовок не найден
+127.109.204.66:80 - IIS Windows Server
+127.65.56.159:80 - IIS Windows Server
+104.24.77.222:80 - Direct IP access not allowed | Cloudflare
+64.182.49.231:80 - ERROR: The requested URL could not be retrieved
+127.118.179.33:80 - IIS Windows Server
