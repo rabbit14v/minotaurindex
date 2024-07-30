@@ -2083,3 +2083,216 @@
 27.77.81.193:80 - Заголовок не найден
 31.172.109.237:80 - Error 404 (Not Found)!!1
 20.67.151.4:80 - Microsoft Azure Web App - Error 404
+127.112.49.116:80 - IIS Windows
+121.41.82.168:80 - Заголовок не найден
+45.41.84.94:80 - 404 Not Found
+134.209.24.74:80 - 403 Forbidden
+80.232.218.239:80 - RouterOS router configuration page
+3.110.54.30:80 - 404 Not Found
+3.76.119.201:80 - IBL - IOPEDIA
+162.159.5.248:80 - Direct IP access not allowed | Cloudflare
+146.148.129.72:80 - 404 Not Found
+43.136.99.199:80 - 404 Not Found
+23.45.53.40:80 - Заголовок не найден
+172.66.201.238:80 - Direct IP access not allowed | Cloudflare
+35.246.43.210:80 - Заголовок не найден
+127.132.42.71:80 - IIS Windows
+45.80.71.6:80 - FASTPANEL
+85.111.4.19:80 - 404 Not Found
+94.241.244.142:80 - Заголовок не найден
+198.41.221.167:80 - Direct IP access not allowed | Cloudflare
+127.138.229.65:80 - IIS Windows
+127.94.157.160:80 - IIS Windows
+127.187.69.151:80 - IIS Windows
+154.49.243.98:80 - Web Server's Default Page
+154.201.239.252:80 - Welcome to nginx!
+212.186.204.170:80 - Заголовок не найден
+223.130.24.153:80 - Заголовок не найден
+127.98.193.244:80 - IIS Windows
+109.228.131.230:80 - 
+158.255.74.103:80 - Заголовок не найден
+81.90.121.203:80 - Заголовок не найден
+127.75.9.202:80 - IIS Windows
+3.123.234.148:80 - Amazon Jobs.
+127.128.151.221:80 - IIS Windows
+172.243.176.114:80 - Заголовок не найден
+127.237.125.156:80 - IIS Windows
+77.237.89.242:80 - Заголовок не найден
+146.247.65.90:80 - 406 Not Acceptable
+127.208.175.33:80 - IIS Windows
+144.208.73.54:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+213.241.15.132:80 - Wywiadownia gospodarcza, raporty handlowe, wywiad gospodarczy, raporty gospodarcze, sprawdzanie firm zagranicznych, windykacja mi&#281;dzynarodowa i krajowa, windykacja masowa, wyjawienie maj&#261;tku, wyjawienie nieruchomo&#347;ci i ruchomo&#347;ci, certyfikaty wiarygodno&#347;ci firm, poszukiwania d&#322;u&#380;nika, detektyw gospodarczy.  | Creditreform Polska Sp. z o.o.
+127.162.170.253:80 - IIS Windows
+180.76.100.20:80 - 长春巨程光学有限公司
+106.54.246.66:80 - çº¸é¸¢ç«¥ä¹¦é¦åå°ç®¡çç³»ç»
+77.26.134.27:80 - 403 - Forbidden
+57.180.225.8:80 - Заголовок не найден
+18.200.43.205:80 - Заголовок не найден
+186.226.160.227:80 - nsi.ntieunapolis.com.br | 526: Invalid SSL certificate
+127.37.24.142:80 - IIS Windows
+127.97.7.124:80 - IIS Windows
+104.232.138.137:80 - Заголовок не найден
+3.112.69.153:80 - 401 Authorization Required
+127.55.92.102:80 - IIS Windows
+185.193.29.53:80 - Direct IP access not allowed | Cloudflare
+127.100.169.25:80 - IIS Windows
+154.198.33.187:80 - 401 Unauthorized
+127.62.124.63:80 - IIS Windows
+146.83.210.103:80 - Carga Horaria
+127.134.207.223:80 - IIS Windows
+127.132.249.149:80 - IIS Windows
+127.157.250.142:80 - IIS Windows
+127.104.228.207:80 - IIS Windows
+50.2.172.150:80 - 403 Forbidden
+158.199.112.49:80 - 403 Forbidden
+185.176.26.227:80 - Direct IP access not allowed | Cloudflare
+127.247.209.160:80 - IIS Windows
+50.245.219.34:80 - Заголовок не найден
+41.38.163.77:80 - 404 Not Found
+127.114.38.157:80 - IIS Windows
+72.8.242.58:80 - Заголовок не найден
+127.168.135.235:80 - IIS Windows
+127.117.90.71:80 - IIS Windows
+18.155.38.33:80 - Заголовок не найден
+2.21.177.65:80 - Заголовок не найден
+82.66.40.240:80 - Заголовок не найден
+38.11.37.3:80 - 403 Forbidden
+127.212.36.123:80 - IIS Windows
+127.252.134.147:80 - IIS Windows
+23.47.182.201:80 - Заголовок не найден
+104.206.145.111:80 - 404 Not Found
+87.226.21.130:80 - 406 Not Acceptable
+87.140.48.120:80 - Заголовок не найден
+42.193.141.207:80 - 404 Not Found
+189.240.61.89:80 - Заголовок не найден
+127.84.76.47:80 - IIS Windows
+36.99.96.133:80 - 403 Forbidden
+127.92.27.19:80 - IIS Windows
+184.84.84.150:80 - Заголовок не найден
+3.124.29.56:80 - 403 - Forbidden: Access is denied.
+127.48.204.102:80 - IIS Windows
+38.148.130.8:80 - Заголовок не найден
+45.38.32.235:80 - 403 Forbidden
+127.154.199.70:80 - IIS Windows
+168.158.199.244:80 - Заголовок не найден
+52.55.83.129:80 - Заголовок не найден
+46.105.88.106:80 - Заголовок не найден
+127.167.80.68:80 - IIS Windows
+23.207.157.163:80 - Заголовок не найден
+127.109.246.220:80 - IIS Windows
+167.71.11.189:80 - 404 Not Found
+84.220.116.55:80 - NethServer Enterprise
+127.209.121.66:80 - IIS Windows
+127.12.87.76:80 - IIS Windows
+20.14.237.121:80 - Your Azure Function App is up and running.
+52.56.203.81:80 - Заголовок не найден
+13.235.209.119:80 - Заголовок не найден
+127.95.50.64:80 - IIS Windows
+112.50.109.144:80 - 403 Forbidden
+127.111.98.104:80 - IIS Windows
+104.20.42.173:80 - Direct IP access not allowed | Cloudflare
+127.224.127.172:80 - IIS Windows
+127.25.110.27:80 - IIS Windows
+154.194.142.197:80 - Заголовок не найден
+127.144.192.163:80 - IIS Windows
+127.173.30.165:80 - IIS Windows
+127.93.146.237:80 - IIS Windows
+193.70.25.23:80 - LICIEL Diagnostics, logiciel référence des diagnostiqueurs
+2.22.123.20:80 - Заголовок не найден
+94.126.173.243:80 - Domain Default page
+34.237.124.234:80 - UrbanSDK
+125.229.152.136:80 - 
+70.134.36.150:80 - Web Viewer for Samsung DVR
+184.31.124.137:80 - Заголовок не найден
+71.73.3.65:80 - 
+120.76.192.122:80 - 404 Not Found
+127.236.129.148:80 - IIS Windows
+127.10.63.242:80 - IIS Windows
+3.160.181.254:80 - Заголовок не найден
+89.161.150.47:80 - Strona w przygotowaniu...
+155.248.240.240:80 - Index of /
+150.60.35.166:80 - Заголовок не найден
+40.115.187.231:80 - Заголовок не найден
+154.41.225.74:80 - 403 Forbidden
+38.173.35.2:80 - 404 Not Found
+186.136.208.42:80 - 
+127.208.89.47:80 - IIS Windows
+88.114.234.17:80 - 
+97.77.65.190:80 - Document Moved
+156.241.93.121:80 - 404 Not Found
+127.71.247.154:80 - IIS Windows
+117.120.10.91:80 - The Book House
+92.117.31.122:80 - Index of /
+113.141.164.197:80 - 403 Forbidden
+104.96.159.111:80 - Заголовок не найден
+52.87.108.0:80 - Заголовок не найден
+127.239.2.9:80 - IIS Windows
+113.198.55.167:80 - 
+1.235.243.157:80 - Hello! Welcome to Synology Web Station!
+45.92.10.42:80 - Dutafilm - Nonton Movie Bioskop Rebahin LK21 Dunia21 IndoXXI
+154.209.170.109:80 - 404 Not Found
+127.14.169.214:80 - IIS Windows
+127.111.154.143:80 - IIS Windows
+3.108.142.137:80 - Investifyd | Trusted mutual fund partner to a secure future
+185.235.176.124:80 - Заголовок не найден
+127.214.185.233:80 - IIS Windows
+213.176.109.12:80 - Заголовок не найден
+127.204.33.123:80 - IIS Windows
+127.195.94.103:80 - IIS Windows
+203.201.164.122:80 - Test Page for the HTTP Server on AlmaLinux
+103.159.34.247:80 - Please wait, the page is opening...
+94.26.228.142:80 - Welcome to nginx!
+127.214.45.163:80 - IIS Windows
+152.70.86.186:80 - Заголовок не найден
+8.209.206.27:80 - Welcome to nginx!
+137.220.224.248:80 - 400 - 錯誤請求
+122.178.12.158:80 - Device Client
+127.47.238.19:80 - IIS Windows
+119.236.93.66:80 - Hello! Welcome to Synology Web Station!
+127.58.100.213:80 - IIS Windows
+127.42.245.197:80 - IIS Windows
+127.62.29.155:80 - IIS Windows
+39.103.153.119:80 - âäºèç½+å®¶âç»¼åæå¡å¹³å°
+23.217.69.143:80 - Заголовок не найден
+31.131.3.141:80 - Method Not Allowed
+154.210.24.46:80 - æ²¡ææ¾å°ç«ç¹
+155.159.151.205:80 - 404 Not Found
+127.67.103.28:80 - IIS Windows
+101.44.203.239:80 - Versace Slots
+127.145.218.55:80 - IIS Windows
+127.176.227.189:80 - IIS Windows
+102.42.243.56:80 - Redirection Page
+104.16.55.229:80 - Direct IP access not allowed | Cloudflare
+95.217.162.218:80 - Welcome to nginx!
+184.84.198.210:80 - Заголовок не найден
+120.76.137.204:80 - 403 Forbidden
+162.55.62.72:80 - 403 Forbidden
+4.207.161.79:80 - Your Azure Function App is up and running.
+127.197.223.5:80 - IIS Windows
+127.81.29.0:80 - IIS Windows
+127.58.252.25:80 - IIS Windows
+18.141.100.76:80 - Заголовок не найден
+65.9.93.5:80 - Заголовок не найден
+38.47.242.150:80 - 404 Not Found
+127.145.127.134:80 - IIS Windows
+127.3.155.251:80 - IIS Windows
+121.41.87.230:80 - Заголовок не найден
+35.193.67.73:80 - Заголовок не найден
+67.227.182.136:80 - Paradox Technology &bull; Paradox Technology Consulting And Solutions
+168.119.226.26:80 - 404 Not Found
+18.66.75.103:80 - Заголовок не найден
+94.75.241.18:80 - Заголовок не найден
+82.211.208.68:80 - Заголовок не найден
+14.175.74.167:80 - 
+147.8.125.6:80 - Заголовок не найден
+217.76.142.117:80 - Заголовок не найден
+108.186.19.147:80 - Заголовок не найден
+23.66.106.88:80 - Заголовок не найден
+127.119.13.98:80 - IIS Windows
+132.147.7.211:80 - 
+52.52.223.95:80 - Eternal Life
+127.101.69.48:80 - IIS Windows
+102.212.104.232:80 - ePMP
+127.220.36.91:80 - IIS Windows
+3.233.102.229:80 - Baredes App
+149.96.187.35:80 - 403 Forbidden
