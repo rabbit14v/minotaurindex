@@ -2301,3 +2301,9 @@
 20.82.202.120:80 - Microsoft Azure Web App - Error 404
 102.128.168.242:80 - RouterOS router configuration page
 104.68.104.231:80 - Заголовок не найден
+87.106.54.116:80 - Default Parallels Plesk Panel Page
+3.8.47.198:80 - 404 Not Found
+52.226.122.220:80 - Icecast Streaming Media Server
+23.202.158.10:80 - Заголовок не найден
+166.145.181.229:80 - Заголовок не найден
+85.153.20.181:80 - Index of /
