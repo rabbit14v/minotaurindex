@@ -13053,3 +13053,28 @@
 13.39.18.167 - Tarificador PDU !80!
 165.22.240.241 - Dhagatha - Books, Stationeries, Toys and leading book publisher from Maldives !80!
 38.180.117.11 - Заголовок не найден !80!
+192.219.254.67 - Apache HTTP Server Test Page powered by CentOS !80!
+186.60.48.251 - Заголовок не найден !80!
+121.41.169.47 - 404 Not Found !80!
+52.3.37.152 - 403 Forbidden !80!
+185.86.4.143 - Заголовок не найден !80!
+104.232.69.100 - 404 Not Found !80!
+69.163.248.74 - Site not found &middot; DreamHost !80!
+23.38.235.134 - Заголовок не найден !80!
+147.0.137.250 - Document Moved !80!
+95.65.36.50 - 403 Forbidden !80!
+23.36.185.51 - Заголовок не найден !80!
+104.18.250.80 - Direct IP access not allowed | Cloudflare !80!
+23.102.228.173 - 404 Not Found !80!
+138.197.221.31 - 503 Service Temporarily Unavailable !80!
+211.60.7.175 - IIS Windows !80!
+51.161.213.174 - Hosted By BisectHosting - BisectHosting !80!
+3.161.161.78 - Заголовок не найден !80!
+71.84.151.251 -  !80!
+43.227.113.150 - 403 Forbidden !80!
+23.192.136.74 - Заголовок не найден !80!
+98.255.135.49 - Pander/Login !80!
+185.84.174.236 - RouterOS router configuration page !80!
+179.37.25.36 - Заголовок не найден !80!
+23.213.187.228 - Заголовок не найден !80!
+103.19.220.135 - IIS Windows Server !80!
