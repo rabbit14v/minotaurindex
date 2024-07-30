@@ -232,3 +232,4 @@
 114.33.198.4:80 - WEB SERVICE
 54.249.60.94:80 - 503 Service Temporarily Unavailable
 196.196.248.30:80 - 403 Forbidden
+104.16.37.40:80 - Direct IP access not allowed | Cloudflare
