@@ -387,3 +387,6 @@
 18.238.233.124:80 - Заголовок не найден
 151.101.211.100:80 - Fastly error: unknown domain 151.101.211.100
 23.36.186.224:80 - Заголовок не найден
+104.26.8.137:80 - Direct IP access not allowed | Cloudflare
+104.21.42.48:80 - Direct IP access not allowed | Cloudflare
+176.98.242.50:80 - Forbidden
