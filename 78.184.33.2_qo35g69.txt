@@ -5117,3 +5117,176 @@
 186.62.33.233:80 - Заголовок не найден
 78.36.7.190:80 - 
 212.132.124.187:80 - Web Server's Default Page
+140.248.129.49:80 - Fastly error: unknown domain 140.248.129.49
+104.122.197.198:80 - Заголовок не найден
+127.47.83.73:80 - IIS Windows Server
+127.63.20.239:80 - IIS Windows Server
+154.3.76.48:80 - Apache HTTP Server Test Page powered by CentOS
+95.107.169.101:80 - 
+127.233.106.70:80 - IIS Windows Server
+103.253.122.58:80 - Заголовок не найден
+3.5.85.101:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.138.170.252:80 - IIS Windows Server
+194.119.83.107:80 - Заголовок не найден
+212.19.28.36:80 - Заголовок не найден
+127.24.55.5:80 - IIS Windows Server
+127.81.232.185:80 - IIS Windows Server
+72.23.17.188:80 - Document Error: Unauthorized
+127.64.56.104:80 - IIS Windows Server
+79.223.132.55:80 - IPCam Client
+38.100.222.97:80 - Заголовок не найден
+127.243.157.243:80 - IIS Windows Server
+127.171.127.129:80 - IIS Windows Server
+172.82.143.130:80 - 404 Not Found
+216.83.57.137:80 - App
+127.17.227.159:80 - IIS Windows Server
+45.207.236.214:80 - Welcome to nginx!
+3.0.171.26:80 - Заголовок не найден
+13.227.22.88:80 - Заголовок не найден
+63.135.124.223:80 - Sunflower, The Art of E-commerce
+127.16.205.40:80 - IIS Windows Server
+158.160.162.227:80 - Заголовок не найден
+194.113.64.153:80 - Заголовок не найден
+127.115.95.82:80 - IIS Windows Server
+127.171.42.107:80 - IIS Windows Server
+13.70.144.141:80 - Заголовок не найден
+127.19.2.220:80 - IIS Windows Server
+176.123.171.186:80 - Заголовок не найден
+71.203.150.229:80 - WEB SERVICE
+112.184.177.212:80 - webpackSPA
+13.32.63.92:80 - Заголовок не найден
+52.55.151.161:80 - Заголовок не найден
+97.82.62.9:80 - 
+45.200.114.149:80 - 502 Bad Gateway
+104.25.96.175:80 - Direct IP access not allowed | Cloudflare
+127.215.42.106:80 - IIS Windows Server
+124.223.29.9:80 - 403 Forbidden
+127.39.164.132:80 - IIS Windows Server
+23.37.75.159:80 - Заголовок не найден
+18.164.200.102:80 - Заголовок не найден
+127.37.148.156:80 - IIS Windows Server
+127.69.231.4:80 - IIS Windows Server
+31.13.230.168:80 - Welcome to nginx!
+127.169.97.245:80 - IIS Windows Server
+107.190.232.186:80 - 404 Not Found
+104.78.164.107:80 - Заголовок не найден
+4.156.134.101:80 - Welcome to Azure Container Instances!
+23.65.6.218:80 - Заголовок не найден
+34.250.174.248:80 - 403 Forbidden
+54.36.112.171:80 - Заголовок не найден
+3.160.242.162:80 - Заголовок не найден
+93.185.192.230:80 - RouterOS router configuration page
+18.173.140.100:80 - Заголовок не найден
+127.225.163.94:80 - IIS Windows Server
+127.212.65.87:80 - IIS Windows Server
+121.41.19.11:80 - Graylog Web Interface
+127.224.40.28:80 - IIS Windows Server
+95.217.114.119:80 - 404 Not Found
+127.245.220.16:80 - IIS Windows Server
+127.38.24.162:80 - IIS Windows Server
+137.117.13.56:80 - Microsoft Azure Web App - Error 404
+176.255.218.158:80 - Заголовок не найден
+127.67.84.74:80 - IIS Windows Server
+4.157.59.105:80 - Заголовок не найден
+127.193.6.34:80 - IIS Windows Server
+122.170.112.206:80 - Заголовок не найден
+207.148.66.105:80 - 403 Forbidden
+108.139.69.220:80 - Заголовок не найден
+62.4.17.47:80 - Notes
+68.183.12.210:80 - Identify weed strain, thÑ, sativa/indica by photo - KushScan
+170.130.222.242:80 - 403 Forbidden
+54.209.123.106:80 - Заголовок не найден
+162.191.1.58:80 - 
+94.236.237.161:80 - Заголовок не найден
+127.238.10.82:80 - IIS Windows Server
+66.39.80.21:80 - Print and Graphic Design - Montreal
+18.65.139.140:80 - Заголовок не найден
+168.119.1.153:80 - Ποιοτικά καλλυντικά σε απίστευτα χαμηλές τιμές - Hall of Cosmetics
+158.160.15.88:80 - Centrifugo
+167.99.193.63:80 - Website Unavailable
+140.238.200.26:80 - Welcome to nginx!
+194.35.13.214:80 - Welcome to nginx!
+127.137.124.194:80 - IIS Windows Server
+127.143.116.123:80 - IIS Windows Server
+156.236.73.239:80 - 404 Not Found
+127.230.226.114:80 - IIS Windows Server
+45.140.145.156:80 - DDoS-Guard
+38.63.196.156:80 - Welcome to nginx!
+127.148.125.40:80 - IIS Windows Server
+159.89.51.175:80 - 7 - Official website of the band
+180.147.236.43:80 - Заголовок не найден
+127.105.178.67:80 - IIS Windows Server
+127.25.118.193:80 - IIS Windows Server
+41.59.88.233:80 - Market Place | IMIS
+127.240.132.85:80 - IIS Windows Server
+127.146.224.141:80 - IIS Windows Server
+127.62.249.198:80 - IIS Windows Server
+127.137.29.139:80 - IIS Windows Server
+18.139.79.142:80 - Заголовок не найден
+127.30.14.64:80 - IIS Windows Server
+188.128.196.220:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.139.101.118:80 - IIS Windows Server
+104.18.141.41:80 - Direct IP access not allowed | Cloudflare
+127.47.22.202:80 - IIS Windows Server
+54.207.82.217:80 - 403 - Forbidden: Access is denied.
+204.52.24.238:80 - Заголовок не найден
+38.85.237.21:80 - 403 Forbidden
+104.98.110.39:80 - Заголовок не найден
+54.230.56.254:80 - Заголовок не найден
+54.189.102.113:80 - Attention Required! | Cloudflare
+3.219.244.73:80 - Заголовок не найден
+127.248.140.119:80 - IIS Windows Server
+127.30.195.215:80 - IIS Windows Server
+134.102.124.24:80 - Nextcloud
+62.72.166.218:80 - Direct IP access not allowed | Cloudflare
+220.132.245.91:80 - 
+127.133.94.126:80 - IIS Windows Server
+127.181.185.54:80 - IIS Windows Server
+127.246.176.215:80 - IIS Windows Server
+2.21.156.58:80 - Заголовок не найден
+127.37.155.75:80 - IIS Windows Server
+3.233.9.196:80 - 404 Not Found
+127.98.46.109:80 - IIS Windows Server
+161.35.250.63:80 - Read by 4th
+46.38.225.195:80 - 403 Forbidden
+127.137.51.206:80 - IIS Windows Server
+127.56.5.137:80 - IIS Windows Server
+65.108.122.108:80 - Success!
+184.28.122.18:80 - Заголовок не найден
+61.0.178.9:80 - GPE550A
+23.65.13.241:80 - Заголовок не найден
+108.158.251.53:80 - Заголовок не найден
+66.49.200.98:80 - Заголовок не найден
+51.141.94.100:80 - ASM Online Services
+127.192.111.113:80 - IIS Windows Server
+127.62.203.48:80 - IIS Windows Server
+35.76.43.81:80 - Заголовок не найден
+127.167.27.48:80 - IIS Windows Server
+127.252.221.75:80 - IIS Windows Server
+148.251.75.21:80 - ApolloMedia Film Management GmbH
+127.205.156.223:80 - IIS Windows Server
+127.158.166.171:80 - IIS Windows Server
+127.164.119.162:80 - IIS Windows Server
+134.122.70.44:80 - Заголовок не найден
+127.59.103.109:80 - IIS Windows Server
+108.158.63.182:80 - Заголовок не найден
+173.247.218.17:80 - 404 Not Found
+127.192.78.238:80 - IIS Windows Server
+127.66.58.50:80 - IIS Windows Server
+151.235.230.233:80 - Заголовок не найден
+127.108.192.5:80 - IIS Windows Server
+127.15.112.97:80 - IIS Windows Server
+38.63.192.193:80 - 404 Not Found
+127.133.251.229:80 - IIS Windows Server
+127.37.222.215:80 - IIS Windows Server
+162.214.168.114:80 - Заголовок не найден
+127.229.85.164:80 - IIS Windows Server
+23.223.126.146:80 - Заголовок не найден
+123.17.82.55:80 - 
+127.140.4.143:80 - IIS Windows Server
+127.130.164.33:80 - IIS Windows Server
+127.58.97.255:80 - IIS Windows Server
+49.12.92.10:80 - Welcome to nginx!
+127.96.197.83:80 - IIS Windows Server
+38.207.105.149:80 - 404 Not Found
+127.86.31.134:80 - IIS Windows Server
