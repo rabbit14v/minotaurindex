@@ -179,3 +179,56 @@
 104.17.29.90:80 - Direct IP access not allowed | Cloudflare
 114.33.56.86:80 - 
 60.43.199.114:80 - è±è¯ç£æ¥­æ ªå¼ä¼ç¤¾
+77.37.58.198:80 - 403 Forbidden
+23.37.191.156:80 - Заголовок не найден
+115.187.47.42:80 - Please wait, the login page is opening...
+23.223.3.64:80 - Заголовок не найден
+104.206.0.36:80 - 403 Forbidden
+217.21.80.240:80 - 403 Forbidden
+172.67.145.106:80 - Direct IP access not allowed | Cloudflare
+23.208.148.56:80 - Заголовок не найден
+23.37.38.75:80 - Заголовок не найден
+128.245.132.192:80 - 403 - Forbidden: Access is denied.
+108.159.75.203:80 - Заголовок не найден
+92.38.94.213:80 - Welcome to nginx!
+77.92.172.165:80 - 406 Not Acceptable
+104.18.100.237:80 - Direct IP access not allowed | Cloudflare
+117.3.255.18:80 - Заголовок не найден
+117.211.12.65:80 - 
+40.119.214.186:80 - 404 Not Found
+143.110.176.55:80 - 404 Not Found
+162.159.33.45:80 - Direct IP access not allowed | Cloudflare
+101.76.239.184:80 - 404 Not Found
+88.221.78.156:80 - Заголовок не найден
+18.245.30.119:80 - Заголовок не найден
+85.128.183.226:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+47.244.207.30:80 - Pixel Cattle Games
+108.158.241.186:80 - Заголовок не найден
+18.65.77.137:80 - Заголовок не найден
+60.51.24.69:80 - index
+138.91.73.25:80 - Заголовок не найден
+210.154.204.179:80 - Заголовок не найден
+59.154.118.154:80 - Document Moved
+180.235.241.236:80 - ControlPanel
+104.25.27.169:80 - Direct IP access not allowed | Cloudflare
+104.65.70.127:80 - Заголовок не найден
+34.231.92.241:80 - Заголовок не найден
+104.16.92.70:80 - Direct IP access not allowed | Cloudflare
+104.24.186.178:80 - Direct IP access not allowed | Cloudflare
+154.23.114.26:80 - IIS Windows Server
+34.88.213.239:80 - 400 Bad Request
+23.36.17.126:80 - Заголовок не найден
+34.144.211.85:80 - 403
+5.172.194.101:80 - Apache2 Debian Default Page: It works
+38.207.254.116:80 - 404 Not Found
+160.121.167.167:80 - 404 Not Found
+23.90.38.68:80 - 403 Forbidden
+159.122.141.84:80 - Заголовок не найден
+35.75.32.213:80 - PHP Application - AWS Elastic Beanstalk
+104.89.113.194:80 - Заголовок не найден
+60.43.156.120:80 - welcome to casselini!@LZ[j@ItBV@z[y[W
+13.57.61.77:80 - 502 Bad Gateway
+14.225.47.53:80 - Apache2 Ubuntu Default Page: It works
+114.33.198.4:80 - WEB SERVICE
+54.249.60.94:80 - 503 Service Temporarily Unavailable
+196.196.248.30:80 - 403 Forbidden
