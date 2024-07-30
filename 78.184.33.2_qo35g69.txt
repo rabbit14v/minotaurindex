@@ -6664,3 +6664,167 @@
 123.6.42.140:80 - Заголовок не найден
 20.7.109.95:80 - Your Azure Function App is up and running.
 116.203.73.49:80 - Заголовок не найден
+51.38.231.99:80 - Заголовок не найден
+31.128.122.1:80 - Заголовок не найден
+79.96.80.77:80 - Заголовок не найден
+127.236.203.242:80 - IIS Windows Server
+127.60.184.181:80 - IIS Windows Server
+127.65.132.125:80 - IIS Windows Server
+127.130.141.249:80 - IIS Windows Server
+154.0.170.154:80 - Redirecting
+154.26.172.14:80 - ERROR: The requested URL could not be retrieved
+111.92.134.148:80 - Заголовок не найден
+138.68.52.100:80 - Status 409
+203.160.53.131:80 - æ²¡ææ¾å°ç«ç¹
+127.152.238.237:80 - IIS Windows Server
+127.0.209.88:80 - IIS Windows Server
+190.1.235.151:80 - welcome
+154.26.170.224:80 - ERROR: The requested URL could not be retrieved
+189.45.15.20:80 - Error 404 (Not Found)!!1
+104.23.106.172:80 - Direct IP access not allowed | Cloudflare
+46.102.147.157:80 - Заголовок не найден
+127.158.125.25:80 - IIS Windows Server
+75.186.49.25:80 - 
+164.177.1.138:80 - 403 Forbidden
+23.43.202.143:80 - Заголовок не найден
+190.205.70.54:80 - 
+116.198.194.148:80 - 400 No IP
+127.201.225.127:80 - IIS Windows Server
+104.21.217.192:80 - Direct IP access not allowed | Cloudflare
+127.95.63.74:80 - IIS Windows Server
+127.9.227.154:80 - IIS Windows Server
+154.212.33.82:80 - Заголовок не найден
+127.73.56.220:80 - IIS Windows Server
+175.25.22.207:80 - Заголовок не найден
+127.142.235.82:80 - IIS Windows Server
+120.79.191.249:80 - 404 Not Found
+104.24.42.163:80 - Direct IP access not allowed | Cloudflare
+142.229.230.152:80 - Заголовок не найден
+104.96.224.101:80 - Заголовок не найден
+64.225.4.225:80 - UVER SAÚDE
+97.74.187.192:80 - Tu Mall San Pedro
+127.82.233.25:80 - IIS Windows Server
+144.24.133.194:80 - Welcome to nginx!
+127.53.28.104:80 - IIS Windows Server
+46.165.165.174:80 - Заголовок не найден
+127.194.186.21:80 - IIS Windows Server
+127.255.224.122:80 - IIS Windows Server
+127.170.118.193:80 - IIS Windows Server
+51.21.119.105:80 - Заголовок не найден
+3.168.108.211:80 - Заголовок не найден
+127.186.98.174:80 - IIS Windows Server
+31.220.214.165:80 - Заголовок не найден
+138.97.124.12:80 - Login Central do Assinante | Central do Assinante
+127.35.52.2:80 - IIS Windows Server
+127.115.104.102:80 - IIS Windows Server
+146.190.116.81:80 - Welcome to nginx!
+18.226.9.237:80 - Welcome to nginx!
+34.120.49.167:80 - 403 Forbidden
+23.63.103.191:80 - Заголовок не найден
+13.56.56.220:80 - Заголовок не найден
+108.158.183.191:80 - Заголовок не найден
+47.104.81.134:80 - äº¬å½©çå
+44.202.8.63:80 - Заголовок не найден
+2.20.166.141:80 - Заголовок не найден
+99.83.141.219:80 - Заголовок не найден
+44.201.25.94:80 - Заголовок не найден
+127.50.159.2:80 - IIS Windows Server
+43.137.190.152:80 - 404 Not Found
+124.217.245.43:80 - RSP Engineers Sdn Bhd
+3.162.231.57:80 - Заголовок не найден
+127.34.117.248:80 - IIS Windows Server
+127.142.202.75:80 - IIS Windows Server
+127.167.162.160:80 - IIS Windows Server
+136.144.218.92:80 - Заголовок не найден
+45.63.3.119:80 - Welcome to CentOS
+127.127.200.97:80 - IIS Windows Server
+122.117.50.144:80 - 
+3.64.41.137:80 - Amazon Marketing Stream
+127.248.97.6:80 - IIS Windows Server
+127.211.164.209:80 - IIS Windows Server
+127.90.160.124:80 - IIS Windows Server
+108.181.92.75:80 - Заголовок не найден
+202.70.38.20:80 - 404 - File or directory not found.
+127.128.10.213:80 - IIS Windows Server
+45.195.210.83:80 - Apache2 Ubuntu Default Page: It works
+216.146.17.65:80 - RouterOS
+47.236.191.142:80 - 404 Not Found
+127.88.7.238:80 - IIS Windows Server
+213.247.99.6:80 - Geblokkeerde website
+35.215.186.132:80 - Welcome to nginx!
+23.221.240.153:80 - Заголовок не найден
+127.150.26.191:80 - IIS Windows Server
+45.79.199.155:80 - Database Offline
+171.228.198.201:80 - 
+85.128.171.43:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+127.142.199.240:80 - IIS Windows Server
+104.103.241.20:80 - Заголовок не найден
+54.215.229.158:80 - 404 Not Found
+23.213.65.50:80 - Заголовок не найден
+104.74.153.39:80 - Заголовок не найден
+127.2.6.222:80 - IIS Windows Server
+208.88.74.47:80 - Domain Default page
+128.122.164.121:80 - Заголовок не найден
+127.45.24.81:80 - IIS Windows Server
+127.227.82.152:80 - IIS Windows Server
+34.95.108.205:80 - 502 Server Error
+110.173.134.147:80 - Заголовок не найден
+44.212.150.90:80 - Заголовок не найден
+52.16.164.184:80 - Заголовок не найден
+127.71.30.48:80 - IIS Windows Server
+171.239.223.123:80 - 
+67.227.209.244:80 - Заголовок не найден
+49.212.194.111:80 - Welcome to nginx!
+54.187.194.37:80 - HotNights
+181.23.66.252:80 - Заголовок не найден
+172.120.146.140:80 - 403 Forbidden
+127.163.168.11:80 - IIS Windows Server
+127.147.78.7:80 - IIS Windows Server
+127.3.149.223:80 - IIS Windows Server
+37.128.146.124:80 - Domain Default page
+127.250.164.240:80 - IIS Windows Server
+34.123.178.58:80 - Заголовок не найден
+127.160.133.56:80 - IIS Windows Server
+52.217.143.24:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.143.36.59:80 - IIS Windows Server
+127.174.45.24:80 - IIS Windows Server
+159.65.152.232:80 - Welcome to nginx!
+127.12.135.9:80 - IIS Windows Server
+65.8.195.210:80 - Заголовок не найден
+127.18.189.249:80 - IIS Windows Server
+117.78.44.190:80 - Заголовок не найден
+154.0.161.220:80 - Заголовок не найден
+127.100.224.177:80 - IIS Windows Server
+3.88.74.219:80 - Заголовок не найден
+127.97.94.68:80 - IIS Windows Server
+18.154.94.125:80 - Заголовок не найден
+216.157.86.55:80 - Заголовок не найден
+18.238.177.122:80 - Заголовок не найден
+127.202.26.196:80 - IIS Windows Server
+127.88.192.144:80 - IIS Windows Server
+127.83.252.139:80 - IIS Windows Server
+127.222.5.55:80 - IIS Windows Server
+47.105.109.105:80 - ç½ç«è®¿é®æ¥é
+69.171.116.78:80 - Заголовок не найден
+67.205.179.240:80 - Welcome to nginx!
+127.68.226.101:80 - IIS Windows Server
+216.239.137.96:80 - Service Unavailable
+34.248.186.75:80 - Заголовок не найден
+18.223.122.200:80 - Заголовок не найден
+18.238.191.134:80 - Заголовок не найден
+127.124.234.11:80 - IIS Windows Server
+108.165.90.133:80 - Page not found
+127.133.132.11:80 - IIS Windows Server
+75.177.5.112:80 - 
+127.231.38.174:80 - IIS Windows Server
+123.207.142.254:80 - Apache Tomcat/6.0.32 - Error report
+127.161.196.86:80 - IIS Windows Server
+194.95.207.184:80 - Mattermost
+127.186.120.102:80 - IIS Windows Server
+152.67.91.67:80 - 502 Bad Gateway
+127.99.4.130:80 - IIS Windows Server
+127.231.175.68:80 - IIS Windows Server
+200.43.113.146:80 - Welcome to nginx!
+23.23.12.67:80 - OpenLMIS
+154.95.143.208:80 - Заголовок не найден
+23.205.7.14:80 - Заголовок не найден
