@@ -3040,3 +3040,133 @@
 172.224.187.73:80 - Заголовок не найден
 192.126.173.57:80 - ERROR: The requested URL could not be retrieved
 23.214.35.174:80 - Заголовок не найден
+52.84.163.240:80 - Заголовок не найден
+185.162.229.152:80 - Direct IP access not allowed | Cloudflare
+184.50.18.68:80 - Заголовок не найден
+109.250.154.201:80 - 400 Bad Request
+23.41.153.237:80 - Заголовок не найден
+122.100.105.82:80 - 401 Unauthorized
+98.158.123.208:80 - Bandwidth Speed Test
+3.160.186.28:80 - Заголовок не найден
+128.32.12.226:80 - IIS Windows Server
+104.113.220.235:80 - Заголовок не найден
+95.70.139.206:80 - 
+38.38.178.49:80 - 404 Not Found
+23.40.179.186:80 - Заголовок не найден
+104.25.179.198:80 - Direct IP access not allowed | Cloudflare
+20.241.184.99:80 - Заголовок не найден
+195.82.1.232:80 - GPON Home Gateway
+18.229.111.250:80 - Заголовок не найден
+18.230.241.231:80 - Zeus - Login
+198.23.146.222:80 - Welcome to nginx!
+119.23.74.196:80 - ä¸ªäººå¯¼èª-å¾æèçå¯¼èªç«
+184.31.164.62:80 - Заголовок не найден
+23.64.234.204:80 - Заголовок не найден
+91.219.212.122:80 - Welcome to nginx!
+35.75.160.130:80 - IIS Windows Server
+158.140.195.215:80 - 404 Not Found
+146.148.207.189:80 - 404 Not Found
+23.51.116.252:80 - Заголовок не найден
+185.249.227.53:80 - 403 - Forbidden: Access is denied.
+160.121.211.154:80 - æ²¡ææ¾å°ç«ç¹
+79.96.234.116:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+172.104.158.247:80 - 404 Not Found
+94.34.36.120:80 - Заголовок не найден
+47.113.151.127:80 - 
+206.189.244.66:80 - 404 Not Found
+52.239.148.6:80 - Заголовок не найден
+211.37.173.48:80 - 꺼리어 | 홍보가 필요한 전문가와 취재원이 필요한 미디어가 만나는 플랫폼
+157.245.30.170:80 - Powered by CapRover
+80.97.49.208:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+34.200.72.28:80 - Заголовок не найден
+77.25.156.123:80 - Hello! Welcome to Synology Web Station!
+18.66.117.242:80 - Заголовок не найден
+65.52.39.187:80 - Заголовок не найден
+72.174.28.26:80 - 
+27.3.119.28:80 - Заголовок не найден
+3.164.161.215:80 - Заголовок не найден
+210.86.175.46:80 - Vigor Login Page
+104.23.107.229:80 - Direct IP access not allowed | Cloudflare
+49.248.77.74:80 - IIS7
+183.101.44.99:80 - main page
+108.157.189.201:80 - Заголовок не найден
+175.101.16.155:80 - IIS Windows
+45.63.99.83:80 - Заголовок не найден
+154.216.75.116:80 - 404 Not Found
+18.155.177.183:80 - Заголовок не найден
+66.213.177.100:80 - RouterOS router configuration page
+3.234.92.108:80 - Заголовок не найден
+57.128.71.127:80 - PottencIA &#8211; Programa innovador diseñado para dar a los estudiantes las herramientas necesarias para potenciar sus oportunidades académicas, laborales y de empleabilidad en el mundo actual.
+69.192.126.12:80 - Заголовок не найден
+2.58.228.45:80 - Заголовок не найден
+52.85.18.106:80 - Заголовок не найден
+198.46.222.49:80 - 407 Proxy Authentication Required
+3.162.168.222:80 - Заголовок не найден
+54.196.25.116:80 - Заголовок не найден
+108.159.231.25:80 - Заголовок не найден
+15.165.112.217:80 - Welcome to nginx!
+20.189.118.132:80 - 404 Not Found
+66.248.194.98:80 - Hosted By BisectHosting - BisectHosting
+38.173.238.35:80 - 403 Forbidden
+137.117.245.1:80 - Заголовок не найден
+43.204.145.235:80 - Apache2 Ubuntu Default Page: It works
+119.91.251.241:80 - 
+23.53.196.116:80 - Заголовок не найден
+189.6.79.71:80 - Intelbras
+23.218.99.100:80 - Заголовок не найден
+199.115.112.181:80 - Welcome to CentOS
+172.247.145.125:80 - 403 Forbidden
+15.206.252.29:80 - 503 Service Temporarily Unavailable
+75.70.57.63:80 - 
+154.64.71.118:80 - 403 Forbidden
+207.204.235.244:80 - Bandwidth Speed Test
+172.67.27.180:80 - Direct IP access not allowed | Cloudflare
+165.227.86.119:80 - 503 Service Temporarily Unavailable
+4.175.177.229:80 - Your Azure Function App is up and running.
+149.28.72.30:80 - Unknown Domain
+64.91.249.14:80 - Заголовок не найден
+206.189.49.199:80 - Apache2 Debian Default Page: It works
+20.75.46.94:80 - Microsoft Azure Web App - Error 404
+192.155.89.172:80 - Заголовок не найден
+35.76.22.234:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+154.3.76.142:80 - Apache HTTP Server Test Page powered by CentOS
+44.194.54.17:80 - 404 Not Found
+23.35.30.131:80 - Заголовок не найден
+1.201.148.45:80 - 403 Forbidden
+107.149.91.1:80 - 404 Not Found
+167.82.99.105:80 - Fastly error: unknown domain 167.82.99.105
+185.206.26.37:80 - Заголовок не найден
+91.230.245.20:80 - Shared IP
+23.60.224.53:80 - Заголовок не найден
+104.81.110.41:80 - Заголовок не найден
+187.61.92.223:80 - 
+136.243.220.171:80 - Ana Sayfa - Dekta Mühendislik
+95.142.68.253:80 - Index of /
+45.148.117.159:80 - Заголовок не найден
+43.133.33.250:80 - Box type substation, European type box transformer,stainless steel box transformer,American type box transformer, box transformer manufacturer, box transformer manufacturer, American type box transformer manufacturer, YBD-12 box transformer, landscape type box transformer,,Zhejiang Gongshun Electric Co., Ltd
+18.190.71.163:80 - 403 - Forbidden: Access is denied.
+167.86.73.219:80 - Apache2 Ubuntu Default Page: It works
+151.236.32.192:80 - Заголовок не найден
+34.204.254.231:80 - 34 - HiringSpot
+175.113.192.19:80 - CMS Web Viewer
+3.252.26.250:80 - Panel Application
+89.36.174.17:80 - &#70;&#54;&#54;&#48;&#48;&#82;
+64.203.89.114:80 - IIS Windows Server
+109.67.159.112:80 - WEB SERVICE
+84.86.42.238:80 - Заголовок не найден
+210.68.228.93:80 - 維士比集團應用伺服器
+186.72.64.74:80 - RouterOS router configuration page
+104.113.194.180:80 - Заголовок не найден
+213.252.247.98:80 - 404 Not Found
+5.133.207.42:80 - 193.183.95.207 - Network admin
+185.128.118.50:80 - Заголовок не найден
+88.147.94.93:80 - Wisenet NVR
+47.39.217.145:80 - 
+154.201.193.185:80 - HTML SiteMap
+103.153.1.24:80 - Заголовок не найден
+69.174.161.56:80 - Заголовок не найден
+218.153.4.23:80 - Заголовок не найден
+50.3.152.171:80 - 403 Forbidden
+79.137.37.57:80 - Accesso Web
+52.217.78.79:80 - Amazon S3 - Cloud Object Storage  - AWS
+159.69.144.9:80 - 403 Forbidden
