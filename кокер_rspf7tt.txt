@@ -2097,3 +2097,52 @@
 23.223.244.26:80 - Заголовок не найден
 18.170.109.206:80 - KÖSK CABAÑAS - Luxury Wooden Garden Gazebo Covered Seating Areas
 13.209.117.78:80 - Заголовок не найден
+52.55.81.100:80 - Заголовок не найден
+133.242.201.18:80 - Web Server's Default Page
+15.237.145.185:80 - Заголовок не найден
+192.153.57.187:80 - Apache2 Ubuntu Default Page: It works
+162.247.5.74:80 - 404 Not Found
+212.85.110.97:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+23.212.150.138:80 - Заголовок не найден
+40.80.154.206:80 - Microsoft Azure Web App - Error 404
+89.161.212.60:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+83.42.190.175:80 - Заголовок не найден
+3.10.251.131:80 - Apache2 Ubuntu Default Page: It works
+104.16.194.48:80 - Direct IP access not allowed | Cloudflare
+115.43.169.126:80 - 403 - Forbidden
+203.74.127.94:80 - 404 Not Found
+151.244.70.48:80 - 
+122.9.50.214:80 - Welcome to CentOS
+216.208.26.134:80 - SecurityGateway for Email Servers
+188.246.5.25:80 - Error 401: Unauthorized access
+23.223.162.72:80 - Заголовок не найден
+35.233.46.11:80 - 404 Not Found
+104.108.116.10:80 - Заголовок не найден
+220.76.46.76:80 - DVR ActiveX Viewer
+23.96.211.153:80 - 
+18.245.93.158:80 - Заголовок не найден
+54.220.188.68:80 - Заголовок не найден
+84.89.139.66:80 - 404 Not Found
+104.96.87.176:80 - Заголовок не найден
+63.134.196.83:80 - Заголовок не найден
+173.222.188.221:80 - Заголовок не найден
+51.44.18.211:80 - Connexion &#8211; Atlantic Brand Center
+38.47.157.82:80 - Welcome to nginx!
+18.172.62.83:80 - Заголовок не найден
+162.210.103.247:80 - Congratulations! You have successfully set up your website!
+153.92.8.101:80 - Заголовок не найден
+1.226.187.15:80 - Заголовок не найден
+20.31.114.193:80 - Заголовок не найден
+186.121.226.170:80 - RouterOS router configuration page
+140.248.178.15:80 - Fastly error: unknown domain 140.248.178.15
+200.24.70.160:80 - Заголовок не найден
+65.76.134.100:80 - GL.iNet Admin Panel
+23.229.236.171:80 - Coming Soon
+15.237.67.129:80 - Заголовок не найден
+18.210.58.249:80 - Заголовок не найден
+45.81.58.210:80 - Direct IP access not allowed | Cloudflare
+3.226.212.75:80 - 502 Bad Gateway
+142.132.195.92:80 - NetBird Dashboard
+186.132.133.111:80 - Заголовок не найден
+195.234.163.160:80 - Заголовок не найден
+23.200.107.80:80 - Заголовок не найден
