@@ -5475,3 +5475,166 @@
 127.158.194.4:80 - IIS Windows Server
 127.43.6.117:80 - IIS Windows Server
 127.98.181.15:80 - IIS Windows Server
+125.64.109.199:80 - Заголовок не найден
+127.104.174.250:80 - IIS Windows Server
+127.224.13.55:80 - IIS Windows Server
+194.53.137.52:80 - Заголовок не найден
+127.207.108.8:80 - IIS Windows Server
+49.232.152.246:80 - 管理系统
+154.215.70.119:80 - Заголовок не найден
+47.108.58.20:80 - 截图水印大师
+207.180.199.3:80 - Apache2 Ubuntu Default Page: It works
+101.43.166.139:80 - 404 Not Found
+4.155.143.81:80 - Your Azure Function App is up and running.
+127.82.128.94:80 - IIS Windows Server
+127.1.79.108:80 - IIS Windows Server
+127.102.143.11:80 - IIS Windows Server
+137.184.114.143:80 - Mindstream Media Group
+127.197.14.64:80 - IIS Windows Server
+127.202.177.93:80 - IIS Windows Server
+127.179.161.20:80 - IIS Windows Server
+127.9.240.67:80 - IIS Windows Server
+91.92.11.220:80 - 
+186.147.247.154:80 - IIS Windows Server
+188.166.76.236:80 - 403 Forbidden
+173.222.188.135:80 - Заголовок не найден
+216.36.237.211:80 - Заголовок не найден
+127.191.144.177:80 - IIS Windows Server
+54.81.234.224:80 - Home Page - My ASP.NET Application
+150.95.21.70:80 - Attention Required! | Cloudflare
+127.90.125.241:80 - IIS Windows Server
+23.248.205.80:80 - æ²¡ææ¾å°ç«ç¹
+127.34.98.211:80 - IIS Windows Server
+127.240.149.229:80 - IIS Windows Server
+43.216.119.183:80 - Заголовок не найден
+104.100.82.7:80 - Заголовок не найден
+127.239.182.152:80 - IIS Windows Server
+20.44.105.63:80 - Microsoft Azure Web App - Error 404
+185.170.62.174:80 - Заголовок не найден
+138.2.120.197:80 - 502 Bad Gateway
+127.45.180.131:80 - IIS Windows Server
+127.108.179.80:80 - IIS Windows Server
+34.209.123.86:80 - Заголовок не найден
+127.40.66.176:80 - IIS Windows Server
+147.181.14.195:80 - Заголовок не найден
+127.42.47.129:80 - IIS Windows Server
+108.139.3.132:80 - Заголовок не найден
+23.33.76.144:80 - Заголовок не найден
+155.248.184.60:80 - Default Site
+159.89.19.155:80 - Bad Request (400)
+127.48.201.37:80 - IIS Windows Server
+209.123.94.253:80 - MANTIS
+93.20.42.142:80 - Accueil - Crédit Mutuel Arkea
+13.212.19.246:80 - Welcome to nginx!
+99.192.172.30:80 - Заголовок не найден
+186.70.17.53:80 - &#70;&#54;&#54;&#48;&#48;
+89.45.169.152:80 - Заголовок не найден
+127.145.221.126:80 - IIS Windows Server
+127.26.27.218:80 - IIS Windows Server
+206.189.33.58:80 - 401 Authorization Required
+104.140.80.241:80 - 404 Not Found
+144.126.247.86:80 - 404 Not Found
+104.80.199.217:80 - Заголовок не найден
+211.170.69.9:80 - IIS7
+127.232.20.240:80 - IIS Windows Server
+127.11.237.255:80 - IIS Windows Server
+127.3.92.70:80 - IIS Windows Server
+162.223.245.27:80 - Unrivalled sector-specific business software | OneAdvanced
+91.200.132.226:80 - 403 Forbidden
+127.113.107.213:80 - IIS Windows Server
+162.186.16.227:80 - FortiExtender
+145.239.136.30:80 - Sign in · GitLab
+212.244.1.20:80 - 404 Not Found
+95.101.27.143:80 - Заголовок не найден
+154.39.229.217:80 - 403 Forbidden
+8.130.11.220:80 - 马上考后台管理系统
+135.125.213.118:80 - Hosted By BisectHosting - BisectHosting
+104.106.117.91:80 - Заголовок не найден
+134.122.26.224:80 - 404 Not Found
+127.209.183.33:80 - IIS Windows Server
+127.9.96.188:80 - IIS Windows Server
+127.39.255.226:80 - IIS Windows Server
+69.70.63.46:80 - Заголовок не найден
+127.240.102.81:80 - IIS Windows Server
+127.45.128.112:80 - IIS Windows Server
+23.60.29.53:80 - Заголовок не найден
+127.252.86.60:80 - IIS Windows Server
+124.223.203.27:80 - 404 Not Found
+181.228.219.30:80 - WEB SERVICE
+127.189.181.233:80 - IIS Windows Server
+127.128.124.252:80 - IIS Windows Server
+192.185.137.125:80 - Not Acceptable!
+185.195.40.155:80 - Заголовок не найден
+4.245.82.15:80 - Your Azure Function App is up and running.
+139.59.79.131:80 - 404 Not Found
+95.101.172.72:80 - Заголовок не найден
+127.241.110.245:80 - IIS Windows Server
+187.190.227.104:80 - 
+127.254.206.126:80 - IIS Windows Server
+127.185.23.89:80 - IIS Windows Server
+23.64.239.50:80 - Заголовок не найден
+107.149.160.161:80 - 404 Not Found
+127.148.161.149:80 - IIS Windows Server
+127.4.187.11:80 - IIS Windows Server
+93.88.205.107:80 - Заголовок не найден
+159.65.86.171:80 - Log in | Navlight
+127.174.11.178:80 - IIS Windows Server
+127.231.228.22:80 - IIS Windows Server
+192.46.212.89:80 - Welcome to CentOS
+13.36.101.162:80 - Заголовок не найден
+104.24.214.28:80 - Direct IP access not allowed | Cloudflare
+157.197.182.110:80 - Заголовок не найден
+113.161.243.170:80 - WEB SERVICE
+183.181.10.69:80 - Apache HTTP Server Test Page powered by CentOS
+160.202.103.252:80 - 404 Not Found
+81.230.84.253:80 - Заголовок не найден
+127.188.178.212:80 - IIS Windows Server
+179.36.117.252:80 - Заголовок не найден
+127.83.57.138:80 - IIS Windows Server
+47.251.35.230:80 - 404 Not Found
+217.209.251.162:80 - Anybus M-Bus/MTCP 20
+111.89.134.44:80 - Заголовок не найден
+101.100.215.30:80 - Заголовок не найден
+127.6.202.76:80 - IIS Windows Server
+18.222.126.185:80 - Welcome to nginx!
+127.51.217.20:80 - IIS Windows Server
+34.122.204.246:80 - Заголовок не найден
+18.160.25.198:80 - Заголовок не найден
+127.118.157.51:80 - IIS Windows Server
+59.13.0.234:80 - main page
+127.13.74.36:80 - IIS Windows Server
+113.96.184.12:80 - 403 Forbidden
+34.102.166.176:80 - Заголовок не найден
+127.136.70.43:80 - IIS Windows Server
+66.42.54.112:80 - Заголовок не найден
+75.103.91.247:80 - Kidz Kare: Full Resource to Parent & Child
+127.135.254.238:80 - IIS Windows Server
+127.241.220.21:80 - IIS Windows Server
+46.252.183.106:80 - 404 - Platforme introuvable
+134.0.9.15:80 - -
+162.155.159.247:80 - Web Image Monitor
+20.16.44.145:80 - 404 Not Found
+23.76.33.133:80 - Заголовок не найден
+127.88.123.74:80 - IIS Windows Server
+118.219.100.249:80 - Заголовок не найден
+207.230.133.150:80 - Comrex ACCESS
+127.145.162.99:80 - IIS Windows Server
+127.158.240.138:80 - IIS Windows Server
+127.31.73.8:80 - IIS Windows Server
+104.108.118.153:80 - Заголовок не найден
+195.117.205.67:80 - IIS Windows Server
+182.93.93.92:80 - Заголовок не найден
+206.71.230.14:80 - Заголовок не найден
+67.211.220.195:80 - Заголовок не найден
+162.240.90.149:80 - Заголовок не найден
+20.103.129.47:80 - Заголовок не найден
+127.255.44.65:80 - IIS Windows Server
+148.216.23.251:80 - Ubiquiti Networks
+104.165.213.17:80 - 404 Not Found
+52.85.35.223:80 - Заголовок не найден
+127.214.15.54:80 - IIS Windows Server
+66.216.7.139:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+127.250.145.33:80 - IIS Windows Server
+3.162.197.148:80 - Заголовок не найден
+34.237.104.188:80 - Заголовок не найден
+31.192.109.29:80 - LteCom - промышленные роутеры 4g lte. Уличные 4g lte модемы для беспроводного интернета в поселке | НПО РАПИРА
