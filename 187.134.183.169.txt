@@ -473,3 +473,27 @@
 89.161.165.182:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 185.84.224.191:80 - HTTP Server Test Page powered by CentOS
 104.81.138.138:80 - Заголовок не найден
+43.249.227.99:80 - Заголовок не найден
+35.194.233.233:80 - Заголовок не найден
+47.242.195.193:80 - HTTP Status 404 – Not Found
+52.9.242.115:80 - 403 Forbidden
+210.117.166.117:80 - Заголовок не найден
+3.164.1.72:80 - Заголовок не найден
+184.84.111.91:80 - Заголовок не найден
+155.248.232.235:80 - Welcome to nginx!
+144.91.89.39:80 - Apache2 Ubuntu Default Page: It works
+213.168.214.7:80 - 403 Forbidden
+131.111.70.41:80 - Apache2 Ubuntu Default Page: It works
+87.120.9.61:80 - 509 Bandwidth Limit Exceeded
+208.185.115.38:80 - Заголовок не найден
+104.75.123.243:80 - Заголовок не найден
+38.91.46.152:80 - Page not found
+3.7.115.233:80 - Заголовок не найден
+103.154.252.141:80 - Welcome to CentOS
+104.72.117.162:80 - Заголовок не найден
+66.211.198.137:80 - Web Viewer for Samsung DVR
+173.232.196.139:80 - 403 Forbidden
+108.138.27.149:80 - Заголовок не найден
+89.161.165.182:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+185.84.224.191:80 - HTTP Server Test Page powered by CentOS
+104.81.138.138:80 - Заголовок не найден
