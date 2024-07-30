@@ -7018,3 +7018,213 @@
 220.132.227.233:80 - 
 43.251.69.249:80 - Заголовок не найден
 91.196.8.98:80 - IIS Windows Server
+127.119.248.48:80 - IIS Windows
+127.136.125.81:80 - IIS Windows
+85.128.157.55:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+83.254.23.177:80 - BASTEC
+104.102.116.109:80 - Заголовок не найден
+127.15.129.171:80 - IIS Windows
+1.160.175.179:80 - RouterOS router configuration page
+127.249.116.83:80 - IIS Windows
+85.234.131.11:80 - Web Server's Default Page
+52.5.82.147:80 - Заголовок не найден
+75.109.212.101:80 - 
+23.193.254.203:80 - Заголовок не найден
+185.187.220.193:80 - Заголовок не найден
+127.16.154.225:80 - IIS Windows
+104.24.247.74:80 - Direct IP access not allowed | Cloudflare
+159.65.2.106:80 - 404 Not Found
+127.252.106.17:80 - IIS Windows
+154.12.199.157:80 - ERROR: The requested URL could not be retrieved
+49.12.105.104:80 - Page not found at /
+184.30.174.127:80 - Заголовок не найден
+83.174.61.251:80 - 404 Not Found
+38.38.23.150:80 - æ²¡ææ¾å°ç«ç¹
+121.254.99.29:80 - 
+3.68.124.104:80 - Заголовок не найден
+127.231.93.40:80 - IIS Windows
+127.247.25.39:80 - IIS Windows
+23.10.129.191:80 - Заголовок не найден
+67.43.0.47:80 - Заголовок не найден
+127.80.37.136:80 - IIS Windows
+154.16.82.214:80 - Apache2 Ubuntu Default Page: It works
+45.76.235.63:80 - Заголовок не найден
+187.207.36.8:80 - 
+45.43.203.138:80 - 404 Not Found
+50.192.0.178:80 - IIS Windows
+127.61.130.113:80 - IIS Windows
+127.70.125.86:80 - IIS Windows
+115.76.83.110:80 - WEB SERVICE
+83.220.132.251:80 - Error 404: Page not found
+127.35.28.167:80 - IIS Windows
+194.183.181.51:80 - 403 Forbidden
+127.135.203.205:80 - IIS Windows
+34.151.120.238:80 - Reach more people on mobile with Shareable Apps
+127.74.26.246:80 - IIS Windows
+154.3.0.226:80 - Заголовок не найден
+184.87.109.32:80 - Заголовок не найден
+127.188.101.157:80 - IIS Windows
+104.21.218.76:80 - Direct IP access not allowed | Cloudflare
+127.85.130.208:80 - IIS Windows
+127.46.21.173:80 - IIS Windows
+116.7.235.88:80 - Заголовок не найден
+127.26.181.89:80 - IIS Windows
+89.213.121.216:80 - Apache2 Debian Default Page: It works
+2.21.217.166:80 - Заголовок не найден
+184.29.217.17:80 - Заголовок не найден
+34.96.248.248:80 - 404 Not Found
+23.51.142.180:80 - Заголовок не найден
+127.243.26.246:80 - IIS Windows
+36.231.91.22:80 - VoIP Gateway
+119.254.157.171:80 - 502 Bad Gateway
+127.165.54.97:80 - IIS Windows
+13.249.199.92:80 - Заголовок не найден
+52.105.147.39:80 - Заголовок не найден
+151.236.33.89:80 - Apache2 Ubuntu Default Page: It works PJC
+154.91.236.174:80 - æ²¡ææ¾å°ç«ç¹
+127.108.255.71:80 - IIS Windows
+183.171.151.98:80 - Apache2 Debian Default Page: It works
+104.253.161.145:80 - 403 Forbidden
+212.60.126.11:80 - Welcome:
+127.132.42.127:80 - IIS Windows
+108.186.220.23:80 - Заголовок не найден
+35.154.202.1:80 - Заголовок не найден
+184.24.48.144:80 - Заголовок не найден
+127.59.128.238:80 - IIS Windows
+171.34.42.62:80 - å¤§æå¬è¯è¯ä¿éå­è¯å¹³å°
+127.158.84.61:80 - IIS Windows
+83.48.15.247:80 - IBIM
+23.204.187.188:80 - Заголовок не найден
+127.15.60.228:80 - IIS Windows
+77.90.145.248:80 - 403 - Forbidden: Access is denied.
+127.166.0.117:80 - IIS Windows
+186.33.64.222:80 - F660
+104.93.206.241:80 - Заголовок не найден
+127.54.19.85:80 - IIS Windows
+127.50.204.181:80 - IIS Windows
+20.122.178.122:80 - Contact - Login
+23.54.124.143:80 - Заголовок не найден
+94.133.171.63:80 - Заголовок не найден
+15.197.145.245:80 - BrightChamps Free Coding Trial Class | Book Now
+213.3.56.83:80 - Netscaler Gateway
+127.90.61.223:80 - IIS Windows
+127.218.125.221:80 - IIS Windows
+122.116.136.91:80 - 
+50.63.176.22:80 - Заголовок не найден
+127.232.16.70:80 - IIS Windows
+127.223.216.167:80 - IIS Windows
+127.48.47.129:80 - IIS Windows
+127.166.222.160:80 - IIS Windows
+111.32.204.127:80 - Заголовок не найден
+2.19.190.6:80 - Заголовок не найден
+13.115.121.248:80 - Заголовок не найден
+85.215.242.3:80 - Web Server's Default Page
+2.18.83.209:80 - Заголовок не найден
+23.41.153.189:80 - Заголовок не найден
+84.201.136.18:80 - Sign in · GitLab
+154.202.187.16:80 - 404 Not Found
+127.255.77.61:80 - IIS Windows
+127.19.55.66:80 - IIS Windows
+127.205.113.156:80 - IIS Windows
+27.123.243.244:80 - Please wait, the login page is opening...
+16.170.243.57:80 - Заголовок не найден
+18.65.101.240:80 - Заголовок не найден
+108.159.84.64:80 - Заголовок не найден
+127.154.241.252:80 - IIS Windows
+77.68.82.231:80 - IIS Windows Server
+37.58.16.96:80 - Заголовок не найден
+127.40.248.118:80 - IIS Windows
+23.3.53.206:80 - Заголовок не найден
+127.91.165.142:80 - IIS Windows
+35.201.79.40:80 - Заголовок не найден
+104.85.245.178:80 - Заголовок не найден
+210.99.77.133:80 - CMS Web Viewer
+134.195.197.4:80 - 404 Not Found
+77.68.10.231:80 - Web Server's Default Page
+23.224.19.19:80 - 403 Forbidden
+217.146.68.2:80 - Page Not Found
+92.122.160.220:80 - Заголовок не найден
+219.218.104.89:80 - 404 Not Found
+127.247.48.148:80 - IIS Windows
+127.64.10.204:80 - IIS Windows
+18.172.83.176:80 - Заголовок не найден
+2.20.8.94:80 - Заголовок не найден
+24.243.46.87:80 - 503 Service Not Available
+72.18.81.93:80 - LNMPä¸é®å®è£å by Licess
+18.197.179.51:80 - NUK
+127.55.8.28:80 - IIS Windows
+104.25.172.56:80 - Direct IP access not allowed | Cloudflare
+127.158.229.134:80 - IIS Windows
+18.245.127.169:80 - Заголовок не найден
+127.124.196.155:80 - IIS Windows
+5.83.127.231:80 - 
+121.196.246.27:80 - Index of /
+52.216.170.66:80 - Amazon S3 - Cloud Object Storage  - AWS
+137.74.228.234:80 - Peinture générale 44 Loire-Atlantique Tél: 02.52.56.70.34
+212.85.109.127:80 - Opakowania z tektury falistej i litej – poznaj naszą ofertę
+46.148.224.213:80 - Rayno - Paid social media posts
+207.192.179.170:80 - 
+172.214.13.216:80 - Manage Companies
+18.218.1.115:80 - Home | Bond No. 9 New York
+127.75.128.38:80 - IIS Windows
+8.210.242.131:80 - Заголовок не найден
+192.36.24.226:80 - Database Error
+127.74.187.63:80 - IIS Windows
+104.25.247.248:80 - Direct IP access not allowed | Cloudflare
+127.206.179.112:80 - IIS Windows
+38.173.194.71:80 - 404 Not Found
+127.57.134.70:80 - IIS Windows
+71.190.75.215:80 - Document Moved
+152.195.50.16:80 - 404 - Not Found
+127.1.135.35:80 - IIS Windows
+147.161.171.34:80 - Internet Security by Zscaler
+217.41.24.27:80 - Intelligent Digital Security System
+185.62.185.229:80 - IIS Windows Server
+18.189.210.84:80 - 503 Service Temporarily Unavailable
+183.77.155.175:80 - LOGIN
+80.96.103.159:80 - Заголовок не найден
+71.179.36.123:80 - Заголовок не найден
+23.201.216.201:80 - Заголовок не найден
+129.153.77.99:80 - Заголовок не найден
+104.16.114.189:80 - Direct IP access not allowed | Cloudflare
+124.222.163.39:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+213.152.167.139:80 - Заголовок не найден
+35.222.18.235:80 - Site Not Configured | 404 Not Found
+13.86.105.7:80 - Trusted Direct Lender - Mortgage Loan &amp; Refinance | Empire of America
+34.193.202.222:80 - Заголовок не найден
+37.255.209.193:80 - WEB SERVICE
+3.111.39.5:80 - 404 Not Found
+95.180.162.83:80 - Please wait, the page is opening...
+127.62.229.239:80 - IIS Windows
+148.72.53.208:80 - Coming Soon
+149.210.166.84:80 - Default Parallels Plesk Page
+127.53.149.90:80 - IIS Windows
+127.99.151.97:80 - IIS Windows
+118.99.126.210:80 - RouterOS router configuration page
+127.88.193.218:80 - IIS Windows
+34.250.39.118:80 - Заголовок не найден
+127.42.208.75:80 - IIS Windows
+104.237.142.90:80 - Apache2 Debian Default Page: It works
+127.19.225.110:80 - IIS Windows
+23.47.236.7:80 - Заголовок не найден
+52.25.73.191:80 - Test Page for the Apache HTTP Server
+20.112.37.94:80 - 
+23.7.177.152:80 - Заголовок не найден
+186.195.9.139:80 - 406 Not Acceptable
+127.122.181.181:80 - IIS Windows
+127.230.58.58:80 - IIS Windows
+154.89.226.4:80 - 404 Not Found
+127.51.16.100:80 - IIS Windows
+127.65.158.246:80 - IIS Windows
+118.215.103.233:80 - Заголовок не найден
+61.42.23.174:80 - Заголовок не найден
+18.66.97.1:80 - Заголовок не найден
+12.215.49.231:80 - Заголовок не найден
+54.146.11.58:80 - Fix Pay
+18.161.164.108:80 - Заголовок не найден
+127.39.9.173:80 - IIS Windows
+52.214.129.96:80 - Home - Craghoppers DE Community
+23.215.220.242:80 - Заголовок не найден
+172.105.199.237:80 - Apache2 Ubuntu Default Page: It works
+43.205.175.219:80 - Заголовок не найден
+192.126.210.9:80 - ERROR: The requested URL could not be retrieved
