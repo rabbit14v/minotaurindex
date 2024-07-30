@@ -13016,3 +13016,16 @@ Welcome !80!
 2.18.71.234 - Заголовок не найден !80!
 110.93.205.122 - IIS Windows Server !80!
 71.190.196.3 - Document Moved !80!
+3.162.137.225 - Заголовок не найден !80!
+92.205.61.161 - Web Server's Default Page !80!
+201.158.122.157 -  !80!
+136.226.55.102 - Internet Security by Zscaler !80!
+81.213.26.242 - Wireless Broadband Router !80!
+108.138.8.180 - Заголовок не найден !80!
+107.154.141.114 - Заголовок не найден !80!
+23.10.160.184 - Заголовок не найден !80!
+47.243.67.134 - Apache2 Ubuntu Default Page: It works !80!
+178.91.255.76 - Error 404 (Not Found)!!1 !80!
+194.4.168.230 - ERROR: The requested URL could not be retrieved !80!
+3.91.232.198 - 502 Bad Gateway !80!
+52.127.102.8 - Заголовок не найден !80!
