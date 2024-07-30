@@ -6489,3 +6489,178 @@
 127.127.194.81:80 - IIS Windows Server
 127.92.225.98:80 - IIS Windows Server
 88.86.126.227:80 - Presmerovasni
+127.29.151.97:80 - IIS Windows Server
+23.204.63.5:80 - Заголовок не найден
+44.240.3.161:80 - Заголовок не найден
+199.232.42.120:80 - Fastly error: unknown domain 199.232.42.120
+108.158.156.208:80 - Заголовок не найден
+47.106.232.125:80 - 404 Not Found
+127.135.136.205:80 - IIS Windows Server
+184.30.69.214:80 - Заголовок не найден
+178.18.193.226:80 - Заголовок не найден
+193.251.82.149:80 - Measure Web Server
+88.221.36.180:80 - Заголовок не найден
+127.204.196.8:80 - IIS Windows Server
+203.138.99.72:80 - Ambassador Relations Tool
+218.14.157.174:80 - Title
+127.12.251.201:80 - IIS Windows Server
+127.64.89.55:80 - IIS Windows Server
+127.115.67.103:80 - IIS Windows Server
+127.162.167.150:80 - IIS Windows Server
+52.84.115.116:80 - Заголовок не найден
+127.88.202.76:80 - IIS Windows Server
+143.204.41.134:80 - Заголовок не найден
+5.22.189.204:80 - Error 404 (Not Found)!!1
+157.164.162.17:80 - Заголовок не найден
+82.165.106.222:80 - Leon Zimmermann
+39.107.164.52:80 - Заголовок не найден
+13.36.67.185:80 - 404 Not Found
+23.223.78.171:80 - Заголовок не найден
+127.245.2.139:80 - IIS Windows Server
+127.221.132.117:80 - IIS Windows Server
+120.77.243.38:80 - 403 Forbidden
+96.126.120.94:80 - 401 Authorization Required
+18.244.38.53:80 - Заголовок не найден
+38.12.149.66:80 - Заголовок не найден
+162.244.114.29:80 - Заголовок не найден
+127.1.192.78:80 - IIS Windows Server
+184.85.181.30:80 - Заголовок не найден
+14.54.89.174:80 - CMS Web Viewer
+127.210.82.198:80 - IIS Windows Server
+124.221.101.195:80 - Welcome to nginx!
+127.29.215.109:80 - IIS Windows Server
+3.82.29.65:80 - 404 Not Found
+127.206.171.184:80 - IIS Windows Server
+23.219.221.200:80 - Заголовок не найден
+18.65.168.96:80 - Заголовок не найден
+137.184.11.150:80 - Homepage - The Innovation Foundation
+87.188.193.174:80 - index
+69.197.153.42:80 - 403 Forbidden
+52.230.25.96:80 - Microsoft Azure Web App - Error 404
+127.167.221.199:80 - IIS Windows Server
+116.108.196.13:80 - Error 404 (Not Found)!!1
+186.158.209.105:80 - 403 Forbidden
+154.44.25.184:80 - 404 Not Found
+127.232.122.105:80 - IIS Windows Server
+127.61.25.112:80 - IIS Windows Server
+127.135.65.209:80 - IIS Windows Server
+188.165.138.49:80 - 410 Gone
+23.214.181.104:80 - Заголовок не найден
+127.167.192.232:80 - IIS Windows Server
+104.69.122.98:80 - Заголовок не найден
+52.3.52.73:80 - Заголовок не найден
+23.213.47.139:80 - Заголовок не найден
+127.115.52.0:80 - IIS Windows Server
+127.18.116.229:80 - IIS Windows Server
+127.158.252.183:80 - IIS Windows Server
+127.165.164.121:80 - IIS Windows Server
+162.215.13.13:80 - 404 Not Found
+127.78.219.168:80 - IIS Windows Server
+127.63.119.123:80 - IIS Windows Server
+127.38.140.102:80 - IIS Windows Server
+131.72.254.62:80 - Error 404 (Not Found)!!1
+118.184.222.34:80 - Заголовок не найден
+127.210.18.226:80 - IIS Windows Server
+191.82.71.82:80 - Заголовок не найден
+52.84.81.31:80 - Заголовок не найден
+39.134.132.92:80 - 403 Forbidden
+104.21.194.158:80 - Direct IP access not allowed | Cloudflare
+60.43.159.242:80 - Заголовок не найден
+106.15.0.99:80 - ty-cc-web
+107.220.57.127:80 - index
+127.239.170.33:80 - IIS Windows Server
+127.223.248.217:80 - IIS Windows Server
+219.234.16.166:80 - 403 Forbidden
+127.54.213.90:80 - IIS Windows Server
+127.20.147.146:80 - IIS Windows Server
+190.104.188.34:80 - 
+124.71.177.184:80 - Welcome to nginx!
+127.123.112.26:80 - IIS Windows Server
+2.16.179.182:80 - Заголовок не найден
+80.74.128.59:80 - Заголовок не найден
+148.113.152.229:80 - Welcome to nginx!
+127.83.107.18:80 - IIS Windows Server
+60.204.134.215:80 - Welcome to nginx!
+156.245.42.68:80 - 我的初恋情人电影|高清\免费\完整版
+104.25.175.255:80 - Direct IP access not allowed | Cloudflare
+167.114.23.33:80 - Заголовок не найден
+94.28.10.198:80 - Заголовок не найден
+127.222.159.37:80 - IIS Windows Server
+216.152.231.5:80 - 404 Not Found
+127.154.118.20:80 - IIS Windows Server
+127.220.85.19:80 - IIS Windows Server
+34.198.91.251:80 - Заголовок не найден
+110.49.33.189:80 - Заголовок не найден
+43.157.10.214:80 - IIS Windows Server
+54.255.43.205:80 - Welcome to nginx!
+113.156.232.54:80 - HITACHI Management
+127.6.246.146:80 - IIS Windows Server
+91.81.218.49:80 - Error 404 (Not Found)!!1
+43.200.213.108:80 - AI Fishery Big Data
+154.195.212.19:80 - 404 Not Found
+18.212.7.171:80 - Apache2 Ubuntu Default Page: It works
+127.105.115.35:80 - IIS Windows Server
+45.124.99.100:80 - IIS Windows Server
+3.217.249.233:80 - Заголовок не найден
+160.8.95.42:80 - 404 URL Not Found
+127.85.124.189:80 - IIS Windows Server
+103.48.83.208:80 - Заголовок не найден
+151.80.66.140:80 - Apache Tomcat/7.0.61 - Error report
+127.241.95.219:80 - IIS Windows Server
+207.204.231.160:80 - Bandwidth Speed Test
+127.62.255.108:80 - IIS Windows Server
+197.56.218.121:80 - 
+195.58.2.118:80 - Произошла ошибка 404
+124.255.25.142:80 - Заголовок не найден
+188.28.134.84:80 - Заголовок не найден
+127.3.241.132:80 - IIS Windows Server
+52.72.132.119:80 - No such app
+122.228.74.176:80 - 403 Forbidden
+108.139.56.98:80 - Заголовок не найден
+52.40.245.137:80 - 503 Service Temporarily Unavailable
+127.75.71.168:80 - IIS Windows Server
+127.66.17.59:80 - IIS Windows Server
+127.96.50.189:80 - IIS Windows Server
+127.3.157.2:80 - IIS Windows Server
+108.138.143.129:80 - Заголовок не найден
+127.113.60.75:80 - IIS Windows Server
+127.145.224.238:80 - IIS Windows Server
+127.192.81.244:80 - IIS Windows Server
+23.222.58.230:80 - Заголовок не найден
+127.169.29.104:80 - IIS Windows Server
+79.127.68.10:80 - IIS Windows Server
+127.213.31.63:80 - IIS Windows Server
+37.48.82.49:80 - IIS Windows Server
+18.203.54.113:80 - Log in | Orchestra
+3.219.95.33:80 - 503 Service Temporarily Unavailable
+1.32.218.152:80 - 404 Not Found
+127.149.119.55:80 - IIS Windows Server
+127.9.44.234:80 - IIS Windows Server
+127.221.28.46:80 - IIS Windows Server
+127.180.132.247:80 - IIS Windows Server
+14.225.206.78:80 - OrderChina24h
+36.104.151.199:80 - 403 Forbidden
+127.115.162.25:80 - IIS Windows Server
+165.232.100.195:80 - MyMFD - Customs e-services
+127.64.168.42:80 - IIS Windows Server
+193.151.232.140:80 - Заголовок не найден
+127.2.217.222:80 - IIS Windows Server
+168.206.202.186:80 - æ²¡ææ¾å°ç«ç¹
+127.58.62.160:80 - IIS Windows Server
+34.102.160.13:80 - 502 Server Error
+127.65.140.84:80 - IIS Windows Server
+127.28.0.42:80 - IIS Windows Server
+92.116.75.185:80 - Default Site
+170.130.22.62:80 - 403 Forbidden
+93.107.30.2:80 - WEB SERVICE
+144.76.72.67:80 - Заголовок не найден
+127.5.11.2:80 - IIS Windows Server
+212.8.235.40:80 - IIS Windows Server
+23.51.107.47:80 - Заголовок не найден
+18.64.84.186:80 - Заголовок не найден
+148.135.116.119:80 - IIS Windows Server
+35.198.31.145:80 - Заголовок не найден
+47.88.1.101:80 - Welcome to nginx!
+123.6.42.140:80 - Заголовок не найден
+20.7.109.95:80 - Your Azure Function App is up and running.
+116.203.73.49:80 - Заголовок не найден
