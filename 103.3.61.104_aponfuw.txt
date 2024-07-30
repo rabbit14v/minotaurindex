@@ -15861,3 +15861,29 @@
 85.31.210.35 - Page introuvable - Ommi !80!
 108.157.223.25 - Заголовок не найден !80!
 23.219.105.147 - Заголовок не найден !80!
+23.95.116.194 - Test Page for the HTTP Server on Fedora !80!
+37.59.32.236 - Web Server's Default Page !80!
+200.155.82.200 - Bradesco NIC !80!
+110.165.16.69 - Page not found at / !80!
+194.110.248.39 - Notes !80!
+46.5.73.221 - IIS Windows Server !80!
+200.114.66.16 - RouterOS router configuration page !80!
+50.3.228.199 - 403 Forbidden !80!
+165.22.31.199 - Заголовок не найден !80!
+103.240.214.196 - HTTP Server Test Page powered by CentOS-WebPanel.com !80!
+84.38.176.190 - 403 Forbidden !80!
+194.113.81.158 - Заголовок не найден !80!
+138.43.101.209 - Page Restricted !80!
+72.46.69.134 - Заголовок не найден !80!
+57.153.124.208 - Under construction !80!
+173.236.214.219 - Site not found &middot; DreamHost !80!
+3.87.78.182 - Contiyo !80!
+20.44.190.205 - Your Azure Function App is up and running. !80!
+18.189.217.230 - 503 Service Temporarily Unavailable !80!
+190.166.19.121 - Заголовок не найден !80!
+180.201.24.230 - 404 Not Found !80!
+42.56.67.243 - 403 Forbidden !80!
+20.126.245.223 - Заголовок не найден !80!
+138.201.6.116 - Herzlich Willkommen! !80!
+20.60.64.168 - Заголовок не найден !80!
+74.48.126.245 - 404 Not Found !80!
