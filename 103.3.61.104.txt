@@ -13793,3 +13793,70 @@
 154.216.39.142 - 404 Not Found !80!
 172.67.155.73 - Direct IP access not allowed | Cloudflare !80!
 138.197.61.83 - 404: Not Found !80!
+18.165.30.205 - Заголовок не найден !80!
+183.181.82.37 - ç¡å¹ãªURLã§ã !80!
+147.182.207.226 - Open Source ERP &amp; CRM Software for Business On The Cloud | FlectraHQ | Flectra, The Open Source ERP and CRM !80!
+110.76.155.100 - 401 Authorization Required !80!
+23.36.122.60 - Заголовок не найден !80!
+96.7.236.248 - Заголовок не найден !80!
+39.110.63.108 - Redirect Page !80!
+108.66.222.117 - Заголовок не найден !80!
+54.192.230.54 - Заголовок не найден !80!
+3.124.178.19 - 404 Not Found !80!
+118.31.1.185 - 403 Forbidden !80!
+18.160.226.25 - Заголовок не найден !80!
+209.14.147.189 - RouterOS router configuration page !80!
+23.37.100.88 - Заголовок не найден !80!
+75.75.230.83 - Заголовок не найден !80!
+178.128.108.9 - Заголовок не найден !80!
+93.190.111.209 -  !80!
+154.206.249.83 - 404 Not Found !80!
+142.83.2.30 - IIS Windows Server !80!
+3.77.4.94 - Заголовок не найден !80!
+180.214.67.88 - IIS7 !80!
+178.128.247.114 - 404 Not Found !80!
+8.140.97.225 - èé¢å¸é¼ä¿¡ç½ç»ç§ææéå¬å¸ !80!
+65.184.28.161 - Заголовок не найден !80!
+149.202.173.12 - Welcome to nginx! !80!
+147.213.192.2 - Slovenská Akadémia Vied v Košiciach !80!
+23.222.245.110 - Заголовок не найден !80!
+94.237.32.221 - Apache2 Debian Default Page: It works !80!
+206.119.123.210 - 404 Not Found !80!
+178.91.225.82 - GPON Home Gateway !80!
+195.35.13.149 - 403 Forbidden !80!
+104.96.255.50 - Заголовок не найден !80!
+156.251.180.51 - 403 Forbidden !80!
+96.7.57.148 - Заголовок не найден !80!
+104.83.35.190 - Заголовок не найден !80!
+18.238.29.116 - Заголовок не найден !80!
+20.151.28.108 - Azure Container App - Unavailable !80!
+83.216.100.49 -  !80!
+172.64.236.146 - Direct IP access not allowed | Cloudflare !80!
+192.229.75.186 - éé¼å¨±ä¹ !80!
+13.33.203.208 - Заголовок не найден !80!
+50.116.96.199 - Internet Marketing Know HOW for B2B !80!
+23.13.70.111 - Заголовок не найден !80!
+177.72.169.14 - Apache2 Debian Default Page: It works !80!
+54.90.15.159 - Apache2 Ubuntu Default Page: It works !80!
+45.63.50.234 - #Front Page - Boys &amp; Girls Clubs of Tucson Boys &amp; Girls Clubs of Tucson !80!
+52.239.154.97 - InvalidUri !80!
+85.31.185.10 - Apache HTTP Server Test Page powered by CentOS !80!
+23.194.133.211 - Заголовок не найден !80!
+184.30.12.71 - Заголовок не найден !80!
+139.99.148.59 - robgraham.info !80!
+3.250.61.251 - 404 Not Found !80!
+94.230.201.16 - 403 Forbidden !80!
+104.97.47.47 - Заголовок не найден !80!
+207.32.16.52 - Заголовок не найден !80!
+104.18.210.120 - Direct IP access not allowed | Cloudflare !80!
+43.198.49.138 - 503 Service Temporarily Unavailable !80!
+103.108.41.106 - æ²¡ææ¾å°ç«ç¹ !80!
+62.232.106.26 - IIS Windows Server !80!
+13.50.232.107 - Apache2 Ubuntu Default Page: It works !80!
+46.18.193.8 - Заголовок не найден !80!
+188.174.165.150 - Login !80!
+45.91.138.247 - Bandwidth Speed Test !80!
+4.175.245.167 - Your Azure Function App is up and running. !80!
+3.138.41.126 - Welcome to nginx! !80!
+115.79.32.85 - Đăng nhập !80!
+52.229.89.201 - Заголовок не найден !80!
