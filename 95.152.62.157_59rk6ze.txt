@@ -1,0 +1,15 @@
+52.49.228.253:80 - Studio Scivoletto
+50.247.16.130:80 - City of Monroe Michigan
+107.149.148.30:80 - 404 Not Found
+175.45.183.18:80 - 403 Forbidden
+18.173.171.186:80 - Заголовок не найден
+104.19.141.245:80 - Direct IP access not allowed | Cloudflare
+38.33.82.21:80 - 404 Not Found
+87.106.254.245:80 - Web Server's Default Page
+2.23.104.50:80 - Заголовок не найден
+154.201.152.189:80 - 404 Not Found
+80.78.240.251:80 - Наследие
+91.226.112.169:80 - 
+189.203.143.152:80 - 404 Not Found
+190.92.151.74:80 - Dicantera
+79.96.77.85:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
