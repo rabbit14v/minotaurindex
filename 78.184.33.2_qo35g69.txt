@@ -10625,3 +10625,199 @@
 112.48.177.113:80 - Заголовок не найден
 127.230.75.230:80 - IIS Windows Server
 127.199.168.247:80 - IIS Windows Server
+127.202.101.165:80 - IIS Windows Server
+23.7.9.252:80 - Заголовок не найден
+47.242.236.201:80 - 502 Bad Gateway
+52.198.61.134:80 - 403 Forbidden
+127.142.13.18:80 - IIS Windows Server
+127.76.77.162:80 - IIS Windows Server
+127.98.154.210:80 - IIS Windows Server
+104.108.86.155:80 - Заголовок не найден
+38.33.200.122:80 - Заголовок не найден
+127.11.14.93:80 - IIS Windows Server
+13.80.77.216:80 - SAP Commerce Cloud - Forbidden
+127.69.65.190:80 - IIS Windows Server
+112.223.125.250:80 - Заголовок не найден
+79.96.122.30:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+101.132.17.16:80 - 
+8.213.144.31:80 - 403 Forbidden
+218.155.80.80:80 - Заголовок не найден
+78.70.157.155:80 - Apache2 Ubuntu Default Page: It works
+127.147.145.250:80 - IIS Windows Server
+127.22.50.99:80 - IIS Windows Server
+217.71.178.6:80 - 403 - Forbidden: Access is denied.
+8.130.67.160:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+54.230.9.157:80 - Заголовок не найден
+120.26.163.7:80 - AINAN
+94.253.79.183:80 - Заголовок не найден
+59.19.40.141:80 - Заголовок не найден
+149.5.21.46:80 - IIS Windows Server
+50.3.66.188:80 - 403 Forbidden
+23.47.104.160:80 - Заголовок не найден
+216.251.97.165:80 - Заголовок не найден
+211.25.120.54:80 - Заголовок не найден
+23.194.149.61:80 - Заголовок не найден
+23.59.197.138:80 - Заголовок не найден
+127.51.116.136:80 - IIS Windows Server
+54.243.178.147:80 - Angad Arts Hotel | Boutique Hotel in St. Louis Missouri
+189.89.80.71:80 - .::Welcome to the Web-Based Configurator::.
+127.24.75.164:80 - IIS Windows Server
+4.186.16.48:80 - eReleGo
+90.83.223.148:80 - Mairie de Loupiac
+127.52.92.142:80 - IIS Windows Server
+154.55.179.172:80 - 404 Not Found
+127.2.130.231:80 - IIS Windows Server
+129.49.104.185:80 - Заголовок не найден
+85.187.228.131:80 - ÐÐ¾Ð»Ñ Ð¸Ð·ÑÐ°ÐºÐ°Ð¹ÑÐµ, Ð½Ð°ÑÐ°Ð»Ð½Ð°ÑÐ° ÑÑÑÐ°Ð½Ð¸ÑÐ° ÑÐµ Ð·Ð°ÑÐµÐ¶Ð´Ð°...
+108.138.243.164:80 - Заголовок не найден
+54.94.6.255:80 - Welcome to nginx!
+127.240.190.222:80 - IIS Windows Server
+38.11.135.61:80 - 404 Not Found
+125.229.41.62:80 - 401 Unauthorized
+127.25.38.223:80 - IIS Windows Server
+38.47.131.118:80 - Заголовок не найден
+103.175.23.3:80 - pfSense - Login
+75.134.93.123:80 - 
+157.231.12.106:80 - Заголовок не найден
+127.33.176.247:80 - IIS Windows Server
+23.49.203.190:80 - Заголовок не найден
+118.166.67.33:80 - 
+37.56.106.151:80 - RouterOS router configuration page
+127.17.76.96:80 - IIS Windows Server
+50.3.174.233:80 - 403 Forbidden
+43.202.233.10:80 - 403 Forbidden
+127.84.165.75:80 - IIS Windows Server
+127.218.135.105:80 - IIS Windows Server
+104.106.168.79:80 - Заголовок не найден
+154.36.188.183:80 - 404 Not Found
+127.1.243.243:80 - IIS Windows Server
+127.30.213.15:80 - IIS Windows Server
+104.248.57.215:80 - 404 Not Found
+2.17.166.219:80 - Заголовок не найден
+127.159.145.155:80 - IIS Windows Server
+127.169.231.96:80 - IIS Windows Server
+127.19.64.253:80 - IIS Windows Server
+184.29.206.146:80 - Заголовок не найден
+52.50.135.88:80 - Заголовок не найден
+135.125.192.81:80 - web81.vade.ie - default page
+198.73.254.218:80 - Заголовок не найден
+91.108.113.118:80 - Заголовок не найден
+140.82.15.227:80 - Error
+23.39.224.86:80 - Заголовок не найден
+45.146.243.12:80 - Welcome to nginx!
+20.80.254.68:80 - Local index - HTTrack Website Copier
+109.250.103.123:80 - Nextcloud
+94.130.65.31:80 - Web Server's Default Page
+38.14.132.17:80 - Заголовок не найден
+23.51.105.155:80 - Заголовок не найден
+65.52.137.117:80 - Discount Zone
+23.210.131.143:80 - Заголовок не найден
+127.207.231.40:80 - IIS Windows Server
+18.65.188.112:80 - Заголовок не найден
+103.225.191.103:80 - Please wait, the login page is opening...
+192.74.245.26:80 - Welcome to nginx!
+59.95.93.153:80 - 
+34.239.71.141:80 - Заголовок не найден
+104.94.175.51:80 - Заголовок не найден
+127.200.228.214:80 - IIS Windows Server
+1.209.43.5:80 - 404 Not Found
+138.197.214.31:80 - 404 Not Found
+127.53.159.53:80 - IIS Windows Server
+31.187.105.167:80 - Заголовок не найден
+23.193.16.26:80 - Заголовок не найден
+44.215.34.41:80 - 503 Service Temporarily Unavailable
+3.131.139.86:80 - 503 Service Temporarily Unavailable
+142.229.224.120:80 - Заголовок не найден
+127.80.23.7:80 - IIS Windows Server
+127.73.196.174:80 - IIS Windows Server
+104.25.97.75:80 - Direct IP access not allowed | Cloudflare
+127.186.165.45:80 - IIS Windows Server
+52.36.229.224:80 - Заголовок не найден
+107.154.245.56:80 - Заголовок не найден
+127.107.106.227:80 - IIS Windows Server
+85.128.216.89:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+3.220.249.126:80 - Заголовок не найден
+127.20.10.61:80 - IIS Windows Server
+42.192.33.244:80 - Заголовок не найден
+62.148.142.177:80 - ÐÑ:Àâòîìîéêà
+23.200.121.29:80 - Заголовок не найден
+45.230.32.12:80 - 401 Unauthorized
+3.163.242.184:80 - Заголовок не найден
+127.83.123.160:80 - IIS Windows Server
+18.66.80.164:80 - Заголовок не найден
+18.192.250.233:80 - SLSV - Staatliche Lotterie- und Spielbankverwaltung
+77.48.35.202:80 - 
+193.227.99.170:80 - Direct IP access not allowed | Cloudflare
+154.12.120.63:80 - ERROR: The requested URL could not be retrieved
+157.205.194.18:80 - æ ªå¼ä¼ç¤¾JCM
+201.179.4.134:80 - Заголовок не найден
+127.230.126.90:80 - IIS Windows Server
+127.46.19.230:80 - IIS Windows Server
+46.161.36.214:80 - 404 Not Found
+127.97.117.62:80 - IIS Windows Server
+127.132.4.182:80 - IIS Windows Server
+70.53.93.98:80 - 
+127.187.100.179:80 - IIS Windows Server
+127.145.140.35:80 - IIS Windows Server
+127.110.244.19:80 - IIS Windows Server
+172.64.137.220:80 - Direct IP access not allowed | Cloudflare
+96.17.82.99:80 - Заголовок не найден
+127.233.106.212:80 - IIS Windows Server
+127.226.170.236:80 - IIS Windows Server
+35.244.74.245:80 - Заголовок не найден
+127.247.19.97:80 - IIS Windows Server
+44.242.25.110:80 - 404 Not Found
+23.42.181.43:80 - Заголовок не найден
+51.91.145.115:80 - 503 Service Temporarily Unavailable
+185.232.96.35:80 - Заголовок не найден
+96.38.146.202:80 - 
+160.124.103.143:80 - 404 Not Found
+212.88.147.41:80 - B&uuml;rgerdienste Saar
+127.100.140.224:80 - IIS Windows Server
+38.181.42.6:80 - 404 Not Found
+174.138.8.252:80 - Welcome to nginx!
+50.56.151.189:80 - Coming Soon page
+127.237.60.28:80 - IIS Windows Server
+127.184.25.100:80 - IIS Windows Server
+23.75.210.128:80 - Заголовок не найден
+23.43.227.191:80 - Заголовок не найден
+127.34.163.190:80 - IIS Windows Server
+194.233.172.245:80 - ● 194.233.172.245
+212.197.149.241:80 - Loxone Audioserver
+104.90.246.214:80 - Заголовок не найден
+54.158.40.213:80 - Заголовок не найден
+23.37.88.196:80 - Заголовок не найден
+127.231.15.49:80 - IIS Windows Server
+127.160.230.125:80 - IIS Windows Server
+127.115.184.28:80 - IIS Windows Server
+137.138.76.105:80 - Oops...
+23.195.51.58:80 - Заголовок не найден
+38.11.223.11:80 - 403 Forbidden
+222.10.40.65:80 - Web Viewer for Samsung DVR
+46.242.183.200:80 - Strona w przygotowaniu
+23.64.19.197:80 - Заголовок не найден
+208.109.65.212:80 - Detroit Public Schools Community District Foundation |
+139.99.236.144:80 - Logical Developments
+63.32.195.109:80 - Заголовок не найден
+168.119.124.76:80 - Web Server's Default Page
+127.221.73.104:80 - IIS Windows Server
+127.167.177.163:80 - IIS Windows Server
+127.124.57.175:80 - IIS Windows Server
+139.59.22.131:80 - Welcome to nginx!
+190.93.247.103:80 - Direct IP access not allowed | Cloudflare
+104.86.88.104:80 - Заголовок не найден
+127.190.11.16:80 - IIS Windows Server
+85.158.176.38:80 - Заголовок не найден
+94.152.45.144:80 - Заголовок не найден
+107.172.232.193:80 - ERROR: The requested URL could not be retrieved
+127.117.84.174:80 - IIS Windows Server
+23.54.113.7:80 - Заголовок не найден
+45.201.248.83:80 - 404 Not Found
+38.165.10.75:80 - 403 Forbidden
+127.24.197.188:80 - IIS Windows Server
+127.222.187.145:80 - IIS Windows Server
+127.89.117.22:80 - IIS Windows Server
+127.85.70.79:80 - IIS Windows Server
+176.31.181.222:80 - Dude wtf
+127.49.75.39:80 - IIS Windows Server
+201.165.221.222:80 - RouterOS router configuration page
