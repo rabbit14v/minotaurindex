@@ -14354,3 +14354,214 @@
 13.226.1.73:80 - Заголовок не найден
 45.76.197.236:80 - Not Found
 119.23.85.170:80 - 阿里云 Web应用防火墙
+182.243.27.242:80 - 403 Forbidden
+185.11.145.110:80 - Just a moment please...
+18.245.130.156:80 - Заголовок не найден
+127.185.161.133:80 - IIS Windows Server
+2.20.62.246:80 - Заголовок не найден
+8.134.158.254:80 - 403 Forbidden
+127.18.128.255:80 - IIS Windows Server
+127.235.203.190:80 - IIS Windows Server
+162.159.44.222:80 - Direct IP access not allowed | Cloudflare
+167.71.211.228:80 - 404 Not Found
+42.81.127.13:80 - IIS Windows Server
+127.141.150.198:80 - IIS Windows Server
+127.130.84.150:80 - IIS Windows Server
+127.87.224.216:80 - IIS Windows Server
+5.235.235.149:80 - RouterOS router configuration page
+127.142.231.216:80 - IIS Windows Server
+104.90.244.230:80 - Заголовок не найден
+23.41.130.210:80 - Заголовок не найден
+18.67.167.162:80 - Заголовок не найден
+196.51.5.249:80 - ERROR: The requested URL could not be retrieved
+89.208.153.61:80 - Заголовок не найден
+127.149.118.242:80 - IIS Windows Server
+118.107.220.138:80 - Заголовок не найден
+104.118.165.243:80 - Заголовок не найден
+23.58.224.82:80 - Заголовок не найден
+87.244.198.29:80 - ZABBIX
+127.119.253.42:80 - IIS Windows Server
+47.35.221.150:80 - 
+104.17.93.227:80 - Direct IP access not allowed | Cloudflare
+127.71.24.28:80 - IIS Windows Server
+45.153.88.52:80 - Заголовок не найден
+95.217.159.5:80 - Cool Projects BMS
+34.197.186.81:80 - 404 Not Found
+127.148.96.166:80 - IIS Windows Server
+177.92.99.150:80 - Central de Servi&ccedil;os
+127.199.153.43:80 - IIS Windows Server
+18.160.244.122:80 - Заголовок не найден
+51.136.83.106:80 - Accelerate webserver is live
+127.176.53.188:80 - IIS Windows Server
+127.70.26.138:80 - IIS Windows Server
+104.231.73.211:80 - 
+104.115.89.113:80 - Заголовок не найден
+127.90.76.74:80 - IIS Windows Server
+212.227.83.161:80 - Web Server's Default Page
+127.206.24.58:80 - IIS Windows Server
+194.190.7.10:80 - 
+64.95.178.250:80 - Заголовок не найден
+201.209.213.177:80 - H168N
+144.217.128.196:80 - Test Page for the HTTP Server on AlmaLinux
+127.136.13.249:80 - IIS Windows Server
+127.32.108.141:80 - IIS Windows Server
+191.6.196.143:80 - Site Hospedado na KingHost | Data Center no Brasil
+127.152.234.19:80 - IIS Windows Server
+127.7.232.239:80 - IIS Windows Server
+127.10.32.150:80 - IIS Windows Server
+86.62.58.113:80 - ERROR: The requested URL could not be retrieved
+190.1.230.31:80 - welcome
+156.242.59.24:80 - 404 Not Found
+35.196.108.135:80 - 404 Not Found
+38.62.225.12:80 - Welcome to 38.62.225.12
+194.195.84.204:80 - 403 Forbidden
+127.36.146.192:80 - IIS Windows Server
+8.129.119.237:80 - ç½ç«è®¿é®æ¥é
+154.212.36.44:80 - 404 Not Found
+127.96.235.217:80 - IIS Windows Server
+23.219.112.253:80 - Заголовок не найден
+175.178.156.252:80 - 500 Internal Server Error
+3.230.12.207:80 - Apache2 Ubuntu Default Page: It works
+127.156.94.1:80 - IIS Windows Server
+13.224.233.123:80 - Заголовок не найден
+127.115.246.203:80 - IIS Windows Server
+152.0.231.238:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+127.197.57.26:80 - IIS Windows Server
+23.61.242.26:80 - Заголовок не найден
+127.20.145.155:80 - IIS Windows Server
+177.54.9.61:80 - Web managerment Home
+127.90.216.137:80 - IIS Windows Server
+35.182.205.70:80 - 404 Not Found
+206.167.221.15:80 - Error 404 (Not Found)!!1
+50.197.45.23:80 - {%TR%}Remote Support Portal | Powered by BOMGAR{%/TR%}
+127.156.205.119:80 - IIS Windows Server
+127.225.61.5:80 - IIS Windows Server
+127.14.65.185:80 - IIS Windows Server
+23.92.64.162:80 - 403 Forbidden
+95.101.58.152:80 - Заголовок не найден
+156.245.240.179:80 - æ²¡ææ¾å°ç«ç¹
+109.253.5.53:80 - Teltonika Networks
+173.232.251.254:80 - 403 Forbidden
+18.161.101.91:80 - Заголовок не найден
+127.54.211.123:80 - IIS Windows Server
+185.219.41.42:80 - Apache HTTP Server Test Page powered by CentOS
+2.21.226.193:80 - Заголовок не найден
+194.149.40.246:80 - 
+23.221.3.112:80 - Заголовок не найден
+127.105.222.117:80 - IIS Windows Server
+20.67.213.213:80 - 404 Not Found
+127.156.77.198:80 - IIS Windows Server
+51.75.143.193:80 - Apache2 Ubuntu Default Page: It works
+127.25.16.197:80 - IIS Windows Server
+127.68.179.135:80 - IIS Windows Server
+185.213.77.98:80 - ACME Access Only
+127.170.41.21:80 - IIS Windows Server
+79.140.24.109:80 - 
+127.253.57.1:80 - IIS Windows Server
+3.144.107.221:80 - Заголовок не найден
+123.136.84.185:80 - 403 Forbidden
+118.214.141.48:80 - Заголовок не найден
+63.134.249.196:80 - Заголовок не найден
+104.164.81.117:80 - 403 Forbidden
+18.203.175.57:80 - Заголовок не найден
+127.190.210.52:80 - IIS Windows Server
+108.157.200.217:80 - Заголовок не найден
+97.120.219.14:80 - index
+23.90.82.94:80 - 403 Forbidden
+117.72.37.154:80 - IIS Windows Server
+43.247.27.53:80 - 405
+3.163.177.161:80 - Заголовок не найден
+142.171.48.216:80 - Заголовок не найден
+127.19.10.17:80 - IIS Windows Server
+66.24.4.92:80 - 
+185.71.66.116:80 - Заголовок не найден
+127.182.177.106:80 - IIS Windows Server
+2.22.99.26:80 - Заголовок не найден
+193.248.141.212:80 - IIS Windows
+127.136.134.145:80 - IIS Windows Server
+95.165.41.170:80 - 401 Authorization Required
+127.159.171.85:80 - IIS Windows Server
+147.161.146.84:80 - Internet Security by Zscaler
+127.107.52.161:80 - IIS Windows Server
+172.80.44.54:80 - 404 Not Found
+127.195.125.136:80 - IIS Windows Server
+127.8.38.183:80 - IIS Windows Server
+82.223.118.152:80 - Inforeuma: Todo sobre el reuma - Sociedad Española de Reumatología
+198.244.190.107:80 - Welcome to nginx!
+127.117.114.0:80 - IIS Windows Server
+127.160.152.62:80 - IIS Windows Server
+66.154.111.96:80 - Apache HTTP Server Test Page powered by CentOS
+23.202.152.34:80 - Заголовок не найден
+38.92.185.139:80 - Заголовок не найден
+104.85.3.134:80 - Заголовок не найден
+127.3.163.21:80 - IIS Windows Server
+108.158.16.183:80 - Заголовок не найден
+3.165.39.148:80 - Заголовок не найден
+127.109.37.68:80 - IIS Windows Server
+45.61.184.247:80 - Success!
+176.254.91.158:80 - 
+34.210.93.149:80 - Заголовок не найден
+127.165.55.5:80 - IIS Windows Server
+36.67.119.122:80 - Geoportal Kutai Kartanegara
+127.77.118.147:80 - IIS Windows Server
+51.77.200.102:80 - 404 Not Found
+107.158.120.90:80 - 403 Forbidden
+127.219.182.88:80 - IIS Windows Server
+127.240.14.136:80 - IIS Windows Server
+13.224.29.72:80 - Заголовок не найден
+46.17.41.229:80 - 259214.vps.local &mdash; Coming Soon
+107.154.180.116:80 - Заголовок не найден
+127.250.122.90:80 - IIS Windows Server
+89.149.118.68:80 - Заголовок не найден
+104.77.230.176:80 - Заголовок не найден
+45.94.221.6:80 - 500 Internal Server Error
+129.153.176.208:80 - Omkar Dhomane - Portfolio
+108.139.67.81:80 - Заголовок не найден
+47.106.157.198:80 - 404 Not Found
+23.13.189.92:80 - Заголовок не найден
+108.159.105.50:80 - Заголовок не найден
+35.221.154.89:80 - 403 Forbidden
+127.240.155.253:80 - IIS Windows Server
+23.48.127.39:80 - Заголовок не найден
+201.71.155.96:80 - 
+23.47.20.36:80 - Заголовок не найден
+155.159.87.181:80 - Welcome to nginx!
+3.164.125.116:80 - Заголовок не найден
+127.152.170.10:80 - IIS Windows Server
+127.166.60.27:80 - IIS Windows Server
+38.54.135.88:80 - 404 Not Found
+106.54.9.8:80 - kxmallåå°ç®¡çç³»ç»
+127.213.200.228:80 - IIS Windows Server
+65.27.82.97:80 - Default Site
+127.108.196.229:80 - IIS Windows Server
+156.208.26.255:80 - Redirection Page
+127.226.190.55:80 - IIS Windows Server
+23.61.153.41:80 - Заголовок не найден
+127.153.149.230:80 - IIS Windows Server
+76.223.81.68:80 - Заголовок не найден
+191.252.98.168:80 - Заголовок не найден
+127.129.236.139:80 - IIS Windows Server
+13.225.68.61:80 - Заголовок не найден
+23.207.88.137:80 - Заголовок не найден
+38.181.187.35:80 - Заголовок не найден
+127.69.15.204:80 - IIS Windows Server
+108.157.171.7:80 - Заголовок не найден
+127.199.129.188:80 - IIS Windows Server
+127.77.232.16:80 - IIS Windows Server
+206.124.141.94:80 - Заголовок не найден
+104.17.174.227:80 - Direct IP access not allowed | Cloudflare
+45.60.184.1:80 - Заголовок не найден
+184.85.36.222:80 - Заголовок не найден
+23.65.159.192:80 - Заголовок не найден
+13.234.44.196:80 - 404 Not Found
+91.201.176.116:80 - Welcome to nginx!
+185.58.79.200:80 - Заголовок не найден
+23.1.158.27:80 - Заголовок не найден
+127.92.254.78:80 - IIS Windows Server
+127.179.26.91:80 - IIS Windows Server
+38.6.209.102:80 - 404 Not Found
+210.90.138.76:80 - CMS Web Viewer
+127.146.88.251:80 - IIS Windows Server
+112.184.121.244:80 - index
+178.63.47.82:80 - 403 Forbidden
+16.163.243.233:80 - Заголовок не найден
