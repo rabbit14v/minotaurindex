@@ -8791,3 +8791,39 @@ Album !80!
 54.94.192.108 - IIS7 !80!
 188.15.74.62 - index !80!
 181.197.60.175 - RouterOS router configuration page !80!
+85.215.180.102 - 403 Forbidden !80!
+200.61.249.197 - 404 Not Found !80!
+191.243.225.2 - 403 Forbidden !80!
+123.195.99.195 -  !80!
+188.65.16.129 - ERROR: The requested URL could not be retrieved !80!
+121.182.111.101 - 401 - Unauthorized !80!
+15.165.219.22 - 503 Service Temporarily Unavailable !80!
+85.128.175.128 - Domena  jest utrzymywana na serwerach nazwa.pl !80!
+45.169.84.179 - Заголовок не найден !80!
+173.236.220.27 - Site not found &middot; DreamHost !80!
+192.133.11.42 - Direct IP access not allowed | Cloudflare !80!
+217.92.38.149 - 401 Unauthorized !80!
+104.148.54.102 - 404 Not Found !80!
+52.208.165.153 - KAMAJI !80!
+185.77.158.56 - 403 Forbidden !80!
+54.227.215.89 - Заголовок не найден !80!
+103.118.41.99 - LNMPä¸é®å®è£å by Licess !80!
+104.24.15.99 - Direct IP access not allowed | Cloudflare !80!
+99.142.90.175 - AT&T WiFi Portal !80!
+103.237.160.208 - 403 Forbidden !80!
+3.210.77.105 - REPAY Web Service Test Forms !80!
+206.189.24.41 - Waiting for the redirectiron... !80!
+23.56.199.32 - Заголовок не найден !80!
+37.152.141.27 -  !80!
+8.44.44.44 - 404 Not Found !80!
+92.255.232.231 - Заголовок не найден !80!
+104.69.120.117 - Заголовок не найден !80!
+54.234.22.230 - Never Too Fit - Helping people to achieve their fitness goals !80!
+80.77.225.42 - Page introuvable !80!
+184.30.118.234 - Заголовок не найден !80!
+38.110.198.159 - Fiberstreamwifi Portal !80!
+69.167.167.130 - Заголовок не найден !80!
+65.60.61.159 - Заголовок не найден !80!
+88.255.86.241 - 404 Not Found !80!
+46.250.236.78 - Anand Sir | Passionate Educator in Mathematics and Computer Science !80!
+18.160.62.31 - Заголовок не найден !80!
