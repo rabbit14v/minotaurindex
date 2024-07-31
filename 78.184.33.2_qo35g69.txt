@@ -12083,3 +12083,198 @@
 127.206.151.172:80 - IIS Windows Server
 117.185.137.176:80 - Заголовок не найден
 34.140.1.36:80 - Clinica Sónia Costa &#8211; Medicina Dentária e Estética
+127.24.106.2:80 - IIS Windows Server
+77.239.253.172:80 - 
+31.31.198.44:80 - ÐÐ¾Ð¼ÐµÐ½ Ð½Ðµ&nbsp;Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð²&nbsp;Ð¿Ð°Ð½ÐµÐ»Ð¸
+3.74.56.138:80 - 404 Not Found
+23.12.68.81:80 - Заголовок не найден
+74.57.18.59:80 - 404 Not Found
+167.82.104.75:80 - Fastly error: unknown domain 167.82.104.75
+175.178.176.225:80 - 403 Forbidden
+13.224.4.59:80 - Заголовок не найден
+104.107.133.248:80 - Заголовок не найден
+127.31.226.97:80 - IIS Windows Server
+127.32.140.140:80 - IIS Windows Server
+89.58.55.88:80 - Заголовок не найден
+52.222.253.86:80 - Заголовок не найден
+127.70.241.181:80 - IIS Windows Server
+127.246.217.119:80 - IIS Windows Server
+18.160.51.79:80 - Заголовок не найден
+127.208.94.104:80 - IIS Windows Server
+104.25.94.206:80 - Direct IP access not allowed | Cloudflare
+13.112.73.18:80 - Заголовок не найден
+127.229.120.47:80 - IIS Windows Server
+192.161.160.160:80 - ERROR: The requested URL could not be retrieved
+127.39.186.96:80 - IIS Windows Server
+127.190.52.36:80 - IIS Windows Server
+127.74.44.227:80 - IIS Windows Server
+127.118.38.43:80 - IIS Windows Server
+154.6.122.83:80 - Заголовок не найден
+195.201.24.1:80 - Центр Изучения Эзотерического Наследия и Развития Сознания - Центр изучения Эзотерики и Развития Сознания
+127.65.47.248:80 - IIS Windows Server
+127.178.3.11:80 - IIS Windows Server
+23.25.98.81:80 - Document Moved
+108.156.182.59:80 - Заголовок не найден
+185.51.171.125:80 - Login
+18.172.44.132:80 - Заголовок не найден
+3.162.15.100:80 - Заголовок не найден
+50.74.41.110:80 - Document Moved
+127.31.54.124:80 - IIS Windows Server
+104.122.197.209:80 - Заголовок не найден
+8.138.80.125:80 - File Index
+5.78.94.51:80 - Заголовок не найден
+8.218.83.205:80 - 404 Not Found
+127.182.25.95:80 - IIS Windows Server
+127.9.138.180:80 - IIS Windows Server
+144.24.43.176:80 - Заголовок не найден
+23.222.133.105:80 - Заголовок не найден
+125.229.187.95:80 - ACME Access Only
+3.77.143.48:80 - Welcome to nginx!
+127.8.168.232:80 - IIS Windows Server
+127.106.30.243:80 - IIS Windows Server
+127.1.117.125:80 - IIS Windows Server
+50.20.206.205:80 - Hosted By BisectHosting - BisectHosting
+3.248.75.177:80 - Заголовок не найден
+2.18.253.243:80 - UNKNOWN
+38.59.66.115:80 - 404 Not Found
+127.119.30.166:80 - IIS Windows Server
+154.201.248.132:80 - 404 Not Found
+162.199.149.128:80 - 404 Not Found
+51.83.32.34:80 - Web Server's Default Page
+127.145.217.156:80 - IIS Windows Server
+82.136.107.223:80 - Заголовок не найден
+127.104.74.216:80 - IIS Windows Server
+190.92.128.118:80 - Заголовок не найден
+13.233.238.176:80 - AUTOBODY LOCATOR CANADA EVHQ
+127.14.11.15:80 - IIS Windows Server
+38.38.17.134:80 - Заголовок не найден
+116.58.232.33:80 - 403 Forbidden
+23.27.245.44:80 - 502 Bad Gateway
+3.162.1.156:80 - Заголовок не найден
+212.230.25.75:80 - 403 Forbidden
+174.170.151.243:80 - 
+111.229.237.191:80 - Test Page for the Nginx HTTP Server on Fedora
+104.166.162.7:80 - 403 Forbidden
+153.127.18.56:80 - MyASP（マイスピー）
+127.36.247.145:80 - IIS Windows Server
+96.17.219.228:80 - Заголовок не найден
+72.175.160.94:80 - ACME Access Only
+127.146.0.1:80 - IIS Windows Server
+195.154.112.232:80 - Serveur Dedibox en maintenance
+127.205.229.44:80 - IIS Windows Server
+2.20.218.222:80 - Заголовок не найден
+127.154.186.170:80 - IIS Windows Server
+127.33.240.123:80 - IIS Windows Server
+105.69.99.187:80 - &#72;&#50;&#56;&#56;&#65;
+127.214.38.163:80 - IIS Windows Server
+73.22.39.68:80 - 
+172.104.182.16:80 - Apache2 Ubuntu Default Page: It works
+64.113.185.83:80 - Web Site Blocked
+104.127.25.56:80 - Заголовок не найден
+38.48.202.145:80 - 404 Not Found
+202.21.120.205:80 - RouterOS router configuration page
+127.181.64.196:80 - IIS Windows Server
+120.27.18.217:80 - ç½ç«è®¿é®æ¥é
+127.201.226.242:80 - IIS Windows Server
+127.0.230.9:80 - IIS Windows Server
+43.241.143.37:80 - 
+127.22.156.185:80 - IIS Windows Server
+44.228.2.82:80 - Заголовок не найден
+79.96.220.108:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.55.60.130:80 - IIS Windows Server
+74.209.164.224:80 - Home
+190.92.239.57:80 - 502 Bad Gateway
+127.208.168.89:80 - IIS Windows Server
+127.56.42.212:80 - IIS Windows Server
+31.220.126.245:80 - 31.220.126.245
+127.53.83.255:80 - IIS Windows Server
+127.91.174.196:80 - IIS Windows Server
+140.99.44.213:80 - 404 Not Found
+127.98.243.68:80 - IIS Windows Server
+78.46.108.134:80 - Default Site
+127.76.226.85:80 - IIS Windows Server
+64.91.248.162:80 - Заголовок не найден
+147.135.207.240:80 - Заголовок не найден
+216.222.162.30:80 - Login
+38.170.83.164:80 - ERROR: The requested URL could not be retrieved
+127.20.131.51:80 - IIS Windows Server
+181.24.177.206:80 - Заголовок не найден
+127.218.103.22:80 - IIS Windows Server
+35.79.238.100:80 - 403 Forbidden
+184.24.129.149:80 - Заголовок не найден
+165.232.141.185:80 - Заголовок не найден
+189.240.43.244:80 - Web Client
+127.70.232.107:80 - IIS Windows Server
+104.121.230.104:80 - Заголовок не найден
+127.50.134.212:80 - IIS Windows Server
+127.109.221.3:80 - IIS Windows Server
+127.238.169.210:80 - IIS Windows Server
+127.6.189.109:80 - IIS Windows Server
+44.237.234.200:80 - Keel
+127.94.48.212:80 - IIS Windows Server
+54.93.116.246:80 - Welcome to nginx!
+63.196.106.148:80 - AT&T WiFi Portal
+127.5.31.236:80 - IIS Windows Server
+127.173.51.158:80 - IIS Windows Server
+23.35.255.49:80 - Заголовок не найден
+35.186.220.14:80 - Google
+20.75.191.3:80 - Your Azure Function App is up and running.
+127.149.131.58:80 - IIS Windows Server
+82.83.108.41:80 - 
+104.79.236.81:80 - Заголовок не найден
+77.242.71.116:80 - 403 Forbidden
+39.44.21.159:80 - Заголовок не найден
+45.200.123.64:80 - 404 Not Found
+154.36.146.176:80 - Заголовок не найден
+38.154.70.43:80 - ERROR: The requested URL could not be retrieved
+13.127.237.219:80 - 404 Not Found
+127.224.148.20:80 - IIS Windows Server
+127.111.12.2:80 - IIS Windows Server
+31.129.207.17:80 - Заголовок не найден
+127.82.23.208:80 - IIS Windows Server
+20.209.161.166:80 - Заголовок не найден
+127.98.16.203:80 - IIS Windows Server
+127.70.31.111:80 - IIS Windows Server
+107.158.56.164:80 - Index of /
+217.174.153.74:80 - 403 Forbidden
+54.169.78.115:80 - Ark Domino
+43.229.93.180:80 - RouterOS router configuration page
+54.197.229.205:80 - Заголовок не найден
+192.177.102.134:80 - 404 Not Found
+127.207.90.125:80 - IIS Windows Server
+115.92.96.87:80 - Заголовок не найден
+127.183.252.59:80 - IIS Windows Server
+38.174.232.154:80 - 404 Not Found
+68.146.243.101:80 - 403 Forbidden
+180.163.237.127:80 - 403 Forbidden
+127.104.111.104:80 - IIS Windows Server
+104.115.18.218:80 - Заголовок не найден
+46.101.24.79:80 - Buzzvenue - is the UK’s most comprehensive, trusted community marketplace source for venue hire, professionals to list, discover, and book unique event spaces, entertainment and catering online.
+45.60.202.190:80 - Заголовок не найден
+2.23.33.196:80 - Заголовок не найден
+23.229.47.90:80 - ERROR: The requested URL could not be retrieved
+147.67.210.29:80 - Заголовок не найден
+184.31.118.236:80 - Заголовок не найден
+127.138.176.109:80 - IIS Windows Server
+127.135.175.130:80 - IIS Windows Server
+127.215.43.73:80 - IIS Windows Server
+92.50.157.130:80 - ТАИС-Электра - О компании
+18.140.93.179:80 - ログイン
+99.84.135.87:80 - Заголовок не найден
+64.126.137.60:80 - Student Housing Technologies Portal
+52.9.41.121:80 - 400 Bad Request
+23.218.45.170:80 - Заголовок не найден
+127.180.26.150:80 - IIS Windows Server
+76.179.50.250:80 - 
+103.137.88.34:80 - IP address management :: login
+127.16.50.204:80 - IIS Windows Server
+54.182.1.189:80 - Заголовок не найден
+52.216.110.66:80 - Amazon S3 - Cloud Object Storage  - AWS
+127.210.116.171:80 - IIS Windows Server
+184.31.219.161:80 - Заголовок не найден
+84.54.158.156:80 - ÐÐ¾Ð»Ñ Ð¸Ð·ÑÐ°ÐºÐ°Ð¹ÑÐµ, Ð½Ð°ÑÐ°Ð»Ð½Ð°ÑÐ° ÑÑÑÐ°Ð½Ð¸ÑÐ° ÑÐµ Ð·Ð°ÑÐµÐ¶Ð´Ð°...
+172.114.20.184:80 - 
+50.87.31.119:80 - Not Acceptable!
+127.189.72.185:80 - IIS Windows Server
+159.65.3.215:80 - Narrative Muse
+127.46.127.130:80 - IIS Windows Server
