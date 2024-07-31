@@ -376,3 +376,66 @@
 141.138.214.132:80 - Online Slots - New Animal-Inspired Mobile Casino Games for 2022
 54.69.61.61:80 - Retail Store Sample App
 43.139.219.85:80 - Welcome to nginx!
+146.120.120.215:80 - Document Error: Unauthorized
+196.51.158.247:80 - ERROR: The requested URL could not be retrieved
+111.229.5.24:80 - æ²¡ææ¾å°ç«ç¹
+20.12.6.69:80 - 502 Bad Gateway
+23.212.115.254:80 - Заголовок не найден
+160.251.78.171:80 - 503 Service Temporarily Unavailable
+167.88.125.24:80 - ERROR: The requested URL could not be retrieved
+44.229.87.105:80 - Database Error
+67.20.52.178:80 - Apache HTTP Server Test Page powered by CentOS
+154.86.79.58:80 - 404 Not Found
+190.15.148.74:80 - Заголовок не найден
+23.36.211.156:80 - Заголовок не найден
+47.123.75.131:80 - 403 Forbidden
+159.223.56.129:80 - Welcome to nginx!
+18.66.97.87:80 - Заголовок не найден
+1.175.49.122:80 - DVR
+51.159.31.59:80 - Virtualmin
+104.25.132.99:80 - Direct IP access not allowed | Cloudflare
+114.29.217.121:80 - Заголовок не найден
+108.186.6.230:80 - 404 Not Found
+184.25.79.46:80 - Заголовок не найден
+173.17.41.133:80 - WEB SERVICE
+212.83.174.141:80 - Despertar | prácticas corporales  &#8211; Experiencias, bienestar y promoción de prácticas corporales
+112.132.34.165:80 - 403 Forbidden
+35.195.148.102:80 - 404 Not Found
+23.37.142.10:80 - Заголовок не найден
+38.242.136.152:80 - Zudato Webmail :: Welcome to Zudato Webmail
+128.201.156.19:80 - Sofianet: Zabbix
+203.254.130.51:80 - L7
+45.223.105.193:80 - Заголовок не найден
+85.10.217.204:80 - Froxlor Server Management Panel
+104.120.80.80:80 - Заголовок не найден
+104.24.1.141:80 - Direct IP access not allowed | Cloudflare
+38.152.148.62:80 - ERROR: The requested URL could not be retrieved
+45.60.90.163:80 - Заголовок не найден
+18.169.219.95:80 - 503 Service Temporarily Unavailable
+23.203.245.65:80 - Заголовок не найден
+104.89.197.76:80 - Заголовок не найден
+80.191.100.109:80 - 
+23.1.29.62:80 - Заголовок не найден
+149.96.161.95:80 - 403 Forbidden
+47.119.149.76:80 - 404 Not Found
+110.232.115.101:80 - Заголовок не найден
+120.55.66.10:80 - 502 Bad Gateway
+38.60.210.52:80 - Apache2 Ubuntu Default Page: It works
+206.162.244.103:80 - Error
+45.138.16.11:80 - Welcome to nginx!
+101.133.137.230:80 - 404 Not Found
+38.162.68.32:80 - 403 Forbidden
+1.116.45.97:80 - 403 Forbidden
+54.198.183.206:80 - Заголовок не найден
+2.59.188.252:80 - Заголовок не найден
+14.172.92.147:80 - WEB SERVICE
+81.19.31.121:80 - Заголовок не найден
+18.116.77.168:80 - Заголовок не найден
+18.164.131.127:80 - Заголовок не найден
+18.154.64.149:80 - Заголовок не найден
+121.12.159.188:80 - SCRM系统
+124.222.23.2:80 - 404 Not Found
+191.6.222.236:80 - Site Hospedado na KingHost | Data Center no Brasil
+141.138.214.132:80 - Online Slots - New Animal-Inspired Mobile Casino Games for 2022
+54.69.61.61:80 - Retail Store Sample App
+43.139.219.85:80 - Welcome to nginx!
