@@ -19778,3 +19778,35 @@ No service configured for this hostname !80!
 147.135.155.19 - Заголовок не найден !80!
 18.65.152.88 - Заголовок не найден !80!
 151.101.231.198 - Fastly error: unknown domain 151.101.231.198 !80!
+109.95.156.254 - dhosting.pl - pod tym adresem nie znajduje się żaden serwis WWW !80!
+173.232.244.171 - 403 Forbidden !80!
+104.90.19.26 - Заголовок не найден !80!
+184.84.35.238 - Заголовок не найден !80!
+20.13.99.18 - Icecast Streaming Media Server !80!
+160.238.86.196 - 403 Forbidden !80!
+192.241.72.134 - 407 Proxy Authentication Required !80!
+195.234.92.63 - 403 Forbidden !80!
+70.166.63.35 - Apache2 Debian Default Page: It works !80!
+139.91.183.45 - SoCoLa Demo !80!
+40.122.109.56 - Microsoft Azure Web App - Error 404 !80!
+121.185.189.5 - main page !80!
+85.128.190.229 - Domena  jest utrzymywana na serwerach nazwa.pl !80!
+103.27.176.19 - 403 Forbidden !80!
+168.138.164.124 - Welcome to nginx! !80!
+2.20.210.10 - Заголовок не найден !80!
+95.78.127.146 - RouterOS router configuration page !80!
+151.101.64.92 - Fastly error: unknown domain 151.101.64.92 !80!
+1.13.156.225 - 404 Not Found !80!
+103.156.24.55 - 403 Forbidden !80!
+104.24.7.184 - Direct IP access not allowed | Cloudflare !80!
+52.84.80.126 - Заголовок не найден !80!
+99.86.19.156 - Заголовок не найден !80!
+103.39.16.93 - 404 Not Found !80!
+223.204.200.118 -  !80!
+104.106.186.81 - Заголовок не найден !80!
+18.118.91.57 - 403 Forbidden !80!
+104.79.234.2 - Заголовок не найден !80!
+172.67.116.97 - Direct IP access not allowed | Cloudflare !80!
+38.55.251.126 - Заголовок не найден !80!
+199.232.154.20 - Fastly error: unknown domain 199.232.154.20 !80!
+198.41.49.11 - WEB SERVICE !80!
