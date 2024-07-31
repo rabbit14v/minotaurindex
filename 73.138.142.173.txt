@@ -226,3 +226,22 @@
 165.232.180.142:80 - Uttarakhand Medical Asset Tracking
 134.56.74.32:80 - index
 62.183.30.46:80 - 401 Authorization Required
+23.222.21.113:80 - Заголовок не найден
+117.168.146.212:80 - 403 Forbidden
+190.203.114.115:80 - Заголовок не найден
+216.232.49.240:80 - 403 Forbidden
+4.151.30.243:80 - Заголовок не найден
+118.190.107.50:80 - ç½ç«è®¿é®æ¥é
+20.191.153.135:80 - uksd
+110.44.121.76:80 - HULT Prize NCIT
+213.61.9.139:80 - NP4 PrivateBin
+89.40.35.161:80 - Page not found
+95.145.254.65:80 - 
+104.22.25.177:80 - Direct IP access not allowed | Cloudflare
+18.204.235.136:80 - Заголовок не найден
+37.46.135.71:80 - Торговое оборудование в Калининграде для магазинов, общепита — СнабТорг
+161.9.218.69:80 - Welcome to nginx!
+172.67.56.146:80 - Direct IP access not allowed | Cloudflare
+165.232.180.142:80 - Uttarakhand Medical Asset Tracking
+134.56.74.32:80 - index
+62.183.30.46:80 - 401 Authorization Required
