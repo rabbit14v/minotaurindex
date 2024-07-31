@@ -17456,3 +17456,197 @@
 23.192.214.155:80 - Заголовок не найден
 127.109.175.230:80 - IIS Windows Server
 159.69.157.253:80 - Welcome to nginx!
+23.229.124.31:80 - Index of /
+3.162.40.103:80 - Заголовок не найден
+50.3.11.39:80 - 403 Forbidden
+221.149.204.78:80 - Заголовок не найден
+127.151.121.62:80 - IIS Windows Server
+127.99.132.119:80 - IIS Windows Server
+23.213.48.97:80 - Заголовок не найден
+104.22.34.103:80 - Direct IP access not allowed | Cloudflare
+127.189.57.23:80 - IIS Windows Server
+127.128.65.241:80 - IIS Windows Server
+162.144.17.37:80 - Not Acceptable!
+91.134.89.129:80 - Welcome to nginx!
+50.2.96.92:80 - 403 Forbidden
+31.164.167.244:80 - Dericam
+184.27.61.78:80 - Заголовок не найден
+81.250.131.40:80 - Заголовок не найден
+159.223.249.171:80 - Welcome to nginx!
+127.92.208.134:80 - IIS Windows Server
+127.118.191.237:80 - IIS Windows Server
+34.64.4.66:80 - Google
+45.205.209.77:80 - Заголовок не найден
+221.128.213.216:80 - 400 Bad Request
+104.125.89.238:80 - Заголовок не найден
+127.90.132.71:80 - IIS Windows Server
+185.189.151.71:80 - 401 Unauthorized
+162.215.219.235:80 - Заголовок не найден
+127.191.220.70:80 - IIS Windows Server
+23.95.101.43:80 - Hosted By BisectHosting - BisectHosting
+178.13.102.230:80 - 
+104.77.224.90:80 - Заголовок не найден
+18.136.22.213:80 - 404 Not Found
+41.36.84.65:80 - 
+23.208.234.120:80 - Заголовок не найден
+47.33.36.34:80 - 
+104.66.126.29:80 - Заголовок не найден
+23.207.15.7:80 - Заголовок не найден
+127.31.110.15:80 - IIS Windows Server
+20.212.60.18:80 - Azure Container App - Unavailable
+127.199.187.43:80 - IIS Windows Server
+127.61.144.186:80 - IIS Windows Server
+127.180.104.77:80 - IIS Windows Server
+50.116.9.97:80 - Заголовок не найден
+45.32.112.64:80 - Заголовок не найден
+127.148.28.144:80 - IIS Windows Server
+154.38.16.166:80 - ERROR: The requested URL could not be retrieved
+66.235.200.242:80 - Direct IP access not allowed | Cloudflare
+127.3.205.191:80 - IIS Windows Server
+112.91.146.226:80 - 408 Request Time-out
+117.18.237.152:80 - 404 - Not Found
+59.61.88.231:80 - æ¨çè®¿é®è¯·æ±å¯è½å¯¹ç½ç«é æå®å¨å¨èï¼è¯·æ±å·²è¢«é»æ­ã
+217.195.162.23:80 - Apache2 Debian Default Page: It works
+208.109.71.2:80 - Coming Soon
+169.51.35.132:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+23.10.66.105:80 - Заголовок не найден
+104.207.249.253:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+127.238.174.54:80 - IIS Windows Server
+218.29.119.205:80 - æ¨çè®¿é®è¯·æ±å¯è½å¯¹ç½ç«é æå®å¨å¨èï¼è¯·æ±å·²è¢«é»æ­ã
+92.205.229.0:80 - Заголовок не найден
+54.237.168.84:80 - Заголовок не найден
+201.237.248.199:80 - 
+127.117.100.191:80 - IIS Windows Server
+23.217.18.79:80 - Заголовок не найден
+35.214.70.171:80 - Homepage - Laura Imami Eyewear | London
+127.203.84.173:80 - IIS Windows Server
+104.24.9.159:80 - Direct IP access not allowed | Cloudflare
+127.78.195.230:80 - IIS Windows Server
+153.122.128.52:80 - Заголовок не найден
+136.169.45.165:80 - 406 Not Acceptable
+202.75.5.96:80 - Заголовок не найден
+127.196.115.44:80 - IIS Windows Server
+89.117.96.144:80 - :)
+20.150.21.6:80 - Заголовок не найден
+127.122.199.109:80 - IIS Windows Server
+92.119.122.215:80 - Nincs szolgÃ¡ltatÃ¡s beÃ¡llÃ­tva
+127.32.55.169:80 - IIS Windows Server
+154.197.162.212:80 - 404 Not Found
+211.42.238.141:80 - Заголовок не найден
+52.70.149.149:80 - 404 Not Found
+88.221.128.209:80 - Заголовок не найден
+18.239.54.55:80 - Заголовок не найден
+167.99.91.149:80 - EspoCRM
+2.20.59.175:80 - Заголовок не найден
+2.56.246.188:80 - 404 Not Found
+34.239.31.46:80 - 403 Forbidden
+93.227.7.77:80 - Texterkennung Version 1.1
+127.240.229.174:80 - IIS Windows Server
+109.144.1.163:80 - Заголовок не найден
+13.89.32.210:80 - Заголовок не найден
+168.119.102.162:80 - 4scrty &#8211; Security-as-a-Service
+23.47.234.214:80 - Заголовок не найден
+35.71.65.105:80 - Заголовок не найден
+72.18.139.247:80 - Bende - Simply The Best
+104.195.52.142:80 - 404 Not Found
+127.192.242.2:80 - IIS Windows Server
+43.248.168.31:80 - 404 Not Found
+127.122.207.133:80 - IIS Windows Server
+127.211.7.154:80 - IIS Windows Server
+23.206.167.222:80 - Заголовок не найден
+52.84.97.82:80 - Заголовок не найден
+18.65.199.162:80 - Заголовок не найден
+127.96.224.108:80 - IIS Windows Server
+34.232.203.24:80 - 404 Not Found
+13.32.232.148:80 - Заголовок не найден
+103.206.247.49:80 - 
+47.96.90.39:80 - IIS Windows Server
+129.247.251.13:80 - 403 Forbidden
+127.74.87.252:80 - IIS Windows Server
+127.149.237.214:80 - IIS Windows Server
+23.198.252.205:80 - Заголовок не найден
+104.77.242.241:80 - Заголовок не найден
+166.62.27.90:80 - Заголовок не найден
+119.28.203.58:80 - ä¸ä¹äºåä¸åæºï¼æç»­æ´æ°ï¼å¾®ç«¯å è½½ï¼ä¸ç¾æ¬¾åæºä»»é
+144.126.155.240:80 - Test Page for the HTTP Server on AlmaLinux
+127.137.95.84:80 - IIS Windows Server
+20.114.80.27:80 - Заголовок не найден
+127.23.205.219:80 - IIS Windows Server
+52.249.239.117:80 - 404 Not Found
+127.61.65.96:80 - IIS Windows Server
+143.198.143.46:80 - Inicio | Fit&amp;Fab
+54.65.142.120:80 - Заголовок не найден
+13.55.176.255:80 - Access forbidden
+127.15.41.0:80 - IIS Windows Server
+112.213.32.63:80 - Заголовок не найден
+18.207.62.67:80 - Final Project Template
+3.28.6.197:80 - Apache2 Ubuntu Default Page: It works
+44.215.61.200:80 - 401 Authorization Required
+148.63.36.192:80 - Document Error: Unauthorized
+45.61.223.165:80 - Заголовок не найден
+20.123.250.101:80 - Your Azure Function App is up and running.
+127.154.89.159:80 - IIS Windows Server
+127.127.159.62:80 - IIS Windows Server
+127.119.82.21:80 - IIS Windows Server
+160.16.235.80:80 - 403 Forbidden
+23.199.180.59:80 - Заголовок не найден
+127.201.184.39:80 - IIS Windows Server
+223.223.219.220:80 - 401 Unauthorized
+143.198.251.154:80 - Direct IP access not allowed | Cloudflare
+131.215.77.196:80 - Protected Object
+103.51.149.90:80 - Please wait, the login page is opening...
+2.16.112.119:80 - Заголовок не найден
+127.137.89.235:80 - IIS Windows Server
+23.37.154.140:80 - Заголовок не найден
+138.68.158.203:80 - 404 Not Found
+127.134.101.142:80 - IIS Windows Server
+127.238.243.17:80 - IIS Windows Server
+157.148.125.56:80 - Заголовок не найден
+127.176.1.207:80 - IIS Windows Server
+127.35.136.102:80 - IIS Windows Server
+69.192.45.220:80 - Заголовок не найден
+43.132.119.190:80 - Заголовок не найден
+199.232.246.44:80 - Fastly error: unknown domain 199.232.246.44
+212.36.28.94:80 - IIS Windows Server
+127.78.173.212:80 - IIS Windows Server
+139.59.174.157:80 - Hunter CSM
+8.148.7.237:80 - 404 Not Found
+3.161.76.172:80 - Заголовок не найден
+18.164.79.122:80 - Заголовок не найден
+127.72.61.47:80 - IIS Windows Server
+127.205.175.88:80 - IIS Windows Server
+54.85.22.89:80 - IGM | Informa Global Markets
+110.239.66.244:80 - æ²¡ææ¾å°ç«ç¹
+35.171.224.106:80 - Culinary Coordinates
+127.101.253.16:80 - IIS Windows Server
+4.207.194.254:80 - Your Azure Function App is up and running.
+104.19.0.21:80 - Direct IP access not allowed | Cloudflare
+154.213.102.114:80 - 404 Not Found
+18.165.118.89:80 - Заголовок не найден
+68.171.51.84:80 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+38.12.104.1:80 - Заголовок не найден
+38.47.105.16:80 - Default Site
+54.65.9.138:80 - Заголовок не найден
+127.118.12.197:80 - IIS Windows Server
+127.81.68.65:80 - IIS Windows Server
+127.127.7.82:80 - IIS Windows Server
+168.206.109.183:80 - 404 Not Found
+184.84.232.87:80 - Заголовок не найден
+216.116.31.75:80 - Car-Part.com--Used Auto Parts Market
+127.230.87.45:80 - IIS Windows Server
+23.38.227.133:80 - Заголовок не найден
+108.165.216.166:80 - Direct IP access not allowed | Cloudflare
+127.124.44.48:80 - IIS Windows Server
+96.33.127.42:80 - Document Moved
+2.23.17.73:80 - Заголовок не найден
+127.228.55.29:80 - IIS Windows Server
+134.209.184.151:80 - 404 Not Found
+50.3.253.155:80 - 403 Forbidden
+104.140.205.196:80 - 403 Forbidden
+18.154.246.202:80 - Заголовок не найден
+114.202.166.97:80 - WEB SERVICE
+127.50.179.207:80 - IIS Windows Server
+85.237.199.74:80 - Apache2 Ubuntu Default Page: It works
+47.118.59.4:80 - 503 Service Temporarily Unavailable
+117.215.162.85:80 - Заголовок не найден
+127.142.117.75:80 - IIS Windows Server
