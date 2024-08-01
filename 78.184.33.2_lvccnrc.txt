@@ -175,3 +175,105 @@
 127.12.69.218:80 - IIS Windows Server
 127.197.219.136:80 - IIS Windows Server
 104.90.88.252:80 - Заголовок не найден
+3.229.185.105:80 - Welcome to nginx!
+127.76.60.209:80 - IIS Windows Server
+106.248.249.75:80 - Заголовок не найден
+90.176.150.197:80 - Apache2 Debian Default Page: It works
+127.79.162.104:80 - IIS Windows Server
+127.19.186.64:80 - IIS Windows Server
+184.31.57.26:80 - Заголовок не найден
+212.122.165.84:80 - Welcome to nginx!
+14.184.19.225:80 - 
+127.4.121.73:80 - IIS Windows Server
+127.8.41.227:80 - IIS Windows Server
+127.201.125.164:80 - IIS Windows Server
+127.56.69.101:80 - IIS Windows Server
+127.107.143.19:80 - IIS Windows Server
+127.255.138.187:80 - IIS Windows Server
+127.198.80.177:80 - IIS Windows Server
+127.232.255.75:80 - IIS Windows Server
+127.219.236.222:80 - IIS Windows Server
+121.37.130.57:80 - Untitled Document
+127.196.58.175:80 - IIS Windows Server
+18.244.69.44:80 - Заголовок не найден
+201.254.113.242:80 - Заголовок не найден
+18.155.168.80:80 - Заголовок не найден
+96.6.35.224:80 - Заголовок не найден
+127.75.63.173:80 - IIS Windows Server
+45.77.6.141:80 - Unknown Domain
+127.233.77.184:80 - IIS Windows Server
+127.184.151.36:80 - IIS Windows Server
+127.167.233.218:80 - IIS Windows Server
+127.170.17.77:80 - IIS Windows Server
+127.29.13.106:80 - IIS Windows Server
+127.180.148.58:80 - IIS Windows Server
+127.10.141.172:80 - IIS Windows Server
+127.142.68.85:80 - IIS Windows Server
+127.47.10.142:80 - IIS Windows Server
+127.64.101.237:80 - IIS Windows Server
+127.186.249.191:80 - IIS Windows Server
+23.42.128.198:80 - Заголовок не найден
+77.68.79.100:80 - IIS Windows Server
+127.254.83.251:80 - IIS Windows Server
+50.3.213.156:80 - 403 Forbidden
+127.104.197.198:80 - IIS Windows Server
+127.247.218.236:80 - IIS Windows Server
+127.26.158.73:80 - IIS Windows Server
+127.73.35.102:80 - IIS Windows Server
+127.138.247.239:80 - IIS Windows Server
+127.44.154.34:80 - IIS Windows Server
+121.196.238.233:80 - wordpress &#8211; 又一个WordPress站点
+89.43.67.59:80 - 403 - Forbidden: Access is denied.
+127.46.235.96:80 - IIS Windows Server
+127.241.190.157:80 - IIS Windows Server
+5.189.136.207:80 - 404 Not Found
+127.62.34.145:80 - IIS Windows Server
+51.79.121.213:80 - Заголовок не найден
+8.210.114.195:80 - 404 Not Found
+127.16.195.99:80 - IIS Windows Server
+170.245.223.168:80 - RouterOS router configuration page
+38.6.241.219:80 - ç½ç«ç»´æ¤ä¸­
+121.199.55.185:80 - Заголовок не найден
+194.136.123.101:80 - Elisa Internet and MPLS VPN Connection Speed Test
+127.97.187.245:80 - IIS Windows Server
+154.30.204.62:80 - ERROR: The requested URL could not be retrieved
+127.13.145.100:80 - IIS Windows Server
+127.45.29.188:80 - IIS Windows Server
+127.50.98.144:80 - IIS Windows Server
+127.8.153.111:80 - IIS Windows Server
+127.98.70.245:80 - IIS Windows Server
+127.234.230.97:80 - IIS Windows Server
+127.162.208.98:80 - IIS Windows Server
+104.85.34.7:80 - Заголовок не найден
+45.131.211.210:80 - Direct IP access not allowed | Cloudflare
+80.69.4.54:80 - Заголовок не найден
+127.149.238.108:80 - IIS Windows Server
+127.24.119.141:80 - IIS Windows Server
+127.239.108.238:80 - IIS Windows Server
+127.43.183.171:80 - IIS Windows Server
+127.255.200.128:80 - IIS Windows Server
+103.81.239.159:80 - 
+38.15.138.199:80 - Заголовок не найден
+123.199.38.92:80 - main page
+127.43.230.51:80 - IIS Windows Server
+45.187.49.215:80 - Wispro | Bmu
+127.173.110.108:80 - IIS Windows Server
+90.7.237.150:80 - 401 - Unauthorized
+147.50.181.65:80 - Заголовок не найден
+108.159.111.7:80 - Заголовок не найден
+142.171.64.188:80 - Заголовок не найден
+52.193.152.177:80 - Заголовок не найден
+20.85.83.241:80 - Your Azure Function App is up and running.
+41.66.45.162:80 - Заголовок не найден
+127.148.112.192:80 - IIS Windows Server
+103.121.90.242:80 - Заголовок не найден
+52.85.159.151:80 - Заголовок не найден
+127.110.109.220:80 - IIS Windows Server
+127.9.104.245:80 - IIS Windows Server
+127.183.194.242:80 - IIS Windows Server
+127.119.116.214:80 - IIS Windows Server
+127.7.41.129:80 - IIS Windows Server
+127.4.79.149:80 - IIS Windows Server
+127.128.119.79:80 - IIS Windows Server
+127.153.180.243:80 - IIS Windows Server
+127.20.125.148:80 - IIS Windows Server
