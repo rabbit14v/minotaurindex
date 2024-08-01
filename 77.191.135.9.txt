@@ -3661,3 +3661,5 @@
 91.195.52.233 - Welcome to nginx! !80!
 87.106.234.120 - Apache2 Debian Default Page: It works !80!
 18.239.135.141 - Заголовок не найден !80!
+3.73.117.150 - Заголовок не найден !80!
+4.175.160.10 - Your Azure Function App is up and running. !80!
