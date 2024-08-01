@@ -21690,3 +21690,217 @@
 124.71.154.204:80 - 502 Bad Gateway
 104.68.32.234:80 - Заголовок не найден
 133.142.35.60:80 - Заголовок не найден
+2.23.226.176:80 - Заголовок не найден
+57.180.183.179:80 - Заголовок не найден
+127.142.196.88:80 - IIS Windows Server
+68.68.169.114:80 - Заголовок не найден
+127.147.143.204:80 - IIS Windows Server
+127.77.238.77:80 - IIS Windows Server
+211.223.129.153:80 - WEB SERVICE
+210.99.115.84:80 - IIS Windows
+198.244.198.62:80 - SmartLab
+209.25.178.122:80 - Заголовок не найден
+104.94.221.97:80 - Заголовок не найден
+110.50.219.79:80 - Заголовок не найден
+216.87.168.24:80 - Web Server's Default Page
+127.37.239.214:80 - IIS Windows Server
+35.154.19.145:80 - Test Page for the Apache HTTP Server
+154.220.237.243:80 - Заголовок не найден
+104.104.90.214:80 - Заголовок не найден
+127.95.235.6:80 - IIS Windows Server
+52.195.34.168:80 - Welcome to nginx!
+85.51.225.170:80 - Welcome to XAMPP
+3.165.239.82:80 - Заголовок не найден
+43.224.155.201:80 - 404 Not Found
+127.236.212.67:80 - IIS Windows Server
+20.105.103.165:80 - Your Azure Function App is up and running.
+149.115.234.2:80 - 404 Not Found
+162.12.208.42:80 - RouterOS router configuration page
+127.9.75.35:80 - IIS Windows Server
+23.12.189.239:80 - Заголовок не найден
+95.213.16.237:80 - 403 Forbidden
+35.74.7.161:80 - Заголовок не найден
+188.118.49.87:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+82.127.53.46:80 - Заголовок не найден
+127.225.32.37:80 - IIS Windows Server
+127.111.232.175:80 - IIS Windows Server
+127.71.127.158:80 - IIS Windows Server
+176.120.29.44:80 - Sign in · GitLab
+39.105.245.1:80 - Welcome to nginx!
+127.21.38.83:80 - IIS Windows Server
+23.67.20.32:80 - Заголовок не найден
+145.239.92.196:80 - Заголовок не найден
+127.83.44.238:80 - IIS Windows Server
+127.81.124.91:80 - IIS Windows Server
+23.3.252.65:80 - Заголовок не найден
+46.101.116.24:80 - Заголовок не найден
+147.182.156.108:80 - Заголовок не найден
+23.49.221.108:80 - Заголовок не найден
+51.155.119.253:80 - .::Welcome to the Web-Based Configurator::.
+23.60.166.166:80 - Заголовок не найден
+162.144.203.33:80 - Заголовок не найден
+173.254.220.212:80 - 404 Not Found
+127.97.184.5:80 - IIS Windows Server
+127.128.231.204:80 - IIS Windows Server
+155.138.219.205:80 - Welcome to nginx!
+23.39.149.47:80 - Заголовок не найден
+123.56.39.11:80 - Заголовок не найден
+107.150.32.167:80 - Заголовок не найден
+127.41.65.0:80 - IIS Windows Server
+151.101.25.119:80 - Fastly error: unknown domain 151.101.25.119
+217.196.150.215:80 - Monsta FTP
+127.4.149.109:80 - IIS Windows Server
+127.25.194.244:80 - IIS Windows Server
+51.68.88.221:80 - Заголовок не найден
+127.44.215.63:80 - IIS Windows Server
+183.106.129.85:80 - Заголовок не найден
+119.167.254.42:80 - 403 Forbidden
+23.58.119.209:80 - Заголовок не найден
+18.164.143.243:80 - Заголовок не найден
+47.94.111.185:80 - è¿è¥ç®¡çåå°
+217.156.34.105:80 - DeviceHub | ENET Smart Metering | Login
+127.167.52.243:80 - IIS Windows Server
+23.9.189.134:80 - Заголовок не найден
+127.27.118.47:80 - IIS Windows Server
+67.249.201.58:80 - Apache2 Debian Default Page: It works
+127.167.157.9:80 - IIS Windows Server
+104.131.71.225:80 - HONDATOTO SLOT &gt; HONDATOTO SLOT, HONDATOTOSLOT, daftar HONDATOTO SLOT,
+
+ &ndash; HONDATOTO SLOT
+127.121.113.81:80 - IIS Windows Server
+82.165.164.49:80 - IIS Windows Server
+127.254.248.158:80 - IIS Windows Server
+13.227.41.253:80 - Заголовок не найден
+120.157.219.237:80 - Заголовок не найден
+23.9.209.28:80 - Заголовок не найден
+127.194.143.235:80 - IIS Windows Server
+35.78.61.131:80 - User&#039;s blog
+127.29.77.154:80 - IIS Windows Server
+217.74.37.176:80 - Your Store
+104.18.185.152:80 - Direct IP access not allowed | Cloudflare
+127.20.173.55:80 - IIS Windows Server
+54.36.104.78:80 - Заголовок не найден
+104.16.52.49:80 - Direct IP access not allowed | Cloudflare
+2.187.38.204:80 - 
+127.67.140.29:80 - IIS Windows Server
+13.33.6.223:80 - Заголовок не найден
+2.20.81.220:80 - Заголовок не найден
+176.236.61.105:80 - Server Unavailable
+127.142.179.219:80 - IIS Windows Server
+127.55.147.152:80 - IIS Windows Server
+127.100.238.196:80 - IIS Windows Server
+109.61.132.29:80 - Заголовок не найден
+195.14.181.188:80 - 403 - Forbidden: Access is denied.
+127.216.77.29:80 - IIS Windows Server
+167.82.97.225:80 - Fastly error: unknown domain 167.82.97.225
+127.124.192.142:80 - IIS Windows Server
+127.70.209.77:80 - IIS Windows Server
+119.203.6.155:80 - WEB SERVICE
+104.81.241.91:80 - Заголовок не найден
+104.19.110.236:80 - Direct IP access not allowed | Cloudflare
+127.236.171.239:80 - IIS Windows Server
+133.242.20.176:80 - Заголовок не найден
+127.81.214.169:80 - IIS Windows Server
+120.76.44.40:80 - 403 Forbidden
+136.146.35.180:80 - Unable to Process Request
+102.221.216.7:80 - Заголовок не найден
+47.97.171.148:80 - åå°ç®¡çç³»ç»
+143.204.123.184:80 - Заголовок не найден
+218.161.86.145:80 - Заголовок не найден
+35.190.207.115:80 - Заголовок не найден
+18.160.238.202:80 - Заголовок не найден
+199.232.25.226:80 - Fastly error: unknown domain 199.232.25.226
+127.217.232.89:80 - IIS Windows Server
+104.20.118.25:80 - Direct IP access not allowed | Cloudflare
+199.195.248.33:80 - Welcome to nginx!
+35.74.235.235:80 - HomeMadePc
+127.116.184.240:80 - IIS Windows Server
+95.101.197.78:80 - Заголовок не найден
+84.247.133.180:80 - Заголовок не найден
+81.142.190.57:80 - Apache2 Ubuntu Default Page: It works
+173.198.231.107:80 - Заголовок не найден
+81.25.74.190:80 - Заголовок не найден
+74.80.149.94:80 - Welcome to 74.80.149.94
+48.218.118.215:80 - IIS Windows Server
+127.63.105.92:80 - IIS Windows Server
+127.155.232.27:80 - IIS Windows Server
+120.79.28.122:80 - äºä¸å
+127.250.137.59:80 - IIS Windows Server
+146.59.45.120:80 - 404 Not Found
+49.12.67.80:80 - 403 Forbidden
+127.234.132.96:80 - IIS Windows Server
+165.154.11.220:80 - Заголовок не найден
+127.150.199.199:80 - IIS Windows Server
+65.52.119.214:80 - IIS Windows Server
+185.245.99.166:80 - IIS Windows Server
+89.40.57.110:80 - Forbidden
+162.247.77.254:80 - Home - Litai AssetsLitai Assets
+127.143.139.151:80 - IIS Windows Server
+64.59.83.134:80 - Заголовок не найден
+205.251.207.101:80 - Заголовок не найден
+127.7.137.199:80 - IIS Windows Server
+156.238.216.34:80 - 404 not found
+46.223.73.234:80 - Заголовок не найден
+127.61.43.212:80 - IIS Windows Server
+54.200.114.71:80 - Заголовок не найден
+175.202.101.218:80 - Заголовок не найден
+167.82.35.214:80 - Fastly error: unknown domain 167.82.35.214
+127.15.154.254:80 - IIS Windows Server
+59.120.9.199:80 - 403 Forbidden
+128.140.124.228:80 - Заголовок не найден
+216.36.238.12:80 - Заголовок не найден
+127.229.161.163:80 - IIS Windows Server
+127.150.167.52:80 - IIS Windows Server
+104.112.9.178:80 - Заголовок не найден
+127.238.239.207:80 - IIS Windows Server
+23.197.1.34:80 - Заголовок не найден
+104.122.111.49:80 - Заголовок не найден
+108.139.185.251:80 - Заголовок не найден
+43.159.135.69:80 - Not Found
+78.47.100.164:80 - Welcome to nginx!
+104.254.191.29:80 - Заголовок не найден
+127.2.226.217:80 - IIS Windows Server
+104.219.41.84:80 - Domain Default page
+87.139.23.228:80 - Unzulässig
+127.50.52.51:80 - IIS Windows Server
+23.196.165.208:80 - Заголовок не найден
+127.162.166.121:80 - IIS Windows Server
+202.208.166.76:80 - 403 Forbidden
+127.207.64.194:80 - IIS Windows Server
+154.159.253.250:80 - RouterOS router configuration page
+127.231.163.127:80 - IIS Windows Server
+23.63.16.37:80 - Заголовок не найден
+185.154.155.218:80 - Rudhar.com
+45.79.185.91:80 - Заголовок не найден
+127.67.195.231:80 - IIS Windows Server
+149.104.177.43:80 - 403 Forbidden
+108.158.241.156:80 - Заголовок не найден
+127.189.83.108:80 - IIS Windows Server
+193.151.132.65:80 - Заголовок не найден
+192.126.214.26:80 - ERROR: The requested URL could not be retrieved
+66.39.55.62:80 - 403 Forbidden
+183.171.241.233:80 - Заголовок не найден
+127.118.179.201:80 - IIS Windows Server
+86.71.48.161:80 - Hello! Welcome to Synology Web Station!
+23.45.145.123:80 - Заголовок не найден
+52.20.164.56:80 - Заголовок не найден
+79.119.15.12:80 - index
+23.12.79.56:80 - Заголовок не найден
+127.104.63.79:80 - IIS Windows Server
+172.104.172.134:80 - 502 Bad Gateway
+104.22.38.252:80 - Direct IP access not allowed | Cloudflare
+34.160.20.235:80 - Заголовок не найден
+127.18.10.128:80 - IIS Windows Server
+127.132.204.145:80 - IIS Windows Server
+127.17.105.216:80 - IIS Windows Server
+13.125.22.117:80 - Test Page for the Apache HTTP
+127.64.235.101:80 - IIS Windows Server
+104.23.101.193:80 - Direct IP access not allowed | Cloudflare
+172.233.156.48:80 - Test your IPv6.
+79.96.204.176:80 - Mawibet Robert Waleński Usługi Projektowo-Budowlane
+173.44.209.142:80 - 403 Forbidden
+127.33.239.125:80 - IIS Windows Server
+127.200.4.69:80 - IIS Windows Server
+204.48.18.17:80 - 403 Forbidden
+127.169.37.144:80 - IIS Windows Server
+23.53.67.136:80 - Заголовок не найден
