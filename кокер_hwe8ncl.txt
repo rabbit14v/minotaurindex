@@ -1101,3 +1101,63 @@
 79.96.245.190:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 5.9.0.219:80 - roundcube Webmail :: Willkommen bei roundcube Webmail
 114.251.242.15:80 - Welcome to nginx!
+2.23.8.196:80 - Заголовок не найден
+4.150.165.40:80 - Your Azure Function App is up and running.
+14.224.26.107:80 - IIS Windows
+36.232.194.232:80 - 
+52.8.194.81:80 - Заголовок не найден
+142.132.243.91:80 - Success!
+52.85.31.51:80 - Заголовок не найден
+77.238.68.205:80 - Please wait, the page is opening...
+128.17.210.160:80 - 403 - Forbidden: Access is denied.
+195.242.130.37:80 - Заголовок не найден
+5.161.179.137:80 - Заголовок не найден
+20.190.125.192:80 - Your Azure Function App is up and running.
+65.20.175.22:80 - RouterOS router configuration page
+107.158.41.104:80 - ERROR: The requested URL could not be retrieved
+143.204.94.115:80 - Заголовок не найден
+108.158.8.190:80 - Заголовок не найден
+23.219.199.221:80 - Заголовок не найден
+15.235.190.168:80 - Заголовок не найден
+195.242.210.209:80 - ERROR: The requested URL could not be retrieved
+183.103.60.24:80 - CMS Web Viewer
+62.72.37.40:80 - 403 Forbidden
+23.47.207.58:80 - Заголовок не найден
+64.182.55.108:80 - Заголовок не найден
+66.228.239.236:80 - Otter Tail County, MN
+162.55.218.75:80 - Apache2 Ubuntu Default Page: It works
+188.128.163.22:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+175.41.156.61:80 - Welcome to nginx!
+23.55.219.158:80 - Заголовок не найден
+88.248.187.179:80 - 
+49.51.198.46:80 - æ±æ­ï¼ç«ç¹å·²æå
+20.255.115.200:80 - Заголовок не найден
+186.129.115.85:80 - Заголовок не найден
+23.65.134.170:80 - Заголовок не найден
+85.128.224.88:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+116.203.76.216:80 - Superset
+76.191.101.64:80 - Index of /
+119.156.89.186:80 - Заголовок не найден
+14.190.238.59:80 - 
+185.135.82.124:80 - 404 Not Found
+68.183.33.6:80 - Apache2 Ubuntu Default Page: It works
+95.209.115.38:80 - Заголовок не найден
+42.29.49.61:80 - Login to <!--#exec cmd="xmlp_web system\\common model"-->
+87.98.132.252:80 - Welcome to nginx!
+35.175.81.246:80 - Заголовок не найден
+57.153.252.119:80 - 404 Not Found
+80.81.41.183:80 - Заголовок не найден
+18.244.216.65:80 - Заголовок не найден
+199.232.56.13:80 - Fastly error: unknown domain 199.232.56.13
+3.221.184.74:80 - Заголовок не найден
+51.75.127.148:80 - Sign in · GitLab
+185.41.34.82:80 - Заголовок не найден
+78.142.243.109:80 - 403 Forbidden
+185.87.196.70:80 - Ð¥Ð¾ÑÑÐ¸Ð½Ð³ VPS VDS Ð°ÑÐµÐ½Ð´Ð° ÑÐµÑÐ²ÐµÑÐ° | ÐÐ½ÑÐµÑÐ½ÐµÑ Ð¥Ð¾ÑÑÐ¸Ð½Ð³ Ð¦ÐµÐ½ÑÑ
+20.81.27.38:80 - Microsoft Azure Web App - Error 404
+38.55.229.158:80 - 403 Forbidden
+23.44.214.146:80 - Заголовок не найден
+104.211.209.253:80 - Apache2 Ubuntu Default Page: It works
+187.122.71.244:80 - RouterOS
+169.48.183.105:80 - Заголовок не найден
+35.186.236.242:80 - Заголовок не найден
