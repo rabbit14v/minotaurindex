@@ -2971,3 +2971,193 @@
 39.36.30.140:80 - Заголовок не найден
 107.21.242.20:80 - Заголовок не найден
 192.184.90.5:80 - Success!
+23.200.28.93:80 - Заголовок не найден
+20.210.233.21:80 - IIS Windows Server
+127.117.11.46:80 - IIS Windows Server
+213.210.16.113:80 - Welcome to nginx!
+38.181.56.84:80 - Заголовок не найден
+185.139.160.181:80 - Database Error
+23.6.11.36:80 - Заголовок не найден
+127.147.195.167:80 - IIS Windows Server
+103.163.246.116:80 - Softaculous Webuzo | Default Website Page
+116.207.184.20:80 - Заголовок не найден
+84.206.44.211:80 - In Medias Res
+127.162.45.176:80 - IIS Windows Server
+127.203.91.22:80 - IIS Windows Server
+127.99.27.149:80 - IIS Windows Server
+39.96.89.215:80 - Заголовок не найден
+127.176.115.182:80 - IIS Windows Server
+127.218.217.247:80 - IIS Windows Server
+119.201.121.136:80 - Заголовок не найден
+112.172.86.39:80 - Заголовок не найден
+127.126.6.239:80 - IIS Windows Server
+84.96.166.101:80 - Заголовок не найден
+15.237.76.93:80 - Welcome to nginx!
+198.44.187.48:80 - æ²¡ææ¾å°ç«ç¹
+88.114.232.120:80 - 404 - Not Found
+138.68.80.72:80 - Your NodeJS Droplet
+127.223.12.10:80 - IIS Windows Server
+108.90.57.58:80 - 
+127.171.228.84:80 - IIS Windows Server
+127.27.180.208:80 - IIS Windows Server
+127.129.135.19:80 - IIS Windows Server
+196.14.46.203:80 - 403 - Forbidden: Access is denied.
+91.105.73.211:80 - 
+23.205.85.128:80 - Заголовок не найден
+65.9.114.153:80 - Заголовок не найден
+154.83.16.41:80 - æ²¡ææ¾å°ç«ç¹
+184.84.40.217:80 - Заголовок не найден
+127.232.122.26:80 - IIS Windows Server
+127.207.126.213:80 - IIS Windows Server
+18.165.31.145:80 - Заголовок не найден
+184.25.70.91:80 - Заголовок не найден
+104.84.19.131:80 - Заголовок не найден
+104.71.123.52:80 - Заголовок не найден
+70.37.220.109:80 - Заголовок не найден
+209.16.106.64:80 - 403 Forbidden
+36.67.186.216:80 - 403 Not OTT content
+18.64.152.141:80 - Заголовок не найден
+85.214.229.194:80 - Domain Default page
+173.249.38.167:80 - 502 Bad Gateway
+160.124.141.130:80 - Welcome to nginx!
+127.101.191.58:80 - IIS Windows Server
+20.85.109.107:80 - Заголовок не найден
+127.87.211.50:80 - IIS Windows Server
+127.128.37.135:80 - IIS Windows Server
+23.199.161.143:80 - Заголовок не найден
+121.173.191.170:80 - Заголовок не найден
+127.84.40.217:80 - IIS Windows Server
+72.247.118.16:80 - Заголовок не найден
+125.227.111.101:80 - Заголовок не найден
+66.45.239.2:80 - Softaculous Webuzo | Default Website Page
+127.105.188.77:80 - IIS Windows Server
+156.245.240.87:80 - æ²¡ææ¾å°ç«ç¹
+144.76.3.105:80 - Matthias WeiÃ - Bnize.com
+39.98.241.8:80 - IIS7
+62.72.9.173:80 - Welcome to nginx!
+31.131.20.208:80 - Softaculous Webuzo | Default Website Page
+127.46.204.70:80 - IIS Windows Server
+23.39.88.44:80 - Заголовок не найден
+127.90.35.167:80 - IIS Windows Server
+127.200.246.29:80 - IIS Windows Server
+127.240.53.14:80 - IIS Windows Server
+127.226.49.205:80 - IIS Windows Server
+18.238.222.132:80 - Заголовок не найден
+23.58.255.174:80 - Заголовок не найден
+127.13.185.241:80 - IIS Windows Server
+142.132.201.27:80 - Site Maintenance
+127.55.100.63:80 - IIS Windows Server
+127.192.235.171:80 - IIS Windows Server
+127.108.146.100:80 - IIS Windows Server
+127.102.114.66:80 - IIS Windows Server
+127.103.219.171:80 - IIS Windows Server
+127.118.123.41:80 - IIS Windows Server
+127.7.143.128:80 - IIS Windows Server
+104.255.175.245:80 - Forbidden!
+104.108.204.59:80 - Заголовок не найден
+127.47.168.170:80 - IIS Windows Server
+127.223.119.128:80 - IIS Windows Server
+117.58.249.31:80 - 404 Not Found
+50.73.135.10:80 - 
+173.223.82.4:80 - Заголовок не найден
+18.172.153.246:80 - Заголовок не найден
+23.54.178.7:80 - Заголовок не найден
+127.27.202.179:80 - IIS Windows Server
+23.208.55.164:80 - Заголовок не найден
+125.252.246.112:80 - Заголовок не найден
+23.61.140.121:80 - Заголовок не найден
+127.234.195.7:80 - IIS Windows Server
+127.210.245.73:80 - IIS Windows Server
+51.83.98.4:80 - EMC
+77.235.57.40:80 - ChickenGate
+127.33.205.62:80 - IIS Windows Server
+127.165.230.239:80 - IIS Windows Server
+129.148.27.165:80 - Pterodactyl
+18.172.145.233:80 - Заголовок не найден
+23.12.75.162:80 - Заголовок не найден
+49.128.201.116:80 - 500 Internal Server Error
+127.13.141.81:80 - IIS Windows Server
+52.67.112.215:80 - 502 Bad Gateway
+127.21.160.34:80 - IIS Windows Server
+133.242.146.11:80 - MyASP（マイスピー）
+127.4.169.5:80 - IIS Windows Server
+127.212.182.36:80 - IIS Windows Server
+127.191.158.145:80 - IIS Windows Server
+172.108.186.210:80 - Заголовок не найден
+127.164.36.55:80 - IIS Windows Server
+163.172.190.179:80 - 404 Not Found
+127.208.166.64:80 - IIS Windows Server
+120.77.98.208:80 - 登录城镇燃气泄漏报警控制系统与远程监控平台
+23.193.55.24:80 - Заголовок не найден
+120.24.213.95:80 - æºæµæ­æ­
+3.162.226.101:80 - Заголовок не найден
+104.20.197.153:80 - Direct IP access not allowed | Cloudflare
+120.79.163.135:80 - Заголовок не найден
+127.215.70.181:80 - IIS Windows Server
+50.16.137.156:80 - Welcome to nginx!
+209.182.198.255:80 - Заголовок не найден
+43.140.12.233:80 - 404 Not Found
+127.196.250.108:80 - IIS Windows Server
+213.8.136.70:80 - IIS Windows Server
+89.41.254.155:80 - Заголовок не найден
+127.170.211.200:80 - IIS Windows Server
+127.118.233.91:80 - IIS Windows Server
+127.36.169.86:80 - IIS Windows Server
+127.221.20.5:80 - IIS Windows Server
+127.143.200.210:80 - IIS Windows Server
+127.90.8.70:80 - IIS Windows Server
+127.234.8.150:80 - IIS Windows Server
+127.6.183.213:80 - IIS Windows Server
+52.84.66.162:80 - Заголовок не найден
+52.85.89.22:80 - Заголовок не найден
+127.96.45.120:80 - IIS Windows Server
+127.71.84.207:80 - IIS Windows Server
+127.70.218.221:80 - IIS Windows Server
+127.87.250.6:80 - IIS Windows Server
+127.174.91.172:80 - IIS Windows Server
+127.220.203.130:80 - IIS Windows Server
+118.190.19.10:80 - IIS7
+104.102.109.11:80 - Заголовок не найден
+54.180.31.78:80 - UST.VINA
+208.43.39.67:80 - Apache HTTP Server Test Page powered by CentOS
+167.71.228.111:80 - 403 Forbidden
+23.59.230.136:80 - Заголовок не найден
+127.77.167.79:80 - IIS Windows Server
+201.191.28.165:80 - Apache2 Debian Default Page: It works
+136.226.80.162:80 - Internet Security by Zscaler
+92.117.65.62:80 - APPIDEMIC GmbH | Business Solutions
+23.7.21.201:80 - Заголовок не найден
+3.160.48.170:80 - Заголовок не найден
+23.49.147.223:80 - Заголовок не найден
+127.19.75.24:80 - IIS Windows Server
+127.124.22.177:80 - IIS Windows Server
+185.228.44.221:80 - 403 Forbidden
+127.173.59.179:80 - IIS Windows Server
+127.177.124.235:80 - IIS Windows Server
+104.79.15.179:80 - Заголовок не найден
+127.108.247.128:80 - IIS Windows Server
+127.84.10.70:80 - IIS Windows Server
+23.52.30.76:80 - Заголовок не найден
+127.45.10.66:80 - IIS Windows Server
+89.161.234.17:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+127.107.78.221:80 - IIS Windows Server
+168.138.134.137:80 - Sorry, the website has been stopped
+127.230.125.184:80 - IIS Windows Server
+127.174.199.83:80 - IIS Windows Server
+45.3.209.52:80 - Manage
+139.180.136.155:80 - Bán Code Game Bài &#8211; Bán Full Source Code Src Game Bài Uy Tín
+127.80.120.72:80 - IIS Windows Server
+127.249.27.126:80 - IIS Windows Server
+127.180.172.216:80 - IIS Windows Server
+54.192.131.76:80 - Заголовок не найден
+127.18.226.227:80 - IIS Windows Server
+160.124.50.164:80 - 403 Forbidden
+127.61.91.164:80 - IIS Windows Server
+195.35.57.86:80 - 403 Forbidden
+18.239.156.161:80 - Заголовок не найден
+23.196.250.157:80 - Заголовок не найден
+127.217.247.149:80 - IIS Windows Server
+104.116.120.211:80 - Заголовок не найден
+127.46.14.207:80 - IIS Windows Server
+127.148.104.79:80 - IIS Windows Server
+127.52.253.0:80 - IIS Windows Server
