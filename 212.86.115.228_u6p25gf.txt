@@ -9828,3 +9828,21 @@ Context: {&quot;exception&quot;:{}} !80!
 119.91.211.106 - 404 Not Found !80!
 127.228.153.199 - IIS Windows Server !80!
 2.17.60.139 - Заголовок не найден !80!
+209.237.187.238 - 404 - File or directory not found. !80!
+47.237.2.53 - æ²¡ææ¾å°ç«ç¹ !80!
+116.63.180.124 - 404 Not Found !80!
+103.155.236.245 - Apache HTTP Server Test Page powered by CentOS !80!
+191.6.222.65 - Site Hospedado na KingHost | Data Center no Brasil !80!
+127.110.119.38 - IIS Windows Server !80!
+192.185.199.95 - Not Acceptable! !80!
+23.212.117.154 - Заголовок не найден !80!
+116.203.36.89 - Sign in · GitLab !80!
+35.244.233.178 - Заголовок не найден !80!
+38.107.87.28 - Site Information Page !80!
+127.108.132.68 - IIS Windows Server !80!
+127.142.205.218 - IIS Windows Server !80!
+162.209.220.67 - 403 Forbidden !80!
+207.204.244.61 - Bandwidth Speed Test !80!
+85.128.189.14 - Domena  jest utrzymywana na serwerach nazwa.pl !80!
+34.227.141.49 - Заголовок не найден !80!
+3.164.231.153 - Заголовок не найден !80!
