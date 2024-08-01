@@ -7959,3 +7959,27 @@
 127.60.148.161 - IIS Windows Server !80!
 5.9.155.157 - Welcome to nginx! !80!
 115.152.254.93 - Заголовок не найден !80!
+127.127.95.252 - IIS Windows Server !80!
+127.231.14.200 - IIS Windows Server !80!
+38.11.236.235 - æ²¡ææ¾å°ç«ç¹ !80!
+217.21.83.179 - 403 Forbidden !80!
+127.124.229.78 - IIS Windows Server !80!
+184.31.52.12 - Заголовок не найден !80!
+192.124.249.167 - Sucuri WebSite Firewall - Not Configured !80!
+127.183.201.96 - IIS Windows Server !80!
+91.108.114.106 - 403 Forbidden !80!
+127.115.112.135 - IIS Windows Server !80!
+121.41.207.133 - 404 Not Found !80!
+15.237.157.224 - 404 Not Found !80!
+127.165.138.65 - IIS Windows Server !80!
+3.211.4.84 - Заголовок не найден !80!
+117.202.166.144 - Заголовок не найден !80!
+43.216.0.44 - Заголовок не найден !80!
+18.155.89.43 - Заголовок не найден !80!
+101.62.202.159 - Заголовок не найден !80!
+38.153.213.40 - ERROR: The requested URL could not be retrieved !80!
+174.34.139.149 - 401 Authorization Required !80!
+95.57.141.29 - GPON Home Gateway !80!
+127.55.249.132 - IIS Windows Server !80!
+188.128.190.50 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365 !80!
+23.75.23.165 - Заголовок не найден !80!
