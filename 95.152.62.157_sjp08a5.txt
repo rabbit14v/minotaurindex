@@ -1,0 +1,18 @@
+45.82.65.31:80 - Index of /
+3.219.245.238:80 - 403 Forbidden
+202.143.65.157:80 - IIS Windows Server
+108.138.83.145:80 - Заголовок не найден
+104.18.109.206:80 - Direct IP access not allowed | Cloudflare
+104.71.83.27:80 - Заголовок не найден
+87.246.12.114:80 - Заголовок не найден
+82.165.127.229:80 - Web Server's Default Page
+23.35.209.5:80 - Заголовок не найден
+23.195.123.231:80 - Заголовок не найден
+154.202.221.80:80 - 404 Not Found
+195.24.107.225:80 - Couchplay, das kostenlose TV Spielecenter für die ganze Familie. Europas größtes Smart-TV Games Portal mit jeder Menge Action, Party und Familiy Games.
+3.145.126.108:80 - Заголовок не найден
+107.161.189.212:80 - Заголовок не найден
+159.89.118.99:80 - An Error Has Occurred!
+104.99.50.33:80 - Заголовок не найден
+178.238.225.142:80 - Nextcloud
+15.206.179.38:80 - Range
