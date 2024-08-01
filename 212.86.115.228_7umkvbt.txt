@@ -3268,3 +3268,23 @@
 127.164.80.166 - IIS Windows Server !80!
 191.6.208.88 - Site Hospedado na KingHost|Data Center no Brasil !80!
 103.208.34.116 - Заголовок не найден !80!
+18.178.21.143 - LP - MonnitのWebサイト !80!
+23.79.93.231 - Заголовок не найден !80!
+187.116.241.33 - 4G Modem !80!
+18.140.125.190 - User Login !80!
+158.69.27.204 - Webmail Beesoft !80!
+45.88.138.30 - Google !80!
+69.122.184.44 - Index page !80!
+127.207.188.193 - IIS Windows Server !80!
+127.58.130.111 - IIS Windows Server !80!
+127.218.162.14 - IIS Windows Server !80!
+127.203.113.165 - IIS Windows Server !80!
+127.38.100.196 - IIS Windows Server !80!
+127.171.195.251 - IIS Windows Server !80!
+173.222.191.91 - Заголовок не найден !80!
+191.81.220.111 - Заголовок не найден !80!
+45.201.212.53 -  !80!
+188.11.177.54 -  !80!
+127.182.8.217 - IIS Windows Server !80!
+127.34.250.22 - IIS Windows Server !80!
+216.146.202.14 - Index of / !80!
