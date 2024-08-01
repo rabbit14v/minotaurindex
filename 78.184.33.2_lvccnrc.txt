@@ -94,3 +94,84 @@
 127.236.34.173:80 - IIS Windows Server
 127.65.227.201:80 - IIS Windows Server
 127.195.31.220:80 - IIS Windows Server
+62.113.60.151:80 - IIS Windows Server
+210.114.11.167:80 - IIS Windows Server
+201.31.5.29:80 - ACOS Web Server
+127.195.85.235:80 - IIS Windows Server
+127.73.122.131:80 - IIS Windows Server
+127.164.197.204:80 - IIS Windows Server
+127.39.238.92:80 - IIS Windows Server
+127.203.210.241:80 - IIS Windows Server
+127.127.27.142:80 - IIS Windows Server
+127.133.215.41:80 - IIS Windows Server
+172.105.15.179:80 - Jess & Kyle
+200.211.3.11:80 - Заголовок не найден
+127.102.239.71:80 - IIS Windows Server
+167.71.229.105:80 - Error 403: Access Denied
+127.65.43.103:80 - IIS Windows Server
+127.251.124.254:80 - IIS Windows Server
+127.85.7.167:80 - IIS Windows Server
+127.118.178.154:80 - IIS Windows Server
+127.245.207.6:80 - IIS Windows Server
+127.189.14.251:80 - IIS Windows Server
+127.124.103.242:80 - IIS Windows Server
+127.162.126.181:80 - IIS Windows Server
+127.203.178.232:80 - IIS Windows Server
+127.56.123.224:80 - IIS Windows Server
+127.146.47.13:80 - IIS Windows Server
+127.78.72.13:80 - IIS Windows Server
+127.130.112.155:80 - IIS Windows Server
+127.234.156.95:80 - IIS Windows Server
+3.36.109.235:80 - Amazon ECS Sample App
+107.180.75.194:80 - Заголовок не найден
+43.143.254.83:80 - Заголовок не найден
+127.4.196.138:80 - IIS Windows Server
+127.25.75.146:80 - IIS Windows Server
+167.82.71.195:80 - Fastly error: unknown domain 167.82.71.195
+127.238.215.202:80 - IIS Windows Server
+147.78.236.170:80 - 404 Not Found
+127.20.98.70:80 - IIS Windows Server
+127.75.198.34:80 - IIS Windows Server
+184.87.137.235:80 - Заголовок не найден
+193.200.134.110:80 - 404 Not Found
+127.110.170.72:80 - IIS Windows Server
+127.6.134.228:80 - IIS Windows Server
+154.82.116.71:80 - 400 Bad Request
+90.198.183.151:80 - 
+36.103.152.211:80 - 403 Forbidden
+23.62.254.23:80 - Заголовок не найден
+127.221.104.188:80 - IIS Windows Server
+23.79.99.6:80 - Заголовок не найден
+127.164.246.44:80 - IIS Windows Server
+192.129.189.132:80 - Заголовок не найден
+127.177.52.15:80 - IIS Windows Server
+127.253.198.94:80 - IIS Windows Server
+127.174.181.242:80 - IIS Windows Server
+127.124.136.198:80 - IIS Windows Server
+127.78.18.172:80 - IIS Windows Server
+127.220.48.181:80 - IIS Windows Server
+127.131.65.234:80 - IIS Windows Server
+127.246.166.81:80 - IIS Windows Server
+127.158.43.239:80 - IIS Windows Server
+23.56.21.192:80 - Заголовок не найден
+154.204.14.147:80 - 403 Forbidden
+127.216.139.31:80 - IIS Windows Server
+127.35.7.9:80 - IIS Windows Server
+127.239.5.165:80 - IIS Windows Server
+127.206.69.86:80 - IIS Windows Server
+127.173.153.97:80 - IIS Windows Server
+127.193.154.29:80 - IIS Windows Server
+91.158.113.39:80 - 404 Not Found
+23.15.96.40:80 - Заголовок не найден
+127.152.214.66:80 - IIS Windows Server
+127.48.200.64:80 - IIS Windows Server
+127.30.143.73:80 - IIS Windows Server
+127.197.5.59:80 - IIS Windows Server
+127.177.115.146:80 - IIS Windows Server
+127.189.119.114:80 - IIS Windows Server
+18.193.196.42:80 - Abbigliamento e Accessori per la moto a Torino - Motoline dal 1996
+127.175.1.43:80 - IIS Windows Server
+127.116.9.75:80 - IIS Windows Server
+127.12.69.218:80 - IIS Windows Server
+127.197.219.136:80 - IIS Windows Server
+104.90.88.252:80 - Заголовок не найден
