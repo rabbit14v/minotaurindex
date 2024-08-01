@@ -1,0 +1,8 @@
+103.68.121.113:80 - Default Site
+213.175.172.147:80 - RouterOS router configuration page
+67.222.17.119:80 - Заголовок не найден
+118.25.150.59:80 - Welcome to nginx!
+202.141.252.155:80 - Forbidden
+147.182.154.217:80 - Artboard
+92.8.227.169:80 - .::Welcome to the Web-Based Configurator::.
+46.242.213.216:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
