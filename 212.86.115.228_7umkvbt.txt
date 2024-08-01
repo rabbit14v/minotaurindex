@@ -6422,3 +6422,26 @@
 23.5.149.117 - Заголовок не найден !80!
 91.206.110.43 - Заголовок не найден !80!
 154.214.72.132 - 403 Forbidden !80!
+127.63.245.125 - IIS Windows Server !80!
+195.36.17.226 - RouterOS router configuration page !80!
+82.157.72.216 - å·¥ä¸äºèç½æå­¦å®è®­å¹³å° !80!
+4.208.73.32 - Your Azure Function App is up and running. !80!
+3.76.24.30 - 404 Not Found !80!
+3.124.45.17 - Заголовок не найден !80!
+207.153.127.18 - Заголовок не найден !80!
+104.98.254.249 - Заголовок не найден !80!
+85.112.232.170 - Jacobs Garten- und Landschaftsbau GmbH &#8211; Qualitätsarbeit in allen Aufgabenbereichen ist das Leitziel unseres Unternehmens !80!
+185.71.73.87 - 403 Forbidden !80!
+104.203.245.31 - Заголовок не найден !80!
+127.45.144.6 - IIS Windows Server !80!
+31.6.1.161 - Home !80!
+127.43.233.58 - IIS Windows Server !80!
+212.90.37.185 - Заголовок не найден !80!
+154.213.114.203 - Sorry, the website has been stopped !80!
+27.148.138.60 - Заголовок не найден !80!
+127.213.32.86 - IIS Windows Server !80!
+104.87.237.235 - Заголовок не найден !80!
+54.172.130.155 - Заголовок не найден !80!
+127.78.219.68 - IIS Windows Server !80!
+54.90.176.96 - 400 Bad Request !80!
+151.236.100.77 - Welcome to nginx! !80!
