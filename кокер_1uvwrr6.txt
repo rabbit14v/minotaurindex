@@ -1549,3 +1549,801 @@ dwustrzykawkowe i pompy perystaltyczne (ojêtociowe)
 31.133.93.10:80 - Заголовок не найден
 122.117.59.37:80 - 401 Unauthorized
 216.172.181.241:80 - Заголовок не найден
+104.19.189.229:80 - Direct IP access not allowed | Cloudflare
+168.181.185.223:80 - 
+177.54.96.222:80 - Error 404 (Not Found)!!1
+23.198.101.210:80 - Заголовок не найден
+197.166.81.179:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#48;&#56;&#78;&#32;&#86;&#50;&#46;&#53;
+107.150.50.130:80 - æ²¡ææ¾å°ç«ç¹
+23.50.160.174:80 - Заголовок не найден
+65.8.180.177:80 - Заголовок не найден
+154.7.22.162:80 - Заголовок не найден
+181.23.65.2:80 - Заголовок не найден
+213.171.6.181:80 - Apache2 Ubuntu Default Page: It works
+91.226.71.52:80 - 
+3.67.106.70:80 - Заголовок не найден
+35.194.235.145:80 - Заголовок не найден
+208.113.166.34:80 - 401 Authorization Required
+149.143.47.162:80 - Ganzeregatta
+49.213.171.88:80 - 
+154.30.212.198:80 - Заголовок не найден
+57.152.93.218:80 - Azure Container App - Unavailable
+222.194.57.240:80 - 404 Not Found
+50.63.1.70:80 - Заголовок не найден
+3.168.121.43:80 - Заголовок не найден
+38.20.101.68:80 - Заголовок не найден
+52.140.234.92:80 - 404 Not Found
+143.125.224.92:80 - Заголовок не найден
+23.208.18.120:80 - Заголовок не найден
+188.240.20.250:80 - Cristian Haidau - Home
+23.14.71.233:80 - Заголовок не найден
+154.195.85.175:80 - Заголовок не найден
+78.147.16.242:80 - Заголовок не найден
+36.71.69.19:80 - 
+162.159.44.35:80 - Direct IP access not allowed | Cloudflare
+23.41.213.217:80 - Заголовок не найден
+5.11.138.240:80 - Web Administration Interface
+104.114.192.131:80 - Заголовок не найден
+163.5.165.172:80 - Apache2 Debian Default Page: It works
+38.63.249.26:80 - 404 Not Found
+40.124.148.121:80 - Microsoft Azure Web App - Error 404
+193.204.192.224:80 - Test Page for the HTTP Server on Red Hat Enterprise Linux
+23.54.245.232:80 - Заголовок не найден
+20.54.165.116:80 - Microsoft Azure Web App - Error 404
+91.80.150.56:80 - Web Administration Interface
+20.9.107.10:80 - Azure Container App - Unavailable
+5.196.104.112:80 - Заголовок не найден
+107.6.139.10:80 - SellingMAX
+5.101.174.148:80 - Forbidden!
+23.196.158.162:80 - Заголовок не найден
+103.68.20.101:80 - Please wait, the login page is opening...
+133.167.35.217:80 - <pre class="cake-error"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr66ac0031cd12c-trace').style.display = (document.getElementById('cakeErr66ac0031cd12c-trace').style.display == 'none' ? '' : 'none');"><b>Notice</b> (8)</a>: Undefined variable: currentPharmacy [<b>APP/View/Layouts/default.ctp</b>, line <b>6</b>]<div id="cakeErr66ac0031cd12c-trace" class="cake-stack-trace" style="display: none;"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr66ac0031cd12c-code').style.display = (document.getElementById('cakeErr66ac0031cd12c-code').style.display == 'none' ? '' : 'none')">Code</a> <a href="javascript:void(0);" onclick="document.getElementById('cakeErr66ac0031cd12c-context').style.display = (document.getElementById('cakeErr66ac0031cd12c-context').style.display == 'none' ? '' : 'none')">Context</a><pre id="cakeErr66ac0031cd12c-code" class="cake-code-dump" style="display: none;"><code><span style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000BB">&lt;?php&nbsp;</span><span style="color: #007700">echo&nbsp;</span><span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">Html</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">charset</span><span style="color: #007700">();&nbsp;</span><span style="color: #0000BB">?&gt;
+</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">&lt;</span><span style="color: #0000BB">meta&nbsp;name</span><span style="color: #007700">=</span><span style="color: #DD0000">"viewport"&nbsp;</span><span style="color: #0000BB">content</span><span style="color: #007700">=</span><span style="color: #DD0000">"width=device-width,&nbsp;initial-scale=1.0,&nbsp;maximum-scale=1.0,&nbsp;user-scalable=0"</span><span style="color: #007700">&gt;
+</span></span></code>
+<span class="code-highlight"><code><span style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;<span style="color: #0000BB">&lt;?php&nbsp;</span><span style="color: #007700">echo&nbsp;</span><span style="color: #0000BB">h</span><span style="color: #007700">(</span><span style="color: #0000BB">$currentPharmacy</span><span style="color: #007700">[</span><span style="color: #DD0000">'title'</span><span style="color: #007700">]);&nbsp;</span><span style="color: #0000BB">?&gt;</span>&lt;/title&gt;
+</span></code></span></pre><pre id="cakeErr66ac0031cd12c-context" class="cake-context" style="display: none;">$viewFile = &#039;/var/www/html/info-pharmacy/app/View/Layouts/default.ctp&#039;
+$dataForView = array(
+	&#039;debugToolbarPanels&#039; =&gt; array(
+		&#039;history&#039; =&gt; array(
+			&#039;content&#039; =&gt; array([maximum depth reached]),
+			&#039;elementName&#039; =&gt; &#039;history_panel&#039;,
+			&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+			&#039;title&#039; =&gt; null,
+			&#039;disableTimer&#039; =&gt; true
+		),
+		&#039;session&#039; =&gt; array(
+			&#039;content&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;elementName&#039; =&gt; &#039;session_panel&#039;,
+			&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+			&#039;title&#039; =&gt; null,
+			&#039;disableTimer&#039; =&gt; true
+		),
+		&#039;request&#039; =&gt; array(
+			&#039;content&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;elementName&#039; =&gt; &#039;request_panel&#039;,
+			&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+			&#039;title&#039; =&gt; null,
+			&#039;disableTimer&#039; =&gt; true
+		),
+		&#039;sql_log&#039; =&gt; array(
+			&#039;content&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;elementName&#039; =&gt; &#039;sql_log_panel&#039;,
+			&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+			&#039;title&#039; =&gt; null,
+			&#039;disableTimer&#039; =&gt; true
+		),
+		&#039;timer&#039; =&gt; array(
+			&#039;content&#039; =&gt; null,
+			&#039;elementName&#039; =&gt; &#039;timer_panel&#039;,
+			&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+			&#039;title&#039; =&gt; null,
+			&#039;disableTimer&#039; =&gt; true
+		),
+		&#039;log&#039; =&gt; array(
+			&#039;content&#039; =&gt; object(DebugKitLog) {},
+			&#039;elementName&#039; =&gt; &#039;log_panel&#039;,
+			&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+			&#039;title&#039; =&gt; null,
+			&#039;disableTimer&#039; =&gt; true
+		),
+		&#039;variables&#039; =&gt; array(
+			&#039;content&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;elementName&#039; =&gt; &#039;variables_panel&#039;,
+			&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+			&#039;title&#039; =&gt; null,
+			&#039;disableTimer&#039; =&gt; true
+		),
+		&#039;environment&#039; =&gt; array(
+			&#039;content&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;elementName&#039; =&gt; &#039;environment_panel&#039;,
+			&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+			&#039;title&#039; =&gt; null,
+			&#039;disableTimer&#039; =&gt; true
+		),
+		&#039;include&#039; =&gt; array(
+			&#039;content&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;elementName&#039; =&gt; &#039;include_panel&#039;,
+			&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+			&#039;title&#039; =&gt; null,
+			&#039;disableTimer&#039; =&gt; true
+		)
+	),
+	&#039;debugToolbarJavascript&#039; =&gt; array(
+		&#039;libs&#039; =&gt; &#039;DebugKit./js/js_debug_toolbar&#039;
+	),
+	&#039;debugToolbarCss&#039; =&gt; array(
+		(int) 0 =&gt; &#039;DebugKit./css/debug_toolbar.css&#039;
+	),
+	&#039;name&#039; =&gt; &#039;店舗情報が見つかりません。&#039;,
+	&#039;url&#039; =&gt; &#039;/&#039;,
+	&#039;error&#039; =&gt; object(BadRequestException) {
+		[protected] _responseHeaders =&gt; null
+		[protected] message =&gt; &#039;店舗情報が見つかりません。&#039;
+		[protected] code =&gt; (int) 400
+		[protected] file =&gt; &#039;/var/www/html/info-pharmacy/app/Controller/AppController.php&#039;
+		[protected] line =&gt; (int) 89
+	},
+	&#039;_serialize&#039; =&gt; array(
+		(int) 0 =&gt; &#039;name&#039;,
+		(int) 1 =&gt; &#039;url&#039;
+	),
+	&#039;content_for_layout&#039; =&gt; &#039;&lt;h2&gt;店舗情報が見つかりません。&lt;/h2&gt;
+&lt;p class=&quot;error&quot;&gt;
+	&lt;strong&gt;Error: &lt;/strong&gt;
+	The requested address &lt;strong&gt;&#039;/&#039;&lt;/strong&gt; was not found on this server.&lt;/p&gt;
+&lt;h3&gt;Stack Trace&lt;/h3&gt;
+&lt;ul class=&quot;cake-stack-trace&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-0&#039;)&quot;&gt;APP/Controller/TicketsController.php line 15&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-0&#039;)&quot;&gt;AppController-&gt;beforeFilter()&lt;/a&gt; &lt;div id=&quot;file-excerpt-0&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;void
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;beforeFilter&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;parent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;beforeFilter&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #FF8000&quot;&gt;//echo&amp;nbsp;($this-&amp;gt;pharmacy[&#039;service_status&#039;]);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-0&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot;&gt;[internal function]&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-1&#039;)&quot;&gt;TicketsController-&gt;beforeFilter(CakeEvent)&lt;/a&gt; &lt;div id=&quot;trace-args-1&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(TicketsController) {}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-2&#039;)&quot;&gt;CORE/Cake/Event/CakeEventManager.php line 247&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-2&#039;)&quot;&gt;call_user_func(array, CakeEvent)&lt;/a&gt; &lt;div id=&quot;file-excerpt-2&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;passParams&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]&amp;nbsp;===&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$result&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;call_user_func_array&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;callable&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;],&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$event&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}&amp;nbsp;else&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$result&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;call_user_func&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;callable&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;],&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$event&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-2&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;array(
+	(int) 0 =&amp;gt; object(TicketsController) {},
+	(int) 1 =&amp;gt; &amp;#039;beforeFilter&amp;#039;
+)
+object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(TicketsController) {}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-3&#039;)&quot;&gt;CORE/Cake/Controller/Controller.php line 674&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-3&#039;)&quot;&gt;CakeEventManager-&gt;dispatch(CakeEvent)&lt;/a&gt; &lt;div id=&quot;file-excerpt-3&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;void
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startupProcess&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getEventManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeEvent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Controller.initialize&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getEventManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeEvent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Controller.startup&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-3&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(TicketsController) {}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-4&#039;)&quot;&gt;CORE/Cake/Routing/Dispatcher.php line 182&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-4&#039;)&quot;&gt;Controller-&gt;startupProcess()&lt;/a&gt; &lt;div id=&quot;file-excerpt-4&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;protected&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_invoke&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;Controller&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeRequest&amp;nbsp;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeResponse&amp;nbsp;$response&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;constructClasses&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startupProcess&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-4&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-5&#039;)&quot;&gt;CORE/Cake/Routing/Dispatcher.php line 160&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-5&#039;)&quot;&gt;Dispatcher-&gt;_invoke(TicketsController, CakeRequest, CakeResponse)&lt;/a&gt; &lt;div id=&quot;file-excerpt-5&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$response&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_invoke&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$response&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(isset(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;params&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;return&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]))&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-5&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(TicketsController) {
+	components =&amp;gt; array(
+		[maximum depth reached]
+	)
+	helpers =&amp;gt; array(
+		[maximum depth reached]
+	)
+	uses =&amp;gt; array(
+		[maximum depth reached]
+	)
+	pharmacy =&amp;gt; null
+	name =&amp;gt; &amp;#039;Tickets&amp;#039;
+	request =&amp;gt; object(CakeRequest) {}
+	response =&amp;gt; object(CakeResponse) {}
+	viewPath =&amp;gt; &amp;#039;Tickets&amp;#039;
+	layoutPath =&amp;gt; null
+	viewVars =&amp;gt; array([maximum depth reached])
+	view =&amp;gt; &amp;#039;input&amp;#039;
+	layout =&amp;gt; &amp;#039;default&amp;#039;
+	autoRender =&amp;gt; true
+	autoLayout =&amp;gt; true
+	Components =&amp;gt; object(ComponentCollection) {}
+	viewClass =&amp;gt; &amp;#039;View&amp;#039;
+	View =&amp;gt; null
+	ext =&amp;gt; &amp;#039;.ctp&amp;#039;
+	plugin =&amp;gt; null
+	cacheAction =&amp;gt; false
+	passedArgs =&amp;gt; array([maximum depth reached])
+	scaffold =&amp;gt; false
+	methods =&amp;gt; array(
+		[maximum depth reached]
+	)
+	modelClass =&amp;gt; &amp;#039;Ticket&amp;#039;
+	modelKey =&amp;gt; &amp;#039;ticket&amp;#039;
+	validationErrors =&amp;gt; null
+	Toolbar =&amp;gt; object(ToolbarComponent) {}
+	Session =&amp;gt; object(SessionComponent) {}
+	SendEmail =&amp;gt; object(SendEmailComponent) {}
+	Pharmacy =&amp;gt; object(Pharmacy) {}
+	[protected] _responseClass =&amp;gt; &amp;#039;CakeResponse&amp;#039;
+	[protected] _mergeParent =&amp;gt; &amp;#039;AppController&amp;#039;
+	[protected] _eventManager =&amp;gt; object(CakeEventManager) {}
+}
+object(CakeRequest) {
+	params =&amp;gt; array(
+		[maximum depth reached]
+	)
+	data =&amp;gt; array([maximum depth reached])
+	query =&amp;gt; array([maximum depth reached])
+	url =&amp;gt; false
+	base =&amp;gt; &amp;#039;&amp;#039;
+	webroot =&amp;gt; &amp;#039;/&amp;#039;
+	here =&amp;gt; &amp;#039;/&amp;#039;
+	[protected] _detectors =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+}
+object(CakeResponse) {
+	[protected] _statusCodes =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _mimeTypes =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _protocol =&amp;gt; &amp;#039;HTTP/1.1&amp;#039;
+	[protected] _status =&amp;gt; (int) 200
+	[protected] _contentType =&amp;gt; &amp;#039;text/html&amp;#039;
+	[protected] _headers =&amp;gt; array([maximum depth reached])
+	[protected] _body =&amp;gt; null
+	[protected] _file =&amp;gt; null
+	[protected] _fileRange =&amp;gt; null
+	[protected] _charset =&amp;gt; &amp;#039;UTF-8&amp;#039;
+	[protected] _cacheDirectives =&amp;gt; array([maximum depth reached])
+	[protected] _cookies =&amp;gt; array([maximum depth reached])
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-6&#039;)&quot;&gt;APP/webroot/index.php line 109&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-6&#039;)&quot;&gt;Dispatcher-&gt;dispatch(CakeRequest, CakeResponse)&lt;/a&gt; &lt;div id=&quot;file-excerpt-6&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$Dispatcher&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeRequest&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(),&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeResponse&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-6&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeRequest) {
+	params =&amp;gt; array(
+		[maximum depth reached]
+	)
+	data =&amp;gt; array([maximum depth reached])
+	query =&amp;gt; array([maximum depth reached])
+	url =&amp;gt; false
+	base =&amp;gt; &amp;#039;&amp;#039;
+	webroot =&amp;gt; &amp;#039;/&amp;#039;
+	here =&amp;gt; &amp;#039;/&amp;#039;
+	[protected] _detectors =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+}
+object(CakeResponse) {
+	[protected] _statusCodes =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _mimeTypes =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _protocol =&amp;gt; &amp;#039;HTTP/1.1&amp;#039;
+	[protected] _status =&amp;gt; (int) 200
+	[protected] _contentType =&amp;gt; &amp;#039;text/html&amp;#039;
+	[protected] _headers =&amp;gt; array([maximum depth reached])
+	[protected] _body =&amp;gt; null
+	[protected] _file =&amp;gt; null
+	[protected] _fileRange =&amp;gt; null
+	[protected] _charset =&amp;gt; &amp;#039;UTF-8&amp;#039;
+	[protected] _cacheDirectives =&amp;gt; array([maximum depth reached])
+	[protected] _cookies =&amp;gt; array([maximum depth reached])
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+function traceToggle(event, id) {
+	var el = document.getElementById(id);
+	el.style.display = (el.style.display === &#039;block&#039;) ? &#039;none&#039; : &#039;block&#039;;
+	event.preventDefault();
+	return false;
+}
+&lt;/script&gt;
+&#039;,
+	&#039;scripts_for_layout&#039; =&gt; &#039;&#039;,
+	&#039;title_for_layout&#039; =&gt; &#039;Errors&#039;
+)
+$debugToolbarPanels = array(
+	&#039;history&#039; =&gt; array(
+		&#039;content&#039; =&gt; array(),
+		&#039;elementName&#039; =&gt; &#039;history_panel&#039;,
+		&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+		&#039;title&#039; =&gt; null,
+		&#039;disableTimer&#039; =&gt; true
+	),
+	&#039;session&#039; =&gt; array(
+		&#039;content&#039; =&gt; array(
+			&#039;Config&#039; =&gt; array(
+				[maximum depth reached]
+			)
+		),
+		&#039;elementName&#039; =&gt; &#039;session_panel&#039;,
+		&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+		&#039;title&#039; =&gt; null,
+		&#039;disableTimer&#039; =&gt; true
+	),
+	&#039;request&#039; =&gt; array(
+		&#039;content&#039; =&gt; array(
+			&#039;params&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;url&#039; =&gt; false,
+			&#039;query&#039; =&gt; array([maximum depth reached]),
+			&#039;data&#039; =&gt; array([maximum depth reached]),
+			&#039;get&#039; =&gt; array([maximum depth reached]),
+			&#039;currentRoute&#039; =&gt; object(CakeRoute) {}
+		),
+		&#039;elementName&#039; =&gt; &#039;request_panel&#039;,
+		&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+		&#039;title&#039; =&gt; null,
+		&#039;disableTimer&#039; =&gt; true
+	),
+	&#039;sql_log&#039; =&gt; array(
+		&#039;content&#039; =&gt; array(
+			&#039;connections&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;threshold&#039; =&gt; (int) 20
+		),
+		&#039;elementName&#039; =&gt; &#039;sql_log_panel&#039;,
+		&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+		&#039;title&#039; =&gt; null,
+		&#039;disableTimer&#039; =&gt; true
+	),
+	&#039;timer&#039; =&gt; array(
+		&#039;content&#039; =&gt; null,
+		&#039;elementName&#039; =&gt; &#039;timer_panel&#039;,
+		&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+		&#039;title&#039; =&gt; null,
+		&#039;disableTimer&#039; =&gt; true
+	),
+	&#039;log&#039; =&gt; array(
+		&#039;content&#039; =&gt; object(DebugKitLog) {},
+		&#039;elementName&#039; =&gt; &#039;log_panel&#039;,
+		&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+		&#039;title&#039; =&gt; null,
+		&#039;disableTimer&#039; =&gt; true
+	),
+	&#039;variables&#039; =&gt; array(
+		&#039;content&#039; =&gt; array(
+			&#039;name&#039; =&gt; &#039;店舗情報が見つかりません。&#039;,
+			&#039;url&#039; =&gt; &#039;/&#039;,
+			&#039;error&#039; =&gt; object(BadRequestException) {},
+			&#039;_serialize&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;$request-&gt;data&#039; =&gt; array([maximum depth reached])
+		),
+		&#039;elementName&#039; =&gt; &#039;variables_panel&#039;,
+		&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+		&#039;title&#039; =&gt; null,
+		&#039;disableTimer&#039; =&gt; true
+	),
+	&#039;environment&#039; =&gt; array(
+		&#039;content&#039; =&gt; array(
+			&#039;php&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;cake&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;app&#039; =&gt; array([maximum depth reached])
+		),
+		&#039;elementName&#039; =&gt; &#039;environment_panel&#039;,
+		&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+		&#039;title&#039; =&gt; null,
+		&#039;disableTimer&#039; =&gt; true
+	),
+	&#039;include&#039; =&gt; array(
+		&#039;content&#039; =&gt; array(
+			&#039;core&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;app&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;plugins&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;paths&#039; =&gt; array(
+				[maximum depth reached]
+			)
+		),
+		&#039;elementName&#039; =&gt; &#039;include_panel&#039;,
+		&#039;plugin&#039; =&gt; &#039;DebugKit&#039;,
+		&#039;title&#039; =&gt; null,
+		&#039;disableTimer&#039; =&gt; true
+	)
+)
+$debugToolbarJavascript = array(
+	&#039;libs&#039; =&gt; &#039;DebugKit./js/js_debug_toolbar&#039;
+)
+$debugToolbarCss = array(
+	(int) 0 =&gt; &#039;DebugKit./css/debug_toolbar.css&#039;
+)
+$name = &#039;店舗情報が見つかりません。&#039;
+$url = &#039;/&#039;
+$error = object(BadRequestException) {
+	[protected] _responseHeaders =&gt; null
+	[protected] message =&gt; &#039;店舗情報が見つかりません。&#039;
+	[protected] code =&gt; (int) 400
+	[protected] file =&gt; &#039;/var/www/html/info-pharmacy/app/Controller/AppController.php&#039;
+	[protected] line =&gt; (int) 89
+}
+$_serialize = array(
+	(int) 0 =&gt; &#039;name&#039;,
+	(int) 1 =&gt; &#039;url&#039;
+)
+$content_for_layout = &#039;&lt;h2&gt;店舗情報が見つかりません。&lt;/h2&gt;
+&lt;p class=&quot;error&quot;&gt;
+	&lt;strong&gt;Error: &lt;/strong&gt;
+	The requested address &lt;strong&gt;&#039;/&#039;&lt;/strong&gt; was not found on this server.&lt;/p&gt;
+&lt;h3&gt;Stack Trace&lt;/h3&gt;
+&lt;ul class=&quot;cake-stack-trace&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-0&#039;)&quot;&gt;APP/Controller/TicketsController.php line 15&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-0&#039;)&quot;&gt;AppController-&gt;beforeFilter()&lt;/a&gt; &lt;div id=&quot;file-excerpt-0&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;void
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;beforeFilter&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;parent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;::&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;beforeFilter&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #FF8000&quot;&gt;//echo&amp;nbsp;($this-&amp;gt;pharmacy[&#039;service_status&#039;]);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-0&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot;&gt;[internal function]&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-1&#039;)&quot;&gt;TicketsController-&gt;beforeFilter(CakeEvent)&lt;/a&gt; &lt;div id=&quot;trace-args-1&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(TicketsController) {}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-2&#039;)&quot;&gt;CORE/Cake/Event/CakeEventManager.php line 247&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-2&#039;)&quot;&gt;call_user_func(array, CakeEvent)&lt;/a&gt; &lt;div id=&quot;file-excerpt-2&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;passParams&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]&amp;nbsp;===&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$result&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;call_user_func_array&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;callable&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;],&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$event&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}&amp;nbsp;else&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$result&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;call_user_func&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$listener&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;callable&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;],&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$event&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-2&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;array(
+	(int) 0 =&amp;gt; object(TicketsController) {},
+	(int) 1 =&amp;gt; &amp;#039;beforeFilter&amp;#039;
+)
+object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(TicketsController) {}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-3&#039;)&quot;&gt;CORE/Cake/Controller/Controller.php line 674&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-3&#039;)&quot;&gt;CakeEventManager-&gt;dispatch(CakeEvent)&lt;/a&gt; &lt;div id=&quot;file-excerpt-3&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*&amp;nbsp;@return&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;void
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;public&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startupProcess&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getEventManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeEvent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Controller.initialize&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;getEventManager&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeEvent&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;Controller.startup&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-3&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeEvent) {
+	data =&amp;gt; null
+	result =&amp;gt; null
+	[protected] _name =&amp;gt; &amp;#039;Controller.initialize&amp;#039;
+	[protected] _subject =&amp;gt; object(TicketsController) {}
+	[protected] _stopped =&amp;gt; false
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-4&#039;)&quot;&gt;CORE/Cake/Routing/Dispatcher.php line 182&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-4&#039;)&quot;&gt;Controller-&gt;startupProcess()&lt;/a&gt; &lt;div id=&quot;file-excerpt-4&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;*/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;protected&amp;nbsp;function&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_invoke&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;Controller&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeRequest&amp;nbsp;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeResponse&amp;nbsp;$response&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;)&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;constructClasses&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;startupProcess&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-4&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-5&#039;)&quot;&gt;CORE/Cake/Routing/Dispatcher.php line 160&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-5&#039;)&quot;&gt;Dispatcher-&gt;_invoke(TicketsController, CakeRequest, CakeResponse)&lt;/a&gt; &lt;div id=&quot;file-excerpt-5&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$response&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$this&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;_invoke&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$controller&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$response&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;if&amp;nbsp;(isset(&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$request&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;params&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #DD0000&quot;&gt;&#039;return&#039;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;]))&amp;nbsp;{
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-5&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(TicketsController) {
+	components =&amp;gt; array(
+		[maximum depth reached]
+	)
+	helpers =&amp;gt; array(
+		[maximum depth reached]
+	)
+	uses =&amp;gt; array(
+		[maximum depth reached]
+	)
+	pharmacy =&amp;gt; null
+	name =&amp;gt; &amp;#039;Tickets&amp;#039;
+	request =&amp;gt; object(CakeRequest) {}
+	response =&amp;gt; object(CakeResponse) {}
+	viewPath =&amp;gt; &amp;#039;Tickets&amp;#039;
+	layoutPath =&amp;gt; null
+	viewVars =&amp;gt; array([maximum depth reached])
+	view =&amp;gt; &amp;#039;input&amp;#039;
+	layout =&amp;gt; &amp;#039;default&amp;#039;
+	autoRender =&amp;gt; true
+	autoLayout =&amp;gt; true
+	Components =&amp;gt; object(ComponentCollection) {}
+	viewClass =&amp;gt; &amp;#039;View&amp;#039;
+	View =&amp;gt; null
+	ext =&amp;gt; &amp;#039;.ctp&amp;#039;
+	plugin =&amp;gt; null
+	cacheAction =&amp;gt; false
+	passedArgs =&amp;gt; array([maximum depth reached])
+	scaffold =&amp;gt; false
+	methods =&amp;gt; array(
+		[maximum depth reached]
+	)
+	modelClass =&amp;gt; &amp;#039;Ticket&amp;#039;
+	modelKey =&amp;gt; &amp;#039;ticket&amp;#039;
+	validationErrors =&amp;gt; null
+	Toolbar =&amp;gt; object(ToolbarComponent) {}
+	Session =&amp;gt; object(SessionComponent) {}
+	SendEmail =&amp;gt; object(SendEmailComponent) {}
+	Pharmacy =&amp;gt; object(Pharmacy) {}
+	[protected] _responseClass =&amp;gt; &amp;#039;CakeResponse&amp;#039;
+	[protected] _mergeParent =&amp;gt; &amp;#039;AppController&amp;#039;
+	[protected] _eventManager =&amp;gt; object(CakeEventManager) {}
+}
+object(CakeRequest) {
+	params =&amp;gt; array(
+		[maximum depth reached]
+	)
+	data =&amp;gt; array([maximum depth reached])
+	query =&amp;gt; array([maximum depth reached])
+	url =&amp;gt; false
+	base =&amp;gt; &amp;#039;&amp;#039;
+	webroot =&amp;gt; &amp;#039;/&amp;#039;
+	here =&amp;gt; &amp;#039;/&amp;#039;
+	[protected] _detectors =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+}
+object(CakeResponse) {
+	[protected] _statusCodes =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _mimeTypes =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _protocol =&amp;gt; &amp;#039;HTTP/1.1&amp;#039;
+	[protected] _status =&amp;gt; (int) 200
+	[protected] _contentType =&amp;gt; &amp;#039;text/html&amp;#039;
+	[protected] _headers =&amp;gt; array([maximum depth reached])
+	[protected] _body =&amp;gt; null
+	[protected] _file =&amp;gt; null
+	[protected] _fileRange =&amp;gt; null
+	[protected] _charset =&amp;gt; &amp;#039;UTF-8&amp;#039;
+	[protected] _cacheDirectives =&amp;gt; array([maximum depth reached])
+	[protected] _cookies =&amp;gt; array([maximum depth reached])
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;file-excerpt-6&#039;)&quot;&gt;APP/webroot/index.php line 109&lt;/a&gt; &amp;rarr; &lt;a href=&quot;#&quot; onclick=&quot;traceToggle(event, &#039;trace-args-6&#039;)&quot;&gt;Dispatcher-&gt;dispatch(CakeRequest, CakeResponse)&lt;/a&gt; &lt;div id=&quot;file-excerpt-6&quot; class=&quot;cake-code-dump&quot; style=&quot;display:none;&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;$Dispatcher&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeRequest&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;(),&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;new&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;CakeResponse&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;
+&lt;span class=&quot;code-highlight&quot;&gt;&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #007700&quot;&gt;);&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;
+&lt;code&gt;&lt;span style=&quot;color: #000000&quot;&gt;&lt;span style=&quot;color: #0000BB&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div id=&quot;trace-args-6&quot; class=&quot;cake-code-dump&quot; style=&quot;display: none;&quot;&gt;&lt;pre&gt;object(CakeRequest) {
+	params =&amp;gt; array(
+		[maximum depth reached]
+	)
+	data =&amp;gt; array([maximum depth reached])
+	query =&amp;gt; array([maximum depth reached])
+	url =&amp;gt; false
+	base =&amp;gt; &amp;#039;&amp;#039;
+	webroot =&amp;gt; &amp;#039;/&amp;#039;
+	here =&amp;gt; &amp;#039;/&amp;#039;
+	[protected] _detectors =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _input =&amp;gt; &amp;#039;&amp;#039;
+}
+object(CakeResponse) {
+	[protected] _statusCodes =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _mimeTypes =&amp;gt; array(
+		[maximum depth reached]
+	)
+	[protected] _protocol =&amp;gt; &amp;#039;HTTP/1.1&amp;#039;
+	[protected] _status =&amp;gt; (int) 200
+	[protected] _contentType =&amp;gt; &amp;#039;text/html&amp;#039;
+	[protected] _headers =&amp;gt; array([maximum depth reached])
+	[protected] _body =&amp;gt; null
+	[protected] _file =&amp;gt; null
+	[protected] _fileRange =&amp;gt; null
+	[protected] _charset =&amp;gt; &amp;#039;UTF-8&amp;#039;
+	[protected] _cacheDirectives =&amp;gt; array([maximum depth reached])
+	[protected] _cookies =&amp;gt; array([maximum depth reached])
+}&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+function traceToggle(event, id) {
+	var el = document.getElementById(id);
+	el.style.display = (el.style.display === &#039;block&#039;) ? &#039;none&#039; : &#039;block&#039;;
+	event.preventDefault();
+	return false;
+}
+&lt;/script&gt;
+&#039;
+$scripts_for_layout = &#039;&#039;
+$title_for_layout = &#039;Errors&#039;</pre><pre class="stack-trace">include - APP/View/Layouts/default.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::renderLayout() - CORE/Cake/View/View.php, line 523
+View::render() - CORE/Cake/View/View.php, line 468
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 273
+ExceptionRenderer::error400() - CORE/Cake/Error/ExceptionRenderer.php, line 219
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 175
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 120
+[main] - [internal], line ??</pre></div></pre>
+185.188.160.49:80 - Server Unavailable
+115.56.90.18:80 - Заголовок не найден
+185.140.180.230:80 - Portables
+18.245.228.200:80 - Заголовок не найден
+58.22.246.75:80 - Caddy works!
+59.1.27.61:80 - 
+156.242.145.189:80 - 404 Not Found
+54.64.136.88:80 - Заголовок не найден
+172.67.59.180:80 - Direct IP access not allowed | Cloudflare
+200.188.144.133:80 - 
+144.76.58.220:80 - 403 Forbidden
+45.179.191.34:80 - 403 Forbidden
+78.84.149.124:80 - 
+184.153.40.152:80 - 
+35.176.86.142:80 - Заголовок не найден
+34.249.197.235:80 - Apache2 Ubuntu Default Page: It works
+202.191.112.50:80 - Заголовок не найден
+119.91.61.73:80 - 403 Forbidden
+54.192.207.20:80 - Заголовок не найден
+163.30.60.111:80 - HappyAR.VR|CMS
+117.204.238.131:80 - MATZ-AC3
+222.104.152.189:80 - main page
+75.2.88.64:80 - 403 Forbidden
+101.89.224.108:80 - Welcome to nginx!
+80.11.163.228:80 - 
+221.152.72.219:80 - Заголовок не найден
+95.129.232.207:80 - DDoS-Guard
+23.206.235.40:80 - Заголовок не найден
+209.54.183.179:80 - Website Temporarily Unavailable
+5.105.244.162:80 - 403 Forbidden
+5.76.83.185:80 - GPON Home Gateway
+208.59.50.212:80 - Default Site
+45.203.9.186:80 - 404 Not Found
+23.196.82.62:80 - Заголовок не найден
+208.113.205.78:80 - Site not found &middot; DreamHost
+91.51.236.227:80 - Mitel 104
+179.9.23.140:80 - Blue Iris Login
+18.238.180.154:80 - Заголовок не найден
+104.86.36.214:80 - Заголовок не найден
+52.222.227.15:80 - Заголовок не найден
+38.153.206.55:80 - ERROR: The requested URL could not be retrieved
+20.207.117.54:80 - 404 Not Found
+188.128.196.88:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+188.166.178.236:80 - Attention Required! | Cloudflare
+154.55.253.123:80 - IIS7
+50.17.200.52:80 - Заголовок не найден
+180.201.28.167:80 - 404 Not Found
+23.13.184.167:80 - Заголовок не найден
+121.41.89.168:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+140.227.84.211:80 - Заголовок не найден
+12.151.164.180:80 - Index of /
+104.104.10.51:80 - Заголовок не найден
+210.122.13.42:80 - Заголовок не найден
+23.220.34.43:80 - Заголовок не найден
+52.30.81.20:80 - 404 Not Found
+71.90.236.12:80 - Default Site
+199.232.121.154:80 - Fastly error: unknown domain 199.232.121.154
+45.12.124.21:80 - Заголовок не найден
+217.70.146.51:80 - Заголовок не найден
+109.206.170.220:80 - 403 Forbidden
+52.221.59.135:80 - Online System
+144.24.79.146:80 - 404 Not Found
+121.184.111.46:80 - 
+104.22.36.20:80 - Direct IP access not allowed | Cloudflare
+170.62.64.48:80 - Заголовок не найден
+194.79.24.24:80 - Заголовок не найден
+209.140.25.69:80 - Заголовок не найден
+1.33.188.127:80 - 
+98.175.108.77:80 - index
+163.28.227.117:80 - Заголовок не найден
+158.160.51.96:80 - 404 Not Found
+213.176.40.162:80 - Заголовок не найден
+69.55.22.28:80 - Login
+146.148.200.77:80 - æ²¡ææ¾å°ç«ç¹
+185.251.11.128:80 - Заголовок не найден
+222.85.161.174:80 - 404 Not Found
+43.133.63.63:80 - Welcome to nginx!
+101.2.163.150:80 - 
+45.223.145.86:80 - Заголовок не найден
+110.45.201.178:80 - Заголовок не найден
+200.27.201.83:80 - IIS Windows Server
+211.20.70.225:80 - Login
+65.9.82.209:80 - Заголовок не найден
+103.100.20.150:80 - IIS Windows Server
+3.9.19.124:80 - 404 Not Found
+103.142.108.49:80 - Заголовок не найден
+120.53.132.77:80 - Заголовок не найден
+168.206.253.6:80 - 403 Forbidden
+172.168.158.25:80 - Your Azure Function App is up and running.
+196.196.220.125:80 - 407 Proxy Authentication Required
+104.19.195.169:80 - Direct IP access not allowed | Cloudflare
+37.247.49.165:80 - Apache2 Ubuntu Default Page: It works
+64.90.39.147:80 - Site not found &middot; DreamHost
+154.214.217.67:80 - Page not found
+63.195.167.79:80 - AT&T WiFi Portal
+108.156.158.233:80 - Заголовок не найден
+65.9.84.77:80 - Заголовок не найден
+151.115.78.18:80 - Welcome to nginx!
+173.233.69.247:80 - Заголовок не найден
