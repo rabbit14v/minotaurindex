@@ -1591,3 +1591,15 @@
 127.211.141.3 - IIS Windows Server !80!
 127.24.171.137 - IIS Windows Server !80!
 127.121.177.110 - IIS Windows Server !80!
+127.185.167.184 - IIS Windows Server !80!
+141.26.69.188 - Status der Dienste der Universität Koblenz !80!
+137.66.26.24 - Livebook !80!
+151.247.0.79 - RouterOS router configuration page !80!
+5.178.70.59 - Заголовок не найден !80!
+127.183.171.184 - IIS Windows Server !80!
+127.77.146.174 - IIS Windows Server !80!
+13.111.70.212 - 403 - Forbidden: Access is denied. !80!
+222.194.40.83 - 404 Not Found !80!
+127.79.91.9 - IIS Windows Server !80!
+127.150.223.191 - IIS Windows Server !80!
+127.211.143.86 - IIS Windows Server !80!
