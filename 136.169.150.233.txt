@@ -1168,3 +1168,9 @@
 23.216.254.250 - Заголовок не найден !80!
 38.12.136.70 - 403 Forbidden !80!
 149.28.103.62 - Unknown Domain !80!
+54.230.22.179 - Заголовок не найден !80!
+84.52.88.45 - NSG50 !80!
+45.192.72.29 - 404 Not Found !80!
+23.213.78.7 - Заголовок не найден !80!
+51.254.8.177 - brak strony do wyswietlenia !80!
+54.66.187.224 - Online PTE Mock Test Preparation Courses | Real PTE Academic Practice Tutorials | PTE AI Tools | PTE Study !80!
