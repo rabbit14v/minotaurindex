@@ -1,0 +1,96 @@
+61.241.127.26:80 - 404 Not Found
+220.176.162.193:80 - Apache Tomcat/7.0.57 - Error report
+127.224.201.24:80 - IIS Windows Server
+127.247.245.255:80 - IIS Windows Server
+127.109.86.162:80 - IIS Windows Server
+127.186.69.180:80 - IIS Windows Server
+127.167.12.200:80 - IIS Windows Server
+127.105.43.107:80 - IIS Windows Server
+127.81.126.28:80 - IIS Windows Server
+127.116.98.30:80 - IIS Windows Server
+127.214.163.42:80 - IIS Windows Server
+127.233.167.16:80 - IIS Windows Server
+127.215.1.145:80 - IIS Windows Server
+127.80.81.238:80 - IIS Windows Server
+127.164.167.16:80 - IIS Windows Server
+127.148.31.198:80 - IIS Windows Server
+127.72.93.14:80 - IIS Windows Server
+127.20.172.54:80 - IIS Windows Server
+127.147.212.220:80 - IIS Windows Server
+127.199.150.236:80 - IIS Windows Server
+127.171.206.255:80 - IIS Windows Server
+127.220.33.246:80 - IIS Windows Server
+127.206.92.188:80 - IIS Windows Server
+127.82.25.133:80 - IIS Windows Server
+127.211.65.70:80 - IIS Windows Server
+127.9.8.87:80 - IIS Windows Server
+127.2.247.110:80 - IIS Windows Server
+127.249.207.40:80 - IIS Windows Server
+127.120.16.219:80 - IIS Windows Server
+213.221.223.2:80 - Заголовок не найден
+127.104.111.251:80 - IIS Windows Server
+45.115.61.91:80 - Page not found
+5.2.75.206:80 - Index of /
+127.72.176.99:80 - IIS Windows Server
+127.151.43.26:80 - IIS Windows Server
+127.40.122.233:80 - IIS Windows Server
+127.153.200.124:80 - IIS Windows Server
+127.16.65.188:80 - IIS Windows Server
+127.46.231.110:80 - IIS Windows Server
+127.252.91.121:80 - IIS Windows Server
+127.147.142.167:80 - IIS Windows Server
+127.105.136.52:80 - IIS Windows Server
+127.59.27.139:80 - IIS Windows Server
+127.37.151.100:80 - IIS Windows Server
+127.208.237.68:80 - IIS Windows Server
+69.192.124.164:80 - Заголовок не найден
+127.64.39.62:80 - IIS Windows Server
+38.110.76.177:80 - IIS7
+65.8.129.94:80 - Заголовок не найден
+127.26.52.159:80 - IIS Windows Server
+184.25.174.194:80 - Заголовок не найден
+91.119.18.27:80 - 403 Forbidden
+127.200.45.110:80 - IIS Windows Server
+127.20.78.97:80 - IIS Windows Server
+127.182.114.45:80 - IIS Windows Server
+18.165.212.222:80 - Заголовок не найден
+127.195.49.56:80 - IIS Windows Server
+127.87.100.11:80 - IIS Windows Server
+44.197.64.220:80 - Заголовок не найден
+201.179.34.34:80 - Заголовок не найден
+23.57.72.132:80 - Заголовок не найден
+82.103.85.30:80 - Joystick
+23.44.201.71:80 - Заголовок не найден
+23.220.140.36:80 - Заголовок не найден
+108.181.191.177:80 - IIS Windows Server
+52.92.189.56:80 - Amazon S3 - Cloud Object Storage  - AWS
+49.12.100.240:80 - Test Page for the HTTP Server on AlmaLinux
+181.209.116.58:80 - RouterOS router configuration page
+98.25.218.220:80 - 
+54.88.213.145:80 - Newmarket Rehab &amp; Wellness
+127.127.113.56:80 - IIS Windows Server
+127.246.128.243:80 - IIS Windows Server
+127.33.34.185:80 - IIS Windows Server
+127.223.78.63:80 - IIS Windows Server
+127.215.185.218:80 - IIS Windows Server
+127.33.58.172:80 - IIS Windows Server
+127.41.140.54:80 - IIS Windows Server
+127.212.204.29:80 - IIS Windows Server
+127.161.154.103:80 - IIS Windows Server
+127.132.26.103:80 - IIS Windows Server
+127.199.124.114:80 - IIS Windows Server
+127.60.240.230:80 - IIS Windows Server
+127.89.120.247:80 - IIS Windows Server
+127.97.69.177:80 - IIS Windows Server
+127.214.123.235:80 - IIS Windows Server
+127.251.180.165:80 - IIS Windows Server
+127.126.44.201:80 - IIS Windows Server
+127.116.20.126:80 - IIS Windows Server
+127.168.254.153:80 - IIS Windows Server
+127.23.120.1:80 - IIS Windows Server
+127.130.194.204:80 - IIS Windows Server
+127.235.111.147:80 - IIS Windows Server
+127.98.113.50:80 - IIS Windows Server
+127.236.34.173:80 - IIS Windows Server
+127.65.227.201:80 - IIS Windows Server
+127.195.31.220:80 - IIS Windows Server
