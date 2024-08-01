@@ -3693,3 +3693,148 @@
 18.67.69.203:80 - Заголовок не найден
 154.217.89.73:80 - 404 Not Found
 52.72.73.247:80 - Software development and craftsmanship company
+23.218.172.205:80 - Заголовок не найден
+127.46.196.1:80 - IIS Windows Server
+127.66.172.63:80 - IIS Windows Server
+23.15.24.37:80 - Заголовок не найден
+47.101.139.186:80 - 
+127.9.160.7:80 - IIS Windows Server
+103.179.189.227:80 - Заголовок не найден
+45.93.250.182:80 - Fregg
+119.235.248.124:80 - ERROR: The requested URL could not be retrieved
+127.14.214.173:80 - IIS Windows Server
+143.204.13.178:80 - Заголовок не найден
+196.51.56.93:80 - ERROR: The requested URL could not be retrieved
+83.103.115.233:80 - Заголовок не найден
+165.225.232.92:80 - Internet Security by Zscaler
+127.95.235.173:80 - IIS Windows Server
+104.70.247.53:80 - Заголовок не найден
+148.204.14.118:80 - Welcome to CentOS
+127.170.239.88:80 - IIS Windows Server
+184.29.66.157:80 - Заголовок не найден
+172.247.209.6:80 - 《遇见你的那天》在线免费观看电视剧全集高清-高亚影院
+127.8.108.86:80 - IIS Windows Server
+127.190.126.8:80 - IIS Windows Server
+127.44.166.245:80 - IIS Windows Server
+127.167.211.101:80 - IIS Windows Server
+210.154.204.153:80 - å¥è¯ãã«ã¼ãã«ä¿è²å
+178.216.224.25:80 - Вход в САП - UserSide
+58.96.192.14:80 - WEB SERVICE
+54.208.47.89:80 - Заголовок не найден
+68.178.151.71:80 - Coming Soon
+216.92.203.79:80 - 404 Not Found
+162.0.209.164:80 - Заголовок не найден
+184.29.78.161:80 - Заголовок не найден
+195.35.32.123:80 - Join us | Riviera 2024
+127.87.165.166:80 - IIS Windows Server
+222.109.68.109:80 - main page
+23.220.40.13:80 - Заголовок не найден
+13.38.158.66:80 - Заголовок не найден
+197.165.175.242:80 - ZXHN H108N V2.5
+127.143.13.99:80 - IIS Windows Server
+23.195.63.3:80 - Заголовок не найден
+44.198.100.17:80 - Заголовок не найден
+127.245.141.166:80 - IIS Windows Server
+127.18.110.143:80 - IIS Windows Server
+127.103.195.177:80 - IIS Windows Server
+127.246.6.246:80 - IIS Windows Server
+127.51.74.100:80 - IIS Windows Server
+127.152.195.162:80 - IIS Windows Server
+127.114.230.223:80 - IIS Windows Server
+127.205.250.163:80 - IIS Windows Server
+127.146.61.81:80 - IIS Windows Server
+127.140.190.159:80 - IIS Windows Server
+127.74.196.82:80 - IIS Windows Server
+127.100.138.165:80 - IIS Windows Server
+127.135.239.161:80 - IIS Windows Server
+127.121.206.57:80 - IIS Windows Server
+127.153.3.246:80 - IIS Windows Server
+127.136.240.62:80 - IIS Windows Server
+47.99.132.66:80 - 速成期刊网
+91.124.209.46:80 - Заголовок не найден
+13.235.237.40:80 - LokalSee
+45.87.235.247:80 - BQH3 - B&amp;K Type 2250-L - S/N 3007130 - Display
+3.162.140.150:80 - Заголовок не найден
+127.34.153.180:80 - IIS Windows Server
+127.145.100.3:80 - IIS Windows Server
+127.167.209.5:80 - IIS Windows Server
+127.207.109.69:80 - IIS Windows Server
+127.63.171.16:80 - IIS Windows Server
+127.0.96.30:80 - IIS Windows Server
+127.32.125.68:80 - IIS Windows Server
+13.229.21.172:80 - 404 Not Found
+34.214.187.33:80 - Page Not Found
+161.34.23.107:80 - Заголовок не найден
+34.198.241.167:80 - Заголовок не найден
+130.211.43.135:80 - Заголовок не найден
+95.138.128.78:80 - server iperbooking
+127.146.19.199:80 - IIS Windows Server
+127.32.133.140:80 - IIS Windows Server
+47.103.38.92:80 - æ²¡ææ¾å°ç«ç¹
+127.137.251.72:80 - IIS Windows Server
+104.153.96.64:80 - Intensify by TEMPLATED
+127.186.70.35:80 - IIS Windows Server
+127.42.151.37:80 - IIS Windows Server
+95.56.4.115:80 - GPON Home Gateway
+24.236.240.49:80 - 
+127.82.107.24:80 - IIS Windows Server
+127.15.37.66:80 - IIS Windows Server
+127.244.56.223:80 - IIS Windows Server
+127.211.194.175:80 - IIS Windows Server
+127.12.89.214:80 - IIS Windows Server
+127.157.109.43:80 - IIS Windows Server
+23.52.171.161:80 - Заголовок не найден
+127.166.50.39:80 - IIS Windows Server
+127.150.90.115:80 - IIS Windows Server
+127.243.94.196:80 - IIS Windows Server
+127.66.88.40:80 - IIS Windows Server
+45.79.227.99:80 - 404 Not Found
+130.225.254.14:80 - IIS Windows Server
+127.137.47.133:80 - IIS Windows Server
+127.154.128.120:80 - IIS Windows Server
+127.137.5.70:80 - IIS Windows Server
+23.58.247.49:80 - Заголовок не найден
+125.39.194.113:80 - 403 Forbidden
+173.89.208.49:80 - 
+122.116.199.129:80 - ShinSoft
+169.60.11.150:80 - Заголовок не найден
+36.41.168.191:80 - Заголовок не найден
+127.197.251.25:80 - IIS Windows Server
+127.201.78.56:80 - IIS Windows Server
+127.75.49.89:80 - IIS Windows Server
+77.45.3.23:80 - Web Server's Default Page
+91.118.138.35:80 - 403 Forbidden
+23.43.32.205:80 - Заголовок не найден
+103.18.169.56:80 - Please wait, the login page is opening...
+156.236.70.198:80 - ·ðÉ½ÊÐº£Ì©öÎÐÂ²ÄÁÏ¿Æ¼¼ÓÐÏÞ¹«Ë¾
+127.239.149.69:80 - IIS Windows Server
+163.120.64.20:80 - Заголовок не найден
+163.177.152.16:80 - 全企网_中小制造业专业管理软件,在线ERP、企业间协同供应链、协同OA
+127.26.34.58:80 - IIS Windows Server
+156.241.177.200:80 - 404 Not Found
+108.159.79.72:80 - Заголовок не найден
+18.64.122.106:80 - Заголовок не найден
+104.20.157.46:80 - Direct IP access not allowed | Cloudflare
+20.42.98.246:80 - IIS Windows Server
+160.121.95.102:80 - Welcome to nginx!
+154.85.0.146:80 - Welcome to nginx!
+127.209.60.152:80 - IIS Windows Server
+185.196.26.104:80 - 404 Not Found
+38.165.127.227:80 - æ²¡ææ¾å°ç«ç¹
+13.228.55.231:80 - 503 Service Temporarily Unavailable
+104.24.238.141:80 - Direct IP access not allowed | Cloudflare
+216.115.186.41:80 - 404 Not Found
+127.224.119.131:80 - IIS Windows Server
+23.58.142.172:80 - Заголовок не найден
+47.251.96.12:80 - 403 Forbidden
+3.27.117.227:80 - Заголовок не найден
+18.180.223.56:80 - NukDoor 福利整合平台
+184.55.185.39:80 - 
+138.117.149.214:80 - Заголовок не найден
+38.181.24.225:80 - 404 Not Found
+127.38.63.168:80 - IIS Windows Server
+104.71.215.207:80 - Заголовок не найден
+127.85.61.203:80 - IIS Windows Server
+18.144.151.42:80 - Заголовок не найден
+45.141.184.155:80 - Welcome to nginx!
+127.248.142.36:80 - IIS Windows Server
