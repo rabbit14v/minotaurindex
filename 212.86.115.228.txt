@@ -17656,3 +17656,17 @@ Palaeo Munich - OBS !80!
 148.255.199.235 - Заголовок не найден !80!
 127.60.143.46 - IIS Windows Server !80!
 127.70.8.31 - IIS Windows Server !80!
+127.112.81.181 - IIS Windows Server !80!
+5.61.217.59 - Default Parallels Plesk Panel Page !80!
+127.102.150.85 - IIS Windows Server !80!
+23.215.195.68 - Заголовок не найден !80!
+184.26.148.123 - Заголовок не найден !80!
+23.231.10.9 - Заголовок не найден !80!
+108.156.210.168 - Заголовок не найден !80!
+23.193.61.247 - Заголовок не найден !80!
+127.241.222.189 - IIS Windows Server !80!
+95.100.226.243 - Заголовок не найден !80!
+127.248.118.78 - IIS Windows Server !80!
+4.175.86.251 - Your Azure Function App is up and running. !80!
+127.248.104.147 - IIS Windows Server !80!
+127.2.194.113 - IIS Windows Server !80!
