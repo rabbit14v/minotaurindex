@@ -12837,3 +12837,29 @@
 127.114.18.232 - IIS Windows Server !80!
 154.222.234.125 - 404 Not Found !80!
 127.90.145.157 - IIS Windows Server !80!
+127.138.193.185 - IIS Windows Server !80!
+188.119.91.64 - ERROR: The requested URL could not be retrieved !80!
+23.36.255.75 - Заголовок не найден !80!
+23.82.182.46 - Заголовок не найден !80!
+127.222.225.50 - IIS Windows Server !80!
+127.244.163.20 - IIS Windows Server !80!
+104.19.65.111 - Direct IP access not allowed | Cloudflare !80!
+127.150.64.169 - IIS Windows Server !80!
+23.39.33.173 - Заголовок не найден !80!
+107.175.90.119 - 407 Proxy Authentication Required !80!
+185.83.112.181 - 404 Not Found !80!
+23.196.105.245 - Заголовок не найден !80!
+39.108.233.7 - Заголовок не найден !80!
+185.42.28.235 - Server Unavailiable !80!
+3.140.32.21 - 503 Service Temporarily Unavailable !80!
+104.25.167.63 - Direct IP access not allowed | Cloudflare !80!
+45.153.71.230 - Caddy works! !80!
+47.134.159.183 -  !80!
+127.54.228.55 - IIS Windows Server !80!
+185.154.162.250 - Web Server's Default Page !80!
+127.147.231.141 - IIS Windows Server !80!
+91.152.122.236 -  !80!
+127.128.141.21 - IIS Windows Server !80!
+211.87.222.154 - 404 Not Found !80!
+23.52.180.224 - Заголовок не найден !80!
+137.175.68.100 - 404 Not Found !80!
