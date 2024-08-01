@@ -137,3 +137,63 @@
 23.5.110.42:80 - Заголовок не найден
 156.239.74.84:80 - 403 Forbidden
 39.108.36.70:80 - 403 Forbidden
+103.253.73.174:80 - WEB8 NEXT on Cloud
+138.128.241.130:80 - HTTP Server Test Page powered by: Rocky Linux
+104.19.224.243:80 - Direct IP access not allowed | Cloudflare
+185.7.241.220:80 - Заголовок не найден
+216.238.85.103:80 - Web Server's Default Page
+52.219.16.220:80 - Amazon S3 - Cloud Object Storage  - AWS
+201.117.152.114:80 - Заголовок не найден
+201.179.156.148:80 - Заголовок не найден
+94.198.13.178:80 - FanDuel Ontario UAT Customer Portal
+52.91.119.49:80 - Home | rubeeworks
+18.155.222.208:80 - Заголовок не найден
+203.34.80.151:80 - Direct IP access not allowed | Cloudflare
+20.238.200.165:80 - Заголовок не найден
+206.189.192.59:80 - Artboard
+104.20.237.50:80 - Direct IP access not allowed | Cloudflare
+37.151.195.62:80 - GPON Home Gateway
+52.2.24.75:80 - 503 Service Temporarily Unavailable
+150.60.159.169:80 - Заголовок не найден
+104.210.54.219:80 - Заголовок не найден
+95.100.245.224:80 - Заголовок не найден
+52.28.116.115:80 - Заголовок не найден
+108.157.114.195:80 - Заголовок не найден
+20.119.112.63:80 - ACME Access Only
+54.239.143.153:80 - Заголовок не найден
+195.35.1.237:80 - 404 Not Found
+108.156.250.50:80 - Заголовок не найден
+128.17.32.2:80 - 403 - Forbidden: Access is denied.
+23.56.165.155:80 - Заголовок не найден
+222.110.23.24:80 - main page
+3.82.84.6:80 - Заголовок не найден
+211.233.18.156:80 - Заголовок не найден
+70.37.84.59:80 - 
+153.121.61.13:80 - 403 Forbidden
+103.24.85.235:80 - Please wait, the login page is opening...
+39.98.158.40:80 - HTTP Status 404 – Not Found
+142.132.137.96:80 - server.grupoaecorp.com &mdash;  Host default page
+23.48.198.115:80 - Заголовок не найден
+85.239.153.198:80 - Please wait, the page is opening...
+54.246.240.227:80 - Welcome to CentOS
+211.248.103.203:80 - Заголовок не найден
+185.105.223.77:80 - DRUNI Canarias | Perfumes, Maquillaje y Cosmética Online
+59.126.63.156:80 - Surveillance
+104.24.137.174:80 - Direct IP access not allowed | Cloudflare
+92.117.104.31:80 - Nextcloud
+156.224.57.5:80 - 404 Not Found
+38.153.245.74:80 - ERROR: The requested URL could not be retrieved
+45.60.14.112:80 - Заголовок не найден
+121.147.138.49:80 - Setup Login
+119.42.53.104:80 - this is a mail-in-a-box
+162.210.101.51:80 - Object not found!
+93.226.188.153:80 - Redirect to New Page
+143.110.211.251:80 - 404 Not Found
+5.134.4.119:80 - Заголовок не найден
+194.55.132.183:80 - 403 Forbidden
+96.16.122.140:80 - Заголовок не найден
+103.212.13.3:80 - Governance - Platform
+52.84.120.163:80 - Заголовок не найден
+23.63.50.205:80 - Заголовок не найден
+89.161.232.245:80 - Strona w przygotowaniu...
+23.210.199.13:80 - Заголовок не найден
