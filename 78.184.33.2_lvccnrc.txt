@@ -277,3 +277,87 @@
 127.128.119.79:80 - IIS Windows Server
 127.153.180.243:80 - IIS Windows Server
 127.20.125.148:80 - IIS Windows Server
+127.253.212.195:80 - IIS Windows Server
+127.192.133.169:80 - IIS Windows Server
+127.219.139.68:80 - IIS Windows Server
+15.156.235.244:80 - 404 Not Found
+127.28.228.107:80 - IIS Windows Server
+127.39.250.115:80 - IIS Windows Server
+127.51.238.186:80 - IIS Windows Server
+127.14.153.3:80 - IIS Windows Server
+127.179.64.154:80 - IIS Windows Server
+127.59.116.93:80 - IIS Windows Server
+127.70.140.131:80 - IIS Windows Server
+127.67.171.66:80 - IIS Windows Server
+2.19.24.141:80 - Заголовок не найден
+127.178.122.94:80 - IIS Windows Server
+104.233.243.235:80 - Supreme Master Television - SMTV - English
+149.129.201.113:80 - Заголовок не найден
+18.239.189.253:80 - Заголовок не найден
+3.167.192.216:80 - Заголовок не найден
+96.16.164.81:80 - Заголовок не найден
+24.32.190.224:80 - Web Viewer for Samsung DVR
+102.67.96.172:80 - Error 404 (Not Found)!!1
+95.131.199.151:80 - 403 Forbidden
+120.46.56.66:80 - 403 Forbidden
+127.135.17.42:80 - IIS Windows Server
+127.42.166.25:80 - IIS Windows Server
+127.74.61.102:80 - IIS Windows Server
+127.117.85.103:80 - IIS Windows Server
+127.217.39.104:80 - IIS Windows Server
+127.82.242.137:80 - IIS Windows Server
+127.75.36.53:80 - IIS Windows Server
+18.239.90.175:80 - Заголовок не найден
+39.107.75.66:80 - ç½ç«è®¿é®æ¥é
+23.225.100.76:80 - ç½ç«é²ç«å¢
+165.22.22.154:80 - Vispeahen
+135.148.149.37:80 - 404 Not Found
+62.234.193.92:80 - æ­åï¼ç«ç¹åå»ºæåï¼
+125.252.231.219:80 - Заголовок не найден
+127.133.74.189:80 - IIS Windows Server
+61.79.169.208:80 - 
+199.172.197.70:80 - 
+127.168.72.123:80 - IIS Windows Server
+108.179.235.52:80 - Not Acceptable!
+127.107.83.199:80 - IIS Windows Server
+127.136.24.45:80 - IIS Windows Server
+127.226.156.252:80 - IIS Windows Server
+103.243.145.52:80 - Заголовок не найден
+127.23.161.135:80 - IIS Windows Server
+144.217.14.167:80 - IIS Windows Server
+127.187.113.156:80 - IIS Windows Server
+91.231.239.146:80 - Заголовок не найден
+127.140.23.74:80 - IIS Windows Server
+127.207.118.179:80 - IIS Windows Server
+127.185.130.114:80 - IIS Windows Server
+127.97.180.56:80 - IIS Windows Server
+127.205.34.142:80 - IIS Windows Server
+127.60.183.86:80 - IIS Windows Server
+127.32.133.91:80 - IIS Windows Server
+127.205.243.123:80 - IIS Windows Server
+127.140.253.195:80 - IIS Windows Server
+127.220.189.71:80 - IIS Windows Server
+127.173.205.245:80 - IIS Windows Server
+127.93.157.41:80 - IIS Windows Server
+52.224.139.50:80 - Azure Container App - Unavailable
+2.18.147.195:80 - Заголовок не найден
+127.112.98.250:80 - IIS Windows Server
+97.94.241.78:80 - 
+54.221.254.198:80 - Заголовок не найден
+38.49.45.47:80 - 403 Forbidden
+127.241.129.18:80 - IIS Windows Server
+108.160.154.123:80 - Заголовок не найден
+97.101.93.50:80 - 
+15.152.26.1:80 - 403 Forbidden
+173.194.78.90:80 - Google
+127.21.202.166:80 - IIS Windows Server
+127.187.66.107:80 - IIS Windows Server
+127.170.185.241:80 - IIS Windows Server
+127.146.219.242:80 - IIS Windows Server
+127.82.108.74:80 - IIS Windows Server
+46.242.173.124:80 - Strona w przygotowaniu
+107.21.90.227:80 - Заголовок не найден
+172.67.18.25:80 - Direct IP access not allowed | Cloudflare
+127.165.60.183:80 - IIS Windows Server
+127.112.84.117:80 - IIS Windows Server
+75.47.210.78:80 - AT&T WiFi Portal
