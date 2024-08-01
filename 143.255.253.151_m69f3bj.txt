@@ -8545,3 +8545,54 @@
 210.129.10.13:80 - Powered by lighttpd
 52.217.72.119:80 - Amazon S3 - Cloud Object Storage  - AWS
 66.117.3.220:80 - InMotion Hosting
+45.235.4.140:80 - SELIGANET/AKNET
+58.216.60.34:80 - Заголовок не найден
+45.19.222.185:80 - Document Moved
+176.31.30.53:80 - Benvenuti su PiGiTech - Impianti idro-termo-elettrici di Pietro Giacalone
+89.185.234.64:80 - Заголовок не найден
+101.76.224.124:80 - 404 Not Found
+69.207.27.206:80 - 
+223.4.221.21:80 - 阿里云 Web应用防火墙
+43.206.224.126:80 - Dify
+18.245.46.169:80 - Заголовок не найден
+90.241.205.52:80 - 
+156.251.179.111:80 - UDomain CDN | Error 403
+31.148.123.250:80 - RouterOS router configuration page
+164.92.164.24:80 - 404 Not Found
+119.91.30.183:80 - 403 Forbidden
+139.5.45.93:80 - RouterOS router configuration page
+188.120.242.75:80 - Website ÑÐ°Ð¹Ñ-Ð·Ð°Ð³Ð»ÑÑÐºÐ°.ÑÑ is ready. The content is to be added
+194.58.57.41:80 - 401 Unauthorized
+87.243.179.107:80 - Administrative Console
+52.155.112.9:80 - 403 Forbidden
+188.128.153.250:80 - Заголовок не найден
+168.226.82.92:80 - Заголовок не найден
+23.192.129.56:80 - Заголовок не найден
+38.83.95.3:80 - Заголовок не найден
+3.34.147.67:80 - Open Card[Untact]
+83.167.255.180:80 - 403 Forbidden
+23.32.9.109:80 - Заголовок не найден
+104.25.112.124:80 - Direct IP access not allowed | Cloudflare
+23.34.117.147:80 - Заголовок не найден
+175.204.121.21:80 - Заголовок не найден
+38.47.238.152:80 - Sorry, the website has been stopped
+213.59.160.246:80 - OoklaServer
+104.87.47.19:80 - Заголовок не найден
+146.148.251.229:80 - Заголовок не найден
+38.173.16.148:80 - Заголовок не найден
+67.222.31.53:80 - Заголовок не найден
+195.8.239.12:80 - Заголовок не найден
+44.236.96.255:80 - 403 Forbidden
+101.76.221.164:80 - 404 Not Found
+38.173.43.45:80 - 330KY
+38.12.87.68:80 - Заголовок не найден
+34.225.100.220:80 - Apache2 Ubuntu Default Page: It works
+45.6.176.214:80 - RouterOS router configuration page
+3.14.237.135:80 - 404 Not Found
+165.228.126.172:80 - Заголовок не найден
+54.241.214.44:80 - 502 Bad Gateway
+104.17.84.70:80 - Direct IP access not allowed | Cloudflare
+23.201.79.4:80 - Заголовок не найден
+43.153.178.190:80 - IIS Windows Server
+103.57.230.227:80 - 404 Not Found
+45.66.237.209:80 - ERROR: The requested URL could not be retrieved
