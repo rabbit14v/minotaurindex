@@ -4916,3 +4916,49 @@ g
 165.194.180.237:80 - Downloading torrents is prohibited by the server you are using
 199.83.130.132:80 - Заголовок не найден
 188.225.84.39:80 - 404 Not Found
+34.227.7.207:80 - 404 Not Found
+13.226.89.153:80 - Заголовок не найден
+159.89.225.124:80 - Everything Is Music, Inc.
+157.245.78.234:80 - Welcome to nginx!
+104.129.36.160:80 - ERROR: The requested URL could not be retrieved
+143.204.124.130:80 - Заголовок не найден
+13.245.184.46:80 - Заголовок не найден
+185.51.61.246:80 - Hello! Welcome to Synology Web Station!
+92.123.151.127:80 - Заголовок не найден
+23.197.132.199:80 - Заголовок не найден
+3.145.92.208:80 - Internal Server Error
+80.71.137.146:80 - 
+35.198.96.56:80 - 403 Forbidden
+161.35.106.111:80 - 404 Not Found
+3.137.6.214:80 - 503 Service Temporarily Unavailable
+23.200.172.171:80 - Заголовок не найден
+78.135.7.200:80 - 
+39.175.132.72:80 - 403 Forbidden
+104.18.159.16:80 - Direct IP access not allowed | Cloudflare
+119.18.156.138:80 - Заголовок не найден
+18.136.201.222:80 - Welcome to nginx!
+35.84.110.247:80 - Icecast Streaming Media Server
+94.101.237.22:80 - Заголовок не найден
+44.237.98.234:80 - Заголовок не найден
+38.35.79.123:80 - 365±¸ÓÃÏßÂ·¼ì²â/´ó·¢365ÌåÓýÍ¶×¢/365bet±È·Ö
+52.84.109.99:80 - Заголовок не найден
+23.231.94.79:80 - 403 Forbidden
+44.234.0.147:80 - Index of /
+184.70.181.242:80 - EPSON TMNet WebConfig Ver.1.00
+181.78.94.10:80 - Apache HTTP Server Test Page powered by CentOS
+142.251.166.176:80 - Google
+23.54.174.129:80 - Заголовок не найден
+81.181.104.162:80 - Page not found
+4.189.89.234:80 - Your Azure Function App is up and running.
+108.139.237.199:80 - Заголовок не найден
+80.41.132.108:80 - .::Welcome to the Web-Based Configurator::.
+16.182.97.12:80 - Amazon S3 - Cloud Object Storage  - AWS
+89.161.158.252:80 - Заголовок не найден
+54.173.113.119:80 - Simple PHP App
+184.84.83.76:80 - Заголовок не найден
+195.114.193.62:80 - 404 Not Found
+89.46.67.110:80 - blank
+1.56.96.57:80 - 403 Forbidden
+51.52.112.212:80 - Заголовок не найден
+51.89.70.66:80 - 404 Not Found
+137.239.193.196:80 - CPC Web Portal
