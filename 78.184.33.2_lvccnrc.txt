@@ -5095,3 +5095,143 @@
 104.20.238.99:80 - Direct IP access not allowed | Cloudflare
 127.57.68.107:80 - IIS Windows Server
 104.110.136.68:80 - Заголовок не найден
+127.4.140.43:80 - IIS Windows Server
+47.106.104.206:80 - Welcome to nginx!
+23.194.36.168:80 - Заголовок не найден
+220.220.227.16:80 - 
+194.4.145.165:80 - Заголовок не найден
+23.225.223.246:80 - å¿«éå¼åå¹³å°
+121.40.29.61:80 - æ¬¢è¿æ¨ä½¿ç¨éå
+139.30.200.211:80 - Заголовок не найден
+20.185.223.98:80 - IIS Windows Server
+127.62.224.111:80 - IIS Windows Server
+127.69.3.196:80 - IIS Windows Server
+139.99.61.136:80 - 503 Service Temporarily Unavailable
+154.36.172.82:80 - IIS Windows Server
+127.85.91.127:80 - IIS Windows Server
+44.195.65.37:80 - Canary Login
+104.26.3.232:80 - Direct IP access not allowed | Cloudflare
+2.17.156.91:80 - Заголовок не найден
+184.30.245.177:80 - Заголовок не найден
+52.28.242.205:80 - Home - Babylon Holiday
+20.205.136.94:80 - 404 Not Found
+104.75.44.87:80 - Заголовок не найден
+3.120.0.111:80 - 403 Forbidden
+50.62.144.147:80 - 403 Forbidden
+52.92.36.26:80 - Amazon S3 - Cloud Object Storage  - AWS
+18.160.208.37:80 - Заголовок не найден
+127.161.27.48:80 - IIS Windows Server
+127.224.4.120:80 - IIS Windows Server
+23.78.51.5:80 - Заголовок не найден
+127.241.144.3:80 - IIS Windows Server
+23.37.19.165:80 - Заголовок не найден
+46.229.213.82:80 - Page not found at /
+127.131.215.158:80 - IIS Windows Server
+213.216.76.28:80 - Заголовок не найден
+34.204.1.242:80 - #NA
+198.252.100.56:80 - Заголовок не найден
+201.145.138.156:80 - Заголовок не найден
+23.197.152.173:80 - Заголовок не найден
+175.178.58.190:80 - ä¸å¯¹ä¸è´«å°å¸®æ¶ç®¡çç³»ç»
+127.42.82.164:80 - IIS Windows Server
+127.91.66.166:80 - IIS Windows Server
+127.237.51.76:80 - IIS Windows Server
+23.49.254.149:80 - Заголовок не найден
+127.79.176.78:80 - IIS Windows Server
+65.8.103.13:80 - Заголовок не найден
+18.154.163.48:80 - Заголовок не найден
+127.186.175.59:80 - IIS Windows Server
+127.189.52.164:80 - IIS Windows Server
+127.76.72.76:80 - IIS Windows Server
+127.192.30.203:80 - IIS Windows Server
+134.236.119.217:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#57;&#56;&#65;&#32;&#86;&#51;&#46;&#48;
+127.83.154.54:80 - IIS Windows Server
+198.23.132.248:80 - 500 Internal Server Error
+91.211.143.196:80 - Checking Language...
+104.84.43.135:80 - Заголовок не найден
+127.142.175.176:80 - IIS Windows Server
+127.74.236.26:80 - IIS Windows Server
+127.223.171.65:80 - IIS Windows Server
+127.246.239.188:80 - IIS Windows Server
+127.153.190.190:80 - IIS Windows Server
+127.194.44.89:80 - IIS Windows Server
+69.84.36.186:80 - CanNet Internet Services
+74.209.39.249:80 - 
+172.245.134.114:80 - Welcome to nginx!
+127.24.76.72:80 - IIS Windows Server
+127.132.78.23:80 - IIS Windows Server
+127.65.165.196:80 - IIS Windows Server
+47.36.158.230:80 - 
+182.16.5.188:80 - Welcome to nginx!
+50.28.102.34:80 - 404 Not Found
+63.45.58.56:80 - Teltonika Networks
+127.47.80.226:80 - IIS Windows Server
+127.240.221.251:80 - IIS Windows Server
+127.241.204.139:80 - IIS Windows Server
+104.102.100.148:80 - Заголовок не найден
+127.116.209.57:80 - IIS Windows Server
+127.5.78.195:80 - IIS Windows Server
+185.116.214.85:80 - Заголовок не найден
+127.204.130.181:80 - IIS Windows Server
+23.216.86.12:80 - Заголовок не найден
+127.231.151.242:80 - IIS Windows Server
+127.33.12.36:80 - IIS Windows Server
+127.199.219.151:80 - IIS Windows Server
+127.147.23.71:80 - IIS Windows Server
+127.180.20.74:80 - IIS Windows Server
+127.98.204.175:80 - IIS Windows Server
+127.142.30.134:80 - IIS Windows Server
+4.249.130.107:80 - Your Azure Function App is up and running.
+127.59.238.179:80 - IIS Windows Server
+191.232.69.209:80 - Your Azure Function App is up and running.
+154.23.241.7:80 - Welcome to nginx!
+127.191.236.72:80 - IIS Windows Server
+127.110.206.210:80 - IIS Windows Server
+140.210.143.50:80 - Welcome to nginx!
+127.179.162.134:80 - IIS Windows Server
+172.247.244.98:80 - 403 Forbidden
+50.3.127.124:80 - 403 Forbidden
+127.184.201.250:80 - IIS Windows Server
+170.83.143.37:80 - &#70;&#54;&#54;&#48;&#48;&#80;
+127.215.151.214:80 - IIS Windows Server
+93.56.117.97:80 - Заголовок не найден
+162.214.238.89:80 - 404
+104.108.92.183:80 - Заголовок не найден
+127.23.198.1:80 - IIS Windows Server
+127.110.194.10:80 - IIS Windows Server
+86.60.202.28:80 - Заголовок не найден
+127.14.100.155:80 - IIS Windows Server
+50.186.177.157:80 - Заголовок не найден
+207.148.72.33:80 - 404
+122.222.61.25:80 - 401 - Unauthorized
+192.3.181.37:80 - 403 Forbidden
+127.179.94.182:80 - IIS Windows Server
+23.199.137.62:80 - Заголовок не найден
+127.58.203.13:80 - IIS Windows Server
+127.49.176.93:80 - IIS Windows Server
+127.208.61.149:80 - IIS Windows Server
+127.142.111.150:80 - IIS Windows Server
+127.19.128.69:80 - IIS Windows Server
+127.83.94.198:80 - IIS Windows Server
+127.127.144.34:80 - IIS Windows Server
+127.12.247.128:80 - IIS Windows Server
+127.107.218.254:80 - IIS Windows Server
+127.178.105.148:80 - IIS Windows Server
+47.98.149.88:80 - Welcome to nginx!
+65.8.39.95:80 - Заголовок не найден
+127.217.234.14:80 - IIS Windows Server
+35.73.44.160:80 - 403 Forbidden
+127.76.240.118:80 - IIS Windows Server
+127.158.227.5:80 - IIS Windows Server
+127.248.249.234:80 - IIS Windows Server
+127.115.118.169:80 - IIS Windows Server
+127.88.92.202:80 - IIS Windows Server
+23.34.125.231:80 - Заголовок не найден
+127.134.34.2:80 - IIS Windows Server
+127.105.85.17:80 - IIS Windows Server
+127.53.26.71:80 - IIS Windows Server
+72.229.161.223:80 - 
+69.10.39.132:80 - Заголовок не найден
+127.122.61.96:80 - IIS Windows Server
+3.38.141.197:80 - Заголовок не найден
+39.100.245.43:80 - Home | Truck engine Gaskets Repair kit
