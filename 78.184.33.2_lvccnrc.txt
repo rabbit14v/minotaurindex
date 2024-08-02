@@ -6234,3 +6234,212 @@
 188.128.227.98:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
 104.76.90.188:80 - Заголовок не найден
 127.79.145.69:80 - IIS Windows Server
+184.30.116.71:80 - Заголовок не найден
+104.16.191.68:80 - Direct IP access not allowed | Cloudflare
+169.150.254.236:80 - 3CX Phone System Management Console
+127.71.103.1:80 - IIS Windows Server
+127.187.245.205:80 - IIS Windows Server
+127.215.66.94:80 - IIS Windows Server
+143.204.0.21:80 - Заголовок не найден
+127.21.129.190:80 - IIS Windows Server
+127.109.164.64:80 - IIS Windows Server
+23.204.167.71:80 - Заголовок не найден
+127.32.226.19:80 - IIS Windows Server
+23.208.239.133:80 - Заголовок не найден
+45.223.135.219:80 - Заголовок не найден
+23.51.96.162:80 - Заголовок не найден
+47.121.178.135:80 - æ²¡ææ¾å°ç«ç¹
+50.17.62.221:80 - 503 Service Temporarily Unavailable
+2.18.138.127:80 - Заголовок не найден
+184.82.220.156:80 - Vigor Login Page
+149.202.61.1:80 - 503 Service Temporarily Unavailable
+13.127.189.127:80 - Welcome to nginx!
+127.72.81.228:80 - IIS Windows Server
+112.140.22.223:80 - Remote Control
+18.154.255.132:80 - Заголовок не найден
+184.84.58.238:80 - Заголовок не найден
+38.28.154.1:80 - æ²¡ææ¾å°ç«ç¹
+178.237.110.251:80 - Authentification - Intranet - Saint Quentin Fallavier
+34.97.241.49:80 - Заголовок не найден
+127.183.112.230:80 - IIS Windows Server
+173.44.129.19:80 - 404 Not Found
+127.27.188.232:80 - IIS Windows Server
+45.223.116.61:80 - Заголовок не найден
+204.114.92.219:80 - Заголовок не найден
+154.31.29.189:80 - JDB
+88.1.223.239:80 - 403 Forbidden
+133.142.94.64:80 - Заголовок не найден
+13.250.158.75:80 - Souq &#8211; Reach your market, virtually
+202.222.27.163:80 - Заголовок не найден
+164.90.215.232:80 - Website Unavailable
+23.202.229.73:80 - Заголовок не найден
+127.86.9.153:80 - IIS Windows Server
+140.248.164.161:80 - Fastly error: unknown domain 140.248.164.161
+103.67.182.64:80 - Device cloud platform - User login
+23.53.98.10:80 - Заголовок не найден
+84.53.159.211:80 - Заголовок не найден
+188.225.57.25:80 - Общероссийские классификаторы - коды, поиск
+127.78.206.1:80 - IIS Windows Server
+154.218.166.118:80 - 404 Not Found
+103.217.243.39:80 - Please wait, the login page is opening...
+173.230.149.211:80 - Заголовок не найден
+172.217.141.136:80 - Error 404 (Not Found)!!1
+104.168.166.33:80 - Заголовок не найден
+133.175.3.154:80 - Заголовок не найден
+154.196.100.183:80 - Sorry, the website has been stopped
+221.156.222.92:80 - main page
+20.12.80.217:80 - Заголовок не найден
+127.233.211.123:80 - IIS Windows Server
+127.47.174.127:80 - IIS Windows Server
+18.224.80.32:80 - CRE Pipeline
+127.218.145.14:80 - IIS Windows Server
+127.88.68.251:80 - IIS Windows Server
+127.98.88.184:80 - IIS Windows Server
+127.251.160.99:80 - IIS Windows Server
+127.7.130.44:80 - IIS Windows Server
+23.205.130.183:80 - Заголовок не найден
+3.210.122.195:80 - 403 Forbidden
+54.169.91.114:80 - Заголовок не найден
+154.55.249.56:80 - Welcome to nginx!
+104.140.123.105:80 - 403 Forbidden
+185.62.150.251:80 - Заголовок не найден
+104.244.74.71:80 - Welcome to AutoSMTP.com Ultimate Email Marketing Solution
+18.144.63.78:80 - Welcome to nginx!
+54.212.74.95:80 - Apache2 Ubuntu Default Page: It works
+139.224.100.148:80 - æ²¡ææ¾å°ç«ç¹
+37.26.155.211:80 - Apache2 Ubuntu Default Page: It works
+212.58.157.33:80 - Document
+104.73.179.252:80 - Заголовок не найден
+127.249.126.25:80 - IIS Windows Server
+43.199.51.90:80 - Welcome to nginx!
+107.165.189.136:80 - Page not found
+54.74.91.139:80 - Заголовок не найден
+3.37.140.84:80 - Заголовок не найден
+127.165.246.68:80 - IIS Windows Server
+190.99.239.147:80 - welcome
+5.188.178.55:80 - Origin Tests
+45.221.110.85:80 - 403 Forbidden
+91.226.115.84:80 - 
+127.224.247.108:80 - IIS Windows Server
+127.21.176.197:80 - IIS Windows Server
+211.144.27.56:80 - Заголовок не найден
+127.118.7.50:80 - IIS Windows Server
+45.79.53.82:80 - Empowered Health Knoxville - Empowered Health
+127.160.159.71:80 - IIS Windows Server
+90.84.21.133:80 - 404 Not Found
+127.138.224.4:80 - IIS Windows Server
+127.67.1.102:80 - IIS Windows Server
+23.40.188.29:80 - Заголовок не найден
+127.169.239.143:80 - IIS Windows Server
+23.7.240.123:80 - Заголовок не найден
+139.162.119.68:80 - no Route matched with those values - CDN
+94.242.228.152:80 - Direct IP access not allowed | Cloudflare
+127.9.64.19:80 - IIS Windows Server
+20.228.29.172:80 - Microsoft Azure Web App - Error 404
+47.108.217.78:80 - 404 Not Found
+45.127.232.143:80 - Please wait, the login page is opening...
+127.244.121.255:80 - IIS Windows Server
+127.241.94.195:80 - IIS Windows Server
+61.7.178.33:80 - 403 Forbidden
+127.234.27.112:80 - IIS Windows Server
+35.92.53.163:80 - Bad Request (400)
+127.22.184.9:80 - IIS Windows Server
+184.10.126.154:80 - Connection denied by Geolocation
+192.140.29.78:80 - Login - Intelbras ONU R1
+104.114.218.73:80 - Заголовок не найден
+23.200.147.254:80 - Заголовок не найден
+2.20.127.12:80 - Заголовок не найден
+111.231.167.141:80 - ç¤¾å¢ææ°ç½ç«
+41.182.193.77:80 - RouterOS
+127.129.36.127:80 - IIS Windows Server
+45.125.12.132:80 - Заголовок не найден
+146.75.0.250:80 - Fastly error: unknown domain 146.75.0.250
+67.199.86.177:80 - Заголовок не найден
+54.155.110.23:80 - Заголовок не найден
+41.237.146.121:80 - RouterOS
+182.180.48.164:80 - 
+63.44.95.190:80 - Заголовок не найден
+80.74.130.214:80 - Kein Hosting gefunden
+127.48.76.100:80 - IIS Windows Server
+127.193.81.202:80 - IIS Windows Server
+160.25.146.119:80 - Page not found
+198.177.124.218:80 - Заголовок не найден
+127.69.238.22:80 - IIS Windows Server
+52.224.81.9:80 - 404 Not Found
+127.62.189.56:80 - IIS Windows Server
+154.205.105.97:80 - Заголовок не найден
+67.202.41.214:80 - Copastur | MotorFee
+127.130.55.184:80 - IIS Windows Server
+172.67.122.35:80 - Direct IP access not allowed | Cloudflare
+127.100.55.114:80 - IIS Windows Server
+127.34.56.39:80 - IIS Windows Server
+127.41.164.120:80 - IIS Windows Server
+123.18.112.45:80 - 
+111.62.215.37:80 - Заголовок не найден
+139.59.239.55:80 - Hey!
+23.39.138.207:80 - Заголовок не найден
+35.247.2.12:80 - 404 Not Found
+81.169.229.120:80 - Web Server's Default Page
+13.67.176.116:80 - 403 Forbidden
+52.20.139.91:80 - Заголовок не найден
+15.206.224.72:80 - Site under maintenance | ARRC Seminar
+127.253.233.230:80 - IIS Windows Server
+18.65.160.39:80 - Заголовок не найден
+54.230.22.216:80 - Заголовок не найден
+78.47.170.202:80 - 404 Not Found
+47.92.142.153:80 - Welcome to use zentao!
+127.59.24.182:80 - IIS Windows Server
+23.50.228.27:80 - Заголовок не найден
+18.244.44.152:80 - Заголовок не найден
+104.223.78.111:80 - 403 Forbidden
+149.56.98.152:80 - Welcome to nginx!
+185.248.213.5:80 - Domain  is hosted on netart.com servers
+127.57.229.210:80 - IIS Windows Server
+127.182.25.188:80 - IIS Windows Server
+127.204.206.133:80 - IIS Windows Server
+167.82.89.29:80 - Fastly error: unknown domain 167.82.89.29
+218.216.122.195:80 - Заголовок не найден
+172.93.227.134:80 - Apache HTTP Server Test Page powered by CentOS
+127.131.87.134:80 - IIS Windows Server
+44.242.111.9:80 - Заголовок не найден
+5.135.188.36:80 - index
+69.174.151.230:80 - 
+127.128.53.213:80 - IIS Windows Server
+127.126.252.139:80 - IIS Windows Server
+127.37.84.92:80 - IIS Windows Server
+75.103.102.225:80 - Заголовок не найден
+59.3.108.124:80 - 
+47.148.167.202:80 - Заголовок не найден
+127.221.186.187:80 - IIS Windows Server
+13.94.58.232:80 - Test Page for the Nginx HTTP Server on AlmaLinux
+127.246.23.152:80 - IIS Windows Server
+221.120.32.20:80 - Заголовок не найден
+52.82.189.178:80 - Amazon S3 - Cloud Object Storage  - AWS
+217.28.131.226:80 - RouterOS router configuration page
+184.26.191.67:80 - Заголовок не найден
+127.118.52.183:80 - IIS Windows Server
+88.247.209.146:80 - 
+186.194.85.153:80 - Acceptable Use Policy
+34.195.215.92:80 - Заголовок не найден
+60.43.191.16:80 - Заголовок не найден
+189.180.60.39:80 - 
+83.96.243.15:80 - Заголовок не найден
+35.194.140.134:80 - 500 Internal Server Error
+23.20.49.13:80 - Заголовок не найден
+87.227.120.105:80 - 404 Page Not Found
+127.133.177.81:80 - IIS Windows Server
+83.222.177.203:80 - Please wait, the page is opening...
+104.193.34.79:80 - CitÃ©Net Internet - Apple Mail Config
+127.64.215.116:80 - IIS Windows Server
+127.101.233.62:80 - IIS Windows Server
+162.214.96.253:80 - Заголовок не найден
+18.64.208.245:80 - Заголовок не найден
+23.194.144.184:80 - Заголовок не найден
+148.66.24.242:80 - Заголовок не найден
+3.160.106.203:80 - Заголовок не найден
+45.60.86.176:80 - Заголовок не найден
+108.128.34.128:80 - World Box - Business Intelligence :: Company Reports , Credit Reports and Financial Informations
+67.205.150.8:80 - Заголовок не найден
+54.198.30.252:80 - 404 Not Found
+13.226.54.158:80 - Заголовок не найден
+152.67.216.8:80 - 404 Not Found
