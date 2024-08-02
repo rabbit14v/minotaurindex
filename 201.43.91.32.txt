@@ -1190,3 +1190,21 @@ history Share power !80!
 211.152.2.75 - Заголовок не найден !80!
 35.165.21.145 - TURN AROUND! !80!
 84.22.101.29 - Заголовок не найден !80!
+167.86.80.214 - Заголовок не найден !80!
+77.238.70.121 - Please wait, the page is opening... !80!
+18.165.88.7 - Заголовок не найден !80!
+47.36.68.85 -  !80!
+172.67.20.57 - Direct IP access not allowed | Cloudflare !80!
+164.90.235.126 - 404 Not Found !80!
+104.20.253.249 - Direct IP access not allowed | Cloudflare !80!
+104.22.16.70 - Direct IP access not allowed | Cloudflare !80!
+52.30.136.231 - Support Virtual !80!
+13.249.27.109 - Заголовок не найден !80!
+108.181.118.92 - ERROR: The requested URL could not be retrieved !80!
+18.245.88.107 - Заголовок не найден !80!
+188.128.146.204 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365 !80!
+59.120.66.147 -  !80!
+18.183.180.93 - Apache2 Ubuntu Default Page: It works !80!
+194.187.94.135 - Redirect !80!
+23.54.139.202 - Заголовок не найден !80!
+23.12.229.234 - Заголовок не найден !80!
