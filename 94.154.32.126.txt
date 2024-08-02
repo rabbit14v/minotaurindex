@@ -5163,3 +5163,5 @@
 146.59.252.83:80 - Apache HTTP Server Test Page powered by CentOS
 3.39.216.251:80 - ADMIN PAGE
 157.245.149.58:80 - Welcome to nginx!
+199.232.31.197:80 - 403 Missing signature
+104.70.62.98:80 - Заголовок не найден
