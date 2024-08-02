@@ -11188,3 +11188,206 @@
 74.82.19.179:80 - HURRICANE ELECTRIC
 127.241.41.229:80 - IIS Windows Server
 95.217.111.149:80 - IIS Windows Server
+175.45.181.236:80 - Заголовок не найден
+23.50.120.142:80 - Заголовок не найден
+50.16.97.77:80 - Заголовок не найден
+127.36.32.215:80 - IIS Windows Server
+127.240.196.101:80 - IIS Windows Server
+127.169.180.44:80 - IIS Windows Server
+109.70.204.80:80 - Login
+185.7.241.111:80 - Заголовок не найден
+23.37.50.48:80 - Заголовок не найден
+127.207.200.149:80 - IIS Windows Server
+127.122.89.195:80 - IIS Windows Server
+194.30.123.123:80 - Заголовок не найден
+104.16.37.45:80 - Direct IP access not allowed | Cloudflare
+180.235.244.82:80 - Заголовок не найден
+100.15.178.147:80 - 
+89.97.230.133:80 - Test del collegamento HTTPS/SSL
+54.199.242.53:80 - Error
+15.228.8.62:80 - Home - Forinvest
+157.65.17.189:80 - Заголовок не найден
+127.183.34.168:80 - IIS Windows Server
+127.122.1.88:80 - IIS Windows Server
+127.125.24.107:80 - IIS Windows Server
+211.104.21.90:80 - 503 Service Not Available
+127.157.13.93:80 - IIS Windows Server
+93.125.2.63:80 - Заголовок не найден
+18.200.7.29:80 - UAT - PIMeo
+172.88.118.186:80 - 
+34.160.207.72:80 - Заголовок не найден
+75.119.204.77:80 - Site not found &middot; DreamHost
+38.48.155.39:80 - Заголовок не найден
+127.181.16.84:80 - IIS Windows Server
+23.217.119.222:80 - Заголовок не найден
+127.113.106.199:80 - IIS Windows Server
+127.93.130.74:80 - IIS Windows Server
+54.255.23.246:80 - Apache2 Ubuntu Default Page: It works
+104.73.181.57:80 - Заголовок не найден
+140.150.215.78:80 - FreePBX Administration
+144.24.44.29:80 - Заголовок не найден
+218.40.200.131:80 - Web Server's Default Page
+195.245.242.58:80 - Index of /
+103.30.155.237:80 - IIS Windows Server
+23.67.54.89:80 - UNKNOWN
+77.89.20.210:80 - Document Moved
+127.0.224.251:80 - IIS Windows Server
+127.84.40.170:80 - IIS Windows Server
+127.211.6.88:80 - IIS Windows Server
+127.143.5.168:80 - IIS Windows Server
+104.20.215.24:80 - Direct IP access not allowed | Cloudflare
+50.3.53.88:80 - 403 Forbidden
+127.149.140.205:80 - IIS Windows Server
+156.226.192.199:80 - æ²¡ææ¾å°ç«ç¹
+162.218.64.60:80 - Page not found
+23.37.51.133:80 - Заголовок не найден
+18.238.107.23:80 - Заголовок не найден
+161.69.92.145:80 - Заголовок не найден
+127.237.217.32:80 - IIS Windows Server
+123.56.84.174:80 - Заголовок не найден
+127.233.82.80:80 - IIS Windows Server
+124.156.176.73:80 - 404 Not Found
+127.192.44.218:80 - IIS Windows Server
+91.55.111.73:80 - 
+127.157.169.58:80 - IIS Windows Server
+127.64.178.8:80 - IIS Windows Server
+47.92.17.26:80 - Заголовок не найден
+112.109.78.120:80 - Default Parallels Plesk Page
+127.168.116.146:80 - IIS Windows Server
+104.252.32.71:80 - 403 Forbidden
+193.233.102.43:80 - Заголовок не найден
+23.59.62.199:80 - Заголовок не найден
+127.234.153.239:80 - IIS Windows Server
+109.62.27.65:80 - WEB SERVICE
+127.176.16.229:80 - IIS Windows Server
+18.160.151.63:80 - Заголовок не найден
+127.165.41.192:80 - IIS Windows Server
+69.48.218.206:80 - Direct IP access not allowed | Cloudflare
+188.128.235.138:80 - Twoja strona oparta na Wordpressie
+127.3.151.31:80 - IIS Windows Server
+77.232.136.176:80 - FASTPANEL
+23.219.229.204:80 - Заголовок не найден
+220.218.162.115:80 - 401 Unauthorized
+112.46.103.91:80 - Welcome to nginx!
+127.50.243.231:80 - IIS Windows Server
+127.85.247.152:80 - IIS Windows Server
+104.211.225.58:80 - Microsoft Azure Web App - Error 404
+65.9.21.211:80 - Заголовок не найден
+127.239.61.133:80 - IIS Windows Server
+87.141.84.160:80 - 403 Forbidden
+23.6.190.180:80 - Заголовок не найден
+127.105.56.86:80 - IIS Windows Server
+38.110.145.242:80 - 403 Forbidden
+104.33.250.141:80 - 
+89.42.13.110:80 - Error 403 - Forbidden
+194.99.87.228:80 - Заголовок не найден
+104.20.130.240:80 - Direct IP access not allowed | Cloudflare
+212.232.99.16:80 - Error 404 (Not Found)!!1
+104.65.229.71:80 - Заголовок не найден
+104.64.218.60:80 - Заголовок не найден
+127.173.158.158:80 - IIS Windows Server
+127.18.190.149:80 - IIS Windows Server
+87.146.101.99:80 - Hello! Welcome to Synology Web Station!
+104.123.72.208:80 - Заголовок не найден
+2.23.23.240:80 - Заголовок не найден
+127.188.196.218:80 - IIS Windows Server
+87.189.17.244:80 - Заголовок не найден
+58.255.173.220:80 - 403 Forbidden
+127.127.220.12:80 - IIS Windows Server
+127.131.112.91:80 - IIS Windows Server
+127.237.223.179:80 - IIS Windows Server
+127.13.60.235:80 - IIS Windows Server
+195.154.74.76:80 - 404 Not Found
+114.214.63.166:80 - 404 Not Found
+3.33.184.116:80 - 503 Service Temporarily Unavailable
+23.77.140.149:80 - Заголовок не найден
+127.202.129.149:80 - IIS Windows Server
+95.180.229.153:80 - RouterOS router configuration page
+153.127.236.104:80 - Заголовок не найден
+127.143.30.89:80 - IIS Windows Server
+166.254.10.182:80 - 
+23.35.125.209:80 - Заголовок не найден
+193.162.47.30:80 - Заголовок не найден
+127.13.158.121:80 - IIS Windows Server
+13.111.236.94:80 - Error
+23.15.191.48:80 - Заголовок не найден
+47.116.178.167:80 - BEARHOME
+200.98.119.101:80 - Microsoft Internet Information Services 8
+39.136.144.50:80 - 403 Forbidden
+213.176.63.161:80 - Заголовок не найден
+147.161.22.19:80 - SoSci Survey
+115.146.2.85:80 - Заголовок не найден
+23.220.31.12:80 - Заголовок не найден
+172.64.36.144:80 - Blocked by Cloudflare Gateway
+217.128.216.249:80 - Webinterface
+18.244.111.64:80 - Заголовок не найден
+187.130.248.233:80 - RouterOS router configuration page
+34.228.154.20:80 - Server Error
+45.50.8.123:80 - 
+45.136.53.118:80 - Заголовок не найден
+72.52.197.168:80 - Absolute Parent &#8211; Raising Kids the Right Way
+185.206.163.100:80 - 403 Forbidden
+220.233.63.58:80 - Заголовок не найден
+91.204.143.22:80 - Заголовок не найден
+108.156.12.195:80 - Заголовок не найден
+18.235.227.24:80 - 503 Service Temporarily Unavailable
+35.201.99.35:80 - Заголовок не найден
+119.201.200.87:80 - 
+127.246.253.227:80 - IIS Windows Server
+52.7.47.132:80 - 곰TV - 함께하는 즐거운 TV . All About Video
+158.101.75.186:80 - 502 Bad Gateway
+64.207.159.110:80 - Business-Class Web Hosting by (mt) Media Temple
+71.90.98.79:80 - 
+127.34.245.148:80 - IIS Windows Server
+210.99.24.69:80 - Заголовок не найден
+127.252.172.11:80 - IIS Windows Server
+4.157.204.121:80 - Заголовок не найден
+18.239.30.91:80 - Заголовок не найден
+211.223.193.96:80 - Заголовок не найден
+206.189.180.155:80 - 404 Not Found
+66.85.163.211:80 - Web Server's Default Page
+127.175.187.156:80 - IIS Windows Server
+23.59.57.22:80 - Заголовок не найден
+192.126.220.242:80 - ERROR: The requested URL could not be retrieved
+183.100.151.157:80 - Заголовок не найден
+34.224.219.67:80 - 
+34.228.1.17:80 - Заголовок не найден
+127.247.252.139:80 - IIS Windows Server
+108.141.108.215:80 - Your Azure Function App is up and running.
+182.23.72.5:80 - Заголовок не найден
+23.201.214.184:80 - Заголовок не найден
+127.174.84.192:80 - IIS Windows Server
+18.64.51.164:80 - Заголовок не найден
+1.6.22.195:80 - Web user login
+58.221.30.173:80 - Заголовок не найден
+18.163.95.119:80 - Game Sharing
+75.119.195.143:80 - Site not found &middot; DreamHost
+78.140.51.153:80 - Заголовок не найден
+127.188.85.48:80 - IIS Windows Server
+94.176.235.189:80 - HTTP Status 404 – Not Found
+50.7.63.7:80 - 
+2.23.65.13:80 - Заголовок не найден
+27.91.220.26:80 - Hello! Welcome to Synology Web Station!
+170.75.240.202:80 - Spider Authentication
+23.204.59.232:80 - Заголовок не найден
+104.90.20.137:80 - Заголовок не найден
+127.107.177.154:80 - IIS Windows Server
+127.209.112.113:80 - IIS Windows Server
+46.4.85.110:80 - Заголовок не найден
+127.81.38.122:80 - IIS Windows Server
+208.98.39.12:80 - About The San Franciscan Roaster Co. | Coffee Roaster Manufacturer
+79.96.154.20:80 - Заголовок не найден
+127.253.152.155:80 - IIS Windows Server
+119.197.60.230:80 - Заголовок не найден
+127.164.52.97:80 - IIS Windows Server
+54.213.249.252:80 - 403 Forbidden
+209.145.58.180:80 - 404 Not Found
+109.129.49.87:80 - Заголовок не найден
+127.230.219.61:80 - IIS Windows Server
+3.160.77.90:80 - Заголовок не найден
+52.56.132.62:80 - User&#039;s blog
+88.131.71.234:80 - Заголовок не найден
+23.106.143.63:80 - 404 Not Found
+139.224.59.132:80 - 403 Forbidden
+72.247.200.69:80 - Заголовок не найден
+181.24.149.78:80 - Заголовок не найден
