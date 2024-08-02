@@ -2417,3 +2417,119 @@
 20.76.54.244:80 - Заголовок не найден
 44.212.203.65:80 - Заголовок не найден
 222.231.18.35:80 - Заголовок не найден
+212.126.110.105:80 - RouterOS router configuration page
+140.248.176.126:80 - Fastly error: unknown domain 140.248.176.126
+192.31.15.94:80 - Web Site Blocked
+52.74.91.82:80 - HeyMath!
+52.27.192.74:80 - Welcome to nginx!
+107.163.224.132:80 - 404 Not Found
+4.175.44.204:80 - Заголовок не найден
+23.208.33.166:80 - Заголовок не найден
+81.26.240.61:80 - Заголовок не найден
+104.104.72.159:80 - Заголовок не найден
+149.135.80.204:80 - Заголовок не найден
+3.11.183.113:80 - Brokerhub
+119.147.98.118:80 - Заголовок не найден
+200.219.229.80:80 - Principal
+3.163.76.25:80 - Заголовок не найден
+128.199.13.43:80 - 503 Service Unavailable
+121.171.101.17:80 - main page
+23.43.193.200:80 - Заголовок не найден
+203.55.25.96:80 - Body Moves : Caulfield North Physiotherapy, physio, pilates, yoga, acupuncture, reiki, zero balancing, physiotherapy, yoga, pilates, clinical pilates, pink pilates, pink pilates melbourne, zero balancing, caulfield, caulfield north, caulfield school of yoga, caufield, physio, phisio, sports physio, holistic, wholistic, rehabilitation, yoga therapy, yoga classes, pilates classes, meditation, osho, workshop, physio therapist, iyengar yoga, shadow yoga, musculoskeletal, massage, remedial massage, healing, physiotherapist, glen eira, proactive physiotherapy, ross smith, adam gescheit, acupuncture, dry needling, body moves, body moves online, www.bodymovesonline.com.au, www.bodymovesonline.com, www.bodymoves.com.au, hawthorn rd
+208.64.33.142:80 - Hec De la Rosa
+173.234.57.210:80 - ERROR: The requested URL could not be retrieved
+196.19.240.224:80 - 407 Proxy Authentication Required
+50.46.201.108:80 - Заголовок не найден
+18.165.133.121:80 - Заголовок не найден
+213.176.19.198:80 - Заголовок не найден
+18.245.66.98:80 - Заголовок не найден
+23.15.153.240:80 - Заголовок не найден
+112.126.83.53:80 - Welcome to nginx!
+104.75.122.226:80 - Заголовок не найден
+43.228.245.142:80 - Welcome to nginx!
+161.35.224.79:80 - Заголовок не найден
+104.100.199.178:80 - Заголовок не найден
+181.215.6.206:80 - 404 Not Found
+54.152.141.105:80 - Заголовок не найден
+54.168.140.233:80 - Заголовок не найден
+85.215.87.24:80 - Web Server's Default Page
+211.55.12.6:80 - WEB SERVICE
+112.135.185.206:80 - Заголовок не найден
+108.138.236.26:80 - Заголовок не найден
+46.101.45.111:80 - Ads Library Scraper
+106.15.35.33:80 - IIS7
+154.53.89.27:80 - ERROR: The requested URL could not be retrieved
+18.244.223.136:80 - Заголовок не найден
+144.202.90.159:80 - Unknown Domain
+158.69.54.177:80 - Centova Cast
+23.58.188.153:80 - Заголовок не найден
+23.197.14.101:80 - Заголовок не найден
+180.201.27.131:80 - 404 Not Found
+154.209.174.19:80 - Заголовок не найден
+197.140.142.21:80 - Заголовок не найден
+47.100.31.168:80 - 404 Not Found
+96.7.13.87:80 - Заголовок не найден
+107.167.123.241:80 - Заголовок не найден
+147.182.221.17:80 - 404 Not Found
+207.154.239.43:80 - Welcome to nginx!
+183.240.215.239:80 - 403 Forbidden
+20.19.119.103:80 - Заголовок не найден
+88.198.109.185:80 - Apache2 Ubuntu Default Page: It works
+38.15.138.94:80 - Заголовок не найден
+173.44.147.178:80 - æ²¡ææ¾å°ç«ç¹
+212.7.248.27:80 - Заголовок не найден
+174.138.4.215:80 - Promograma CMS
+140.248.161.45:80 - Fastly error: unknown domain 140.248.161.45
+47.89.243.185:80 - 503 Service Temporarily Unavailable
+18.67.245.220:80 - Заголовок не найден
+23.53.252.202:80 - Заголовок не найден
+57.153.36.53:80 - Your Azure Function App is up and running.
+166.166.129.204:80 - Web Administration Interface
+89.184.75.114:80 - Сайт 89.184.75.114
+120.79.25.55:80 - Заголовок не найден
+178.18.111.207:80 - Заголовок не найден
+178.167.79.34:80 - Заголовок не найден
+185.203.18.48:80 - Заголовок не найден
+68.117.248.255:80 - 
+34.126.84.133:80 - 404 Not Found
+170.80.158.96:80 - 406 Not Acceptable
+23.222.113.184:80 - Заголовок не найден
+65.8.32.32:80 - Заголовок не найден
+23.217.15.52:80 - Заголовок не найден
+8.210.111.240:80 - LNMPä¸é®å®è£å by Licess
+154.38.26.253:80 - ERROR: The requested URL could not be retrieved
+52.119.244.28:80 - Заголовок не найден
+206.82.14.144:80 - Заголовок не найден
+38.33.22.187:80 - Заголовок не найден
+185.95.15.133:80 - Заголовок не найден
+3.166.226.189:80 - Заголовок не найден
+104.68.95.112:80 - Заголовок не найден
+111.26.55.2:80 - 403 Forbidden
+212.227.171.141:80 - Web Server's Default Page
+107.175.218.185:80 - 500 Internal Server Error
+155.159.19.113:80 - 404 Not Found
+44.202.133.199:80 - Error: Missing Route
+206.188.193.135:80 - 403 Forbidden
+222.206.28.3:80 - 404 Not Found
+172.66.43.214:80 - Direct IP access not allowed | Cloudflare
+3.96.23.205:80 - SpamTitan
+52.201.31.36:80 - Заголовок не найден
+89.39.156.174:80 - 
+23.212.17.244:80 - Заголовок не найден
+91.203.53.93:80 - 500 Internal Server Error
+54.192.9.37:80 - Заголовок не найден
+40.87.31.205:80 - Swift Package Index
+94.46.15.201:80 - 403 Forbidden
+86.22.241.34:80 - WEB SERVICE
+3.133.183.15:80 - Заголовок не найден
+63.231.203.169:80 - Заголовок не найден
+82.66.218.45:80 - Welcome to nginx!
+91.231.235.190:80 - Welcome to nginx!
+104.19.142.41:80 - Direct IP access not allowed | Cloudflare
+18.237.138.145:80 - Home
+35.197.155.240:80 - 403 - Forbidden: Access is denied.
+34.233.198.216:80 - 503 Service Temporarily Unavailable
+172.253.124.118:80 - Google
+23.195.246.240:80 - Заголовок не найден
+39.103.192.95:80 - Заголовок не найден
+183.113.160.95:80 - Заголовок не найден
