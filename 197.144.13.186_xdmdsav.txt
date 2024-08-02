@@ -3314,3 +3314,6 @@ No service configured for this hostname !80!
 107.154.65.20 - Заголовок не найден !80!
 101.133.153.50 - 500 Internal Server Error !80!
 189.188.191.102 -  !80!
+212.86.109.218 - 401 - CinemaPress !80!
+35.71.178.60 - 503 Service Temporarily Unavailable !80!
+20.237.86.95 - Заголовок не найден !80!
