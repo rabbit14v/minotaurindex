@@ -4288,3 +4288,171 @@
 23.63.145.207:80 - Заголовок не найден
 51.141.95.73:80 - Заголовок не найден
 154.217.148.41:80 - 403 Forbidden
+107.143.99.28:80 - IIS Windows Server
+18.168.168.108:80 - Заголовок не найден
+103.212.211.185:80 - 403 Forbidden
+127.118.83.193:80 - IIS Windows Server
+127.223.213.245:80 - IIS Windows Server
+3.38.19.160:80 - Заголовок не найден
+101.51.54.117:80 - F670
+111.45.69.142:80 - Заголовок не найден
+104.68.13.46:80 - Заголовок не найден
+127.164.95.164:80 - IIS Windows Server
+127.103.68.13:80 - IIS Windows Server
+3.133.211.31:80 - Заголовок не найден
+208.110.87.132:80 - 404 - ÕÒ²»µ½ÎÄ¼þ»òÄ¿Â¼¡£
+163.44.207.68:80 - 404 Not Found
+104.253.13.53:80 - 403 Forbidden
+47.101.192.108:80 - 404 Not Found
+13.114.213.142:80 - IIS Windows Server
+89.161.246.51:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+46.242.177.59:80 - Strona w przygotowaniu
+127.65.201.190:80 - IIS Windows Server
+42.51.20.148:80 - 该网站暂无法访问
+127.62.144.131:80 - IIS Windows Server
+127.138.191.240:80 - IIS Windows Server
+193.193.167.171:80 - Start
+84.21.182.15:80 - Заголовок не найден
+18.65.231.131:80 - Заголовок не найден
+127.141.116.60:80 - IIS Windows Server
+50.2.155.114:80 - 403 Forbidden
+91.134.100.125:80 - Welcome to nginx!
+34.100.250.218:80 - Welcome to nginx!
+23.74.168.70:80 - Заголовок не найден
+127.33.78.15:80 - IIS Windows Server
+104.119.186.33:80 - Заголовок не найден
+127.66.221.109:80 - IIS Windows Server
+127.152.241.30:80 - IIS Windows Server
+127.116.151.211:80 - IIS Windows Server
+127.217.222.214:80 - IIS Windows Server
+127.77.166.119:80 - IIS Windows Server
+83.102.204.187:80 - 403 Forbidden
+66.154.14.102:80 - Заголовок не найден
+127.164.118.192:80 - IIS Windows Server
+202.254.234.31:80 - ç¡å¹ãªURLã§ã
+23.217.164.237:80 - Заголовок не найден
+127.71.101.43:80 - IIS Windows Server
+127.216.150.48:80 - IIS Windows Server
+127.130.180.180:80 - IIS Windows Server
+167.82.16.221:80 - Fastly error: unknown domain 167.82.16.221
+107.149.90.52:80 - Заголовок не найден
+38.171.144.211:80 - WEB SERVICE
+127.203.165.26:80 - IIS Windows Server
+192.232.199.250:80 - Заголовок не найден
+195.82.1.206:80 - GPON Home Gateway
+135.84.176.190:80 - 
+127.254.199.244:80 - IIS Windows Server
+23.208.202.209:80 - Заголовок не найден
+223.62.37.65:80 - 401 Unauthorized
+127.243.173.75:80 - IIS Windows Server
+104.244.43.99:80 - Fastly error: unknown domain 104.244.43.99
+127.79.54.49:80 - IIS Windows Server
+83.198.255.197:80 - Заголовок не найден
+127.109.217.222:80 - IIS Windows Server
+127.90.223.162:80 - IIS Windows Server
+59.111.124.245:80 - 503 Service Temporarily Unavailable
+127.250.144.102:80 - IIS Windows Server
+23.1.30.62:80 - Заголовок не найден
+159.192.136.143:80 - 
+127.163.84.253:80 - IIS Windows Server
+39.52.28.129:80 - Заголовок не найден
+127.233.186.207:80 - IIS Windows Server
+18.160.134.95:80 - Заголовок не найден
+127.31.184.6:80 - IIS Windows Server
+47.106.87.165:80 - 503 Service Temporarily Unavailable
+127.77.87.128:80 - IIS Windows Server
+127.132.130.238:80 - IIS Windows Server
+39.100.90.24:80 - IIS Windows Server
+23.51.60.206:80 - Заголовок не найден
+3.168.122.137:80 - Заголовок не найден
+83.218.161.82:80 - Заголовок не найден
+69.160.36.152:80 - Заголовок не найден
+188.64.62.231:80 - Заголовок не найден
+182.93.126.13:80 - 403 Forbidden
+20.223.132.142:80 - Apache HTTP Server Test Page powered by CentOS
+78.47.208.194:80 - SKS Design
+127.181.194.16:80 - IIS Windows Server
+127.232.79.47:80 - IIS Windows Server
+127.38.194.64:80 - IIS Windows Server
+46.35.169.59:80 - 403 Forbidden
+51.254.149.95:80 - Apache2 Debian Default Page: It works
+71.230.93.163:80 - 
+103.1.210.40:80 - IIS Windows Server
+127.186.12.106:80 - IIS Windows Server
+154.205.81.101:80 - 404 Not Found
+90.193.98.120:80 - Заголовок не найден
+127.229.111.180:80 - IIS Windows Server
+127.54.135.230:80 - IIS Windows Server
+127.134.243.196:80 - IIS Windows Server
+127.56.117.137:80 - IIS Windows Server
+151.101.40.29:80 - Fastly error: unknown domain 151.101.40.29
+170.130.107.68:80 - 403 Forbidden
+195.194.77.160:80 - Заголовок не найден
+104.25.235.223:80 - Direct IP access not allowed | Cloudflare
+127.253.73.217:80 - IIS Windows Server
+216.137.43.201:80 - Заголовок не найден
+211.38.69.74:80 - Заголовок не найден
+23.4.44.210:80 - Заголовок не найден
+127.143.246.43:80 - IIS Windows Server
+127.44.194.55:80 - IIS Windows Server
+52.118.251.83:80 - Online Boutique
+104.131.96.220:80 - 403 Forbidden
+127.239.4.204:80 - IIS Windows Server
+127.141.148.90:80 - IIS Windows Server
+62.60.254.115:80 - Заголовок не найден
+127.93.72.135:80 - IIS Windows Server
+127.210.111.27:80 - IIS Windows Server
+127.214.200.223:80 - IIS Windows Server
+23.223.210.24:80 - Заголовок не найден
+140.227.20.152:80 - Заголовок не найден
+127.73.28.192:80 - IIS Windows Server
+154.220.45.162:80 - IIS7
+178.32.46.245:80 - Заголовок не найден
+198.78.13.157:80 - Заголовок не найден
+44.219.165.77:80 - Заголовок не найден
+127.81.93.184:80 - IIS Windows Server
+114.200.252.73:80 - IIS7
+39.105.213.202:80 - 500 Internal Server Error
+207.201.204.46:80 - Index page
+127.187.199.102:80 - IIS Windows Server
+77.250.125.97:80 - 403 Forbidden
+52.212.62.167:80 - Заголовок не найден
+23.52.151.70:80 - Заголовок не найден
+151.101.147.1:80 - Fastly error: unknown domain 151.101.147.1
+190.49.30.222:80 - Заголовок не найден
+117.185.243.79:80 - Заголовок не найден
+16.163.132.6:80 - Заголовок не найден
+106.55.21.57:80 - 403 Forbidden
+209.170.152.15:80 - ERROR: The requested URL could not be retrieved
+54.165.192.118:80 - The page you were looking for doesn't exist (404)
+127.205.15.128:80 - IIS Windows Server
+127.174.224.127:80 - IIS Windows Server
+103.118.246.249:80 - Заголовок не найден
+167.235.134.182:80 - Guido&#039;s Kuchenträume &#8211; Traditionelle Backkunst
+127.184.96.112:80 - IIS Windows Server
+127.63.23.228:80 - IIS Windows Server
+154.9.53.57:80 - ERROR: The requested URL could not be retrieved
+83.81.146.94:80 - 
+176.52.244.123:80 - 176.52.244.123
+127.178.137.217:80 - IIS Windows Server
+127.30.158.218:80 - IIS Windows Server
+103.109.37.13:80 - Welcome to nginx!
+127.47.85.16:80 - IIS Windows Server
+79.101.14.8:80 - Заголовок не найден
+18.233.85.45:80 - Заголовок не найден
+23.89.242.141:80 - Заголовок не найден
+50.89.189.40:80 - 
+117.215.77.106:80 - Заголовок не найден
+195.60.177.133:80 - Заголовок не найден
+197.211.232.77:80 - 400 The plain HTTP request was sent to HTTPS port
+3.68.154.49:80 - 404 Not Found
+146.75.50.119:80 - Fastly error: unknown domain 146.75.50.119
+79.143.177.43:80 - Xibo Digital Signage
+14.36.198.176:80 - 
+127.60.117.33:80 - IIS Windows Server
+154.39.237.57:80 - 404 Not Found
+127.120.175.148:80 - IIS Windows Server
+23.36.164.137:80 - Заголовок не найден
+3.224.152.172:80 - 403 Forbidden
+23.218.72.121:80 - Заголовок не найден
+152.67.233.80:80 - Welcome to nginx!
