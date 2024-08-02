@@ -4246,3 +4246,24 @@ Weeds (Shasta) Server
 118.215.34.38:80 - Заголовок не найден
 54.192.229.34:80 - Заголовок не найден
 34.240.246.76:80 - Заголовок не найден
+38.48.157.189:80 - Заголовок не найден
+193.46.41.101:80 - Österreichische Lotterien » Spiele, Gewinnabfragen &amp; mehr
+168.75.66.255:80 - IIS Windows Server
+111.40.198.63:80 - 403 Forbidden
+104.22.55.251:80 - Direct IP access not allowed | Cloudflare
+59.96.58.140:80 - Заголовок не найден
+23.39.28.147:80 - Заголовок не найден
+18.207.144.110:80 - OxBlue | Construction Cameras, Security Cameras &amp; Time-Lapse Cameras
+38.48.178.33:80 - 404 Not Found
+50.3.62.165:80 - 403 Forbidden
+17.248.195.194:80 - 400 Bad Request
+139.59.93.23:80 - Welcome to nginx!
+171.33.203.71:80 - Home | Ignite Online Learning
+104.16.14.198:80 - Direct IP access not allowed | Cloudflare
+155.254.30.221:80 - Future of health is in Costa Rica as medical device hub
+38.59.113.171:80 - Заголовок не найден
+152.171.103.170:80 - 
+188.34.143.61:80 - Заголовок не найден
+117.215.233.14:80 - RouterOS router configuration page
+195.52.128.228:80 - 403 - Forbidden
+144.126.238.5:80 - YAYASAN WAHANA CONSERVASI MASYARAKAT
