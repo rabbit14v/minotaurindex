@@ -8647,3 +8647,32 @@ ng
 192.155.191.84:80 - Test Page for Apache Installation
 112.34.112.98:80 - Заголовок не найден
 192.237.192.211:80 - Service Unavailable
+164.90.244.33:80 - 404 Not Found
+3.227.98.36:80 - Заголовок не найден
+62.72.15.24:80 - 403 Forbidden
+54.165.227.60:80 - Заголовок не найден
+213.139.159.93:80 - Wartung
+2.20.129.108:80 - Заголовок не найден
+34.245.92.129:80 - Welcome to Amazon Linux 2
+104.24.129.159:80 - Direct IP access not allowed | Cloudflare
+34.197.246.249:80 - Заголовок не найден
+185.196.164.171:80 - Заголовок не найден
+154.22.50.194:80 - ERROR: The requested URL could not be retrieved
+23.194.245.181:80 - Заголовок не найден
+98.163.161.67:80 - IIS Windows Server
+82.197.82.15:80 - 403 Forbidden
+109.237.26.145:80 - Заголовок не найден
+104.19.169.41:80 - Direct IP access not allowed | Cloudflare
+14.224.144.35:80 - RouterOS router configuration page
+96.44.167.202:80 - Заголовок не найден
+151.101.74.88:80 - Fastly error: unknown domain 151.101.74.88
+81.29.176.69:80 - IIS Windows Server
+35.71.169.224:80 - Заголовок не найден
+23.229.139.105:80 - Caryota India Pvt. Ltd.
+54.175.156.119:80 - Заголовок не найден
+193.19.118.193:80 - 401 Authorization Required
+13.226.121.84:80 - Заголовок не найден
+13.67.108.252:80 - Заголовок не найден
+67.7.54.234:80 - 
+170.130.159.191:80 - 403 Forbidden
+20.101.221.104:80 - Your Azure Function App is up and running.
