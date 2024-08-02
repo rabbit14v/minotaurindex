@@ -2233,3 +2233,16 @@
 192.185.69.61:80 - Not Acceptable!
 59.15.178.85:80 - main page
 85.208.121.11:80 - ERROR: The requested URL could not be retrieved
+217.238.194.162:80 - 400 The plain HTTP request was sent to HTTPS port
+147.135.90.89:80 - Apache2 Ubuntu Default Page: It works
+45.142.120.130:80 - Direct IP access not allowed | Cloudflare
+185.238.249.13:80 - Sorry, the website has been stopped
+5.2.155.48:80 - Apache2 Ubuntu Default Page: It works
+75.23.178.241:80 - CMS Web Viewer
+52.217.193.72:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.200.174.52:80 - Заголовок не найден
+192.154.228.5:80 - Заголовок не найден
+42.200.149.209:80 - 
+35.182.47.183:80 - Welcome to nginx!
+18.155.231.187:80 - Заголовок не найден
+38.31.230.252:80 - Заголовок не найден
