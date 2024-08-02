@@ -8233,3 +8233,206 @@
 45.80.154.170:80 - 403 Forbidden
 51.83.32.74:80 - Web Server's Default Page
 127.194.254.247:80 - IIS Windows Server
+47.91.109.1:80 - Заголовок не найден
+127.149.5.152:80 - IIS Windows Server
+34.144.214.56:80 - Sign in - Google Accounts
+127.95.191.74:80 - IIS Windows Server
+35.75.56.195:80 - 404 Not Found
+127.235.77.60:80 - IIS Windows Server
+42.202.218.43:80 - Заголовок не найден
+197.160.206.144:80 - Protected Object
+3.128.124.127:80 - Заголовок не найден
+34.110.207.236:80 - Lung monitoring: COPD Acute Exacerbation | Telling.ai
+39.106.136.75:80 - ç½ç«è®¿é®æ¥é
+185.39.114.75:80 - Заголовок не найден
+127.133.230.100:80 - IIS Windows Server
+83.146.146.28:80 - Aruba Instant On
+221.195.120.223:80 - 403 Forbidden
+190.0.52.238:80 - 
+127.103.110.15:80 - IIS Windows Server
+117.20.100.83:80 - Заголовок не найден
+190.174.65.242:80 - Заголовок не найден
+127.208.113.37:80 - IIS Windows Server
+155.94.165.148:80 - Hosted By BisectHosting - BisectHosting
+190.154.55.169:80 - &#70;&#54;&#54;&#48;&#48;
+20.12.83.86:80 - Your Azure Function App is up and running.
+146.75.88.34:80 - Fastly error: unknown domain 146.75.88.34
+18.238.17.246:80 - Заголовок не найден
+127.162.86.41:80 - IIS Windows Server
+99.86.161.166:80 - Заголовок не найден
+127.92.228.102:80 - IIS Windows Server
+127.227.252.3:80 - IIS Windows Server
+151.101.255.130:80 - Fastly error: unknown domain 151.101.255.130
+127.86.49.242:80 - IIS Windows Server
+127.44.112.126:80 - IIS Windows Server
+188.68.234.195:80 - Заголовок не найден
+127.86.152.4:80 - IIS Windows Server
+162.214.171.116:80 - espaco_maker_app
+111.92.140.254:80 - Заголовок не найден
+3.164.162.166:80 - Заголовок не найден
+203.170.190.47:80 - Заголовок не найден
+141.5.101.69:80 - Automatisierung
+127.133.181.129:80 - IIS Windows Server
+194.32.78.97:80 - 404 Not Found
+79.157.222.35:80 - Home Assistant
+127.121.1.237:80 - IIS Windows Server
+127.45.135.64:80 - IIS Windows Server
+103.160.125.171:80 - Please wait, the login page is opening...
+154.216.45.208:80 - 404 Not Found
+161.71.104.208:80 - Error
+142.214.137.80:80 - 403 Forbidden
+127.223.132.52:80 - IIS Windows Server
+188.128.166.31:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+65.8.133.46:80 - Заголовок не найден
+8.222.157.217:80 - 首页 - Hydro
+103.146.167.147:80 - Welcome to nginx!
+127.55.105.55:80 - IIS Windows Server
+127.103.17.13:80 - IIS Windows Server
+34.211.212.122:80 - Заголовок не найден
+127.15.52.23:80 - IIS Windows Server
+104.27.85.168:80 - Direct IP access not allowed | Cloudflare
+127.36.203.203:80 - IIS Windows Server
+52.84.143.246:80 - Заголовок не найден
+23.36.164.143:80 - Заголовок не найден
+27.126.200.254:80 - 
+127.20.147.138:80 - IIS Windows Server
+104.115.230.252:80 - Заголовок не найден
+127.135.73.175:80 - IIS Windows Server
+78.188.19.217:80 - 
+127.187.206.99:80 - IIS Windows Server
+127.231.44.32:80 - IIS Windows Server
+192.180.99.106:80 - 
+103.63.215.141:80 - 404 Not Found
+127.68.85.58:80 - IIS Windows Server
+127.101.245.166:80 - IIS Windows Server
+127.172.23.46:80 - IIS Windows Server
+150.95.242.81:80 - 403 Error - Forbidden
+23.39.158.80:80 - Заголовок не найден
+154.213.70.212:80 - æ²¡ææ¾å°ç«ç¹
+63.224.51.160:80 - Заголовок не найден
+127.136.45.107:80 - IIS Windows Server
+104.91.50.134:80 - Заголовок не найден
+127.172.83.144:80 - IIS Windows Server
+127.52.192.113:80 - IIS Windows Server
+127.217.134.156:80 - IIS Windows Server
+184.50.139.165:80 - Заголовок не найден
+18.164.254.161:80 - Заголовок не найден
+192.185.195.52:80 - Not Acceptable!
+127.214.213.154:80 - IIS Windows Server
+66.220.15.73:80 - 403 Forbidden
+127.153.177.129:80 - IIS Windows Server
+127.179.113.76:80 - IIS Windows Server
+127.30.188.190:80 - IIS Windows Server
+127.244.43.136:80 - IIS Windows Server
+127.229.178.123:80 - IIS Windows Server
+84.96.134.97:80 - Заголовок не найден
+127.198.103.209:80 - IIS Windows Server
+190.219.177.16:80 - WEB SERVICE
+127.52.148.111:80 - IIS Windows Server
+184.25.70.246:80 - Заголовок не найден
+106.14.2.161:80 - Заголовок не найден
+20.231.52.40:80 - 
+127.213.225.25:80 - IIS Windows Server
+127.119.196.218:80 - IIS Windows Server
+104.123.97.16:80 - Заголовок не найден
+185.120.220.194:80 - RouterOS router configuration page
+127.41.78.79:80 - IIS Windows Server
+92.149.196.118:80 - Jeedom
+127.249.180.58:80 - IIS Windows Server
+23.65.171.2:80 - Заголовок не найден
+127.14.181.72:80 - IIS Windows Server
+23.35.127.56:80 - Заголовок не найден
+52.7.97.145:80 - 503 Service Temporarily Unavailable
+85.206.14.167:80 - Заголовок не найден
+47.115.78.214:80 - Not Found
+104.16.60.162:80 - Direct IP access not allowed | Cloudflare
+127.142.243.201:80 - IIS Windows Server
+127.230.8.244:80 - IIS Windows Server
+54.183.105.252:80 - Apache2 Ubuntu Default Page: It works
+127.227.121.235:80 - IIS Windows Server
+127.255.91.230:80 - IIS Windows Server
+176.123.0.238:80 - Not Found
+23.47.82.75:80 - Заголовок не найден
+173.208.97.185:80 - Заголовок не найден
+196.51.29.36:80 - ERROR: The requested URL could not be retrieved
+54.170.71.109:80 - NISSAN France
+127.30.84.41:80 - IIS Windows Server
+220.85.140.66:80 - CMS Web Viewer
+123.136.39.23:80 - 403 Forbidden
+176.126.206.144:80 - Direct IP access not allowed | Cloudflare
+127.15.188.90:80 - IIS Windows Server
+127.66.245.144:80 - IIS Windows Server
+178.250.159.34:80 - 403 Forbidden
+127.14.173.82:80 - IIS Windows Server
+127.22.197.171:80 - IIS Windows Server
+127.78.235.158:80 - IIS Windows Server
+74.226.195.118:80 - Apache2 Debian Default Page: It works
+69.27.100.149:80 - 403 Forbidden
+76.12.170.130:80 - Заголовок не найден
+44.197.74.205:80 - Заголовок не найден
+127.143.222.30:80 - IIS Windows Server
+54.240.161.231:80 - Заголовок не найден
+5.35.92.91:80 - Welcome to nginx!
+127.107.143.165:80 - IIS Windows Server
+23.50.0.97:80 - Заголовок не найден
+85.193.195.223:80 - Заголовок не найден
+178.204.75.9:80 - 
+221.113.64.203:80 - BB-ST165 Network Camera
+127.57.24.245:80 - IIS Windows Server
+127.68.18.26:80 - IIS Windows Server
+137.205.51.78:80 - Nextcloud
+127.23.8.238:80 - IIS Windows Server
+127.212.255.165:80 - IIS Windows Server
+154.196.11.253:80 - Заголовок не найден
+94.74.168.165:80 - Заголовок не найден
+61.168.100.235:80 - 403 Forbidden
+45.223.61.79:80 - Заголовок не найден
+23.44.254.86:80 - Заголовок не найден
+108.138.16.132:80 - Заголовок не найден
+213.160.162.33:80 - Test Page for the HTTP Server on AlmaLinux
+89.120.47.107:80 - DVR Components Download
+52.4.74.127:80 - Test Page for the Apache HTTP Server
+162.244.68.174:80 - PikesPeak
+52.36.117.186:80 - Заголовок не найден
+127.254.73.94:80 - IIS Windows Server
+157.197.145.245:80 - Заголовок не найден
+127.238.139.31:80 - IIS Windows Server
+18.160.73.164:80 - Заголовок не найден
+23.59.150.173:80 - Заголовок не найден
+13.227.78.43:80 - Заголовок не найден
+23.199.57.159:80 - Заголовок не найден
+127.197.31.95:80 - IIS Windows Server
+127.191.183.92:80 - IIS Windows Server
+127.137.200.136:80 - IIS Windows Server
+127.73.212.197:80 - IIS Windows Server
+4.208.59.88:80 - Заголовок не найден
+45.39.165.172:80 - 403 Forbidden
+127.89.66.159:80 - IIS Windows Server
+59.127.187.191:80 - 
+95.101.128.100:80 - Заголовок не найден
+39.101.41.96:80 - Заголовок не найден
+49.12.221.232:80 - Заголовок не найден
+104.104.174.180:80 - Заголовок не найден
+47.105.124.110:80 - ç½ç«è®¿é®æ¥é
+127.38.206.224:80 - IIS Windows Server
+23.198.122.13:80 - Заголовок не найден
+127.56.17.13:80 - IIS Windows Server
+96.7.140.37:80 - Заголовок не найден
+23.211.34.110:80 - Заголовок не найден
+23.90.196.187:80 - OPTIMA
+13.225.15.173:80 - Заголовок не найден
+142.4.121.200:80 - Заголовок не найден
+127.196.89.193:80 - IIS Windows Server
+127.30.222.54:80 - IIS Windows Server
+116.80.25.23:80 - Заголовок не найден
+127.222.126.182:80 - IIS Windows Server
+38.173.1.145:80 - 503 Service Temporarily Unavailable
+160.124.128.133:80 - 404 Not Found
+218.45.5.103:80 - Заголовок не найден
+23.51.137.45:80 - Заголовок не найден
+127.53.82.238:80 - IIS Windows Server
+127.124.151.96:80 - IIS Windows Server
+127.94.73.101:80 - IIS Windows Server
+104.101.255.169:80 - Заголовок не найден
+35.235.153.51:80 - Заголовок не найден
+127.186.21.142:80 - IIS Windows Server
