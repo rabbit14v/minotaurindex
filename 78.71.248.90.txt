@@ -1534,3 +1534,6 @@
 217.182.206.19:80 - Apache2 Ubuntu Default Page: It works
 129.150.38.150:80 - 502 Bad Gateway
 139.150.82.56:80 - Apache2 Ubuntu Default Page: It works
+104.140.81.95:80 - 403 Forbidden
+4.207.34.244:80 - Swagger UI
+54.199.95.139:80 - 403 Forbidden
