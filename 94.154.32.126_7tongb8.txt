@@ -1609,3 +1609,4 @@ sense
 15.204.191.115:80 - Oops!
 82.10.233.22:80 - 401 - Unauthorized
 209.43.47.112:80 - Attention Required! | Cloudflare
+192.148.6.13:80 - Direct IP access not allowed | Cloudflare
