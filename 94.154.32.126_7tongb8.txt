@@ -3435,3 +3435,5 @@ sense
 52.9.1.221:80 - Error 404 - Not Found
 193.25.127.247:80 - 鍵とガンシーの偽札
 13.200.112.152:80 - 503 Service Temporarily Unavailable
+192.249.114.121:80 - Заголовок не найден
+146.59.127.73:80 - Apache HTTP Server Test Page powered by CentOS
