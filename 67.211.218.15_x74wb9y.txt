@@ -12133,3 +12133,143 @@ Quality Service Provider BV
 89.117.228.19:80 - 403 Forbidden
 117.240.120.196:80 - Заголовок не найден
 192.240.170.50:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+23.201.252.7:80 - Заголовок не найден
+104.25.116.236:80 - Direct IP access not allowed | Cloudflare
+34.160.33.125:80 - Заголовок не найден
+52.57.248.7:80 - The Mama Parsi Girls&#039; Secondary School is under construction
+45.4.173.76:80 - Sexual Addiction &amp; Pornography Recovery | Faithful &amp; True | Eden Prairie
+40.71.93.148:80 - IIS Windows Server
+45.116.140.99:80 - Заголовок не найден
+47.236.11.211:80 - Tading application
+47.100.84.72:80 - 阿里云万网虚机IP访问报错提示
+104.86.55.128:80 - Заголовок не найден
+5.32.133.139:80 - Please wait, the page is opening...
+92.222.250.217:80 - 404 Not Found
+38.63.47.59:80 - 404 Not Found
+52.153.121.105:80 - Azure Container App - Unavailable
+216.69.164.95:80 - Fencing Houston | Fence Pasadena | Chain Link Fence Jersey Village - Bayou City Fence Company
+77.242.93.195:80 - Заголовок не найден
+178.62.36.38:80 - Welcome to nginx!
+178.238.128.240:80 - Sign In
+35.220.151.249:80 - ç½ç«è¯·æ±åºé
+18.65.125.29:80 - Заголовок не найден
+186.137.195.79:80 - RouterOS
+143.198.72.55:80 - 404 Not Found
+186.62.122.79:80 - Заголовок не найден
+23.214.32.64:80 - Заголовок не найден
+183.240.98.81:80 - 404 Not Found
+116.198.11.154:80 - 403 Forbidden
+77.236.192.131:80 - Заголовок не найден
+139.196.85.62:80 - HTTP Status 404 – Not Found
+23.216.14.88:80 - Заголовок не найден
+59.173.2.27:80 - åè­¦
+202.46.8.27:80 - Welcome to XAMPP
+23.104.126.156:80 - IIS7
+104.168.151.158:80 - Web Server's Default Page
+17.253.39.43:80 - Заголовок не найден
+159.223.20.24:80 - TAJ MISR | Chart Splash
+115.21.190.79:80 - main page
+108.138.187.246:80 - Заголовок не найден
+104.221.174.164:80 - Sorry, the website has been stopped
+162.159.60.231:80 - Direct IP access not allowed | Cloudflare
+3.99.118.179:80 - Error
+52.15.142.221:80 - Page Not Found
+116.80.106.198:80 - y©tÉzW[YÁHEM1943tB[hWPbgEÉÌÁH\»
+178.17.14.248:80 - Webinterface
+193.171.76.52:80 - Uniklinik Innsbruck - Willkommen
+23.1.211.152:80 - Заголовок не найден
+181.188.206.194:80 - RouterOS router configuration page
+24.40.98.97:80 - 401 Unauthorized
+99.84.13.102:80 - Заголовок не найден
+45.127.235.226:80 - Please wait, the login page is opening...
+156.250.234.42:80 - 404 Not Found
+23.34.159.242:80 - Заголовок не найден
+140.206.230.178:80 - 403 Forbidden
+3.105.40.153:80 - Заголовок не найден
+104.80.8.179:80 - Заголовок не найден
+187.58.144.7:80 - Web managerment Home
+199.232.114.210:80 - Fastly error: unknown domain 199.232.114.210
+52.220.75.255:80 - Заголовок не найден
+103.101.163.112:80 - Control Panel - Login
+177.225.12.89:80 - Autentificar Usuarios V2.0
+94.130.21.112:80 - Welcome to nginx!
+23.59.135.14:80 - Заголовок не найден
+13.35.251.200:80 - Заголовок не найден
+120.53.102.99:80 - Заголовок не найден
+159.203.186.90:80 - Apache2 Ubuntu Default Page: It works
+85.128.223.26:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+116.203.97.220:80 - Welcome to nginx!
+122.210.38.158:80 - Заголовок не найден
+188.166.22.55:80 - Apache2 Ubuntu Default Page: It works
+194.247.132.224:80 - DDoS-Guard
+61.240.150.145:80 - 沧州开放大学
+38.153.184.108:80 - ERROR: The requested URL could not be retrieved
+154.203.102.107:80 - æ²¡ææ¾å°ç«ç¹
+178.128.33.182:80 - Felts health shoes
+79.133.197.135:80 - 403 Forbidden
+23.222.106.154:80 - Заголовок не найден
+46.43.110.108:80 - 403 Forbidden
+3.136.194.205:80 - 404 Not Found
+193.232.150.151:80 - Welcome to nginx!
+2.16.47.77:80 - Заголовок не найден
+38.35.78.206:80 - bt365µÄÍøÖ·-365×ãÇòÍøÕ¾ÕæµÄ¼ÙµÄ-Ó¢¹úbet365¹ÙÍø
+154.209.101.102:80 - 404 Not Found
+119.252.190.239:80 - Page not found
+85.214.130.15:80 - FileMaker Website
+221.144.117.15:80 - WEB SERVICE
+104.25.94.177:80 - Direct IP access not allowed | Cloudflare
+74.48.29.152:80 - Apache HTTP Server Test Page powered by CentOS
+23.208.227.246:80 - Заголовок не найден
+3.142.114.68:80 - KT Black
+3.7.228.170:80 - Заголовок не найден
+106.12.174.49:80 - 沧州普惠健康体检有限公司
+23.32.245.242:80 - Заголовок не найден
+23.41.59.4:80 - Заголовок не найден
+23.54.29.143:80 - Заголовок не найден
+38.59.68.42:80 - 404 Not Found
+173.239.223.52:80 - Заголовок не найден
+203.150.225.50:80 - Microsoft Internet Information Services 8
+108.139.106.105:80 - Заголовок не найден
+194.91.11.157:80 - ControlPanel
+104.239.135.161:80 - Home - Professor Messer IT Certification Training - CompTIA A+, Network+, Security+
+13.57.140.208:80 - BlueSphere GWM
+213.32.5.167:80 - Error 503: Backend unavailable
+103.161.3.134:80 - Заголовок не найден
+52.204.52.30:80 - Sign in · GitLab
+146.75.56.49:80 - Fastly error: unknown domain 146.75.56.49
+23.64.108.69:80 - Заголовок не найден
+104.16.157.117:80 - Direct IP access not allowed | Cloudflare
+23.51.137.73:80 - Заголовок не найден
+82.71.214.196:80 - cPanel Holding Page | Zen
+23.34.177.201:80 - Заголовок не найден
+23.60.122.204:80 - Заголовок не найден
+134.209.133.96:80 - Welcome to nginx!
+87.230.41.24:80 - Host Europe GmbH
+107.158.43.160:80 - 403 Forbidden
+106.52.99.221:80 - Welcome to nginx!
+47.113.147.103:80 - Заголовок не найден
+149.142.20.29:80 - Facilities Management | Facilities
+90.147.46.140:80 - Заголовок не найден
+54.172.75.61:80 - 403 Forbidden
+190.48.98.49:80 - 
+104.21.107.176:80 - Direct IP access not allowed | Cloudflare
+80.98.139.250:80 - Default Site
+35.78.142.192:80 - Заголовок не найден
+60.221.219.75:80 - Заголовок не найден
+119.29.232.100:80 - Заголовок не найден
+65.108.226.235:80 - Accueil
+77.111.91.236:80 - Apache HTTP Server Test Page powered by CentOS
+18.102.198.160:80 - 403 Forbidden
+88.208.9.241:80 - 404 Not Found
+23.219.82.77:80 - Заголовок не найден
+104.104.147.247:80 - Заголовок не найден
+124.220.80.102:80 - éä¾¿çæ°æ®
+177.255.145.240:80 - 
+118.190.144.134:80 - 魅果网
+209.16.103.161:80 - 403 Forbidden
+18.171.42.23:80 - Powdr &#8211; Financial modelling made easy
+34.139.27.74:80 - 404 Not Found
+194.165.104.86:80 - Заголовок не найден
+196.203.60.18:80 - Заголовок не найден
+109.69.187.220:80 - 403 Forbidden
+38.11.18.238:80 - ç½ç«ç»´æ¤ä¸­
