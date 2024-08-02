@@ -24,3 +24,16 @@
 38.31.141.78:80 - 404 Not Found
 23.38.57.84:80 - Заголовок не найден
 107.154.165.190:80 - Заголовок не найден
+18.193.186.120:80 - Azsearch &#8211; Trova i Prezzi dei Migliori Negozi Online.
+104.75.233.65:80 - Заголовок не найден
+219.218.103.142:80 - 404 Not Found
+54.204.123.9:80 - IIS Windows Server
+47.101.192.137:80 - Welcome to tianlanggame!
+88.26.248.69:80 - Honeywell XL Web Controller
+44.214.80.0:80 - PHP Application - AWS Elastic Beanstalk
+207.144.71.178:80 - 
+85.13.161.116:80 - 503 Service Temporarily Unavailable
+87.157.231.22:80 - 
+38.31.141.78:80 - 404 Not Found
+23.38.57.84:80 - Заголовок не найден
+107.154.165.190:80 - Заголовок не найден
