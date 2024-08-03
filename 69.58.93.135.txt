@@ -6674,3 +6674,15 @@ Context: {&quot;exception&quot;:{}} !80!
 45.220.4.220 - RouterOS router configuration page !80!
 103.204.79.118 - Sorry, the website has been stopped !80!
 81.7.10.34 - 404 Not Found !80!
+168.119.7.171 - Оптовый интернет-магазин мужской, женской, детской одежды mega7.com.ua !80!
+99.189.2.176 - Заголовок не найден !80!
+13.212.252.156 - 400 The plain HTTP request was sent to HTTPS port !80!
+192.240.169.16 - Test Page for the Apache HTTP Server & InterWorx-CP !80!
+20.38.113.104 - Заголовок не найден !80!
+160.16.65.85 - Заголовок не найден !80!
+84.250.163.106 - WEB SERVICE !80!
+65.9.134.119 - Заголовок не найден !80!
+47.79.80.94 - Заголовок не найден !80!
+3.235.231.1 - Matillion ETL for Snowflake Login !80!
+15.235.181.233 - Hosted By BisectHosting - BisectHosting !80!
+195.154.113.75 - Serveur Dedibox en maintenance !80!
