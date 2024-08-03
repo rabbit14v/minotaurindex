@@ -7704,3 +7704,157 @@ Reduction in Software Engineering
 82.146.61.7:80 - Apache2 Ubuntu Default Page: It works
 99.86.98.218:80 - Заголовок не найден
 107.135.98.40:80 - Заголовок не найден
+4.226.3.181:80 - Your Azure Function App is up and running.
+104.100.69.250:80 - Заголовок не найден
+3.161.224.230:80 - Заголовок не найден
+38.165.79.59:80 - 404 Not Found
+206.82.11.137:80 - Заголовок не найден
+181.119.56.13:80 - Заголовок не найден
+23.61.73.250:80 - Заголовок не найден
+90.156.211.113:80 - 403 Forbidden
+140.83.81.220:80 - Starter Template Â· Bootstrap
+114.34.108.154:80 - 
+54.231.225.208:80 - Amazon S3 - Cloud Object Storage  - AWS
+195.26.120.194:80 - Vigor Login Page
+210.254.3.62:80 - 403 - Â³êÄ¢Ü¹ñ: ANZXªÛ³êÜµ½B
+104.24.143.189:80 - Direct IP access not allowed | Cloudflare
+150.60.102.227:80 - Заголовок не найден
+3.97.130.215:80 - Canary Login
+3.226.81.25:80 - Заголовок не найден
+172.168.149.47:80 - Заголовок не найден
+146.88.61.12:80 - Заголовок не найден
+71.19.211.66:80 - Заголовок не найден
+45.60.48.3:80 - Заголовок не найден
+154.206.180.176:80 - æ²¡ææ¾å°ç«ç¹
+66.90.130.4:80 - Apache HTTP Server Test Page powered by CentOS
+185.12.98.199:80 - 
+52.78.204.146:80 - 503 Service Temporarily Unavailable
+104.140.200.49:80 - 403 Forbidden
+171.244.137.14:80 - 401 Unauthorized
+154.26.168.240:80 - ERROR: The requested URL could not be retrieved
+51.250.28.23:80 - Welcome to nginx!
+104.70.80.83:80 - Заголовок не найден
+192.141.26.149:80 - 
+162.254.32.154:80 - æ²¡ææ¾å°ç«ç¹
+23.219.197.165:80 - Заголовок не найден
+18.155.32.10:80 - Заголовок не найден
+155.94.251.185:80 - Index of /
+51.255.64.150:80 - WajeezAdmin
+54.197.112.151:80 - Заголовок не найден
+54.178.234.210:80 - 403 Forbidden
+23.209.212.234:80 - Заголовок не найден
+13.35.255.213:80 - Заголовок не найден
+52.85.119.35:80 - Заголовок не найден
+210.117.180.69:80 - Заголовок не найден
+34.44.241.186:80 - Заголовок не найден
+104.24.148.21:80 - Direct IP access not allowed | Cloudflare
+52.7.127.63:80 - Заголовок не найден
+23.43.141.165:80 - Заголовок не найден
+92.223.3.26:80 - Заголовок не найден
+89.161.220.247:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+81.152.202.144:80 - index
+18.161.248.153:80 - Заголовок не найден
+83.212.115.44:80 - Apache2 Ubuntu Default Page: It works
+47.95.130.124:80 - Test Page for the Nginx HTTP Server on EPEL
+52.91.21.164:80 - 404 Not Found
+68.178.165.202:80 - Welcome to XAMPP
+104.19.178.91:80 - Direct IP access not allowed | Cloudflare
+104.24.65.149:80 - Direct IP access not allowed | Cloudflare
+13.225.141.124:80 - Заголовок не найден
+23.49.111.146:80 - Заголовок не найден
+111.89.205.231:80 - YMC
+164.138.24.110:80 - De dienst onder dit domein is nog niet opgezet, is geblokkeerd, of is reeds opgeheven.
+92.12.227.138:80 - .::Welcome to the Web-Based Configurator::.
+23.209.50.9:80 - Заголовок не найден
+115.88.169.67:80 - Setup Login
+107.158.150.19:80 - 403 Forbidden
+95.216.0.77:80 - 403 Forbidden
+95.56.115.16:80 - WEB SERVICE
+64.188.57.37:80 - Home
+3.164.61.0:80 - Заголовок не найден
+150.95.246.47:80 - 403 Error - Forbidden
+125.152.55.215:80 - main page
+195.6.25.245:80 - Airbus Portal Navigation URL
+54.207.94.217:80 - Заголовок не найден
+162.214.5.110:80 - Pure Drinking Mineral Water Filling Machine, Juice Hot Filling Machine, Carbonated Beverage Production Line, Beer Wine Bottling Machine, Edible Oil Filling Equipment, Can Filling Machine - Evertop Machinery Beverage Machinery Manufacturer and Supplier in China - Evertop Machinery professional water and beverage filling production line manufacturer and supplier. Main filling machine include: pure drinking mineral water filling machine, juice hot filling machine, carbonated beverage production line, beer wine bottling machine, edible oil filling equipment, can filling machine etc.
+200.229.29.62:80 - 403 Forbidden
+185.213.25.247:80 - Welcome to nginx!
+15.188.89.53:80 - Welcome to nginx!
+23.231.119.86:80 - 404 Not Found
+89.163.151.144:80 - The-Grinch
+52.88.170.159:80 - Rogue &#8211; Rogue Ales &amp; Spirits
+149.78.187.55:80 - Заголовок не найден
+23.215.75.237:80 - Заголовок не найден
+23.15.144.246:80 - Заголовок не найден
+188.245.57.21:80 - Заголовок не найден
+47.83.11.198:80 - Wordpress &#8211; 又一个WordPress站点
+204.13.226.182:80 - IIS Windows Server
+104.248.71.31:80 - 404 Not Found
+112.165.40.121:80 - 403 - Forbidden
+85.117.37.13:80 - HTTP Server Test Page powered by: Rocky Linux
+70.38.86.249:80 - IIS Windows Server
+77.104.73.199:80 - ورود
+107.149.51.212:80 - 404 Not Found
+158.101.2.34:80 - Welcome to nginx!
+18.155.117.22:80 - Заголовок не найден
+146.75.9.166:80 - Fastly error: unknown domain 146.75.9.166
+23.197.93.100:80 - Заголовок не найден
+23.193.49.22:80 - Заголовок не найден
+218.52.143.103:80 - main page
+79.96.225.190:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+45.83.41.67:80 - Odoo
+18.245.206.203:80 - Заголовок не найден
+184.31.28.194:80 - Заголовок не найден
+67.199.105.166:80 - Заголовок не найден
+124.6.248.72:80 - 
+23.222.214.186:80 - Заголовок не найден
+200.14.214.213:80 - 404 Not Found
+119.235.98.25:80 - Заголовок не найден
+35.244.221.176:80 - Заголовок не найден
+93.119.153.37:80 - Index of /
+104.21.20.53:80 - Direct IP access not allowed | Cloudflare
+138.68.169.212:80 - Apache2 Ubuntu Default Page: It works
+34.76.69.57:80 - Заголовок не найден
+192.48.105.29:80 - Заголовок не найден
+83.166.130.143:80 - web host not found
+188.34.206.199:80 - 404 Not Found
+99.86.161.47:80 - Заголовок не найден
+178.255.224.79:80 - 403 Forbidden
+122.11.185.50:80 - 
+174.138.173.154:80 - Заголовок не найден
+18.172.4.45:80 - Заголовок не найден
+143.92.52.88:80 - æ²¡ææ¾å°ç«ç¹
+1.95.4.139:80 - Заголовок не найден
+122.222.161.65:80 - 
+124.146.220.208:80 - n[ghvWFNgHome
+23.224.93.19:80 - 404 Not Found
+189.113.214.112:80 - 500 Internal Server Error
+184.31.177.203:80 - Заголовок не найден
+23.60.254.103:80 - Заголовок не найден
+118.40.227.65:80 - 
+198.166.150.14:80 - VNC desktop
+23.51.246.47:80 - Заголовок не найден
+206.189.246.51:80 - 404 Not Found
+2.22.28.30:80 - Заголовок не найден
+13.127.166.204:80 - Заголовок не найден
+154.8.197.186:80 - Заголовок не найден
+52.34.191.9:80 - Заголовок не найден
+23.216.211.117:80 - Заголовок не найден
+23.196.80.103:80 - Заголовок не найден
+13.59.202.253:80 - Ionic App
+139.99.174.157:80 - Заголовок не найден
+175.41.172.130:80 - 404 Not Found
+190.138.146.122:80 - 
+23.39.83.160:80 - Заголовок не найден
+23.13.158.243:80 - Заголовок не найден
+216.164.207.10:80 - Document Moved
+142.132.214.42:80 - 403 Forbidden
+4.245.54.254:80 - Welcome to Azure Container Instances!
+18.160.29.159:80 - Заголовок не найден
+181.177.96.16:80 - 407 Proxy Authentication Required
+23.194.104.184:80 - Заголовок не найден
+20.4.247.244:80 - Заголовок не найден
+13.64.66.211:80 - 404 Not Found
+154.198.224.111:80 - Google
+98.213.208.145:80 - Заголовок не найден
+23.53.65.111:80 - Заголовок не найден
