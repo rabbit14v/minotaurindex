@@ -12037,3 +12037,60 @@
 72.22.253.125:80 - Заголовок не найден
 154.64.67.43:80 - 404 Not Found
 184.24.112.154:80 - Заголовок не найден
+46.242.217.162:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+54.77.30.22:80 - 503 Service Temporarily Unavailable
+88.218.194.40:80 - 十二铺
+171.242.173.35:80 - 
+59.126.254.101:80 - 
+23.60.149.122:80 - Заголовок не найден
+207.60.5.46:80 - 403 Forbidden
+89.113.123.45:80 - Error 404 (Not Found)!!1
+203.32.25.227:80 - Apache2 Ubuntu Default Page: It works
+185.233.38.18:80 - Заголовок не найден
+45.148.36.23:80 - 501: Not Implemented
+201.73.207.244:80 - Server Unavailable
+78.92.135.99:80 - 
+5.9.105.209:80 - Заголовок не найден
+173.240.158.239:80 - Hosted By BisectHosting - BisectHosting
+23.205.43.17:80 - Заголовок не найден
+104.87.65.77:80 - Заголовок не найден
+93.126.91.186:80 - 
+213.212.143.241:80 - Apache2 Ubuntu Default Page: It works
+154.60.199.36:80 - 500 Internal Server Error
+23.47.128.219:80 - Заголовок не найден
+54.192.41.67:80 - Заголовок не найден
+111.51.76.43:80 - Заголовок не найден
+104.129.47.152:80 - ERROR: The requested URL could not be retrieved
+86.104.195.156:80 - 403 - Forbidden: Access is denied.
+68.66.205.90:80 - Florida Case Law Research
+5.231.100.180:80 - Page not found
+85.214.219.19:80 - Web Server's Default Page
+192.244.106.84:80 - Заголовок не найден
+85.146.200.133:80 - Web Page Blocked
+23.227.154.10:80 - Заголовок не найден
+167.99.108.206:80 - Apache2 Ubuntu Default Page: It works
+23.47.146.175:80 - Заголовок не найден
+184.29.224.206:80 - Заголовок не найден
+216.27.7.237:80 - IIS Windows Server
+109.230.130.194:80 - Заголовок не найден
+150.60.28.168:80 - ControlPanel
+4.151.220.140:80 - IIS Windows Server
+185.31.112.220:80 - 403 Forbidden
+45.124.56.108:80 - Заголовок не найден
+91.121.43.20:80 - Error 503: server unavailable
+121.40.22.55:80 - 404 Not Found
+23.33.35.28:80 - Заголовок не найден
+68.112.67.9:80 - 
+8.217.230.8:80 - 404 Not Found
+108.60.15.80:80 - Заголовок не найден
+74.217.202.5:80 - Hosted By BisectHosting - BisectHosting
+123.56.27.193:80 - HTTP Server Test Page
+3.235.54.14:80 - 404 Not Found
+82.98.104.70:80 - Person / Info zu Name - Personensuche Yasni.de
+122.112.136.204:80 - 404 Not Found
+23.47.88.180:80 - Заголовок не найден
+113.183.194.134:80 - 
+18.238.103.20:80 - Заголовок не найден
+71.132.187.155:80 - 
+154.217.66.46:80 - 404 Not Found
+51.68.199.4:80 - Apache2 Ubuntu Default Page: It works
