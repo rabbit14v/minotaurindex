@@ -81,3 +81,35 @@
 72.247.137.245:80 - Заголовок не найден
 156.224.235.184:80 - Заголовок не найден
 20.106.0.106:80 - Your Azure Function App is up and running.
+143.110.191.133:80 - Updating
+85.128.197.53:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+71.24.84.30:80 - index
+23.63.1.70:80 - Заголовок не найден
+187.84.56.242:80 - Connection denied by Geolocation
+104.151.58.86:80 - Заголовок не найден
+3.231.130.129:80 - Make It Rain Demo
+206.238.236.136:80 - Direct IP access not allowed | Cloudflare
+115.187.39.207:80 - Please wait, the login page is opening...
+133.242.164.252:80 - Apache HTTP Server Test Page powered by CentOS
+157.112.183.73:80 - ç¡å¹ãªURLã§ã
+202.62.64.177:80 - City Online-Internet Service with world class technology
+23.194.84.218:80 - Заголовок не найден
+27.85.181.47:80 - Error 404 (Not Found)!!1
+52.146.86.52:80 - Microsoft Azure Web App - Error 404
+46.140.65.155:80 - NXC2500
+18.139.22.32:80 - Заголовок не найден
+86.150.219.77:80 - DVR Components Download
+23.64.149.69:80 - Заголовок не найден
+45.221.108.9:80 - 403 Forbidden
+23.57.208.159:80 - Заголовок не найден
+168.194.170.238:80 - RouterOS router configuration page
+180.130.108.32:80 - 401 Authorization Required
+156.225.137.62:80 - æ²¡ææ¾å°ç«ç¹
+60.204.201.2:80 - Заголовок не найден
+52.139.87.128:80 - 404 Not Found
+81.18.86.34:80 - Roundcube Webmail :: Welcome to Roundcube Webmail
+104.17.54.131:80 - Direct IP access not allowed | Cloudflare
+104.85.43.26:80 - Заголовок не найден
+38.97.146.70:80 - Заголовок не найден
+118.69.17.72:80 - Заголовок не найден
+18.155.99.106:80 - Заголовок не найден
