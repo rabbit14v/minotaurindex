@@ -6753,3 +6753,42 @@ NC
 18.164.9.37:80 - Заголовок не найден
 104.248.21.109:80 - Заголовок не найден
 14.45.146.90:80 - 
+37.57.178.245:80 - 
+3.120.99.53:80 - 404 Not Found
+38.11.104.65:80 - Captcha Challenge
+89.116.50.94:80 - Apache2 Ubuntu Default Page: It works
+222.231.31.201:80 - ¸®µåÀÎ
+43.198.141.81:80 - Заголовок не найден
+84.246.210.234:80 - Web Server's Default Page
+184.24.159.105:80 - Заголовок не найден
+148.72.244.4:80 - Заголовок не найден
+104.20.105.134:80 - Direct IP access not allowed | Cloudflare
+23.60.220.33:80 - Заголовок не найден
+54.230.175.254:80 - Заголовок не найден
+212.68.186.51:80 - Index of /
+174.131.166.73:80 - Заголовок не найден
+212.224.72.204:80 - Sorry, the website has been stopped
+159.138.115.218:80 - Заголовок не найден
+45.38.172.223:80 - 403 Forbidden
+72.32.247.220:80 - Заголовок не найден
+173.95.176.44:80 - 503 Service Not Available
+69.75.31.125:80 - CMS Web Viewer
+62.240.181.6:80 - Jan Šplíchal - Imaginativní fotografie
+200.198.4.128:80 - ONLYOFFICE Docs Enterprise Edition
+184.28.179.73:80 - Заголовок не найден
+104.25.179.77:80 - Direct IP access not allowed | Cloudflare
+193.160.64.25:80 - 403 Forbidden
+36.90.57.125:80 - Заголовок не найден
+62.28.248.136:80 - Заголовок не найден
+203.0.228.207:80 - Access denied | www.healius.com.au used Cloudflare to restrict access
+44.194.200.128:80 - Frontier Bistro
+13.224.28.171:80 - Заголовок не найден
+52.91.62.149:80 - 503 Service Unavailable
+23.88.80.32:80 - Login
+104.88.241.5:80 - Заголовок не найден
+41.223.173.99:80 - Заголовок не найден
+192.65.217.36:80 - Direct IP access not allowed | Cloudflare
+23.47.223.236:80 - Error
+206.2.244.184:80 - 404 Not Found
+192.158.236.23:80 - ERROR: The requested URL could not be retrieved
+64.62.217.30:80 - HURRICANE ELECTRIC
