@@ -512,3 +512,8 @@
 47.103.87.107:80 - IIS Windows Server
 173.234.22.15:80 - Web Server Default page.
 13.224.31.2:80 - Заголовок не найден
+38.59.242.120:80 - Mikutap
+104.68.247.201:80 - Заголовок не найден
+106.75.7.53:80 - 交易师|交易师多屏系统|交易师全推行情
+151.101.67.230:80 - Fastly error: unknown domain 151.101.67.230
+207.148.20.239:80 - Login | University of Cambridge Alumni
