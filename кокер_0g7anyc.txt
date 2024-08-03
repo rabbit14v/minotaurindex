@@ -1321,3 +1321,144 @@ Technical University (BMSTU).
 157.230.12.201:80 - Database Error
 196.240.79.101:80 - 403 Forbidden
 167.99.144.246:80 - literary scout database
+23.212.160.89:80 - Заголовок не найден
+23.223.141.124:80 - Заголовок не найден
+206.119.102.22:80 - 500 Internal Server Error
+23.201.126.70:80 - Заголовок не найден
+13.59.238.154:80 - HammerHead Technology
+151.101.234.84:80 - Fastly error: unknown domain 151.101.234.84
+64.85.108.85:80 - Apache2 Ubuntu Default Page: It works
+142.250.157.124:80 - Google
+95.58.243.252:80 - GPON Home Gateway
+104.138.196.29:80 - 
+72.167.206.1:80 - Foodys2go &#8211; Just another WordPress site
+18.238.197.128:80 - Заголовок не найден
+18.65.94.143:80 - Заголовок не найден
+165.227.89.165:80 - PHP 7.3.7-2+ubuntu18.04.1+deb.sury.org+1 - phpinfo()
+50.63.132.95:80 - Coming Soon
+220.116.108.218:80 - Заголовок не найден
+212.225.219.124:80 - 500 Internal Server Error
+49.12.106.172:80 - Default Site
+195.161.68.104:80 - ÐÑÐ¸Ð±ÐºÐ° 404. Ð¤Ð°Ð¹Ð» Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½
+31.0.246.188:80 - Topcon receiver
+15.207.51.107:80 - Sign in to your account
+37.187.159.159:80 - IIS Windows Server
+107.154.64.8:80 - Заголовок не найден
+155.94.190.164:80 - 403 Forbidden
+47.254.216.169:80 - Test Page for the Nginx HTTP Server on Fedora
+210.154.249.180:80 - Заголовок не найден
+113.162.79.249:80 - 
+42.200.94.99:80 - FortiGate
+54.155.73.34:80 - Oups - Seloger
+149.96.237.116:80 - 403 Forbidden
+112.186.41.96:80 - Заголовок не найден
+104.17.37.183:80 - Direct IP access not allowed | Cloudflare
+124.156.143.19:80 - Welcome to nginx!
+104.18.175.35:80 - Direct IP access not allowed | Cloudflare
+90.227.245.242:80 - UniFi Protect
+195.85.23.48:80 - Direct IP access not allowed | Cloudflare
+38.154.99.230:80 - ERROR: The requested URL could not be retrieved
+47.236.226.107:80 - Welcome to nginx!
+122.11.185.236:80 - 
+2.19.221.73:80 - Заголовок не найден
+168.91.99.111:80 - Apache HTTP Server Test Page powered by CentOS
+18.165.170.113:80 - Заголовок не найден
+23.56.117.111:80 - Заголовок не найден
+198.12.253.39:80 - Заголовок не найден
+45.58.38.98:80 - Заголовок не найден
+23.46.33.232:80 - Заголовок не найден
+213.184.251.213:80 - Заголовок не найден
+79.150.28.159:80 - 
+129.154.241.64:80 - Default Site
+52.144.43.73:80 - IIS Windows Server
+164.52.217.123:80 - Posibolt ERP
+196.51.211.9:80 - ERROR: The requested URL could not be retrieved
+199.247.0.121:80 - Web Server's Default Page
+103.245.195.168:80 - 401 Authorization Required
+37.27.64.220:80 - 404 Not Found
+23.200.49.91:80 - Заголовок не найден
+85.210.103.160:80 - Заголовок не найден
+121.130.237.152:80 - main page
+89.233.58.124:80 - Заголовок не найден
+61.37.131.58:80 - 
+144.24.219.86:80 - Заголовок не найден
+108.156.235.27:80 - Заголовок не найден
+23.226.181.141:80 - 403 Forbidden
+103.94.169.108:80 - Login – Nextcloud
+23.192.208.100:80 - Заголовок не найден
+193.107.90.169:80 - Заголовок не найден
+111.63.59.17:80 - Заголовок не найден
+139.5.86.116:80 - Заголовок не найден
+120.221.81.196:80 - 403 Forbidden
+34.213.111.104:80 - 403 Forbidden
+47.109.102.180:80 - Vite App
+23.46.120.104:80 - Заголовок не найден
+23.172.114.124:80 - Index of /
+20.247.128.116:80 - Заголовок не найден
+181.23.112.243:80 - Заголовок не найден
+23.52.157.189:80 - Заголовок не найден
+134.209.198.67:80 - 403 &mdash; Forbidden
+108.186.152.78:80 - Заголовок не найден
+23.214.172.125:80 - Заголовок не найден
+213.30.109.225:80 - 
+92.205.131.36:80 - Reserviert - Werbeagentur extrascharf
+65.9.122.52:80 - Заголовок не найден
+104.25.54.25:80 - Direct IP access not allowed | Cloudflare
+57.128.1.59:80 - Error 503: server unavailable
+88.221.177.245:80 - Заголовок не найден
+176.31.220.160:80 - 403 - Forbidden: Access is denied.
+194.76.35.204:80 - ERROR: The requested URL could not be retrieved
+35.129.139.90:80 - Home
+23.9.145.116:80 - Заголовок не найден
+176.135.249.19:80 - Centrale
+75.187.229.138:80 - 
+81.19.160.35:80 - Inicio - El pincel de la vida
+93.127.127.64:80 - Title
+47.197.35.181:80 - Apache2 Debian Default Page: It works
+104.16.35.245:80 - Direct IP access not allowed | Cloudflare
+54.244.116.30:80 - Access to this page has been denied.
+184.31.56.154:80 - Заголовок не найден
+38.54.210.86:80 - Заголовок не найден
+191.6.197.117:80 - Site Hospedado na KingHost|Data Center no Brasil
+95.216.149.188:80 - Apache2 Ubuntu Default Page: It works
+52.27.250.247:80 - Заголовок не найден
+94.152.217.248:80 - 403 Forbidden
+124.222.55.88:80 - 401 Authorization Required
+23.219.80.203:80 - Заголовок не найден
+162.159.57.54:80 - Blocked by Cloudflare Gateway
+176.119.49.48:80 - Welcome to nginx!
+40.69.154.89:80 - 404 Not Found
+104.19.25.21:80 - Direct IP access not allowed | Cloudflare
+50.116.84.196:80 - Not Acceptable!
+154.217.114.45:80 - 404 Not Found
+13.224.60.188:80 - Заголовок не найден
+104.124.14.93:80 - Заголовок не найден
+23.212.203.16:80 - Заголовок не найден
+50.28.74.213:80 - Заголовок не найден
+118.214.250.55:80 - Заголовок не найден
+20.201.103.38:80 - Your Azure Function App is up and running.
+2.22.184.247:80 - Заголовок не найден
+8.140.48.239:80 - Заголовок не найден
+213.105.19.38:80 - Заголовок не найден
+52.21.137.20:80 - Заголовок не найден
+202.229.133.163:80 - Заголовок не найден
+65.20.74.18:80 - Web Server's Default Page
+4.231.66.36:80 - Your Azure Function App is up and running.
+187.174.97.82:80 - IIS Windows Server
+185.221.173.58:80 - Заголовок не найден
+23.220.40.54:80 - Заголовок не найден
+190.115.253.254:80 - RouterOS router configuration page
+34.201.236.196:80 - Moments App &#8211; Android &amp; IOS
+104.248.247.222:80 - Welcome to nginx!
+23.209.212.142:80 - Заголовок не найден
+162.144.70.102:80 - Заголовок не найден
+104.80.11.252:80 - Заголовок не найден
+52.36.206.247:80 - Sevenet-Gesti&oacute;n Corporativa de la Informaci&oacute;n
+196.51.224.214:80 - ERROR: The requested URL could not be retrieved
+52.79.158.11:80 - OPTIMIND | Ars Praxia
+154.215.112.17:80 - 403 Forbidden
+63.33.138.138:80 - Soil Moisture Sense
+130.208.147.2:80 - Заголовок не найден
+145.239.219.185:80 - PHP Mailer
+71.11.126.198:80 - 404 Not Found
+13.224.118.224:80 - Заголовок не найден
