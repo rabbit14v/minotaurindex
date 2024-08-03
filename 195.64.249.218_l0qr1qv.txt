@@ -1982,3 +1982,26 @@
 59.160.171.78 - 403 - Forbidden: Access is denied. !80!
 13.210.27.22 - Website Unavailable !80!
 125.74.108.123 - Заголовок не найден !80!
+35.200.199.252 - Welcome to nginx! !80!
+34.142.7.145 - Заголовок не найден !80!
+14.225.11.34 - HTTP Status 404 – Not Found !80!
+42.157.166.64 - RouterOS router configuration page !80!
+23.197.197.30 - Заголовок не найден !80!
+47.99.228.89 - Заголовок не найден !80!
+85.128.196.120 - Domena  jest utrzymywana na serwerach nazwa.pl !80!
+218.65.20.137 - WEB SERVICE !80!
+34.176.223.118 - Заголовок не найден !80!
+144.202.58.242 - Заголовок не найден !80!
+185.169.25.92 - Apache2 Debian Default Page: It works !80!
+52.66.183.69 - 503 Service Temporarily Unavailable !80!
+54.68.36.110 - 403 Forbidden !80!
+213.135.174.102 - ÐÐµ Ð¼Ð¾Ð»Ð¸Ð¼Ðµ Ð¿Ð¾ÑÐµÐºÐ°ÑÑÐµ... !80!
+122.51.187.58 - Test Page for Apache Installation !80!
+94.154.46.74 - 500 Internal Server Error !80!
+103.158.139.210 - Заголовок не найден !80!
+23.32.211.195 - Заголовок не найден !80!
+23.66.148.199 - Заголовок не найден !80!
+18.65.32.191 - Заголовок не найден !80!
+199.232.248.19 - Fastly error: unknown domain 199.232.248.19 !80!
+210.149.11.236 - Заголовок не найден !80!
+13.56.41.152 - MethodIntegration will redirect you momentarily !80!
