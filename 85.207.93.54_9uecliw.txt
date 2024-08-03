@@ -2446,3 +2446,11 @@ Food Truck Notifications !80!
 111.51.144.243 - 403 Forbidden !80!
 61.47.249.135 - DVR ActiveX Viewer !80!
 78.46.203.4 - Rücken- und Gesäßschmerzen beim Radfahren - Fahrradkenner !80!
+18.195.201.254 - Web Site Not Found !80!
+17.253.102.97 - Заголовок не найден !80!
+193.228.13.95 - ERROR: The requested URL could not be retrieved !80!
+89.39.220.249 - RouterOS router configuration page !80!
+184.31.194.186 - Заголовок не найден !80!
+186.220.188.71 - Apache2 Debian Default Page: It works !80!
+120.24.232.216 - 403 Forbidden !80!
+143.42.1.47 - Apache2 Ubuntu Default Page: It works !80!
