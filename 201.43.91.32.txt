@@ -3592,3 +3592,18 @@ Unified syncronization with ActiveSync, SyncML IMAP and POP3 Email Services with
 13.231.207.39 - WordPress &rsaquo; 構成ファイルのセットアップ !80!
 50.62.149.38 - Guy Thibodeaux Air Conditioning, Inc &#8211; dba GRANGER A/C !80!
 1.51.203.37 - 404 Not Found !80!
+212.83.144.78 - Home | 212.83.144.78 !80!
+104.121.144.64 - Заголовок не найден !80!
+99.142.75.202 - AT&T WiFi Portal !80!
+198.23.173.123 - 403 Forbidden !80!
+153.125.173.57 - Заголовок не найден !80!
+23.54.133.133 - Заголовок не найден !80!
+37.27.57.134 - Welcome to nginx! !80!
+172.64.99.210 - Direct IP access not allowed | Cloudflare !80!
+45.239.228.18 - Welcome to Citrix XenServer 7.6.0 !80!
+75.103.65.84 - Заголовок не найден !80!
+60.217.23.163 - 404 Not Found !80!
+65.8.45.65 - Заголовок не найден !80!
+61.4.127.118 - æ²¡ææ¾å°ç«ç¹ !80!
+23.52.237.167 - Заголовок не найден !80!
+86.105.58.79 - Заголовок не найден !80!
