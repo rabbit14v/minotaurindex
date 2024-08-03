@@ -8124,3 +8124,14 @@
 185.244.249.45 - Заголовок не найден !80!
 172.66.138.167 - Direct IP access not allowed | Cloudflare !80!
 23.200.46.192 - Заголовок не найден !80!
+34.102.202.144 - Performance Marketing Platform !80!
+172.67.60.201 - Direct IP access not allowed | Cloudflare !80!
+115.146.119.76 - Заголовок не найден !80!
+149.30.181.18 - 404 Not Found !80!
+84.246.245.69 - Domain parked at LogiqIT !80!
+172.105.37.173 - 404 Not Found !80!
+54.172.241.19 - Voxel Digital | Digital Signage Suite !80!
+93.89.226.26 - Privacy Protection Service for domain names | whois protection !80!
+23.52.154.170 - Заголовок не найден !80!
+143.107.193.254 - Apache2 Debian Default Page: It works !80!
+52.194.218.100 - 401 Unauthorized !80!
