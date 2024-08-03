@@ -1516,3 +1516,211 @@
 23.212.78.63:80 - Заголовок не найден
 152.169.187.76:80 - WEB SERVICE
 134.158.38.212:80 - Web Page Blocked
+127.39.126.227:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+8.141.83.147:80 - 404 Not Found
+92.122.88.164:80 - Заголовок не найден
+199.91.103.122:80 - Apache2 Ubuntu Default Page: It works
+112.153.16.107:80 - Заголовок не найден
+103.85.5.107:80 - RouterOS
+127.152.165.171:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.192.41.217:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+190.99.183.74:80 - welcome
+67.20.117.246:80 - Not Acceptable!
+23.64.153.4:80 - Заголовок не найден
+127.16.229.248:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+184.85.108.110:80 - Заголовок не найден
+193.123.231.237:80 - Заголовок не найден
+117.168.147.190:80 - 404 Not Found
+13.249.26.98:80 - Заголовок не найден
+127.10.31.17:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+47.109.106.234:80 - æ²¡ææ¾å°ç«ç¹
+38.12.163.185:80 - ç½ç«ç»´æ¤ä¸­
+45.248.10.172:80 - è¯¥ç½ç«ææ¶æ æ³è¿è¡è®¿é®
+23.213.166.66:80 - Заголовок не найден
+18.158.223.18:80 - Заголовок не найден
+103.87.141.199:80 - Please wait, the login page is opening...
+127.185.103.45:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+154.213.132.101:80 - Заголовок не найден
+34.160.193.229:80 - Заголовок не найден
+184.25.109.200:80 - Заголовок не найден
+144.202.40.55:80 - Web Server's Default Page
+18.185.159.50:80 - Заголовок не найден
+104.17.63.17:80 - Direct IP access not allowed | Cloudflare
+23.208.42.165:80 - Заголовок не найден
+18.194.231.3:80 - GetCash
+127.4.127.118:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+35.89.250.150:80 - Заголовок не найден
+104.148.35.243:80 - Apache HTTP Server Test Page powered by CentOS
+127.0.155.4:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.231.0.18:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+108.158.164.156:80 - Заголовок не найден
+18.191.64.64:80 - Заголовок не найден
+222.156.7.41:80 - VoIP Gateway
+67.222.155.235:80 - Заголовок не найден
+173.14.14.54:80 - index
+66.172.22.131:80 - All Systems Go - Login Page
+75.119.194.36:80 - Site not found &middot; DreamHost
+1.51.249.22:80 - 404 Not Found
+213.137.48.200:80 - 
+100.29.52.64:80 - 401 Authorization Required
+39.98.67.32:80 - 404 Not Found
+98.174.112.214:80 - Document Moved
+23.48.121.245:80 - Заголовок не найден
+127.14.82.155:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+59.63.169.93:80 - ERROR
+127.178.34.49:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+210.182.9.40:80 - ì°ë¦¬ìí
+89.117.145.230:80 - Lo Mejor Para Tu Vehiculo Aqui &quot;RYMLED&quot;
+127.232.119.190:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.20.105.13:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+3.113.195.43:80 - ママの休食公式ブランドサイト
+43.138.199.247:80 - Welcome to nginx!
+127.216.181.63:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.235.219.64:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.13.205.189:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+146.176.251.208:80 - Motorsports Quiz Site
+23.223.108.131:80 - Заголовок не найден
+35.72.219.83:80 - 403 Forbidden
+4.175.98.162:80 - Your Azure Function App is up and running.
+23.90.2.209:80 - 403 Forbidden
+15.204.191.31:80 - 404 Not Found
+127.128.222.218:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+108.139.107.226:80 - Заголовок не найден
+127.23.17.108:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+195.39.39.116:80 - IIS Windows Server
+127.101.16.26:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+51.120.90.75:80 - Заголовок не найден
+45.204.81.13:80 - 403 Forbidden
+23.222.80.112:80 - Заголовок не найден
+78.46.220.66:80 - Заголовок не найден
+104.115.26.155:80 - Заголовок не найден
+50.63.142.63:80 - Заголовок не найден
+3.218.179.197:80 - LinkedIn Connector 404
+52.159.151.147:80 - Заголовок не найден
+78.85.214.207:80 - ÐÑÐ¾Ð´
+127.189.190.52:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+94.198.164.54:80 - Default Parallels Plesk Panel Page
+98.98.116.210:80 - Заголовок не найден
+104.90.241.6:80 - Заголовок не найден
+74.114.196.66:80 - Заголовок не найден
+87.75.101.140:80 - Заголовок не найден
+127.109.137.23:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+185.218.3.227:80 - Apache2 Ubuntu Default Page: It works
+144.22.217.0:80 - 502 Bad Gateway
+127.190.192.89:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+12.107.210.31:80 - AT&T WiFi Portal
+109.160.53.89:80 - Заголовок не найден
+127.242.96.77:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.120.78.58:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+23.222.242.179:80 - Заголовок не найден
+127.192.217.79:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+128.140.102.143:80 - Заголовок не найден
+20.212.18.19:80 - IIS Windows Server
+102.140.92.159:80 - 404 Not Found
+23.215.245.146:80 - Заголовок не найден
+18.164.223.30:80 - Заголовок не найден
+127.149.214.115:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+54.174.91.199:80 - Yauco
+127.91.219.199:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.156.211.170:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+18.65.30.32:80 - Заголовок не найден
+206.85.46.16:80 - ZC-521
+127.16.134.219:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.60.67.223:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+173.249.14.130:80 - Success!
+195.15.221.250:80 - web host not found
+18.161.53.144:80 - Заголовок не найден
+47.244.1.145:80 - Welcome to nginx!
+127.187.83.12:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+104.64.242.56:80 - Заголовок не найден
+127.238.255.146:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.54.248.0:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+95.101.173.180:80 - Заголовок не найден
+13.249.61.100:80 - Заголовок не найден
+181.78.106.204:80 - RouterOS router configuration page
+180.218.109.95:80 - 401 Unauthorized
+38.28.250.101:80 - 404 Not Found
+98.31.50.196:80 - KLOWNNAS&nbsp;-&nbsp;Synology&nbsp;DiskStation
+104.160.5.101:80 - 403 Forbidden
+107.158.41.58:80 - ERROR: The requested URL could not be retrieved
+23.77.211.40:80 - Заголовок не найден
+127.254.193.119:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+184.27.172.32:80 - Заголовок не найден
+47.13.140.42:80 - 
+184.171.245.75:80 - Techs Mart de M&eacute;xico
+45.79.228.14:80 - ByteBriefly
+13.35.191.148:80 - Заголовок не найден
+127.105.119.123:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+37.232.29.137:80 - 
+121.5.99.71:80 - 数据脱敏降密
+165.231.121.194:80 - 407 Proxy Authentication Required
+185.79.230.91:80 - 404 Not Found
+92.122.11.143:80 - Заголовок не найден
+127.60.230.248:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+35.174.217.188:80 - Заголовок не найден
+104.161.185.58:80 - Unable to Process Request
+187.109.111.84:80 - Meu Redirect
+127.121.35.126:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.58.218.27:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.108.53.165:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+45.223.129.196:80 - Заголовок не найден
+23.205.28.127:80 - Заголовок не найден
+181.26.106.116:80 - Заголовок не найден
+23.195.148.133:80 - Заголовок не найден
+59.2.225.12:80 - main page
+3.74.73.168:80 - 403 Forbidden
+104.24.195.202:80 - Direct IP access not allowed | Cloudflare
+127.41.180.218:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+187.0.171.167:80 - Заголовок не найден
+127.87.12.70:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+20.219.10.22:80 - Заголовок не найден
+195.82.7.249:80 - GPON Home Gateway
+23.7.219.123:80 - Заголовок не найден
+18.211.242.147:80 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'leiloes_hide.status' in 'field list' (SQL: select distinct IF(leiloes_ai_campos.id &gt; 0, leiloes_ai_campos.id, 0) as leilaoCaixa, ((leiloes.lote_lance_inicial_1/leiloes.lote_lance_inicial_2)*100) as desconto, `leiloes`.`id`, `leiloes`.`id` as `leilao_id`, `leiloes`.`title`, `leiloes`.`origem_UF`, `leiloes`.`origem_Cidade`, `leiloes`.`procedencia_id`, `leiloes`.`lote_numero`, `leiloes`.`lote_data_hora_1`, `leiloes`.`lote_lance_inicial_1`, `leiloes`.`lote_data_hora_2`, `leiloes`.`lote_data_hora_3`, `leiloes`.`lote_lance_inicial_3`, (SELECT COUNT(distinct logcliente.user_id) from logcliente WHERE logcliente.leilao_id = leiloes.id AND logcliente.action = 'V') as views, `leiloes`.`lote_valor_avaliacao`, `leiloes`.`leiloeiro_id`, IF(leiloes_hide.status &gt; 0, 1, 0) as hide, `leiloes`.`lote_lance_inicial_2`, `leiloes`.`id` as `leilao_id`, `leiloes_imovel`.`desocupado`, `leiloeiros`.`name` as `leiloeiro_name`, `procedencias`.`name` as `procedencia_name`, `subcategorias`.`name` as `subcategoria_name`, `leiloes`.`status`, `leiloes`.`created_at`, `leiloes`.`updated_at`, `leiloes`.`lote_descricao`, `leiloes_imagens`.`url_imagem`, `leiloes_imovel`.`geocodeJSON`, `leiloes_imovel`.`imageGoogle` from `leiloes` left join `leiloes_imagens` on `leiloes_imagens`.`leilao_id` = `leiloes`.`id` and `leiloes_imagens`.`imagem_capa` = 1 left join `leiloes_ai_campos` on `leiloes_ai_campos`.`leilao_id` = `leiloes`.`id` and `leiloes_ai_campos`.`campo` in (Número do Bem, Nº do Bem) left join `procedencias` on `procedencias`.`id` = `leiloes`.`procedencia_id` left join `subcategorias` on `subcategorias`.`id` = `leiloes`.`subcategoria_id` left join `leiloeiros` on `leiloeiros`.`id` = `leiloes`.`leiloeiro_id` left join `leiloes_imovel` on `leiloes_imovel`.`leilao_id` = `leiloes`.`id` where `leiloes`.`categoria_id` = 1 and (`leiloes`.`lote_data_hora_1` &gt;= 2024-08-03 00:01:00 or (`leiloes`.`lote_data_hora_2` &gt;= 2024-08-03 00:01:00) or `leiloes`.`lote_data_hora_1` is null) and (`leiloes`.`status` = 1) order by `leiloes`.`id` desc limit 10) (500 Internal Server Error)
+104.71.152.52:80 - Заголовок не найден
+187.120.181.80:80 - Intelbras
+121.40.38.19:80 - 403 Forbidden
+216.197.98.52:80 - Заголовок не найден
+202.61.243.192:80 - Cloudron - Not Found
+54.37.18.186:80 - Wordpress &#8211; Just another WordPress site
+108.139.79.164:80 - Заголовок не найден
+16.182.109.88:80 - Amazon S3 - Cloud Object Storage  - AWS
+95.216.214.60:80 - Apache HTTP Server Test Page powered by CentOS
+127.156.201.61:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+50.112.23.228:80 - 503 Service Temporarily Unavailable
+104.18.74.199:80 - Direct IP access not allowed | Cloudflare
+58.221.236.118:80 - Заголовок не найден
+150.60.114.31:80 - Заголовок не найден
+2.21.242.243:80 - Заголовок не найден
+52.136.32.121:80 - Заголовок не найден
+168.76.176.147:80 - 
+203.189.97.19:80 - zeebraster.net
+35.173.40.41:80 - LINK3D | World Class Automated Additive Manufacturing Workflow Software - Digital Factory&trade;
+140.248.137.46:80 - Fastly error: unknown domain 140.248.137.46
+4.248.15.37:80 - Your Azure Function App is up and running.
+127.141.60.156:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.238.27.110:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+3.143.244.85:80 - 404 Not Found
+127.43.174.230:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+88.198.140.153:80 - Artboard
+3.214.65.115:80 - Заголовок не найден
+2.204.142.114:80 - LANCOM 1781VAW (over ISDN) - Rathei: Login
+156.232.33.142:80 - 404 Not Found
+38.6.65.119:80 - Заголовок не найден
+127.135.54.6:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+95.101.54.172:80 - Заголовок не найден
+149.86.101.139:80 - 404 Not Found
+127.247.134.226:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.82.252.58:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.177.103.15:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.24.101.50:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.185.129.28:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+104.88.243.158:80 - Заголовок не найден
+122.51.158.161:80 - New Point Education啊1111
+127.179.219.108:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.221.247.157:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+127.65.110.162:80 - [ NÄC ] | ThÃ´ng tin cÃ¡ nhÃ¢n
+23.214.211.245:80 - Заголовок не найден
+18.161.220.36:80 - Заголовок не найден
+23.10.228.34:80 - Заголовок не найден
+13.224.244.254:80 - Заголовок не найден
