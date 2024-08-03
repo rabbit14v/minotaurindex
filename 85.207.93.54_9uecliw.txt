@@ -3313,3 +3313,19 @@ Food Truck Notifications !80!
 66.248.197.196 - Hosted By BisectHosting - BisectHosting !80!
 91.74.19.250 - Заголовок не найден !80!
 192.177.166.126 - 403 Forbidden !80!
+136.243.88.224 - Заголовок не найден !80!
+23.6.254.52 - Заголовок не найден !80!
+92.205.209.186 - 404 Not Found !80!
+157.245.193.220 - Заголовок не найден !80!
+38.95.232.210 - 502 Bad Gateway !80!
+23.38.237.52 - Заголовок не найден !80!
+104.27.61.215 - Direct IP access not allowed | Cloudflare !80!
+106.254.135.118 - WEB SERVICE !80!
+20.11.241.142 - Your Azure Function App is up and running. !80!
+189.124.78.219 - F670L !80!
+66.232.115.164 - 403 Forbidden !80!
+67.202.52.251 - Заголовок не найден !80!
+64.185.4.28 - Document Moved !80!
+34.246.102.51 - 404 Not Found !80!
+35.224.50.56 - Apache2 Debian Default Page: It works !80!
+116.63.77.23 - IIS Windows Server !80!
