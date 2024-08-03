@@ -6079,3 +6079,19 @@ NC
 186.96.218.106:80 - Vivotek ND9541
 139.59.125.142:80 - Website Unavailable
 20.242.40.105:80 - PoliteMail
+191.82.28.154:80 - Заголовок не найден
+52.49.123.92:80 - 503 Service Temporarily Unavailable
+67.231.240.114:80 - Web Server's Default Page
+154.218.0.60:80 - Mark
+107.0.199.175:80 - Apache HTTP Server Test Page powered by CentOS
+34.129.252.22:80 - Заголовок не найден
+20.229.105.15:80 - Page Redirection
+45.39.200.76:80 - 404 Not Found
+77.94.244.102:80 - Apache2 Ubuntu Default Page: It works
+156.252.3.72:80 - Direct IP access not allowed | Cloudflare
+52.216.110.42:80 - Amazon S3 - Cloud Object Storage  - AWS
+108.138.41.34:80 - Заголовок не найден
+160.121.47.122:80 - 404 Not Found
+2.20.53.23:80 - Заголовок не найден
+184.24.14.196:80 - Заголовок не найден
+52.68.60.66:80 - INS
