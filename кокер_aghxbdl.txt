@@ -6984,3 +6984,10 @@ NC
 51.75.51.232:80 - Batna24.com | Network equipment store
 221.122.86.150:80 - Заголовок не найден
 57.153.73.41:80 - 404 Not Found
+3.164.154.243:80 - Заголовок не найден
+212.85.105.49:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.92.65.111:80 - Заголовок не найден
+104.90.95.178:80 - Заголовок не найден
+192.185.14.61:80 - Not Acceptable!
+211.168.120.16:80 - DVR ActiveX Viewer
+51.16.89.225:80 - Welcome to nginx!
