@@ -6681,3 +6681,168 @@ Login
 45.60.214.211:80 - Заголовок не найден
 8.140.254.90:80 - 403 Forbidden
 23.194.171.78:80 - Заголовок не найден
+95.111.225.138:80 - Web Server's Default Page
+108.157.39.52:80 - Заголовок не найден
+154.31.60.118:80 - 403 Forbidden
+45.203.18.14:80 - 404 Not Found
+211.37.150.228:80 - 아모레퍼시픽 고객연구패널
+115.17.98.151:80 - main page
+104.113.187.139:80 - Заголовок не найден
+104.113.190.29:80 - Заголовок не найден
+154.201.153.102:80 - Test Page for Apache Installation
+88.14.218.255:80 - movistar
+3.161.236.219:80 - Заголовок не найден
+63.32.84.186:80 - Заголовок не найден
+85.152.45.135:80 - Insec S.L. - ISL Conference Proxy
+96.57.79.70:80 - 
+157.167.162.180:80 - Access forbidden
+184.24.38.95:80 - Заголовок не найден
+185.132.51.129:80 - MXvirtual
+92.123.34.9:80 - Заголовок не найден
+23.12.245.174:80 - Заголовок не найден
+73.164.134.137:80 - 
+4.174.174.60:80 - Your Azure Function App is up and running.
+38.165.79.237:80 - Welcome to nginx!
+178.210.67.112:80 - ÐÑÐ¸Ð±ÐºÐ° - Ð½ÐµÑ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹ÑÐ°
+104.91.63.135:80 - Заголовок не найден
+183.99.158.125:80 - 
+27.101.54.30:80 - Заголовок не найден
+157.173.216.182:80 - 403 Forbidden
+4.236.61.242:80 - Microsoft Azure Web App - Error 404
+167.88.197.247:80 - 404 Not Found
+173.246.125.43:80 - Apache2 Ubuntu Default Page: It works
+23.95.136.173:80 - ERROR: The requested URL could not be retrieved
+104.206.174.29:80 - 403 Forbidden
+18.238.139.32:80 - Заголовок не найден
+78.25.86.36:80 - 
+38.153.197.66:80 - ERROR: The requested URL could not be retrieved
+67.52.105.3:80 - HPI
+101.34.79.68:80 - Test Page for Apache Installation
+193.70.42.16:80 - Welcome to nginx!
+45.223.104.60:80 - Заголовок не найден
+156.17.9.182:80 - Welcome to nginx!
+67.205.73.66:80 - Заголовок не найден
+65.61.28.58:80 - Site Not Found
+8.137.51.158:80 - 404 Not Found
+196.196.255.14:80 - 407 Proxy Authentication Required
+84.254.12.22:80 - Заголовок не найден
+148.170.69.110:80 - 401 - Unauthorized
+147.50.136.229:80 - PHC Admin Dashboard
+151.236.120.94:80 - 403 Forbidden
+52.220.15.129:80 - 400 The plain HTTP request was sent to HTTPS port
+110.232.112.120:80 - Заголовок не найден
+104.112.33.48:80 - Заголовок не найден
+100.24.153.153:80 - 503 Service Temporarily Unavailable
+3.128.230.250:80 - Onus Insurance - Chile - ¡Cotiza tu seguro de carga internacional al instante!
+185.110.90.184:80 - Заголовок не найден
+103.70.180.162:80 - 403 Forbidden
+89.161.174.22:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+103.9.141.116:80 - Google
+198.2.197.137:80 - 500 Internal Server Error
+204.193.61.208:80 - Заголовок не найден
+65.8.27.73:80 - Заголовок не найден
+86.19.80.236:80 - index
+23.1.55.142:80 - Заголовок не найден
+118.143.51.36:80 - ownCloud
+51.159.67.115:80 - Serveur Dedibox en maintenance
+13.64.191.24:80 - Microsoft Azure Web App - Error 404
+67.43.239.73:80 - Заголовок не найден
+209.38.34.164:80 - SLOT 45 &gt; SLOT 45, SLOT45, daftar SLOT 45, link alternatif SLOT 45, li
+
+ &ndash; SLOT 45
+113.96.109.95:80 - 403 Forbidden
+192.82.242.124:80 - Заголовок не найден
+23.208.32.92:80 - Заголовок не найден
+23.58.67.221:80 - Заголовок не найден
+104.94.223.74:80 - Заголовок не найден
+88.147.151.20:80 - Заголовок не найден
+96.66.8.234:80 - Login Page
+47.109.165.116:80 - 403 Forbidden
+46.33.140.84:80 - RouterOS router configuration page
+80.250.235.149:80 - RouterOS router configuration page
+62.72.15.6:80 - 403 Forbidden
+168.119.190.45:80 - 403 Forbidden
+156.240.5.187:80 - Заголовок не найден
+104.19.143.59:80 - Direct IP access not allowed | Cloudflare
+38.59.67.46:80 - 404 Not Found
+88.198.21.7:80 - Website Unavailable
+23.193.224.222:80 - Заголовок не найден
+95.211.230.131:80 - 500 Internal Server Error
+52.74.228.27:80 - 503 Service Temporarily Unavailable
+188.166.87.19:80 - Заголовок не найден
+43.155.138.191:80 - nps error
+23.224.88.34:80 - 404 Not Found
+157.230.19.31:80 - Welcome to nginx!
+103.240.214.163:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+8.222.154.96:80 - 404 Not Found
+117.177.66.224:80 - Заголовок не найден
+62.204.120.106:80 - Login
+51.75.51.2:80 - Заголовок не найден
+34.66.54.180:80 - Заголовок не найден
+13.58.221.95:80 - IIS Windows Server
+150.60.55.142:80 - 山口県山口市の靴修理・鞄修理・革製品修理:レザーエステゆめタウン山口店
+145.239.223.36:80 - Заголовок не найден
+107.154.168.41:80 - Заголовок не найден
+23.199.145.248:80 - Заголовок не найден
+104.19.217.100:80 - Direct IP access not allowed | Cloudflare
+3.128.154.22:80 - Welcome to nginx!
+83.240.211.246:80 - 403 Forbidden
+38.33.117.249:80 - 404 Not Found
+45.223.186.149:80 - Заголовок не найден
+18.67.139.149:80 - Заголовок не найден
+140.238.198.252:80 - Book Maker
+159.203.134.217:80 - Заголовок не найден
+143.42.222.200:80 - 404 Not Found
+103.69.19.120:80 - 404 Not Found
+104.21.104.180:80 - Direct IP access not allowed | Cloudflare
+3.162.104.97:80 - Заголовок не найден
+112.17.206.6:80 - Welcome to nginx!
+192.177.27.31:80 - 404 Not Found
+45.77.101.116:80 - Заголовок не найден
+23.37.237.27:80 - Заголовок не найден
+23.4.44.7:80 - Заголовок не найден
+18.64.149.93:80 - Заголовок не найден
+52.205.59.71:80 - Заголовок не найден
+159.65.238.20:80 - 404 Not Found
+23.51.205.232:80 - Заголовок не найден
+144.76.220.93:80 - 4*superior Hotel Gut Weissenhof - Ihr Golfhotel - Reithotel - Wellnesshotel in Radstadt im Salzburger Land in Österreich | Hotel Gut Weissenhof
+121.43.168.128:80 - 404 Not Found
+93.211.31.108:80 - index
+201.254.119.227:80 - Заголовок не найден
+8.208.87.107:80 - Apache HTTP Server Test Page powered by CentOS
+156.214.100.68:80 - 
+185.210.195.248:80 - AEQ | Phoenix WebServer
+20.242.145.200:80 - Your Azure Function App is up and running.
+5.9.18.220:80 - Заголовок не найден
+40.120.113.84:80 - Your Azure Function App is up and running.
+92.122.98.219:80 - Заголовок не найден
+23.39.255.217:80 - Заголовок не найден
+199.192.17.167:80 - Заголовок не найден
+3.162.77.122:80 - Заголовок не найден
+52.8.185.106:80 - FutureDial - CMC
+52.76.78.148:80 - Bemobi
+104.71.171.250:80 - Заголовок не найден
+13.232.159.188:80 - 404 Not Found
+200.47.116.90:80 - Заголовок не найден
+79.96.22.29:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+168.235.84.28:80 - 502 Bad Gateway
+176.126.83.88:80 - Apache HTTP Server Test Page powered by CentOS
+39.101.36.117:80 - Заголовок не найден
+89.108.107.113:80 - 403 Forbidden
+58.114.159.41:80 - WEB SERVICE
+20.227.52.14:80 - Your Azure Function App is up and running.
+65.181.140.160:80 - Заголовок не найден
+121.170.20.172:80 - 
+23.197.143.105:80 - Заголовок не найден
+185.167.233.128:80 - Page not found
+23.58.149.118:80 - Заголовок не найден
+104.24.135.120:80 - Direct IP access not allowed | Cloudflare
+121.129.140.101:80 - IIS7
+75.75.236.85:80 - 403 Forbidden
+8.219.232.17:80 - Redirect Page
+74.115.212.126:80 - Icecast Streaming Media Server
+23.12.222.201:80 - Заголовок не найден
+218.207.1.78:80 - 此IP地址不允许直接访问 | SCDN
+111.31.112.48:80 - 404 Not Found
+104.77.185.41:80 - Заголовок не найден
+154.204.141.50:80 - 404 Not Found
