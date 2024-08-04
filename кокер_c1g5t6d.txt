@@ -1,0 +1,154 @@
+16.182.100.107:80 - Amazon S3 - Cloud Object Storage  - AWS
+18.155.218.62:80 - Заголовок не найден
+104.104.64.214:80 - Заголовок не найден
+142.93.142.107:80 - Welcome to nginx!
+51.8.211.73:80 - Заголовок не найден
+43.155.71.235:80 - Заголовок не найден
+193.108.46.172:80 - 404 Not Found
+3.94.61.157:80 - MY3PL
+64.71.176.18:80 - 404 Not Found
+74.124.198.206:80 - Default Web Page
+44.193.145.79:80 - Заголовок не найден
+104.74.148.64:80 - Заголовок не найден
+212.215.132.15:80 - Заголовок не найден
+13.112.166.122:80 - Заголовок не найден
+34.27.141.224:80 - Заголовок не найден
+39.61.151.81:80 - Заголовок не найден
+217.120.134.14:80 - Login
+74.39.152.197:80 - Server Error
+199.67.112.56:80 - Заголовок не найден
+125.228.184.111:80 - 401 Unauthorized
+207.60.49.27:80 - 403 Forbidden
+3.36.233.22:80 - Заголовок не найден
+109.110.250.30:80 - Заголовок не найден
+107.154.108.55:80 - Заголовок не найден
+54.230.179.118:80 - Заголовок не найден
+167.99.133.226:80 - Website Unavailable
+108.141.246.246:80 - Azure Container App - Unavailable
+23.45.253.54:80 - Заголовок не найден
+35.158.36.140:80 - Заголовок не найден
+13.234.189.231:80 - Test Page for the Nginx HTTP Server on Fedora
+18.66.233.103:80 - Заголовок не найден
+23.199.241.144:80 - Заголовок не найден
+201.251.69.193:80 - Заголовок не найден
+222.239.87.36:80 - 런치타임
+104.97.63.172:80 - Заголовок не найден
+43.132.207.204:80 - æ²¡ææ¾å°ç«ç¹
+85.221.255.185:80 - Nextcloud
+18.154.158.16:80 - Заголовок не найден
+129.88.69.62:80 - DNS measurement server
+93.90.193.121:80 - Заголовок не найден
+160.121.78.208:80 - 404 Not Found
+172.105.35.22:80 - Welcome to nginx!
+52.7.201.35:80 - React App
+59.3.219.57:80 - WEB SERVICE
+184.154.255.132:80 - Заголовок не найден
+3.162.146.152:80 - Заголовок не найден
+47.28.229.193:80 - 
+193.183.66.50:80 - Database Error
+18.164.96.128:80 - Заголовок не найден
+18.136.44.5:80 - Заголовок не найден
+209.64.121.138:80 - 
+114.33.113.54:80 - 403 Forbidden
+196.51.145.146:80 - ERROR: The requested URL could not be retrieved
+75.150.105.33:80 - Login cgicc form
+95.101.192.63:80 - Заголовок не найден
+173.234.94.156:80 - 403 Forbidden
+106.255.233.74:80 - IIS Windows Server
+162.212.172.215:80 - 407 Proxy Authentication Required
+2.57.91.193:80 - 403 Forbidden
+82.165.68.89:80 - Web Server's Default Page
+211.228.254.52:80 - main page
+91.143.160.144:80 - Login
+179.40.16.251:80 - Apache HTTP Server Test Page powered by CentOS
+190.215.216.147:80 - 🧨 The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/storage/logs/laravel.log&quot; could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/var/www/html/storage/framework/sessions/u2pJQk1jNOJPKq2v3y93JOc0XwVNEOTtPDEFyamX): failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+20.75.186.139:80 - Your Azure Function App is up and running.
+146.88.27.246:80 - Welcome to nginx!
+146.88.237.118:80 - Заголовок не найден
+38.28.236.204:80 - 请使用域名访问
+50.83.117.229:80 - Заголовок не найден
+2.22.223.118:80 - Заголовок не найден
+35.190.210.136:80 - 404 Not Found
+189.217.134.5:80 - 403 Forbidden
+107.151.229.120:80 - Welcome to nginx!
+52.62.77.154:80 - Site Maintenance
+104.108.90.159:80 - Заголовок не найден
+103.102.0.220:80 - 403 Forbidden
+54.152.65.21:80 - 403 Forbidden
+23.46.194.17:80 - Заголовок не найден
+69.192.88.82:80 - Заголовок не найден
+23.34.235.99:80 - Заголовок не найден
+69.163.249.84:80 - Site not found &middot; DreamHost
+3.219.97.249:80 - Future Healthcare
+35.215.111.224:80 - The Patio District - Custom Outdoor Living Spaces &amp; Patio Design
+8.218.225.57:80 - xtest测试管理后台
+104.115.217.196:80 - Заголовок не найден
+110.77.236.38:80 - 403 Forbidden
+23.195.35.44:80 - Заголовок не найден
+85.31.231.67:80 - 403 Forbidden
+211.20.133.101:80 - SCOPIA XT Desktop
+3.97.83.0:80 - Заголовок не найден
+23.45.98.176:80 - Заголовок не найден
+81.4.114.152:80 - Laravel
+203.38.88.76:80 - Заголовок не найден
+3.95.73.111:80 - Заголовок не найден
+85.25.198.13:80 - 403 Forbidden
+85.130.161.187:80 - Заголовок не найден
+3.26.64.209:80 - Заголовок не найден
+54.213.53.225:80 - Welcome to nginx!
+52.2.214.125:80 - Заголовок не найден
+54.239.159.82:80 - Заголовок не найден
+38.85.237.148:80 - HTML SiteMap
+185.36.211.246:80 - 
+202.179.16.65:80 - Заголовок не найден
+85.12.197.74:80 - Welcome to nginx!
+23.210.8.162:80 - Заголовок не найден
+52.193.51.119:80 - Заголовок не найден
+34.231.162.247:80 - 502 Bad Gateway
+23.2.212.149:80 - Заголовок не найден
+94.45.82.126:80 - 404 Not Found
+50.195.52.60:80 - Заголовок не найден
+129.154.239.181:80 - MuShop
+64.64.248.177:80 - ç»åé»é
+110.93.228.51:80 - WEB SERVICE
+23.1.179.128:80 - Заголовок не найден
+181.40.108.13:80 - 
+104.86.37.188:80 - Заголовок не найден
+192.94.216.43:80 - Заголовок не найден
+142.93.154.224:80 - 401 Authorization Required
+184.161.71.121:80 - Заголовок не найден
+158.199.241.100:80 - 403 Forbidden
+213.83.93.41:80 - 
+160.121.132.28:80 - 404 Not Found
+172.93.181.220:80 - 500 Internal Server Error
+66.84.52.27:80 - PCB International | Solutions to your Printed Circuit Board needs
+43.225.52.60:80 - Заголовок не найден
+23.12.225.182:80 - Заголовок не найден
+138.68.65.26:80 - Заголовок не найден
+58.152.27.195:80 - 
+3.105.103.13:80 - 
+18.66.155.94:80 - Заголовок не найден
+23.52.76.156:80 - Заголовок не найден
+4.175.16.49:80 - Заголовок не найден
