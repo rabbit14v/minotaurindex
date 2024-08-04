@@ -2018,3 +2018,36 @@
 140.248.190.37:80 - Fastly error: unknown domain 140.248.190.37
 151.101.73.209:80 - Fastly error: unknown domain 151.101.73.209
 70.167.207.247:80 - Web Site Blocked
+120.199.94.200:80 - 400 Bad Request
+185.43.7.123:80 - Welcome!
+104.17.165.46:80 - Direct IP access not allowed | Cloudflare
+45.59.160.192:80 - Заголовок не найден
+46.41.164.205:80 - Strona w przygotowaniu
+59.120.6.111:80 - IIS Windows
+85.163.81.96:80 - CTI SYSTEMS s.r.o.
+152.195.35.76:80 - 404 - Not Found
+14.241.90.224:80 - 
+23.218.191.190:80 - Заголовок не найден
+104.64.123.248:80 - Заголовок не найден
+14.225.23.210:80 - Apache HTTP Server Test Page powered by CentOS
+186.92.216.3:80 - Web user login
+108.157.99.156:80 - Заголовок не найден
+104.102.52.120:80 - Заголовок не найден
+23.47.28.12:80 - Заголовок не найден
+8.217.209.10:80 - Welcome to nginx!
+38.153.188.25:80 - ERROR: The requested URL could not be retrieved
+202.4.106.53:80 - Gitea: Git with a cup of tea
+104.120.116.37:80 - Заголовок не найден
+15.222.88.176:80 - 502 Bad Gateway
+45.76.221.171:80 - Site Maintenance
+13.59.23.194:80 - HTTP Server Test Page powered by CentOS
+47.114.119.130:80 - Заголовок не найден
+42.194.185.233:80 - 403 Forbidden
+103.10.201.19:80 - 
+8.210.133.129:80 - 404 Not Found
+23.7.134.24:80 - Заголовок не найден
+121.254.157.31:80 - 인터파크 쇼핑
+37.27.41.35:80 - Заголовок не найден
+120.79.162.158:80 - HTTP Status 404 – Not Found
+18.140.203.223:80 - Welcome to nginx!
+69.16.254.115:80 - Заголовок не найден
