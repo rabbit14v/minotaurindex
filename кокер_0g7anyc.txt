@@ -6358,3 +6358,175 @@ Technical University (BMSTU).
 76.150.227.202:80 - Заголовок не найден
 104.64.254.123:80 - Заголовок не найден
 206.233.183.32:80 - 403 Forbidden
+209.38.224.34:80 - The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/application/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/application/storage/framework/views/8b72872018ba7fd9b29716a7e5b8bac1.php): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+136.167.14.133:80 - Boston College Law School Magazine &#8211; The Online Magazine of Boston College School of Law
+138.201.112.240:80 - ipm Zeiterfassung – Time Tracking
+133.167.121.243:80 - 401 Unauthorized
+18.239.251.229:80 - Заголовок не найден
+59.127.200.43:80 - Default Site
+107.174.141.86:80 - 407 Proxy Authentication Required
+23.202.196.253:80 - Заголовок не найден
+23.58.231.166:80 - Заголовок не найден
+153.37.74.120:80 - 404 Not Found
+154.38.149.107:80 - ERROR: The requested URL could not be retrieved
+188.239.191.70:80 - Welcome to nginx!
+197.52.88.235:80 - 
+18.238.61.214:80 - Заголовок не найден
+3.163.155.105:80 - Заголовок не найден
+104.71.118.49:80 - Заголовок не найден
+59.120.238.43:80 - Заголовок не найден
+154.31.138.216:80 - 404 Not Found
+207.164.143.208:80 - Web Filter Block Override
+5.188.29.27:80 - СКАТ
+44.217.39.109:80 - Заголовок не найден
+104.21.65.2:80 - Direct IP access not allowed | Cloudflare
+35.190.21.129:80 - Заголовок не найден
+23.73.215.227:80 - Заголовок не найден
+45.164.185.235:80 - 73s
+155.159.6.222:80 - 404 Not Found
+96.6.192.221:80 - Заголовок не найден
+50.2.51.230:80 - 403 Forbidden
+23.11.85.50:80 - Заголовок не найден
+52.4.254.98:80 - Заголовок не найден
+18.211.231.180:80 - 503 Service Temporarily Unavailable
+43.216.17.41:80 - Welcome to nginx!
+59.153.48.84:80 - 404 Not Found
+43.155.93.100:80 - 404 Not Found
+52.24.221.82:80 - Artboard
+70.35.192.204:80 - E-RECETTES 1.0
+38.174.145.148:80 - æ²¡ææ¾å°ç«ç¹
+47.118.46.159:80 - æ²¡ææ¾å°ç«ç¹
+154.55.202.153:80 - 404 Not Found
+20.9.142.170:80 - Заголовок не найден
+81.23.152.201:80 - 403 Forbidden
+144.76.160.245:80 - Заголовок не найден
+212.109.199.243:80 - Apache2 Debian Default Page: It works
+133.130.70.241:80 - Заголовок не найден
+41.10.225.157:80 - 
+153.164.165.50:80 - CMS Web Viewer
+109.194.233.83:80 - Error 404 (Not Found)!!1
+104.140.8.241:80 - 403 Forbidden
+23.196.72.52:80 - Заголовок не найден
+23.6.108.99:80 - Заголовок не найден
+200.170.185.94:80 - Web managerment Home
+112.213.39.80:80 - 403 Forbidden
+23.34.235.101:80 - Заголовок не найден
+45.129.41.50:80 - 404
+104.77.239.88:80 - Заголовок не найден
+80.190.161.195:80 - 403 Forbidden
+134.60.153.175:80 - Index of /
+37.9.116.66:80 - Заголовок не найден
+38.63.109.181:80 - 404 Not Found
+20.241.231.166:80 - 404 Not Found
+89.248.208.216:80 - Заголовок не найден
+222.138.3.243:80 - Заголовок не найден
+104.223.99.63:80 - Hosted By BisectHosting - BisectHosting
+23.55.152.249:80 - Заголовок не найден
+23.57.224.165:80 - Заголовок не найден
+23.197.252.232:80 - Заголовок не найден
+193.175.198.25:80 - Заголовок не найден
+149.202.224.193:80 - Заголовок не найден
+23.216.86.235:80 - Заголовок не найден
+18.172.115.236:80 - Заголовок не найден
+47.106.12.162:80 - ç½ç«è®¿é®æ¥é
+78.46.39.35:80 - Заголовок не найден
+54.230.213.164:80 - Заголовок не найден
+23.74.162.79:80 - Заголовок не найден
+38.154.46.193:80 - Заголовок не найден
+184.85.130.58:80 - Заголовок не найден
+183.176.154.55:80 - Заголовок не найден
+92.122.79.119:80 - Заголовок не найден
+73.185.252.175:80 - Заголовок не найден
+205.198.40.10:80 - Welcome to nginx!
+92.245.167.77:80 - Cyberoam
+198.23.238.124:80 - 407 Proxy Authentication Required
+194.87.92.124:80 - BookStack
+24.23.70.81:80 - Congratulations!
+72.134.197.215:80 - 
+104.21.232.170:80 - Direct IP access not allowed | Cloudflare
+149.129.242.15:80 - Welcome to nginx!
+116.109.179.102:80 - 
+46.235.138.36:80 - Заголовок не найден
+104.96.152.95:80 - Заголовок не найден
+18.210.96.50:80 - 403 Forbidden
+61.189.2.154:80 - Заголовок не найден
+104.36.49.173:80 - Web Server's Default Page
+204.52.16.61:80 - 404 Not Found
+52.41.57.253:80 - Заголовок не найден
+203.245.41.193:80 - phpMyAdmin
+213.109.159.36:80 - Заголовок не найден
+23.62.192.118:80 - Заголовок не найден
+3.26.160.243:80 - IIS Windows Server
+24.159.61.112:80 - 
+64.91.240.81:80 - Заголовок не найден
+54.221.96.176:80 - Streamlit
+191.81.240.33:80 - Заголовок не найден
+35.213.187.251:80 - Apache2 Debian Default Page: It works
+178.18.105.30:80 - Заголовок не найден
+104.94.223.198:80 - Заголовок не найден
+65.8.141.203:80 - Заголовок не найден
+34.64.4.3:80 - Google
+190.174.223.202:80 - Заголовок не найден
+167.114.131.131:80 - Welcome to nginx!
+120.196.252.118:80 - 403 Forbidden
+23.57.147.202:80 - Заголовок не найден
+185.71.5.23:80 - Заголовок не найден
+3.162.101.233:80 - Заголовок не найден
+167.71.232.235:80 - Заголовок не найден
+128.199.32.64:80 - 404 Not Found
+82.220.91.113:80 - Web Server's Default Page
+23.9.211.133:80 - Заголовок не найден
+188.128.173.97:80 - Strona w przygotowaniu...
+212.12.15.55:80 - Заголовок не найден
+52.130.187.125:80 - 403 - Forbidden: Access is denied.
+23.81.234.106:80 - ERROR: The requested URL could not be retrieved
+210.102.177.100:80 - Заголовок не найден
+149.19.40.89:80 - Заголовок не найден
+23.225.21.156:80 - 403 Forbidden
+96.7.144.228:80 - Заголовок не найден
+108.156.27.18:80 - Заголовок не найден
+67.222.11.10:80 - Заголовок не найден
+35.83.89.243:80 - Welcome
+23.47.1.172:80 - Заголовок не найден
+166.154.30.39:80 - Заголовок не найден
+23.218.80.153:80 - Заголовок не найден
+64.227.8.30:80 - Заголовок не найден
+95.141.39.147:80 - Заголовок не найден
+38.14.199.154:80 - 404 Not Found
+104.67.161.111:80 - Заголовок не найден
+16.171.134.134:80 - Заголовок не найден
+3.82.108.255:80 - Заголовок не найден
+124.154.88.64:80 - Заголовок не найден
+177.46.211.99:80 - 
+121.151.197.216:80 - 
+154.39.232.82:80 - 403 Forbidden
