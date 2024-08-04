@@ -569,3 +569,4 @@ Domain Services
 121.36.215.215:80 - Welcome to nginx!
 4.242.81.215:80 - Your Azure Function App is up and running.
 168.206.215.174:80 - 404 Not Found
+42.193.74.84:80 - Заголовок не найден
