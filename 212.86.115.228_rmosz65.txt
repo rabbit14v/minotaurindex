@@ -1,0 +1,548 @@
+184.30.86.146 - Заголовок не найден !80!
+87.10.84.65 - Espansione IP Vedo !80!
+152.70.80.124 - Welcome to nginx! !80!
+127.44.42.124 - IIS Windows Server !80!
+127.255.77.206 - IIS Windows Server !80!
+160.124.208.232 - 404 Not Found !80!
+127.218.12.196 - IIS Windows Server !80!
+104.101.249.100 - Заголовок не найден !80!
+95.209.205.197 - Заголовок не найден !80!
+220.123.231.131 - Заголовок не найден !80!
+127.83.76.172 - IIS Windows Server !80!
+23.10.98.63 - Заголовок не найден !80!
+45.15.198.25 -  !80!
+13.248.173.158 - EGO Mobile !80!
+23.209.155.137 - Заголовок не найден !80!
+208.113.246.190 - phpMyAdmin !80!
+127.102.242.19 - IIS Windows Server !80!
+75.47.218.239 - AT&T WiFi Portal !80!
+75.131.6.248 -  !80!
+104.20.26.233 - Direct IP access not allowed | Cloudflare !80!
+52.38.182.248 - A Problem Has Occurred !80!
+89.150.32.131 -  !80!
+187.189.14.110 - Заголовок не найден !80!
+1.225.151.55 - Welcome to nginx! !80!
+129.211.221.46 - ZBTech-Antdv !80!
+35.196.112.234 - 404 Not Found !80!
+127.176.163.243 - IIS Windows Server !80!
+183.24.44.62 - 智慧校园云智管控平台 !80!
+127.139.120.242 - IIS Windows Server !80!
+127.237.56.153 - IIS Windows Server !80!
+85.153.49.187 - Index of / !80!
+20.157.32.208 - Заголовок не найден !80!
+195.144.21.143 - Заголовок не найден !80!
+127.41.115.4 - IIS Windows Server !80!
+70.37.217.24 - Заголовок не найден !80!
+139.162.58.218 - Welcome to nginx! !80!
+210.8.195.238 -  !80!
+182.92.148.172 - 502 Bad Gateway !80!
+34.64.126.124 - go mail !80!
+77.73.227.166 - Comrex ACCESS !80!
+34.195.181.194 - QsrSoft !80!
+175.211.56.94 - main page !80!
+119.42.124.77 - Hello! Welcome to Synology Web Station! !80!
+8.134.91.106 - Заголовок не найден !80!
+23.205.30.217 - Заголовок не найден !80!
+13.226.253.228 - Заголовок не найден !80!
+51.138.223.68 - Azure Container App - Unavailable !80!
+127.89.103.185 - IIS Windows Server !80!
+208.64.139.202 - Заголовок не найден !80!
+18.245.143.146 - Заголовок не найден !80!
+47.237.2.46 - Apache HTTP Server Test Page powered by CentOS !80!
+176.57.216.47 - 500 Internal Server Error !80!
+104.214.217.51 - IIS Windows Server !80!
+104.16.160.98 - Direct IP access not allowed | Cloudflare !80!
+127.88.18.17 - IIS Windows Server !80!
+20.55.40.175 - Apache2 Ubuntu Default Page: It works !80!
+149.50.138.154 - TallerExpress® !80!
+39.52.56.127 - Заголовок не найден !80!
+127.205.211.160 - IIS Windows Server !80!
+133.142.80.33 - Заголовок не найден !80!
+127.252.194.37 - IIS Windows Server !80!
+181.39.169.115 - Web user login !80!
+104.126.126.40 - Заголовок не найден !80!
+23.56.178.81 - Заголовок не найден !80!
+108.167.179.31 - Заголовок не найден !80!
+127.213.104.75 - IIS Windows Server !80!
+127.69.143.232 - IIS Windows Server !80!
+52.85.40.249 - Заголовок не найден !80!
+54.237.144.47 - Metal AF Consultants &#8211; Customer Excellence !80!
+127.192.0.37 - IIS Windows Server !80!
+108.142.6.113 - Заголовок не найден !80!
+88.196.237.113 - Stumbling around in dark places ... and dragons, can't forget dragons &bull; Index page !80!
+13.65.195.166 - Заголовок не найден !80!
+54.255.227.247 - Default Site !80!
+52.129.131.62 - Заголовок не найден !80!
+41.227.120.84 - Заголовок не найден !80!
+127.18.146.175 - IIS Windows Server !80!
+183.90.226.78 - ç¡å¹ãªURLã§ã !80!
+23.212.203.183 - Заголовок не найден !80!
+87.229.72.186 - Sign in · GitLab !80!
+164.90.229.186 - BOOTEP - Vallecamonica and Iseo Lake - Lands of experiences !80!
+127.240.0.14 - IIS Windows Server !80!
+160.124.210.83 - Resources to keep you safe  | Student Health &amp; Wellness | Dalhousie University_365体育投注▎官网 !80!
+127.51.218.235 - IIS Windows Server !80!
+136.144.166.205 - Заголовок не найден !80!
+127.147.201.45 - IIS Windows Server !80!
+13.226.150.52 - Заголовок не найден !80!
+108.186.229.175 - Заголовок не найден !80!
+127.195.105.69 - IIS Windows Server !80!
+23.194.12.46 - Заголовок не найден !80!
+127.26.63.43 - IIS Windows Server !80!
+203.93.20.7 - 中国共产党历史展览馆参观预约系统 !80!
+133.242.53.129 - 503 Service Temporarily Unavailable !80!
+18.143.44.150 - Заголовок не найден !80!
+127.225.68.112 - IIS Windows Server !80!
+104.16.97.221 - Direct IP access not allowed | Cloudflare !80!
+127.66.106.113 - IIS Windows Server !80!
+125.206.179.81 - Ðï@l l¶ï !80!
+127.155.51.212 - IIS Windows Server !80!
+52.17.182.79 - Web Server's Default Page !80!
+219.118.198.73 - apski.com !80!
+172.99.188.104 - 403 Forbidden !80!
+47.100.81.95 - Vue Element Admin !80!
+18.165.127.191 - Заголовок не найден !80!
+92.122.108.105 - Заголовок не найден !80!
+127.208.156.46 - IIS Windows Server !80!
+127.158.61.213 - IIS Windows Server !80!
+153.126.185.214 - Apache HTTP Server Test Page powered by CentOS !80!
+18.170.7.107 - HLB Puerto Rico LLC | HLB: The global advisory and accounting network !80!
+180.76.51.48 - Заголовок не найден !80!
+35.201.51.163 - &Uuml;berProxy: Error 403 !80!
+3.6.221.133 -  !80!
+127.167.225.181 - IIS Windows Server !80!
+34.96.105.81 - Заголовок не найден !80!
+187.95.123.66 - 403 Forbidden !80!
+212.15.137.209 - Заголовок не найден !80!
+202.137.228.93 - IIS Windows Server !80!
+109.199.130.205 - Заголовок не найден !80!
+23.227.124.114 - index !80!
+121.165.40.227 -  !80!
+190.123.210.62 - 407 Proxy Authentication Required !80!
+43.225.210.4 - 403 Forbidden !80!
+103.72.90.138 - Заголовок не найден !80!
+127.147.45.46 - IIS Windows Server !80!
+127.3.45.74 - IIS Windows Server !80!
+160.124.11.216 - 404 Not Found !80!
+127.26.152.126 - IIS Windows Server !80!
+127.121.81.229 - IIS Windows Server !80!
+50.3.94.150 - 403 Forbidden !80!
+38.11.167.182 - 404 Not Found !80!
+192.240.176.81 - Nexcess !80!
+127.19.67.162 - IIS Windows Server !80!
+18.173.171.206 - Заголовок не найден !80!
+70.106.244.220 - Congratulations! !80!
+127.240.237.152 - IIS Windows Server !80!
+98.10.242.135 -  !80!
+127.182.5.141 - IIS Windows Server !80!
+127.110.120.244 - IIS Windows Server !80!
+127.117.230.113 - IIS Windows Server !80!
+127.228.126.29 - IIS Windows Server !80!
+111.68.25.34 - RouterOS router configuration page !80!
+118.238.10.12 - Заголовок не найден !80!
+127.233.227.83 - IIS Windows Server !80!
+196.196.106.25 - 403 Forbidden !80!
+198.48.50.230 - Заголовок не найден !80!
+173.252.183.107 - Apache2 Ubuntu Default Page: It works !80!
+94.237.118.118 - extra.abako.fi !80!
+127.245.67.7 - IIS Windows Server !80!
+86.144.240.226 -  !80!
+127.210.197.228 - IIS Windows Server !80!
+104.88.252.166 - Заголовок не найден !80!
+34.154.62.72 - Apache2 Debian Default Page: It works !80!
+193.56.8.70 - 404 Not Found !80!
+103.115.61.140 - Sorry, the website has been stopped !80!
+127.180.91.133 - IIS Windows Server !80!
+8.137.8.103 - æ²¡ææ¾å°ç«ç¹ !80!
+184.25.39.2 - Заголовок не найден !80!
+127.217.209.84 - IIS Windows Server !80!
+127.206.197.157 - IIS Windows Server !80!
+38.207.175.215 - Заголовок не найден !80!
+18.210.70.29 - IN Tech for Progress !80!
+60.221.219.144 - Заголовок не найден !80!
+167.82.64.33 - Fastly error: unknown domain 167.82.64.33 !80!
+47.251.48.47 - ç½ç«è®¿é®æ¥é !80!
+119.206.27.77 - WEB SERVICE !80!
+47.112.108.162 - å¹¿å·å±±å°-tps !80!
+127.205.239.192 - IIS Windows Server !80!
+127.49.228.211 - IIS Windows Server !80!
+108.138.245.165 - Заголовок не найден !80!
+127.97.212.245 - IIS Windows Server !80!
+127.73.62.251 - IIS Windows Server !80!
+104.89.163.23 - Заголовок не найден !80!
+127.183.49.69 - IIS Windows Server !80!
+172.104.38.152 - Заголовок не найден !80!
+127.84.16.18 - IIS Windows Server !80!
+104.248.39.74 - ESL Speak Easy | ESL Lesson Plans | Ready-Made Interactive Lesson Plans !80!
+153.127.237.65 - Заголовок не найден !80!
+127.121.97.115 - IIS Windows Server !80!
+51.38.239.192 - Заголовок не найден !80!
+77.245.153.204 - Welcome to nginx! !80!
+17.248.155.200 - Заголовок не найден !80!
+127.91.200.209 - IIS Windows Server !80!
+217.160.21.175 - Apache2 Ubuntu Default Page: It works !80!
+103.150.10.70 - 该网站暂无法访问 !80!
+69.39.230.209 - Заголовок не найден !80!
+127.187.149.53 - IIS Windows Server !80!
+127.168.69.94 - IIS Windows Server !80!
+38.33.43.94 - Заголовок не найден !80!
+18.64.36.94 - Заголовок не найден !80!
+3.134.176.179 - Streamlit !80!
+127.83.87.51 - IIS Windows Server !80!
+111.22.174.122 - Заголовок не найден !80!
+134.175.181.239 - IIS Windows Server !80!
+127.216.36.46 - IIS Windows Server !80!
+18.238.49.125 - Заголовок не найден !80!
+35.157.170.39 - IIS Windows Server !80!
+74.48.156.82 - ERROR: The requested URL could not be retrieved !80!
+160.124.170.164 - IIS7 !80!
+23.223.73.247 - Заголовок не найден !80!
+44.228.67.88 - 401 Unauthorized !80!
+50.110.217.222 -  !80!
+194.38.31.38 - ERROR: The requested URL could not be retrieved !80!
+118.195.237.150 - ç±æºç®¡å®¶ !80!
+127.249.33.221 - IIS Windows Server !80!
+127.141.248.238 - IIS Windows Server !80!
+127.170.35.32 - IIS Windows Server !80!
+156.250.226.31 - IIS7 !80!
+121.41.66.116 - 404 Not Found !80!
+81.68.110.17 - Welcome to CentOS !80!
+127.241.182.243 - IIS Windows Server !80!
+198.55.122.239 - 500 Internal Server Error !80!
+121.41.91.221 - Заголовок не найден !80!
+69.24.22.196 - Givens Auto Parts | Dacula, GA !80!
+127.37.239.114 - IIS Windows Server !80!
+70.167.156.70 - Millennium Systems Inc - Raptor13 !80!
+99.28.211.87 -  !80!
+127.125.49.243 - IIS Windows Server !80!
+23.57.217.70 - Заголовок не найден !80!
+154.36.251.155 - 404 Not Found !80!
+127.60.118.63 - IIS Windows Server !80!
+178.210.83.62 - ÐÑÐ¸Ð±ÐºÐ° - Ð½ÐµÑ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹ÑÐ° !80!
+127.192.247.74 - IIS Windows Server !80!
+127.57.69.6 - IIS Windows Server !80!
+82.163.30.252 - Welcome to nginx! !80!
+173.89.93.57 -  !80!
+127.166.142.31 - IIS Windows Server !80!
+127.69.215.226 - IIS Windows Server !80!
+15.204.225.218 - 404 Not Found !80!
+202.133.247.71 - Заголовок не найден !80!
+124.123.26.138 -  !80!
+127.13.176.138 - IIS Windows Server !80!
+96.1.104.205 - Index page !80!
+127.78.129.212 - IIS Windows Server !80!
+127.187.166.45 - IIS Windows Server !80!
+65.111.164.160 - Заголовок не найден !80!
+212.186.120.14 - 403 Forbidden !80!
+127.150.64.16 - IIS Windows Server !80!
+34.102.230.87 - 403 !80!
+47.111.118.53 - 404 Not Found !80!
+127.147.50.15 - IIS Windows Server !80!
+127.184.100.9 - IIS Windows Server !80!
+82.193.66.121 - Авторизация - Vermax STB Middleware !80!
+112.124.58.57 - Welcome to nginx! !80!
+127.238.154.171 - IIS Windows Server !80!
+185.149.44.230 - Заголовок не найден !80!
+174.174.28.109 - Dericam !80!
+46.254.25.10 - Заголовок не найден !80!
+88.130.64.9 - Apache2 Debian Default Page: It works !80!
+120.240.229.71 - 403 Forbidden !80!
+3.161.134.33 - Заголовок не найден !80!
+3.166.202.249 - Заголовок не найден !80!
+127.4.23.50 - IIS Windows Server !80!
+8.140.188.67 - 500 Internal Server Error !80!
+127.58.169.154 - IIS Windows Server !80!
+127.89.148.54 - IIS Windows Server !80!
+192.177.152.192 - 403 Forbidden !80!
+13.226.215.220 - Заголовок не найден !80!
+72.11.129.243 - Home !80!
+176.32.159.50 - Заголовок не найден !80!
+13.235.172.64 - 503 Service Unavailable !80!
+59.27.220.219 -  !80!
+127.248.201.135 - IIS Windows Server !80!
+205.169.108.194 - REDIRECT !80!
+75.229.217.94 -  !80!
+127.156.26.85 - IIS Windows Server !80!
+128.0.2.47 - Заголовок не найден !80!
+220.135.2.136 - Заголовок не найден !80!
+3.161.128.210 - Заголовок не найден !80!
+127.51.135.250 - IIS Windows Server !80!
+121.196.196.55 - Заголовок не найден !80!
+127.113.74.200 - IIS Windows Server !80!
+3.164.174.85 - Заголовок не найден !80!
+20.69.224.241 - Заголовок не найден !80!
+104.22.6.4 - Direct IP access not allowed | Cloudflare !80!
+23.64.115.25 - Заголовок не найден !80!
+156.245.74.54 - 404 Not Found !80!
+104.75.122.135 - Заголовок не найден !80!
+81.134.81.226 - 403 - Forbidden: Access is denied. !80!
+127.91.164.15 - IIS Windows Server !80!
+99.86.94.65 - Заголовок не найден !80!
+72.181.15.193 - Заголовок не найден !80!
+185.53.57.167 - The Eden Project !80!
+127.185.246.147 - IIS Windows Server !80!
+3.163.106.169 - Заголовок не найден !80!
+61.0.181.2 - GPE550A !80!
+45.70.147.131 - Home - TOPNET !80!
+23.67.136.9 - Заголовок не найден !80!
+20.116.202.99 - Your Azure Function App is up and running. !80!
+18.64.75.23 - Заголовок не найден !80!
+184.50.78.174 - Заголовок не найден !80!
+54.88.177.103 - 503 Service Temporarily Unavailable !80!
+212.66.112.243 - RouterOS router configuration page !80!
+127.95.186.117 - IIS Windows Server !80!
+4.147.106.240 - 404 Not Found !80!
+127.130.178.12 - IIS Windows Server !80!
+34.243.122.89 - Welcome to nginx! !80!
+3.208.54.175 - MeetPro !80!
+197.242.250.38 - IIS Windows Server !80!
+8.219.7.135 - Welcome to nginx! !80!
+127.231.209.29 - IIS Windows Server !80!
+127.233.192.179 - IIS Windows Server !80!
+127.51.65.101 - IIS Windows Server !80!
+127.69.2.87 - IIS Windows Server !80!
+3.209.120.101 - Заголовок не найден !80!
+156.55.137.232 - 404 Not Found !80!
+193.140.28.14 - Заголовок не найден !80!
+127.172.227.252 - IIS Windows Server !80!
+192.145.234.87 - Home | Westlake Spectrum !80!
+140.129.140.4 - Заголовок не найден !80!
+127.51.125.87 - IIS Windows Server !80!
+83.217.81.162 - Заголовок не найден !80!
+160.124.211.170 - Sorry, the website has been stopped !80!
+127.237.22.217 - IIS Windows Server !80!
+52.60.122.166 - Заголовок не найден !80!
+23.34.93.26 - Заголовок не найден !80!
+76.177.178.198 -  !80!
+127.101.247.196 - IIS Windows Server !80!
+1.94.127.146 - Заголовок не найден !80!
+127.166.180.131 - IIS Windows Server !80!
+203.106.94.176 - Заголовок не найден !80!
+104.66.67.35 - Заголовок не найден !80!
+76.164.156.202 - Заголовок не найден !80!
+54.156.91.145 - Заголовок не найден !80!
+111.70.3.39 - Заголовок не найден !80!
+193.124.66.36 - Gotify !80!
+20.166.200.134 - Заголовок не найден !80!
+61.112.34.139 - Заголовок не найден !80!
+127.238.144.245 - IIS Windows Server !80!
+176.255.197.175 - Заголовок не найден !80!
+179.41.143.186 - Заголовок не найден !80!
+172.122.113.106 - Заголовок не найден !80!
+45.205.12.177 - 404 Not Found !80!
+122.30.37.49 - BB-ST162 Network Camera !80!
+111.119.27.19 - Заголовок не найден !80!
+127.36.39.22 - IIS Windows Server !80!
+117.135.214.83 - 403 Forbidden !80!
+118.31.124.10 - 404 !80!
+103.195.5.78 - Заголовок не найден !80!
+5.186.13.176 - Заголовок не найден !80!
+104.91.24.60 - Заголовок не найден !80!
+23.202.24.172 - Заголовок не найден !80!
+13.35.170.132 - Заголовок не найден !80!
+127.55.183.161 - IIS Windows Server !80!
+37.140.247.64 - 404 Not Found !80!
+23.77.193.167 - Заголовок не найден !80!
+103.159.65.152 - Account ready !80!
+118.215.87.125 - Заголовок не найден !80!
+160.121.83.108 - æ²¡ææ¾å°ç«ç¹ !80!
+127.187.43.14 - IIS Windows Server !80!
+108.160.129.32 - Заголовок не найден !80!
+23.49.155.244 - Заголовок не найден !80!
+127.184.5.102 - IIS Windows Server !80!
+103.220.18.236 - Please wait, the page is opening... !80!
+23.35.217.33 - Заголовок не найден !80!
+127.209.215.176 - IIS Windows Server !80!
+127.206.238.152 - IIS Windows Server !80!
+188.53.178.39 - Заголовок не найден !80!
+64.227.102.186 - ITYSL Minecraft Server !80!
+127.37.35.173 - IIS Windows Server !80!
+3.120.151.104 - Apache2 Ubuntu Default Page: It works !80!
+198.233.124.82 - Заголовок не найден !80!
+154.22.148.50 - ERROR: The requested URL could not be retrieved !80!
+14.139.124.202 - 403 Forbidden !80!
+127.98.105.114 - IIS Windows Server !80!
+184.27.64.171 - Заголовок не найден !80!
+194.206.126.204 - Nom de domaine, prestataire référencement, hébergement de site web !80!
+142.171.175.18 - æ²¡ææ¾å°ç«ç¹ !80!
+212.83.138.223 - MV Consulting !80!
+143.92.186.222 -  !80!
+127.223.18.251 - IIS Windows Server !80!
+95.163.236.46 - Грузоперевозки по России | Транспортная компания Главтранс Иркутск !80!
+127.198.133.120 - IIS Windows Server !80!
+67.202.47.26 - Заголовок не найден !80!
+38.6.238.4 - 403 Forbidden !80!
+50.3.123.212 - 403 Forbidden !80!
+127.213.227.118 - IIS Windows Server !80!
+85.233.209.232 - Заголовок не найден !80!
+127.127.39.217 - IIS Windows Server !80!
+191.251.174.74 - Заголовок не найден !80!
+127.18.102.221 - IIS Windows Server !80!
+187.169.80.54 -  !80!
+35.94.110.140 - Заголовок не найден !80!
+195.205.4.51 - Login !80!
+162.214.160.147 - Заголовок не найден !80!
+127.3.39.246 - IIS Windows Server !80!
+91.121.175.101 - Web Server's Default Page !80!
+23.207.130.207 - Заголовок не найден !80!
+127.132.187.7 - IIS Windows Server !80!
+127.158.89.49 - IIS Windows Server !80!
+37.140.89.166 - Заголовок не найден !80!
+127.130.48.117 - IIS Windows Server !80!
+116.118.49.223 - Shared IP !80!
+127.240.181.89 - IIS Windows Server !80!
+94.237.80.218 - 404 Not Found !80!
+211.95.52.35 - 403 Forbidden !80!
+38.174.237.53 - Заголовок не найден !80!
+104.248.106.221 - Tours d&#x27;h&#xE9;licopt&#xE8;re &#xE0; Tadoussac et dans la r&#xE9;gion de Charlevoix | Croisi&#xE8;re !80!
+184.25.208.196 - Заголовок не найден !80!
+156.236.181.29 - Заголовок не найден !80!
+13.238.72.239 - Заголовок не найден !80!
+104.90.5.239 - Заголовок не найден !80!
+127.75.225.193 - IIS Windows Server !80!
+2.45.254.54 -  !80!
+54.68.74.127 - 403 Forbidden !80!
+38.38.130.169 - Sorry, the website has been stopped !80!
+54.237.57.121 - Заголовок не найден !80!
+166.78.155.166 - 401 Authorization Required !80!
+23.206.207.25 - Заголовок не найден !80!
+104.77.231.40 - Заголовок не найден !80!
+24.134.19.129 - Document Moved !80!
+127.109.139.221 - IIS Windows Server !80!
+96.74.122.10 - main page !80!
+127.25.214.139 - IIS Windows Server !80!
+127.141.177.204 - IIS Windows Server !80!
+127.24.122.184 - IIS Windows Server !80!
+127.149.75.145 - IIS Windows Server !80!
+115.21.247.191 - Gargoyle Router Management Utility !80!
+127.236.167.55 - IIS Windows Server !80!
+122.8.177.203 - Заголовок не найден !80!
+127.136.127.94 - IIS Windows Server !80!
+127.33.251.11 - IIS Windows Server !80!
+184.50.136.64 - Заголовок не найден !80!
+184.30.16.70 - Заголовок не найден !80!
+95.56.135.171 - GPON Home Gateway !80!
+23.192.137.117 - Заголовок не найден !80!
+139.99.88.203 - Sorry, the website has been stopped !80!
+116.203.195.194 - Apache2 Ubuntu Default Page: It works !80!
+181.27.78.177 - Заголовок не найден !80!
+38.6.210.164 - 404 Not Found !80!
+185.28.187.242 - Заголовок не найден !80!
+127.3.118.218 - IIS Windows Server !80!
+89.39.104.91 - Yabbadoo | Welcome !80!
+52.59.200.203 - Заголовок не найден !80!
+127.25.229.153 - IIS Windows Server !80!
+160.3.168.70 - REDIRECT !80!
+16.170.90.90 - Заголовок не найден !80!
+127.81.138.130 - IIS Windows Server !80!
+50.115.23.72 - Заголовок не найден !80!
+127.227.72.181 - IIS Windows Server !80!
+143.204.61.22 - Заголовок не найден !80!
+34.124.138.56 - MAXXJP | SITUS JUDI ONLINE TERLENGKAP JACKPOT TERBESAR INDONESIA - Maxxjp - Situs Judi Slot Online, Judi Bola &amp; Live
+  Casino, 24/7, Terbesar di Indonesia !80!
+127.73.25.222 - IIS Windows Server !80!
+45.145.52.182 - 500 Internal Server Error !80!
+127.253.5.110 - IIS Windows Server !80!
+218.247.83.249 - 403 Forbidden !80!
+157.197.162.95 - Заголовок не найден !80!
+127.207.161.174 - IIS Windows Server !80!
+127.107.116.205 - IIS Windows Server !80!
+138.68.116.160 - Welcome to nginx! !80!
+127.216.101.35 - IIS Windows Server !80!
+199.232.63.62 - Fastly error: unknown domain 199.232.63.62 !80!
+151.8.239.38 - Заголовок не найден !80!
+72.246.78.129 - Заголовок не найден !80!
+127.169.51.58 - IIS Windows Server !80!
+162.55.85.216 - Welcome to nginx! !80!
+195.246.120.4 - 404 Not Found !80!
+154.204.179.80 - æ²¡ææ¾å°ç«ç¹ !80!
+127.60.46.70 - IIS Windows Server !80!
+34.160.235.118 - Agency Revolution !80!
+68.148.17.156 -  !80!
+62.97.33.196 - Diapositiva 1 !80!
+127.121.133.186 - IIS Windows Server !80!
+127.140.185.34 - IIS Windows Server !80!
+52.51.116.100 - Заголовок не найден !80!
+49.158.203.170 -  !80!
+39.97.65.140 - Заголовок не найден !80!
+127.51.54.55 - IIS Windows Server !80!
+34.224.252.9 - 503 Service Temporarily Unavailable !80!
+5.149.161.15 - Заголовок не найден !80!
+127.249.48.242 - IIS Windows Server !80!
+167.71.197.248 - Musago &#8211; Making music theory easy !80!
+127.103.92.236 - IIS Windows Server !80!
+127.252.195.236 - IIS Windows Server !80!
+23.36.23.84 - Заголовок не найден !80!
+23.49.3.157 - Заголовок не найден !80!
+46.21.226.68 - Hosting Provider voor E-commerce &amp; Webshops - Hypernode !80!
+127.208.172.207 - IIS Windows Server !80!
+95.65.117.88 - 403 Forbidden !80!
+162.219.30.159 - 403 Forbidden !80!
+195.2.221.101 - virtualShelf Login !80!
+181.120.85.3 -  !80!
+34.138.209.13 - FileMaker Website !80!
+23.63.176.15 - Заголовок не найден !80!
+52.43.163.46 - 403 Forbidden !80!
+20.211.201.72 - Заголовок не найден !80!
+47.91.168.114 - 500 Internal Server Error !80!
+127.95.116.164 - IIS Windows Server !80!
+23.35.152.123 - Заголовок не найден !80!
+203.161.54.79 - Roundcube Webmail :: Welcome to Roundcube Webmail !80!
+3.161.131.64 - Заголовок не найден !80!
+127.252.14.131 - IIS Windows Server !80!
+20.60.82.183 - Заголовок не найден !80!
+75.136.99.195 -  !80!
+184.51.195.154 - Заголовок не найден !80!
+2.20.43.65 - Заголовок не найден !80!
+178.128.63.234 - Welcome to nginx! !80!
+127.91.201.96 - IIS Windows Server !80!
+127.184.78.60 - IIS Windows Server !80!
+127.143.175.94 - IIS Windows Server !80!
+8.217.153.90 - 404 Not Found !80!
+103.41.197.160 - Please wait, the page is opening... !80!
+156.195.163.128 -  !80!
+69.195.115.156 - Not Acceptable! !80!
+127.79.51.200 - IIS Windows Server !80!
+23.235.172.121 - 404 Not Found !80!
+184.85.75.122 - Заголовок не найден !80!
+127.255.97.224 - IIS Windows Server !80!
+127.202.155.187 - IIS Windows Server !80!
+18.178.137.5 - Yu-lion.LLC !80!
+127.119.189.96 - IIS Windows Server !80!
+85.214.32.186 - Web Server's Default Page !80!
+196.196.24.56 - Welcome to nginx! !80!
+64.84.117.27 - Apache2 Ubuntu Default Page: It works !80!
+127.234.132.240 - IIS Windows Server !80!
+171.7.56.51 -  !80!
+23.42.236.33 - Заголовок не найден !80!
+93.125.22.38 - Welcome to nginx! !80!
+127.93.96.20 - IIS Windows Server !80!
+127.248.86.118 - IIS Windows Server !80!
+212.227.168.227 - Altuxa.net !80!
+211.55.192.25 -  !80!
+20.186.35.179 - Заголовок не найден !80!
+127.66.245.128 - IIS Windows Server !80!
+127.90.83.210 - IIS Windows Server !80!
+127.125.106.8 - IIS Windows Server !80!
+34.101.38.177 - Заголовок не найден !80!
+173.44.155.213 - 407 Proxy Authentication Required !80!
+59.82.8.45 - taobao | 淘寶 !80!
+127.218.230.64 - IIS Windows Server !80!
+188.165.3.57 - Заголовок не найден !80!
+127.60.24.20 - IIS Windows Server !80!
+23.40.92.181 - Заголовок не найден !80!
+85.214.123.160 - Web Server's Default Page !80!
+157.14.60.252 - prelogin !80!
+127.130.12.146 - IIS Windows Server !80!
+23.208.219.79 - Заголовок не найден !80!
+127.184.26.26 - IIS Windows Server !80!
+127.142.28.16 - IIS Windows Server !80!
+46.242.247.73 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365 !80!
+127.68.31.226 - IIS Windows Server !80!
+3.162.36.182 - Заголовок не найден !80!
+127.185.30.134 - IIS Windows Server !80!
+85.175.96.196 - RouterOS router configuration page !80!
+127.9.119.226 - IIS Windows Server !80!
+127.15.6.239 - IIS Windows Server !80!
+59.98.176.170 - Заголовок не найден !80!
+85.97.236.110 -  !80!
