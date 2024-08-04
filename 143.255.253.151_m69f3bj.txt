@@ -13924,3 +13924,45 @@ ctHosting - BisectHosting
 38.6.238.93:80 - 404 Not Found
 52.84.221.159:80 - Заголовок не найден
 45.83.107.239:80 - Welcome to nginx!
+151.101.232.139:80 - Fastly error: unknown domain 151.101.232.139
+23.206.52.12:80 - Заголовок не найден
+3.229.13.192:80 - 403 Forbidden
+107.178.189.48:80 - Заголовок не найден
+4.175.218.89:80 - Your Azure Function App is up and running.
+54.230.186.155:80 - Заголовок не найден
+13.32.211.132:80 - Заголовок не найден
+52.162.206.190:80 - Object reference not set to an instance of an object.
+70.90.212.78:80 - IIS Windows Server
+52.1.185.224:80 - CLR SOLUTIONS AR Assistant
+52.35.169.167:80 - 
+103.100.6.71:80 - Please wait, the login page is opening...
+120.158.103.7:80 - Заголовок не найден
+104.27.122.109:80 - Direct IP access not allowed | Cloudflare
+159.89.251.128:80 - Welcome to nginx!
+104.25.170.242:80 - Direct IP access not allowed | Cloudflare
+121.40.59.125:80 - æ²¡ææ¾å°ç«ç¹
+79.167.176.117:80 - Заголовок не найден
+92.123.176.100:80 - Заголовок не найден
+51.68.132.28:80 - Home | 51.68.132.28
+186.134.86.7:80 - Заголовок не найден
+117.255.164.67:80 - GPE550A
+51.159.20.203:80 - Web Server's Default Page
+50.250.93.139:80 - Заголовок не найден
+154.22.215.18:80 - 404 Not Found
+89.23.112.113:80 - 404 Not Found
+5.230.74.94:80 - Index of /
+165.225.210.186:80 - Internet Security by Zscaler
+178.253.44.173:80 - Apache2 Ubuntu Default Page: It works
+206.119.1.17:80 - 403 Forbidden
+85.10.198.25:80 - Заголовок не найден
+18.245.69.4:80 - Заголовок не найден
+50.112.145.68:80 - Заголовок не найден
+200.135.184.4:80 - Заголовок не найден
+15.164.244.209:80 - Заголовок не найден
+73.162.119.62:80 - 
+172.67.76.86:80 - Direct IP access not allowed | Cloudflare
+212.103.225.99:80 - .::Welcome to the Web-Based Configurator::.
+38.207.18.186:80 - 404 Not Found
+124.156.165.73:80 - 404 Not Found
+13.50.83.247:80 - 404 Not Found
+222.206.4.212:80 - 404 Not Found
