@@ -10640,3 +10640,139 @@
 210.212.253.249:80 - WEB SERVICE
 51.17.25.58:80 - על המדריך - IL Core Implementation Guide v0.18.0
 45.40.147.222:80 - Заголовок не найден
+223.109.171.130:80 - 404 Not Found
+2.57.138.68:80 - 404 Not Found
+72.167.132.149:80 - Welcome to nginx!
+35.201.53.41:80 - 35.201.53.41.corp.google.com - Google Single Sign On: Sign into corp
+43.133.225.222:80 - 404 Not Found
+77.76.20.76:80 - Заголовок не найден
+125.25.54.99:80 - vrdata Studio &mdash; portFolio
+104.86.85.13:80 - Заголовок не найден
+13.200.152.95:80 - Jarvis Invest - Your trusted Partner for Smart Investments
+27.74.9.140:80 - 
+23.49.150.9:80 - Заголовок не найден
+54.73.178.133:80 - 403 Forbidden
+23.43.231.79:80 - Заголовок не найден
+38.174.132.76:80 - 404 Not Found
+158.199.233.7:80 - Заголовок не найден
+154.203.105.93:80 - Sorry, the website has been stopped
+8.215.31.151:80 - 503 Service Unavailable
+190.104.221.187:80 - EQUIS WEB
+151.101.9.192:80 - Fastly error: unknown domain 151.101.9.192
+69.162.96.89:80 - Заголовок не найден
+95.101.92.226:80 - Заголовок не найден
+209.73.183.25:80 - Yahoo
+54.230.227.10:80 - Заголовок не найден
+108.161.78.50:80 - IMail Web Client - Login
+34.159.52.45:80 - Заголовок не найден
+68.189.142.129:80 - 
+18.210.206.209:80 - 503 Service Temporarily Unavailable
+210.236.69.160:80 - 404 Not Found
+3.162.84.230:80 - Заголовок не найден
+183.234.97.91:80 - 403 Forbidden
+140.117.40.57:80 - 
+191.235.127.254:80 - Microsoft Azure Web App - Error 404
+34.107.245.139:80 - 404
+179.191.4.92:80 - Заголовок не найден
+123.142.200.221:80 - 
+46.175.155.71:80 - ERROR: The requested URL could not be retrieved
+192.126.141.243:80 - ERROR: The requested URL could not be retrieved
+108.139.131.149:80 - Заголовок не найден
+155.138.213.92:80 - The #1 Carpet Cleaning in Lexington KY with 320+ 5-Star Reviews!
+86.43.64.2:80 - 
+68.178.146.222:80 - Coming Soon
+202.122.51.206:80 - ERROR
+103.161.34.21:80 - Welcome to nginx!
+54.192.138.70:80 - Заголовок не найден
+172.67.221.166:80 - Direct IP access not allowed | Cloudflare
+23.202.220.46:80 - Заголовок не найден
+5.104.171.5:80 - Заголовок не найден
+190.171.117.141:80 - 
+39.108.53.94:80 - 阿里云万网虚机IP访问报错提示
+108.177.97.149:80 - Google
+13.212.165.233:80 - Заголовок не найден
+104.21.40.190:80 - Direct IP access not allowed | Cloudflare
+54.66.31.66:80 - 403 Forbidden
+176.58.42.5:80 - Заголовок не найден
+104.25.240.144:80 - Direct IP access not allowed | Cloudflare
+82.165.54.45:80 - Aktuell - gaybrandenburg.de
+47.39.160.76:80 - 401 Unauthorized
+121.149.94.80:80 - Log On
+58.137.140.238:80 - Заголовок не найден
+3.163.106.104:80 - Заголовок не найден
+69.234.225.170:80 - 403 Forbidden
+85.208.115.97:80 - 407 Proxy Authentication Required
+212.188.32.10:80 - Заголовок не найден
+101.91.130.248:80 - Заголовок не найден
+52.217.38.54:80 - Amazon S3 - Cloud Object Storage  - AWS
+23.7.18.2:80 - Заголовок не найден
+1.188.199.35:80 - 
+3.165.108.150:80 - Заголовок не найден
+154.55.147.59:80 - Заголовок не найден
+195.14.100.11:80 - Заголовок не найден
+27.78.12.227:80 - Заголовок не найден
+45.202.243.35:80 - 403 Forbidden
+200.26.252.72:80 - Apache2 Debian Default Page: It works
+23.54.92.12:80 - Заголовок не найден
+167.82.22.143:80 - Fastly error: unknown domain 167.82.22.143
+23.10.146.101:80 - Заголовок не найден
+154.9.42.183:80 - ERROR: The requested URL could not be retrieved
+140.238.91.134:80 - Заголовок не найден
+23.55.179.18:80 - Заголовок не найден
+103.100.211.169:80 - Spug
+77.55.84.106:80 - Domain  is hosted on netart.com servers
+207.244.242.11:80 - Welcome to nginx!
+108.157.152.247:80 - Заголовок не найден
+15.207.52.93:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+104.71.124.13:80 - Заголовок не найден
+216.92.17.42:80 - USTSF
+203.210.102.189:80 - Waiting for the redirectiron...
+23.78.55.20:80 - Заголовок не найден
+3.34.134.59:80 - 404 Not Found
+38.154.118.212:80 - ERROR: The requested URL could not be retrieved
+23.36.28.94:80 - Заголовок не найден
+131.159.41.133:80 - Bad Request (400)
+149.28.153.100:80 - 503 Service Temporarily Unavailable
+64.23.168.234:80 - Apache2 Debian Default Page: It works
+78.46.213.75:80 - Willkommen bei der GEVA automation GmbH
+58.185.117.132:80 - Заголовок не найден
+3.7.149.68:80 - 403 Forbidden
+77.68.115.183:80 - MeadSpeed
+18.165.197.86:80 - Заголовок не найден
+108.186.140.75:80 - Заголовок не найден
+43.156.160.99:80 - IIS Windows Server
+111.70.12.156:80 - 
+107.172.68.79:80 - 407 Proxy Authentication Required
+178.79.163.251:80 - 404 - Not Found
+38.63.211.139:80 - 404 Not Found
+104.86.33.210:80 - Заголовок не найден
+64.226.105.1:80 - 404 Not Found
+190.74.65.106:80 - 
+185.206.118.247:80 - IIS Windows Server
+104.104.191.14:80 - Заголовок не найден
+41.62.146.138:80 - 403 Forbidden
+192.180.249.34:80 - 
+72.246.21.69:80 - Заголовок не найден
+192.126.211.170:80 - ERROR: The requested URL could not be retrieved
+204.12.45.250:80 - Заголовок не найден
+23.61.139.95:80 - Заголовок не найден
+103.186.24.117:80 - Sorry, the website has been stopped
+13.33.182.88:80 - Заголовок не найден
+111.47.246.179:80 - è¯¥ç½ç«ææ¶æ æ³è¿è¡è®¿é®
+43.254.164.91:80 - Заголовок не найден
+107.151.232.118:80 - Welcome to nginx!
+5.78.110.27:80 - 404 Not Found
+163.5.140.125:80 - Apache2 Ubuntu Default Page: It works
+154.13.165.156:80 - ERROR: The requested URL could not be retrieved
+138.255.105.100:80 - Apache HTTP Server Test Page powered by CentOS
+92.222.76.2:80 - 401 Authorization Required
+23.57.93.181:80 - Заголовок не найден
+114.37.103.138:80 - RouterOS router configuration page
+23.50.100.197:80 - Заголовок не найден
+44.209.90.11:80 - Заголовок не найден
+45.147.27.154:80 - Shared IP
+23.47.8.6:80 - Заголовок не найден
+23.50.114.167:80 - Заголовок не найден
+192.126.149.156:80 - ERROR: The requested URL could not be retrieved
+57.181.7.184:80 - Redmine.est.jp
+27.68.67.86:80 - 
