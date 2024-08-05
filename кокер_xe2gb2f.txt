@@ -446,3 +446,163 @@
 47.120.60.201:80 - Заголовок не найден
 81.242.121.125:80 - Webinterface
 154.19.115.45:80 - 404 Not Found
+110.78.142.219:80 - &#72;&#56;&#49;&#48;&#50;&#69;
+109.122.235.61:80 - 
+123.172.127.220:80 - Заголовок не найден
+23.88.55.240:80 - Заголовок не найден
+2.21.184.26:80 - Заголовок не найден
+217.15.172.86:80 - 403 Forbidden
+52.37.53.74:80 - 503 Service Temporarily Unavailable
+154.64.103.42:80 - 404 Not Found
+18.154.186.58:80 - Заголовок не найден
+96.30.15.149:80 - Заголовок не найден
+74.48.102.159:80 - Заголовок не найден
+42.124.22.166:80 - Заголовок не найден
+4.157.224.90:80 - Заголовок не найден
+23.213.37.108:80 - Заголовок не найден
+23.50.100.218:80 - Заголовок не найден
+157.7.178.62:80 - 404 Error - Not Found
+139.84.194.215:80 - 404 Not Found
+177.152.190.132:80 - F612W
+18.160.226.232:80 - Заголовок не найден
+78.84.210.244:80 - 
+104.238.130.63:80 - Unknown Domain
+79.124.118.37:80 - Заголовок не найден
+38.31.201.103:80 - 404 Not Found
+88.221.225.221:80 - Заголовок не найден
+45.61.133.58:80 - IIS Windows Server
+223.111.231.200:80 - 403 Forbidden
+23.6.107.66:80 - Заголовок не найден
+89.161.191.198:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+150.60.14.57:80 - 有誠会グループ
+23.46.40.137:80 - Заголовок не найден
+52.28.25.198:80 - Заголовок не найден
+216.137.48.230:80 - Заголовок не найден
+38.33.50.15:80 - Заголовок не найден
+23.199.24.227:80 - Заголовок не найден
+20.247.90.188:80 - 403 Forbidden
+68.183.117.112:80 - Website Unavailable
+140.206.63.145:80 - Заголовок не найден
+109.169.58.215:80 - Hosted By BisectHosting - BisectHosting
+35.192.147.40:80 - Site Not Configured | 404 Not Found
+148.139.7.253:80 - 403 Forbidden
+211.181.72.213:80 - Заголовок не найден
+50.242.214.165:80 - 
+180.93.136.157:80 - 404 Not Found
+139.162.154.22:80 - Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli
+23.39.40.194:80 - Заголовок не найден
+139.129.157.248:80 - 阿里云万网虚机IP访问报错提示
+23.42.137.87:80 - Заголовок не найден
+103.163.24.148:80 - IIS Windows Server
+95.101.210.36:80 - Заголовок не найден
+156.241.141.120:80 - æ²¡ææ¾å°ç«ç¹
+178.250.94.22:80 - RouterOS
+198.23.131.254:80 - 
+104.19.2.95:80 - Direct IP access not allowed | Cloudflare
+80.77.123.240:80 - Заголовок не найден
+34.233.189.14:80 - 403 Forbidden
+35.74.111.187:80 - Заголовок не найден
+195.206.181.180:80 - 403 Forbidden
+198.252.105.56:80 - Заголовок не найден
+51.210.111.183:80 - Welcome to nginx!
+54.251.236.109:80 - The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file &quot;/var/www/html/app-api/storage/logs/laravel.log&quot; could not be opened in append mode: Failed to open stream: Permission denied
+The exception occurred while attempting to log: file_put_contents(/var/www/html/app-api/storage/framework/sessions/8YSo8XUOkkzTMx9QNKIWFgwUeXgUMGWQK7b0BF6L): Failed to open stream: Permission denied
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+Context: {&quot;exception&quot;:{}}
+23.203.56.183:80 - Заголовок не найден
+20.109.104.75:80 - 404 Not Found
+212.55.112.29:80 - Webif&sup2; Administration Console
+23.50.180.169:80 - Заголовок не найден
+51.210.39.40:80 - 404 Not Found
+124.146.222.204:80 - Заголовок не найден
+104.206.140.148:80 - 500 Internal Server Error
+165.192.88.212:80 - HTTP Server Test Page powered by: Rocky Linux
+47.154.66.205:80 - Google
+120.55.164.121:80 - Microsoft Internet Information Services 8
+103.231.44.57:80 - Заголовок не найден
+116.176.94.19:80 - 403 Forbidden
+63.135.165.219:80 - Hosted By BisectHosting - BisectHosting
+5.75.190.111:80 - ARSES.CO Email Server
+103.21.220.137:80 - Заголовок не найден
+34.78.221.140:80 - Einloggen | DashDev
+52.200.197.65:80 - Заголовок не найден
+23.108.93.197:80 - 407 Proxy Authentication Required
+23.211.175.200:80 - Заголовок не найден
+104.92.67.4:80 - Заголовок не найден
+149.3.184.26:80 - &#70;&#54;&#55;&#48;&#76;
+35.239.203.139:80 - DNS Update Required
+195.175.178.12:80 - Заголовок не найден
+97.91.145.251:80 - 
+35.93.141.16:80 - KatanaRx Backend
+108.157.26.155:80 - Заголовок не найден
+180.129.51.64:80 - D-LINK SYSTEMS, INC. | WIRELESS ROUTER | HOME
+5.161.83.108:80 - Welcome to nginx!
+78.80.190.60:80 - Welcome to nginx!
+104.83.76.9:80 - Заголовок не найден
+35.241.30.223:80 - 403 Forbidden
+23.54.82.243:80 - Заголовок не найден
+54.157.105.78:80 - Заголовок не найден
+108.139.241.89:80 - Заголовок не найден
+163.182.170.35:80 - Заголовок не найден
+195.12.14.246:80 - 403 Forbidden
+89.37.207.83:80 - Заголовок не найден
+133.159.211.163:80 - BB-SW172 Network Camera
+40.91.93.160:80 - Azure Container App - Unavailable
+1.34.127.202:80 - WEB SERVICE
+23.51.44.86:80 - Заголовок не найден
+18.164.182.90:80 - Заголовок не найден
+149.30.243.252:80 - 404 Not Found
+86.223.146.211:80 - Hello! Welcome to Synology Web Station!
+149.106.255.27:80 - Building Operation WebStation
+167.235.135.68:80 - 500 Internal Server Error
+47.107.106.225:80 - Заголовок не найден
+111.125.155.141:80 - Error 404 (Not Found)!!1
+52.18.244.149:80 - Home
+188.27.113.5:80 - Welcome to nginx!
+36.103.153.245:80 - 403 Forbidden
+172.121.40.148:80 - 404 Not Found
+185.34.192.241:80 - -
+104.25.223.204:80 - Direct IP access not allowed | Cloudflare
+23.76.158.69:80 - Заголовок не найден
+23.202.82.173:80 - Заголовок не найден
+96.86.240.169:80 - 
+191.80.198.60:80 - Заголовок не найден
+139.224.62.43:80 - 403 Forbidden
+50.2.83.84:80 - 403 Forbidden
+23.50.255.73:80 - Заголовок не найден
+222.104.55.222:80 - 
+192.162.69.129:80 - Apache2 Debian Default Page: It works
+210.109.103.177:80 - 바른기술연구소 컨텐츠 필터링 시스템
+52.8.53.15:80 - 502 Bad Gateway
+139.59.84.137:80 - Заголовок не найден
+117.121.252.207:80 - Заголовок не найден
+45.60.231.123:80 - Заголовок не найден
+82.67.17.144:80 - Заголовок не найден
+104.91.6.60:80 - Заголовок не найден
+104.69.129.26:80 - Заголовок не найден
+82.80.140.94:80 - 
+103.237.95.61:80 - Index of /
+54.77.108.101:80 - 403 Forbidden
+98.103.170.34:80 - Kent State Hotel - Remote Web Access
+13.41.102.174:80 - 403 Forbidden
+157.230.36.235:80 - Заголовок не найден
+82.84.123.71:80 - .::Welcome to the Web-Based Configurator::.
