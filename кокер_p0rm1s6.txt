@@ -432,3 +432,68 @@
 45.60.140.123:80 - Заголовок не найден
 23.43.27.196:80 - Заголовок не найден
 23.6.227.34:80 - Заголовок не найден
+47.115.43.97:80 - HTTP Server Test Page
+3.160.216.62:80 - Заголовок не найден
+69.163.197.32:80 - Site not found &middot; DreamHost
+103.66.9.205:80 - Please wait, the login page is opening...
+83.166.153.127:80 - web host not found
+45.58.134.22:80 - Welcome to nginx!
+138.121.124.225:80 - .::Welcome to the Web-Based Configurator::.
+8.147.131.116:80 - GM
+13.227.124.228:80 - Заголовок не найден
+3.36.247.34:80 - Заголовок не найден
+103.9.103.197:80 - Заголовок не найден
+185.183.106.84:80 - 
+43.207.60.140:80 - Welcome to nginx!
+93.125.48.189:80 - IIS Windows Server
+108.186.123.146:80 - 404 Not Found
+109.75.44.252:80 - index
+133.125.60.109:80 - 心理学実験
+81.167.37.167:80 - Заголовок не найден
+104.206.64.101:80 - 403 Forbidden
+5.45.145.213:80 - Заголовок не найден
+50.193.16.179:80 - Isopottery - About
+212.64.206.107:80 - Web Server's Default Page
+148.251.22.165:80 - Alfresco for Swedish Organisations and Businesses
+38.14.144.188:80 - Заголовок не найден
+89.28.167.221:80 - Аутентификация
+194.67.110.7:80 - Website 194-67-110-7.cloudvps.regruhosting.ru is ready. The content is to be added
+46.29.21.189:80 - Apache2 Debian Default Page: It works
+18.246.130.13:80 - Заголовок не найден
+23.38.48.79:80 - Заголовок не найден
+191.96.100.58:80 - Заголовок не найден
+4.255.41.206:80 - Заголовок не найден
+52.199.167.92:80 - 503 Service Temporarily Unavailable
+3.164.59.58:80 - Заголовок не найден
+8.218.232.210:80 - æ²¡ææ¾å°ç«ç¹
+113.204.6.163:80 - 403 Forbidden
+146.75.56.168:80 - Fastly error: unknown domain 146.75.56.168
+18.238.69.55:80 - Заголовок не найден
+50.116.45.234:80 - Griffit Wellness
+147.92.184.129:80 - 404 Not Found
+95.100.76.64:80 - Заголовок не найден
+88.149.255.1:80 - Connection denied by Geolocation
+23.61.168.180:80 - Заголовок не найден
+65.9.35.225:80 - Заголовок не найден
+119.149.108.14:80 - 
+24.244.80.35:80 - Заголовок не найден
+14.63.90.145:80 - main page
+104.100.212.47:80 - Заголовок не найден
+218.108.104.86:80 - 404 Not Found
+37.143.164.57:80 - directtarget.ro - New York, NY
+39.106.28.221:80 - Sign in · GitLab
+23.34.202.152:80 - Заголовок не найден
+88.250.195.191:80 - index
+40.112.171.222:80 - Microsoft Azure Web App - Error 404
+104.208.163.53:80 - RabbitMQ Management
+38.170.11.222:80 - ERROR: The requested URL could not be retrieved
+223.109.187.144:80 - Заголовок не найден
+120.79.158.229:80 - Apache Tomcat/9.0.64
+164.46.38.43:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+92.255.94.210:80 - RouterOS router configuration page
+96.36.42.229:80 - 
+203.219.31.190:80 - FortiGate
+4.152.32.196:80 - Your Azure Function App is up and running.
+185.169.24.102:80 - Apache2 Debian Default Page: It works
+178.176.235.87:80 - Test Page for the HTTP Server on Fedora
+96.86.38.89:80 - 403 Forbidden
