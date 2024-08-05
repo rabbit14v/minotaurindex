@@ -7346,3 +7346,74 @@ znakowarka laserowa, znakowarka ig³owa, znakowarka do metalu
 15.207.118.5:80 - Student Hostels &amp; PG in India | Co-living Space in India includes Delhi, Mumbai, Bangalore etc- your-space
 118.215.187.230:80 - Заголовок не найден
 103.233.27.192:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+23.12.201.82:80 - Заголовок не найден
+34.193.0.43:80 - 503 Service Temporarily Unavailable
+101.42.159.232:80 - 403 Forbidden
+23.1.150.216:80 - Заголовок не найден
+34.208.130.33:80 - sliBuy.com | Store Returns Online Auction Wholesale
+146.59.148.71:80 - Welcome to nginx!
+88.198.156.120:80 - 404 Not Found
+103.150.30.244:80 - 403 Forbidden
+149.96.116.21:80 - 403 Forbidden
+184.105.130.99:80 - Заголовок не найден
+176.31.47.172:80 - Заголовок не найден
+185.65.244.234:80 - 404 Not Found
+122.117.97.66:80 - 403 Forbidden
+75.136.54.92:80 - 
+52.214.226.200:80 - Login
+24.62.103.177:80 - 401 - Unauthorized
+18.66.158.88:80 - Заголовок не найден
+143.0.50.105:80 - Login
+46.101.132.44:80 - Welcome to nginx!
+1.209.94.190:80 - ::: LogisAll Â÷·®°üÁ¦ ½Ã½ºÅÛ :::
+104.80.243.230:80 - Заголовок не найден
+213.183.73.250:80 - Trellix Page Not Found
+50.222.130.29:80 - Print Buffer Version 1.0.8
+159.69.180.7:80 - Заголовок не найден
+198.2.219.241:80 - Welcome to nginx!
+104.16.151.105:80 - Direct IP access not allowed | Cloudflare
+23.73.107.49:80 - Заголовок не найден
+104.25.255.140:80 - Direct IP access not allowed | Cloudflare
+3.225.212.5:80 - 403 Forbidden
+15.161.93.156:80 - 404 Not Found
+188.208.126.58:80 - Заголовок не найден
+106.75.116.129:80 - Заголовок не найден
+222.141.34.228:80 - Заголовок не найден
+200.170.151.156:80 - Apache HTTP Server Test Page powered by CentOS
+23.1.52.8:80 - Заголовок не найден
+185.163.126.238:80 - Web Server's Default Page
+91.223.169.178:80 - Apache2 Ubuntu Default Page: It works
+103.44.85.86:80 - Welcome to CentOS
+110.185.104.90:80 - Welcome to nginx!
+54.252.49.63:80 - Заголовок не найден
+104.85.152.26:80 - Заголовок не найден
+203.147.19.218:80 - Royal Thai Navy - Index
+77.103.181.70:80 - WEB SERVICE
+119.243.185.48:80 - Заголовок не найден
+177.129.28.43:80 - Apache2 Debian Default Page: It works
+129.21.39.95:80 - IIS Windows Server
+91.108.114.149:80 - 403 Forbidden
+121.150.238.234:80 - cMT
+147.78.251.21:80 - its-doern e.U. - informationstechnologie mit system
+54.193.142.161:80 - Заголовок не найден
+184.26.147.172:80 - Заголовок не найден
+116.202.241.137:80 - 403 Forbidden
+52.218.243.18:80 - Amazon S3 - Cloud Object Storage  - AWS
+198.23.190.91:80 - 403 - Forbidden: Access is denied.
+49.103.170.177:80 - Заголовок не найден
+50.248.30.65:80 - 
+104.90.81.112:80 - Заголовок не найден
+34.146.200.140:80 - Welcome to nginx!
+51.37.29.244:80 - 
+189.173.198.178:80 - WEB SERVICE
+4.246.171.135:80 - 404 Not Found
+125.248.181.204:80 - Заголовок не найден
+154.55.206.87:80 - 403 Forbidden
+95.130.254.13:80 - Page Not Found
+185.69.19.136:80 - Subcribe and Anti-Spam and Privacy for 185.69.19.136
+18.138.164.92:80 - Заголовок не найден
+190.166.55.80:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#55;&#65;&#32;&#86;&#49;&#46;&#48;
+183.106.146.252:80 - Заголовок не найден
+160.94.62.151:80 - Заголовок не найден
+13.114.81.58:80 - woodstock.club
+3.160.237.41:80 - Заголовок не найден
