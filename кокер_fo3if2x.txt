@@ -12124,3 +12124,149 @@ pentru conservare
 109.176.199.10:80 - 404 Not Found
 35.139.12.151:80 - 
 110.45.179.88:80 - Заголовок не найден
+172.67.215.252:80 - Direct IP access not allowed | Cloudflare
+176.197.55.30:80 - Login
+199.232.177.218:80 - Fastly error: unknown domain 199.232.177.218
+216.144.160.201:80 - Заголовок не найден
+107.154.153.150:80 - Заголовок не найден
+156.236.181.142:80 - æ²¡ææ¾å°ç«ç¹
+20.71.116.96:80 - Wer wir sind - finanzennet
+54.174.222.6:80 - No such app
+14.215.162.45:80 - Заголовок не найден
+57.181.220.135:80 - Заголовок не найден
+23.217.48.13:80 - Заголовок не найден
+104.25.126.246:80 - Direct IP access not allowed | Cloudflare
+155.159.149.214:80 - 404 Not Found
+3.164.148.0:80 - Заголовок не найден
+119.8.84.94:80 - Gratidao 777
+185.25.137.136:80 - Ubiquiti
+5.255.88.142:80 - 404 Not Found
+87.209.236.94:80 - 404 Not Found
+130.83.158.136:80 - Information and Communication Engineering - Online Assessment Test
+177.43.63.111:80 - Заголовок не найден
+217.173.140.142:80 - Privatkundenprodukte - Titan Networks
+114.55.167.93:80 - 404 Not Found
+206.85.35.222:80 - ZC-521
+106.52.200.75:80 - 404 Not Found
+210.149.81.165:80 - å½ç«ç¾è¡é¤¨ã®æèµä½åãæ´»ç¨ããã¦ã§ããµã¤ããéè³ç´ æBOXãã«ã¤ãã¦
+172.67.77.71:80 - Direct IP access not allowed | Cloudflare
+23.195.162.105:80 - Заголовок не найден
+18.116.73.161:80 - Заголовок не найден
+104.25.200.100:80 - Direct IP access not allowed | Cloudflare
+213.32.7.183:80 - Заголовок не найден
+144.208.193.32:80 - 502 Bad Gateway
+148.66.22.44:80 - æ²¡ææ¾å°ç«ç¹
+23.52.122.221:80 - Заголовок не найден
+122.193.203.230:80 - 403 Forbidden
+188.68.209.75:80 - Заголовок не найден
+209.97.143.75:80 - Заголовок не найден
+135.148.122.30:80 - 403 Forbidden
+117.148.177.231:80 - è¯¥ç½ç«ææ¶æ æ³è¿è¡è®¿é®
+216.232.124.251:80 - Hello
+38.173.166.33:80 - 404 Not Found
+23.63.150.162:80 - Заголовок не найден
+201.123.25.227:80 - WEB SERVICE
+196.51.195.15:80 - ERROR: The requested URL could not be retrieved
+2.45.53.139:80 - IIS7
+62.109.154.52:80 - 403 Forbidden
+38.152.30.50:80 - ERROR: The requested URL could not be retrieved
+65.8.37.9:80 - Заголовок не найден
+63.193.179.10:80 - AT&T WiFi Portal
+103.209.220.158:80 - Please wait, the page is opening...
+3.133.2.66:80 - Austin Capital Trust Sandbox
+180.228.140.120:80 - Заголовок не найден
+109.232.254.139:80 - Service Desk
+194.24.244.2:80 - Telewizja Kablowa Kołobrzeg | TV Cyfrowa i Internet
+190.96.126.27:80 - RouterOS router configuration page
+154.31.240.73:80 - 403 Forbidden
+164.92.65.2:80 - Base Web
+172.179.102.32:80 - Your Azure Function App is up and running.
+44.213.153.111:80 - Заголовок не найден
+86.127.79.148:80 - Заголовок не найден
+173.232.155.159:80 - 403 Forbidden
+23.192.208.47:80 - Заголовок не найден
+45.17.10.173:80 - Welcome to nginx!
+110.50.219.120:80 - Заголовок не найден
+47.254.179.90:80 - Error
+205.157.80.34:80 - Заголовок не найден
+77.68.15.212:80 - Web Server's Default Page
+184.31.38.228:80 - Заголовок не найден
+51.77.135.65:80 - 403 Forbidden
+104.98.121.244:80 - Заголовок не найден
+35.177.184.40:80 - 404 Not Found
+177.136.235.185:80 - Заголовок не найден
+156.248.52.40:80 - 404 Not Found
+154.53.81.62:80 - ERROR: The requested URL could not be retrieved
+70.39.108.61:80 - Apache2 Ubuntu Default Page: It works
+119.197.178.249:80 - EMS Login
+188.128.182.5:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+34.126.126.176:80 - Page not found
+104.25.243.165:80 - Direct IP access not allowed | Cloudflare
+204.8.47.175:80 - 500 Internal Server Error
+103.145.46.82:80 - Sign in · GitLab
+51.195.92.236:80 - Заголовок не найден
+184.31.168.57:80 - Заголовок не найден
+172.93.233.178:80 - ERROR: The requested URL could not be retrieved
+124.197.189.22:80 - 
+39.49.122.169:80 - Заголовок не найден
+134.119.182.203:80 - Daily Crypto Market Dashboard | Summary Tables | Coin Comparisons | cexscan.com
+121.43.226.140:80 - ç½ç«è®¿é®æ¥é
+85.214.91.89:80 - 403 Forbidden
+213.210.18.132:80 - Welcome to nginx!
+104.82.88.131:80 - Заголовок не найден
+18.139.38.211:80 - Welcome to nginx!
+167.172.152.39:80 - Success!
+114.55.178.247:80 - ç½ç«è®¿é®æ¥é
+23.218.17.90:80 - Заголовок не найден
+146.75.111.210:80 - Fastly error: unknown domain 146.75.111.210
+170.130.190.135:80 - Заголовок не найден
+106.15.25.153:80 - Welcome to nginx!
+194.85.89.99:80 - Заголовок не найден
+115.126.61.124:80 - Заголовок не найден
+104.106.186.198:80 - Заголовок не найден
+34.121.245.128:80 - Заголовок не найден
+209.147.127.186:80 - Welcome | PRTG Network Monitor (PRIMEHOST)
+210.159.24.182:80 - Apache2 Ubuntu Default Page: It works
+23.223.47.147:80 - Заголовок не найден
+104.206.45.80:80 - 403 Forbidden
+3.1.187.219:80 - HTTP Status 404 – Not Found
+94.44.133.251:80 - Заголовок не найден
+122.51.25.107:80 - login
+198.244.150.216:80 - MyPremiumkeys - your premium keys storage
+104.114.215.59:80 - Заголовок не найден
+120.26.193.125:80 - åäº¬ç½åæµä½ææ¯æéå¬å¸
+114.142.163.213:80 - Website Unavailable
+138.201.73.129:80 - Beta
+194.244.6.141:80 - CliensPi&ugrave;
+104.140.97.30:80 - 500 Internal Server Error
+181.119.48.30:80 - Заголовок не найден
+13.32.106.50:80 - Заголовок не найден
+38.174.102.236:80 - 403 Forbidden
+79.52.233.82:80 - Home Assistant
+92.62.34.219:80 - Svenn for håndverkere | Svenn
+47.250.47.125:80 - æ²¡ææ¾å°ç«ç¹
+212.30.70.214:80 - Default Parallels Plesk Panel Page
+34.236.123.14:80 - 403 Forbidden
+104.16.136.107:80 - Direct IP access not allowed | Cloudflare
+3.129.118.138:80 - UCLA School of the Arts and Architecture  Supplemental Application
+45.60.115.13:80 - Заголовок не найден
+13.201.188.24:80 - 502 Bad Gateway
+130.185.156.149:80 - 407 Proxy Authentication Required
+57.181.74.104:80 - AIパチンコオンラインサロン
+54.154.111.82:80 - IIS Windows Server
+45.123.188.240:80 - Welcome to nginx!
+23.33.56.157:80 - Заголовок не найден
+43.153.93.233:80 - 404 Not Found
+35.158.253.136:80 - 404 Not Found
+47.101.58.189:80 - NPAIEngine
+47.92.53.161:80 - .
+159.223.28.212:80 - 404 Not Found
+92.204.138.219:80 - Заголовок не найден
+49.44.225.204:80 - Error 404 (Not Found)!!1
+162.159.62.34:80 - Direct IP access not allowed | Cloudflare
+43.139.120.142:80 - 刘小炜的个人博客
+18.158.242.145:80 - 403 Forbidden
+18.130.224.193:80 - Site Not Configured | 404 Not Found
+149.88.79.13:80 - 404 Not Found
+193.201.191.130:80 - Az oldal nem található - UNAS
+195.14.17.135:80 - 500 Internal Server Error
