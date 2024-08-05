@@ -8389,3 +8389,83 @@ znakowarka laserowa, znakowarka ig³owa, znakowarka do metalu
 77.108.15.229:80 - 403 Forbidden
 130.211.11.190:80 - Express
 92.205.102.238:80 - Das Fintech Portal und Fintech Apps für Gründer und InvestorenPaperpusher
+3.114.40.165:80 - STOCK-APP
+162.209.201.115:80 - 404 Not Found
+52.22.154.22:80 - Заголовок не найден
+209.200.105.166:80 - Заголовок не найден
+31.192.234.22:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+192.185.147.103:80 - Not Acceptable!
+31.168.213.195:80 - 
+45.33.122.148:80 - Azure Sky Drone Services
+45.61.138.125:80 - Apache2 Ubuntu Default Page: It works
+129.88.69.17:80 - DNS measurement server
+50.118.214.52:80 - 
+74.125.204.116:80 - Google
+154.216.45.177:80 - 404 Not Found
+3.161.33.14:80 - Заголовок не найден
+2.21.214.252:80 - Заголовок не найден
+193.253.211.132:80 - Hello! Welcome to Synology Web Station!
+23.10.46.124:80 - Заголовок не найден
+35.173.9.72:80 - Timeshare rentals and Resales - Buy, Sell, or Rent a timeshare
+54.199.170.83:80 - ログイン
+ |エマージェPlusコンシェル
+107.154.243.199:80 - Заголовок не найден
+220.90.86.232:80 - SMA Cluster Controller
+99.84.233.175:80 - Заголовок не найден
+23.239.28.74:80 - ip-23-239-28-74.cloudezapp.io
+194.67.123.124:80 - ERROR: The requested URL could not be retrieved
+84.110.154.106:80 - Заголовок не найден
+104.16.51.141:80 - Direct IP access not allowed | Cloudflare
+18.164.37.167:80 - Заголовок не найден
+154.6.170.114:80 - Заголовок не найден
+80.89.203.73:80 - IVSWeb 2.0 - Welcome
+125.252.246.51:80 - Заголовок не найден
+108.158.211.187:80 - Заголовок не найден
+98.128.158.114:80 - hue personal wireless lighting
+125.187.72.104:80 - WEB SERVICE
+18.172.190.160:80 - Заголовок не найден
+115.135.154.219:80 - 
+18.204.87.43:80 - Parallax Craft Web Design &#8211; Crafting sites as unique as your business is.
+51.222.14.54:80 - Заголовок не найден
+4.182.107.2:80 - Seq
+38.63.41.63:80 - Заголовок не найден
+210.244.55.99:80 - Заголовок не найден
+38.22.119.105:80 - Заголовок не найден
+185.197.34.144:80 - Заголовок не найден
+85.13.164.159:80 - 503 Service Temporarily Unavailable
+65.8.44.228:80 - Заголовок не найден
+2.23.114.77:80 - Заголовок не найден
+52.70.125.69:80 - 404 Not Found
+8.218.247.106:80 - 404 Not Found
+23.49.244.102:80 - Заголовок не найден
+120.101.66.53:80 - IIS Windows Server
+162.215.210.152:80 - Заголовок не найден
+102.17.108.150:80 - RouterOS router configuration page
+167.82.4.31:80 - Fastly error: unknown domain 167.82.4.31
+104.90.82.105:80 - Заголовок не найден
+146.148.200.172:80 - 404 Not Found
+115.124.71.84:80 - Login to Cacti
+38.18.155.209:80 - 404 Not Found
+34.214.77.79:80 - Заголовок не найден
+15.164.205.88:80 - Заголовок не найден
+3.163.107.61:80 - Заголовок не найден
+192.126.150.133:80 - ERROR: The requested URL could not be retrieved
+18.161.209.38:80 - Заголовок не найден
+34.232.229.91:80 - WeaveSocks
+38.173.145.179:80 - Apache2 Ubuntu Default Page: It works
+23.49.68.117:80 - Заголовок не найден
+212.129.51.228:80 - Home | 212.129.51.228
+105.235.23.250:80 - webpackSPA
+211.48.144.165:80 - main page
+135.148.104.136:80 - 403 - Forbidden: Access is denied.
+23.1.176.245:80 - Заголовок не найден
+54.204.10.162:80 - DEV
+89.161.200.173:80 - Strona w przygotowaniu...
+47.254.43.39:80 - Заголовок не найден
+34.111.230.29:80 - Заголовок не найден
+107.174.59.145:80 - ERROR: The requested URL could not be retrieved
+50.17.166.169:80 - 503 Service Temporarily Unavailable
+77.83.167.117:80 - ERROR: The requested URL could not be retrieved
+216.137.34.166:80 - Заголовок не найден
+115.223.32.191:80 - 403 Forbidden
+142.54.183.52:80 - 403 Forbidden
