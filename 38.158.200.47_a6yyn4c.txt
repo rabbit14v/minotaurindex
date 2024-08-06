@@ -7937,3 +7937,8 @@ ieved !80!
 23.214.145.103 - Заголовок не найден !80!
 184.27.253.147 - Заголовок не найден !80!
 143.198.158.88 - Welcome to nginx! !80!
+79.96.19.250 - Strona główna - Classen !80!
+18.244.146.115 - Заголовок не найден !80!
+199.232.170.45 - Fastly error: unknown domain 199.232.170.45 !80!
+156.54.63.33 - 401 - Unauthorized: Access is denied due to invalid credentials. !80!
+59.7.163.168 - Login !80!
