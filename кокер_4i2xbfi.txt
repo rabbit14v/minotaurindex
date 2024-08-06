@@ -1048,3 +1048,19 @@
 159.69.215.20:80 - Apache2 Debian Default Page: It works
 45.240.164.247:80 - 
 52.15.119.232:80 - 403 Forbidden
+51.112.40.69:80 - Заголовок не найден
+162.240.68.184:80 - Заголовок не найден
+104.100.208.228:80 - Заголовок не найден
+99.86.214.89:80 - Заголовок не найден
+43.229.134.28:80 - &#xE40;&#xE02;&#xE49;&#xE32;&#xE2A;&#xE39;&#xE48;&#xE23;&#xE30;&#xE1A;&#xE1A; CIS APP
+193.19.177.125:80 - 500 Internal Server Error
+185.198.112.21:80 - 404 Not Found
+104.87.208.60:80 - Заголовок не найден
+121.40.233.53:80 - Welcome to nginx!
+206.189.114.135:80 - Artboard
+203.32.120.93:80 - Direct IP access not allowed | Cloudflare
+104.25.9.186:80 - Direct IP access not allowed | Cloudflare
+78.134.55.255:80 - BUSSOLINI/EWDR
+104.100.59.87:80 - Заголовок не найден
+13.237.71.88:80 - Apache2 Debian Default Page: It works
+83.169.26.180:80 - Host Europe GmbH
