@@ -412,3 +412,12 @@
 151.236.84.37:80 - Welcome to nginx!
 49.4.56.77:80 - Заголовок не найден
 54.77.217.158:80 - 403 Forbidden
+79.96.56.163:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+202.182.111.111:80 - Welcome to nginx!
+210.204.42.146:80 - Заголовок не найден
+221.224.90.19:80 - Заголовок не найден
+220.133.105.44:80 - Заголовок не найден
+177.148.178.14:80 - 
+85.237.195.125:80 - Apache2 Ubuntu Default Page: It works
+185.210.124.142:80 - BŁĄD: Żądany URL nie może zostać pobrany
+35.169.159.147:80 - Elastic Beanstalk
