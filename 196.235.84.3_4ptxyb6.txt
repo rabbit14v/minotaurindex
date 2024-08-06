@@ -32,3 +32,90 @@
 3.161.196.81:80 - Заголовок не найден
 64.210.148.31:80 - Заголовок не найден
 104.69.166.195:80 - Заголовок не найден
+51.15.177.143:80 - ID61
+192.126.234.90:80 - ERROR: The requested URL could not be retrieved
+192.210.194.130:80 - 407 Proxy Authentication Required
+198.41.218.234:80 - Direct IP access not allowed | Cloudflare
+207.38.73.167:80 - IIS Windows Server
+172.67.74.162:80 - Direct IP access not allowed | Cloudflare
+87.5.137.65:80 - Web Viewer for Samsung DVR
+40.76.131.204:80 - 404 Not Found
+3.161.140.84:80 - Заголовок не найден
+191.102.16.233:80 - ZC-521
+50.116.39.160:80 - 403 Forbidden
+89.117.54.5:80 - Web Server's Default Page
+194.164.203.177:80 - Default Site
+3.136.124.40:80 - Welcome to nginx!
+104.19.61.179:80 - Direct IP access not allowed | Cloudflare
+47.242.89.166:80 - 403 Forbidden
+23.212.38.70:80 - Заголовок не найден
+200.63.97.52:80 - Заголовок не найден
+154.203.61.98:80 - 403 Forbidden
+49.12.124.196:80 - Заголовок не найден
+119.45.137.201:80 - Welcome to nginx!
+167.82.19.7:80 - Fastly error: unknown domain 167.82.19.7
+15.206.57.112:80 - DPanda | Direct from brands
+104.21.74.219:80 - Direct IP access not allowed | Cloudflare
+144.217.85.93:80 - Заголовок не найден
+67.211.64.26:80 - 404 Not Found
+104.19.85.169:80 - Direct IP access not allowed | Cloudflare
+100.35.136.111:80 - 
+192.185.102.68:80 - Not Acceptable!
+63.32.212.122:80 - 503 Service Temporarily Unavailable
+179.49.65.5:80 - F660
+146.148.103.96:80 - Welcome to nginx!
+72.167.100.23:80 - Coming Soon
+178.238.237.94:80 - Digital Fuel 2.0
+3.127.209.79:80 - Error
+192.185.33.16:80 - Not Acceptable!
+155.94.212.87:80 - ERROR: The requested URL could not be retrieved
+109.8.153.8:80 - 
+195.54.14.187:80 - Добро пожаловать в Институт информационных технологий Челябинского государственного университета
+118.184.148.53:80 - 403 Forbidden
+96.35.118.199:80 - 
+16.78.111.169:80 - Заголовок не найден
+92.66.223.137:80 - 
+23.110.115.174:80 - 404 Not Found
+192.240.160.61:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+156.250.67.26:80 - 400 Bad Request
+23.200.37.163:80 - Заголовок не найден
+104.79.252.68:80 - Заголовок не найден
+178.205.130.44:80 - 
+85.217.194.105:80 - index
+3.98.207.232:80 - Steeper Construction       &raquo; Custom Homes and Cabinetry
+70.37.72.93:80 - Microsoft Azure Web App - Error 404
+184.26.165.150:80 - Заголовок не найден
+82.180.174.74:80 - 403 Forbidden
+108.167.176.93:80 - Заголовок не найден
+178.63.159.37:80 - Заголовок не найден
+15.188.149.30:80 - Заголовок не найден
+38.14.100.34:80 - Заголовок не найден
+172.67.1.241:80 - Direct IP access not allowed | Cloudflare
+96.6.231.251:80 - Заголовок не найден
+130.211.31.24:80 - 502 Server Error
+160.121.53.89:80 - 403 Forbidden
+52.214.189.33:80 - 503 Service Temporarily Unavailable
+186.68.5.120:80 - &#72;&#51;&#54;&#48;&#49;&#80;&#32;&#86;&#57;&#46;&#48;
+79.96.38.208:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+188.121.98.145:80 - 404 Not Found
+51.15.104.153:80 - Home
+    
+    
+      
+        - Bachata Obsesión Dance Team
+119.167.182.195:80 - Заголовок не найден
+38.180.10.166:80 - Welcome to nginx!
+23.33.3.175:80 - Заголовок не найден
+78.129.40.48:80 - 
+23.44.199.204:80 - Заголовок не найден
+23.55.22.215:80 - Заголовок не найден
+154.220.106.217:80 - 404 Not Found
+23.49.118.10:80 - Заголовок не найден
+23.45.147.63:80 - Заголовок не найден
+118.175.207.235:80 - Заголовок не найден
+107.148.122.186:80 - IIS Windows Server
+34.111.82.0:80 - Creative Human
+69.39.6.197:80 - Test
+2.21.201.60:80 - Заголовок не найден
+20.24.112.168:80 - Azure Container App - Unavailable
+104.115.0.97:80 - Заголовок не найден
