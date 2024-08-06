@@ -2329,3 +2329,63 @@
 64.84.118.168:80 - Apache2 Ubuntu Default Page: It works
 190.174.215.104:80 - Заголовок не найден
 206.119.8.151:80 - Заголовок не найден
+135.148.84.230:80 - Hosted By BisectHosting - BisectHosting
+23.36.225.143:80 - Заголовок не найден
+34.120.55.139:80 - Заголовок не найден
+54.220.66.48:80 - Human Verification
+54.70.75.115:80 - Hello Vegan
+104.165.146.136:80 - 403 Forbidden
+88.249.252.136:80 - index
+38.147.184.66:80 - æ²¡ææ¾å°ç«ç¹
+23.218.5.214:80 - Заголовок не найден
+108.61.117.154:80 - Welcome to nginx!
+52.65.43.231:80 - 403 Forbidden
+23.110.126.23:80 - 404 Not Found
+128.2.207.74:80 - 404 - Not Found
+104.83.103.8:80 - Заголовок не найден
+108.186.184.156:80 - Заголовок не найден
+4.189.238.90:80 - Заголовок не найден
+66.176.58.160:80 - 
+223.85.19.114:80 - 403 Forbidden
+3.220.161.58:80 - 503 Service Temporarily Unavailable
+23.218.119.132:80 - Заголовок не найден
+108.156.59.147:80 - Заголовок не найден
+18.233.11.246:80 - 503 Service Temporarily Unavailable
+154.36.205.88:80 - 403 Forbidden
+154.7.163.128:80 - Apache HTTP Server Test Page powered by CentOS
+13.40.193.117:80 - Welcome to nginx!
+178.212.79.63:80 - 500 Internal Server Error
+3.13.161.81:80 - NATIVE AMERICAN AND INDIGENOUS ARTS
+217.92.161.72:80 - 
+143.110.145.252:80 - 503 Service Temporarily Unavailable
+185.193.125.19:80 - Заголовок не найден
+23.54.241.147:80 - Заголовок не найден
+151.101.82.48:80 - 403
+52.205.32.27:80 - 503 Service Temporarily Unavailable
+154.203.113.143:80 - 404 Not Found
+104.18.31.166:80 - Direct IP access not allowed | Cloudflare
+209.61.196.224:80 - Coming Soon - Hosted by Superb Internet
+154.214.196.222:80 - Page not found
+187.208.69.7:80 - 
+118.123.167.121:80 - Заголовок не найден
+13.33.101.108:80 - Заголовок не найден
+210.190.148.229:80 - Заголовок не найден
+104.16.142.238:80 - Direct IP access not allowed | Cloudflare
+70.232.72.159:80 - Page Not Found
+177.24.73.143:80 - 404 - Not Found
+18.67.143.147:80 - Заголовок не найден
+34.120.233.0:80 - 502
+31.24.41.150:80 - Web Server's Default Page
+85.214.140.30:80 - Default Parallels Plesk Page
+177.184.218.82:80 - 500 Internal Server Error
+1.246.21.27:80 - main page
+210.225.199.208:80 - 403 Forbidden
+20.120.150.43:80 - Your Azure Function App is up and running.
+23.46.44.6:80 - Заголовок не найден
+52.199.77.113:80 - Test Page for the Apache HTTP Server on Amazon Linux AMI
+172.96.176.130:80 - Заголовок не найден
+23.63.117.112:80 - Заголовок не найден
+221.162.203.142:80 - 
+114.32.142.171:80 - 
+45.137.100.147:80 - Hello! Welcome to Synology Web Station!
+144.126.219.101:80 - Welcome to the Sucellus zone
