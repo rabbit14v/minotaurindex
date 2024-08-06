@@ -2245,3 +2245,7 @@
 91.83.40.231 - SMTP.HU levÃ©lkÃ¼ldÅ szolgÃ¡ltatÃ¡s ãáµá´µá´¾á´¾ã !80!
 178.57.89.226 - RouterOS router configuration page !80!
 179.60.147.117 - Success! !80!
+85.128.225.215 - Domena  jest utrzymywana na serwerach nazwa.pl !80!
+23.217.8.166 - Заголовок не найден !80!
+47.98.159.76 - 首页 - 上海珊立实业有限公司 !80!
+69.32.208.188 - 403 Forbidden !80!
