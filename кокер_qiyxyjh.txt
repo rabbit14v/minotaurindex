@@ -8706,3 +8706,161 @@
 23.36.210.164:80 - Заголовок не найден
 190.83.25.178:80 - ZXHN F673AV9a
 18.165.34.34:80 - Заголовок не найден
+216.19.223.168:80 - 407 Proxy Authentication Required
+136.54.93.8:80 - Заголовок не найден
+62.38.134.154:80 - 
+79.6.179.75:80 - NethServer Enterprise
+104.68.84.225:80 - Заголовок не найден
+129.146.146.98:80 - 502 Bad Gateway
+23.0.203.66:80 - Заголовок не найден
+175.202.236.29:80 - 503 Service Not Available
+95.179.217.119:80 - Artboard
+38.92.173.6:80 - BunnyCDN Node MI1-974
+23.37.112.30:80 - Заголовок не найден
+23.92.69.125:80 - Заголовок не найден
+18.239.173.164:80 - Заголовок не найден
+181.212.29.233:80 - Заголовок не найден
+196.51.4.182:80 - ERROR: The requested URL could not be retrieved
+18.154.226.167:80 - Заголовок не найден
+107.149.161.34:80 - 404 Not Found
+23.96.217.68:80 - Заголовок не найден
+3.212.135.57:80 - Bitnami Node.js
+85.187.211.204:80 - Please wait, the page is opening...
+154.194.162.241:80 - Заголовок не найден
+120.26.221.77:80 - Заголовок не найден
+108.186.203.228:80 - 404 Not Found
+35.182.216.215:80 - Smart Systems Group &#8211; At Smart Systems Groups, we specialize in creating innovative and scalable software solutions tailored to meet your business needs. With a team of expert developers and designers, we offer a range of services including custom software development, mobile app development, and cloud solutions. Our commitment to excellence ensures that every project we undertake is delivered with precision, on time, and within budget. Partner with us to transform your ideas into cutting-edge digital experiences.
+149.30.224.186:80 - 404 Not Found
+144.196.50.22:80 - Заголовок не найден
+104.140.147.192:80 - 403 Forbidden
+104.20.231.193:80 - Direct IP access not allowed | Cloudflare
+107.173.138.204:80 - Заголовок не найден
+23.60.148.242:80 - Заголовок не найден
+18.171.165.48:80 - Заголовок не найден
+149.210.190.39:80 - Edge Of The World - miraizou.net
+154.215.99.61:80 - ha ha-Good Luck To You!
+108.138.214.19:80 - Заголовок не найден
+66.180.146.133:80 - Page not found
+91.211.221.229:80 - Заголовок не найден
+185.16.110.125:80 - Direct IP access not allowed | Cloudflare
+23.88.55.189:80 - Access denied
+90.92.255.111:80 - Заголовок не найден
+104.91.109.205:80 - Заголовок не найден
+27.116.20.24:80 - 
+114.33.6.55:80 - 
+38.87.150.253:80 - Заголовок не найден
+198.244.164.15:80 - AromaOnlineShop.com
+52.7.78.1:80 - NNA Shop - Cá»­a hÃ ng thá»i trang
+157.56.163.113:80 - 404 Not Found
+81.169.180.122:80 - Pfeifer Entrümpelungen &#8211; Professionelle Aufräumdienste
+132.145.120.33:80 - Mikutap
+65.60.60.149:80 - SmarterMail
+52.220.164.229:80 - Apache2 Ubuntu Default Page: It works
+172.210.105.23:80 - 404 Not Found
+38.174.130.17:80 - 404 Not Found
+119.45.168.95:80 - 404 Not Found
+185.103.132.30:80 - 401 Authorization Required
+196.196.12.188:80 - Заголовок не найден
+86.82.142.156:80 - Index
+75.99.54.50:80 - Заголовок не найден
+74.122.54.33:80 - Central Ontario Amateur Radio Club
+221.165.214.252:80 - CMS Web Viewer
+192.229.71.48:80 - è³å°å¨±ä¹
+173.213.105.169:80 - Home
+157.90.168.144:80 - Заголовок не найден
+23.207.70.126:80 - Заголовок не найден
+18.60.182.78:80 - Заголовок не найден
+13.249.169.68:80 - Заголовок не найден
+83.217.82.136:80 - Заголовок не найден
+27.0.45.192:80 - æ±æ´ã­ã£ããè£½é æ ªå¼ä¼ç¤¾ -ã¹ãã­ã¼ã»ããã«ã¹ãã­ã¼ã®è£½é ã»è²©å£²-
+23.50.38.89:80 - Заголовок не найден
+104.129.198.49:80 - Internet Security by Zscaler
+50.3.21.229:80 - 403 Forbidden
+67.43.111.40:80 - Captive Portal Redirector
+194.62.246.201:80 - Subcribe and Anti-Spam and Privacy for 194.62.246.201
+18.155.218.130:80 - Заголовок не найден
+184.28.71.32:80 - Заголовок не найден
+147.182.239.230:80 - Titulo
+139.9.57.223:80 - IIS Windows Server
+79.253.134.174:80 - Hello and welcome to the selection menu
+188.40.3.139:80 - konsoleH :: Login
+34.160.144.234:80 - 502 Server Error
+223.144.131.222:80 - 403 Forbidden
+164.46.59.1:80 - 403 Forbidden ã¢ã¯ã»ã¹ãç¦æ­¢ããã¦ãã¾ã
+108.138.25.54:80 - Заголовок не найден
+100.27.216.62:80 - Simple PHP App
+27.126.238.139:80 - 
+95.164.65.211:80 - 
+212.41.9.151:80 - Welcome to nginx!
+113.207.53.18:80 - 403 Forbidden
+34.102.215.22:80 - Заголовок не найден
+34.234.156.78:80 - 404 Not Found
+46.226.204.254:80 - Firewall Notification
+23.52.201.47:80 - Заголовок не найден
+175.6.25.71:80 - 404 Not Found
+209.73.130.129:80 - 404 Not Found
+155.254.233.234:80 - Заголовок не найден
+193.25.220.193:80 - Siol.net
+23.15.145.173:80 - Заголовок не найден
+101.132.170.217:80 - 登录系统
+163.172.216.26:80 - Apache2 Ubuntu Default Page: It works
+51.161.115.236:80 - Заголовок не найден
+182.163.62.207:80 - Apache HTTP Server Test Page powered by CentOS
+172.66.166.245:80 - Direct IP access not allowed | Cloudflare
+35.81.109.216:80 - Test Page for the Apache HTTP Server
+38.173.145.186:80 - Apache2 Ubuntu Default Page: It works
+5.78.163.162:80 - Заголовок не найден
+149.202.132.27:80 - Success!
+143.42.210.91:80 - Заголовок не найден
+162.219.227.195:80 - Fastly error: unknown domain 162.219.227.195
+162.215.101.203:80 - Not Acceptable!
+61.74.169.111:80 - Welcome to nginx!
+175.226.119.193:80 - main page
+193.10.231.93:80 - Заголовок не найден
+63.250.42.43:80 - Google Translate
+154.38.18.47:80 - ERROR: The requested URL could not be retrieved
+185.217.243.231:80 - Please wait, the page is opening...
+202.194.17.84:80 - 404 Not Found
+3.12.140.104:80 - 404 Not Found
+52.85.251.96:80 - Заголовок не найден
+38.31.156.52:80 - Заголовок не найден
+158.199.167.150:80 - 403 Forbidden
+23.60.81.88:80 - Заголовок не найден
+62.169.19.250:80 - Welcome to nginx!
+23.38.162.8:80 - Заголовок не найден
+96.6.34.180:80 - Заголовок не найден
+161.230.240.138:80 - 400 The plain HTTP request was sent to HTTPS port
+18.165.19.80:80 - Заголовок не найден
+202.194.12.46:80 - 404 Not Found
+18.164.186.238:80 - Заголовок не найден
+74.125.162.170:80 - Error 404 (Not Found)!!1
+23.42.243.110:80 - Заголовок не найден
+154.38.23.217:80 - ERROR: The requested URL could not be retrieved
+123.56.152.94:80 - Welcome to nginx!
+118.215.180.94:80 - Заголовок не найден
+104.129.50.169:80 - ERROR: The requested URL could not be retrieved
+173.254.6.136:80 - Not Acceptable!
+38.249.39.119:80 - æ²¡ææ¾å°ç«ç¹
+104.71.254.176:80 - Заголовок не найден
+123.108.84.50:80 - 404 Not Found
+62.109.203.50:80 - Заголовок не найден
+52.19.237.68:80 - Заголовок не найден
+216.119.90.161:80 - Заголовок не найден
+52.191.23.80:80 - Заголовок не найден
+31.6.51.33:80 - 401 Unauthorized
+54.247.215.162:80 - Welcome to nginx!
+23.39.240.114:80 - Заголовок не найден
+193.53.247.73:80 - 193.53.247.73
+51.161.115.105:80 - Заголовок не найден
+23.12.91.111:80 - Заголовок не найден
+13.32.24.194:80 - Заголовок не найден
+23.33.1.139:80 - Заголовок не найден
+107.149.247.78:80 - Welcome to nginx!
+143.204.58.83:80 - Заголовок не найден
+196.242.57.254:80 - 407 Proxy Authentication Required
+45.186.195.18:80 - nPerfServer
+70.142.45.245:80 - derp
+194.61.121.80:80 - 403 Forbidden
+131.156.225.70:80 - Заголовок не найден
+142.58.233.170:80 - Redirecting to Centre for Accessible Learning - Online Services
+108.60.15.127:80 - Заголовок не найден
