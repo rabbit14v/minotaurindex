@@ -4942,3 +4942,69 @@ Brisbane, Adelaide and Perth
 35.79.36.160:80 - Заголовок не найден
 13.59.225.176:80 - 404 Not Found
 59.127.161.102:80 - ShinSoft
+160.124.211.94:80 - 403 Forbidden
+202.139.216.26:80 - Заголовок не найден
+159.138.89.123:80 - 404 Not Found
+124.222.70.45:80 - 404 Not Found
+141.0.175.55:80 - Заголовок не найден
+91.250.64.89:80 - Host Europe GmbH
+52.218.41.64:80 - Amazon S3 - Cloud Object Storage  - AWS
+209.216.89.28:80 - Money.XXX
+104.24.81.154:80 - Direct IP access not allowed | Cloudflare
+95.9.133.5:80 - IIS Windows Server
+23.3.240.62:80 - Заголовок не найден
+23.79.39.254:80 - Заголовок не найден
+52.70.74.175:80 - Index of /
+104.21.79.142:80 - Direct IP access not allowed | Cloudflare
+52.72.172.0:80 - Prometheus Time Series Collection and Processing Server
+84.160.213.179:80 - Заголовок не найден
+190.202.186.148:80 - 
+154.31.252.69:80 - 403 Forbidden
+154.38.167.175:80 - Заголовок не найден
+13.234.16.196:80 - Apache2 Ubuntu Default Page: It works
+200.29.122.252:80 - welcome
+15.161.15.28:80 - 502 Bad Gateway
+23.197.5.127:80 - Заголовок не найден
+23.204.18.30:80 - Заголовок не найден
+23.203.165.14:80 - Заголовок не найден
+156.234.130.10:80 - IIS Windows Server
+74.115.168.186:80 - ERROR: The requested URL could not be retrieved
+64.52.109.129:80 - RV World Showroom &raquo; Page not found
+108.157.180.90:80 - Заголовок не найден
+5.56.51.27:80 - 403 Forbidden
+118.178.178.109:80 - 403 Forbidden
+216.55.143.108:80 - Заголовок не найден
+186.62.72.214:80 - Заголовок не найден
+136.232.185.22:80 - RouterOS router configuration page
+38.85.205.198:80 - 404 Not Found
+47.99.65.23:80 - 
+4.209.165.155:80 - Your Azure Function App is up and running.
+155.159.107.61:80 - 404 Not Found
+54.210.54.155:80 - 403 Forbidden
+203.194.45.102:80 - 260 - 300 Elizabeth Street
+57.152.76.209:80 - Your Azure Function App is up and running.
+92.205.92.195:80 - Coming Soon
+106.12.170.70:80 - 404 Not Found
+87.246.12.231:80 - Заголовок не найден
+13.110.116.22:80 - Transmission problem
+96.9.0.251:80 - 403 Forbidden
+51.8.207.230:80 - Your Azure Function App is up and running.
+77.208.106.67:80 - Заголовок не найден
+120.201.120.152:80 - 403 Forbidden
+91.244.247.20:80 - Calculating Infinity
+184.27.169.55:80 - Заголовок не найден
+174.138.61.225:80 - 404 Not Found
+95.39.5.180:80 - MOSA: Real Monasterio de San Agustín
+158.69.85.73:80 - 403 Forbidden
+13.227.66.118:80 - Заголовок не найден
+82.60.102.79:80 - 403 Forbidden
+92.118.154.5:80 - ÐÐ¾Ð»Ñ Ð¸Ð·ÑÐ°ÐºÐ°Ð¹ÑÐµ, Ð½Ð°ÑÐ°Ð»Ð½Ð°ÑÐ° ÑÑÑÐ°Ð½Ð¸ÑÐ° ÑÐµ Ð·Ð°ÑÐµÐ¶Ð´Ð°...
+216.58.240.235:80 - Заголовок не найден
+157.197.178.216:80 - Заголовок не найден
+20.113.73.91:80 - Заголовок не найден
+207.180.227.247:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+143.110.237.223:80 - Заголовок не найден
+34.132.12.162:80 - Barefoot - Calzado respetuoso para niños
+23.5.10.28:80 - Заголовок не найден
+18.160.15.65:80 - Заголовок не найден
+34.192.184.208:80 - 503 Service Temporarily Unavailable
