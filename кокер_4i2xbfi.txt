@@ -1530,3 +1530,5 @@
 104.18.77.48:80 - Direct IP access not allowed | Cloudflare
 217.145.14.30:80 - Заголовок не найден
 188.66.25.71:80 - Apache2 Debian Default Page: It works
+65.108.242.117:80 - Apache2 Ubuntu Default Page: It works
+218.253.198.217:80 - é²å«ææç¨
