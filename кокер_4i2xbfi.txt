@@ -1527,3 +1527,4 @@
 20.54.203.136:80 - Your Azure Function App is up and running.
 45.76.149.91:80 - Заголовок не найден
 173.222.213.31:80 - Заголовок не найден
+104.18.77.48:80 - Direct IP access not allowed | Cloudflare
