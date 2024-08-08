@@ -8172,3 +8172,126 @@
 186.136.214.160:80 - hd client
 104.120.140.176:80 - Заголовок не найден
 121.250.208.145:80 - 404 Not Found
+193.42.157.248:80 - 403 Forbidden
+104.122.143.142:80 - Заголовок не найден
+156.224.55.106:80 - 404 Not Found
+188.128.192.53:80 - Error 403
+91.142.84.156:80 - Welcome to nginx!
+4.152.68.215:80 - Your Azure Function App is up and running.
+18.141.22.47:80 - 503 Service Temporarily Unavailable
+106.96.164.115:80 - cMT
+208.109.191.239:80 - Web Server's Default Page
+65.36.170.162:80 - Заголовок не найден
+138.3.240.238:80 - Success!
+217.245.65.5:80 - 
+87.227.237.113:80 - DVR Components Download
+190.177.226.165:80 - Заголовок не найден
+2.20.145.196:80 - Заголовок не найден
+18.67.7.51:80 - Заголовок не найден
+23.52.201.63:80 - Заголовок не найден
+120.24.182.249:80 - 404 Not Found
+172.67.52.172:80 - Direct IP access not allowed | Cloudflare
+201.218.130.213:80 - RouterOS
+192.230.68.129:80 - Заголовок не найден
+35.92.125.238:80 - Welcome to nginx!
+78.94.255.145:80 - Hello! Welcome to Synology Web Station!
+85.242.36.97:80 - 
+198.50.214.215:80 - Hosted By BisectHosting - BisectHosting
+40.91.231.189:80 - Заголовок не найден
+34.249.213.41:80 - Заголовок не найден
+35.240.73.241:80 - 403 Forbidden
+44.197.6.60:80 - Project Saigon Web App
+108.139.123.134:80 - Заголовок не найден
+123.56.145.23:80 - æ²¡ææ¾å°ç«ç¹
+117.167.102.221:80 - 403 Forbidden
+188.166.98.6:80 - Authenticate Please!
+23.199.208.152:80 - Заголовок не найден
+23.1.173.53:80 - Заголовок не найден
+49.212.156.68:80 - MyASP（マイスピー）
+209.227.237.51:80 - Web Server's Default Page
+183.117.121.36:80 - 
+81.172.207.116:80 - Заголовок не найден
+20.150.70.40:80 - Заголовок не найден
+151.101.34.131:80 - Fastly error: unknown domain 151.101.34.131
+38.154.10.110:80 - ERROR: The requested URL could not be retrieved
+77.251.28.112:80 - 
+23.224.213.103:80 - 403 Forbidden
+167.99.195.152:80 - Apache2 Ubuntu Default Page: It works
+23.212.164.61:80 - Заголовок не найден
+118.232.211.212:80 - 
+3.7.222.10:80 - 403 - Forbidden: Access is denied.
+23.49.30.35:80 - Заголовок не найден
+116.58.182.133:80 - Network Camera
+69.195.106.27:80 - Not Acceptable!
+3.124.14.201:80 - 404 Not Found
+104.113.176.134:80 - Заголовок не найден
+54.90.219.106:80 - 404 Not Found
+50.3.196.104:80 - 407 Proxy Authentication Required
+207.148.115.77:80 - Заголовок не найден
+47.104.90.4:80 - 晟超智能
+23.50.226.121:80 - Заголовок не найден
+52.210.179.239:80 - Hello World - App 1 <!-- Replace 'X' with '1' or '2' as appropriate -->
+104.19.47.124:80 - Direct IP access not allowed | Cloudflare
+18.161.1.158:80 - Заголовок не найден
+20.96.228.100:80 - Your Azure Function App is up and running.
+171.102.13.70:80 - Заголовок не найден
+45.89.208.68:80 - 404 not found
+96.6.18.32:80 - Заголовок не найден
+34.148.240.19:80 - Site Not Configured | 404 Not Found
+20.190.118.185:80 - Your Azure Function App is up and running.
+54.81.79.239:80 - Заголовок не найден
+184.24.131.236:80 - Заголовок не найден
+140.227.144.121:80 - Заголовок не найден
+148.251.41.40:80 - 403 Forbidden
+103.175.219.6:80 - Заголовок не найден
+23.192.226.234:80 - Заголовок не найден
+23.197.11.41:80 - Заголовок не найден
+210.44.214.136:80 - 404 Not Found
+167.235.205.82:80 - Заголовок не найден
+20.83.35.122:80 - 401 - Unauthorized: Access is denied due to invalid credentials.
+8.213.196.95:80 - Welcome to nginx!
+54.81.134.102:80 - 403 Forbidden
+38.69.130.210:80 - Password Reset
+104.23.139.123:80 - Direct IP access not allowed | Cloudflare
+91.12.216.18:80 - Redirect to New Page
+172.67.142.90:80 - Direct IP access not allowed | Cloudflare
+210.129.58.47:80 - 403 Forbidden
+20.2.33.165:80 - 
+151.115.89.180:80 - We've got some trouble | 418 - I'm a teapot
+153.126.204.220:80 - MyASP（マイスピー）
+104.23.123.127:80 - Direct IP access not allowed | Cloudflare
+58.63.228.157:80 - Заголовок не найден
+13.208.236.24:80 - Заголовок не найден
+54.163.47.39:80 - 
+18.154.126.9:80 - Заголовок не найден
+34.87.95.212:80 - Заголовок не найден
+167.82.2.165:80 - Fastly error: unknown domain 167.82.2.165
+139.59.229.51:80 - Welcome to nginx!
+104.79.85.177:80 - Заголовок не найден
+104.24.59.61:80 - Direct IP access not allowed | Cloudflare
+172.110.71.207:80 - Заголовок не найден
+18.230.218.76:80 - IIS Windows Server
+68.162.161.139:80 - Web Viewer for Samsung NVR
+104.83.78.182:80 - Заголовок не найден
+176.99.11.120:80 - Welcome!
+210.130.164.39:80 - 403 Forbidden
+193.115.195.75:80 - Web Site Blocked
+151.101.165.183:80 - Fastly error: unknown domain 151.101.165.183
+18.141.1.194:80 - Заголовок не найден
+54.94.251.177:80 - Outdoor Research &#8211; Especialistas en medir y verificar la publicidad en Vía Pública
+104.16.66.80:80 - Direct IP access not allowed | Cloudflare
+157.7.114.163:80 - HTTP Server Test Page powered by: Rocky Linux
+23.74.17.228:80 - Заголовок не найден
+141.147.182.251:80 - 404 Not Found
+154.86.85.35:80 - 404 Not Found
+52.139.224.255:80 - IIS Windows
+47.88.50.236:80 - æ²¡ææ¾å°ç«ç¹
+18.172.208.38:80 - Заголовок не найден
+20.239.237.248:80 - Your Azure Function App is up and running.
+34.142.160.161:80 - IIS Windows Server
+81.138.11.98:80 - Заголовок не найден
+34.200.194.72:80 - Log in | Django site admin
+104.123.201.125:80 - Заголовок не найден
+198.244.203.75:80 - Index of /
+93.57.27.153:80 - 
+3.162.95.124:80 - Заголовок не найден
