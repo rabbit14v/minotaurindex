@@ -2773,3 +2773,36 @@
 104.17.116.57 - Direct IP access not allowed | Cloudflare !80!
 104.71.67.77 - Заголовок не найден !80!
 89.252.219.223 - RouterOS router configuration page !80!
+63.142.240.235 - ERROR: The requested URL could not be retrieved !80!
+58.221.247.206 - Заголовок не найден !80!
+3.168.227.253 - Заголовок не найден !80!
+193.176.157.68 - RouterOS router configuration page !80!
+149.28.162.157 - Unknown Domain !80!
+24.105.243.10 -  !80!
+178.62.77.187 - Web Server's Default Page !80!
+23.59.237.216 - Заголовок не найден !80!
+88.99.173.55 - 405 Not Allowed !80!
+193.168.193.154 - 403 Forbidden !80!
+102.177.177.44 - Заголовок не найден !80!
+184.26.10.6 - Заголовок не найден !80!
+212.66.193.51 - Helpdesk - Dashboard !80!
+173.201.252.31 - Coming Soon !80!
+199.232.27.215 - Fastly error: unknown domain 199.232.27.215 !80!
+184.85.148.242 - Заголовок не найден !80!
+3.111.80.162 - Заголовок не найден !80!
+176.32.73.170 - Test Page for the Apache HTTP Server on the Amazon Linux AMI !80!
+23.4.133.125 - Заголовок не найден !80!
+18.67.0.124 - Заголовок не найден !80!
+23.208.113.241 - Заголовок не найден !80!
+23.95.216.116 - 403 Forbidden !80!
+210.179.240.201 - Gargoyle Router Management Utility !80!
+104.24.134.88 - Direct IP access not allowed | Cloudflare !80!
+81.198.198.249 -  !80!
+104.25.228.109 - Direct IP access not allowed | Cloudflare !80!
+162.159.48.208 - Direct IP access not allowed | Cloudflare !80!
+190.245.112.15 - Login Page !80!
+85.215.145.206 - Index of / !80!
+64.176.45.122 - Welcome to nginx! !80!
+40.113.219.40 - 404 Not Found !80!
+168.61.158.94 - Microsoft Azure Web App - Error 404 !80!
+23.225.50.153 - 403 Forbidden !80!
