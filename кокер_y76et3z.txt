@@ -14488,3 +14488,26 @@
 34.235.226.45 - 403 Forbidden !80!
 150.95.101.51 - Заголовок не найден !80!
 95.33.191.96 - Заголовок не найден !80!
+54.95.194.104 - Test Page for the Nginx HTTP Server on Amazon Linux !80!
+54.175.158.149 - Заголовок не найден !80!
+20.53.143.22 - Microsoft Azure Web App - Error 404 !80!
+175.41.186.216 - 503 Service Temporarily Unavailable !80!
+184.85.178.29 - Заголовок не найден !80!
+47.41.102.212 -  !80!
+45.39.116.248 - IIS7 !80!
+67.207.89.140 - The Last Forum &#8211; Thunderdome has nothing on us !80!
+145.239.237.13 - Welcome to nginx! !80!
+45.202.236.23 - Заголовок не найден !80!
+35.193.223.142 - 503 Service Temporarily Unavailable !80!
+188.128.208.131 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365 !80!
+45.79.244.166 - Заголовок не найден !80!
+202.191.119.54 - Заголовок не найден !80!
+188.165.217.129 - Web Server's Default Page !80!
+38.31.136.178 - 404 Not Found !80!
+57.180.172.122 - 캐시워크 - 적립형 만보기 첫화면 !80!
+70.25.139.238 - Заголовок не найден !80!
+117.120.8.165 - Заголовок не найден !80!
+81.2.216.32 - Test Page for the HTTP Server on Red Hat Enterprise Linux !80!
+85.209.136.134 - ERROR: The requested URL could not be retrieved !80!
+18.176.217.226 - 403 Forbidden !80!
+190.49.1.23 - Заголовок не найден !80!
