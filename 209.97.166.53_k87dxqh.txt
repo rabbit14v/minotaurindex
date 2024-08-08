@@ -6203,3 +6203,22 @@
 199.83.179.71 - Заголовок не найден !80!
 168.76.210.35 - 404 Not Found !80!
 104.20.197.189 - Direct IP access not allowed | Cloudflare !80!
+47.206.179.21 - Document Moved !80!
+3.120.51.207 - 404 Not Found !80!
+45.135.250.78 - Apache HTTP Server Test Page powered by CentOS !80!
+159.65.123.181 - برمجيات الأفندي وصباهي !80!
+163.173.128.155 - Service central d'authentification du Cnam PERSONNEL ENVIRONNEMENT d' INTEGRATION !80!
+52.49.131.80 - Welcome to nginx! !80!
+192.155.191.156 - Test Page for Apache Installation !80!
+111.6.247.113 - Заголовок не найден !80!
+13.227.242.144 - Заголовок не найден !80!
+197.255.14.113 - RouterOS router configuration page !80!
+45.201.227.189 - 网站正在建设中. !80!
+5.189.128.43 - PDFWARE !80!
+20.6.161.137 - Your Azure Function App is up and running. !80!
+94.199.250.209 - Google !80!
+104.21.45.113 - Direct IP access not allowed | Cloudflare !80!
+128.245.16.123 - 403 - Forbidden: Access is denied. !80!
+20.112.136.53 - Заголовок не найден !80!
+194.195.213.109 - Заголовок не найден !80!
+104.91.124.54 - Заголовок не найден !80!
