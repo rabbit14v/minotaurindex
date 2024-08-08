@@ -3837,3 +3837,22 @@
 95.101.69.3 - Заголовок не найден !80!
 192.177.163.95 - 403 Forbidden !80!
 68.171.38.226 - Test Page for the Apache HTTP Server on Red Hat Enterprise Linux !80!
+49.12.186.65 - Website Unavailable !80!
+103.69.128.195 - 403 Forbidden !80!
+170.205.40.222 - Заголовок не найден !80!
+23.32.115.126 - Заголовок не найден !80!
+17.57.12.133 - 403 Forbidden !80!
+124.146.170.65 - Заголовок не найден !80!
+75.147.17.182 -  !80!
+41.159.145.201 - Заголовок не найден !80!
+172.66.134.252 - Direct IP access not allowed | Cloudflare !80!
+20.101.166.62 - 404 Not Found !80!
+143.95.225.125 - Not Acceptable! !80!
+149.104.150.209 - Заголовок не найден !80!
+147.255.48.34 - 404 Not Found !80!
+13.94.118.94 - Rijksmuseum - SnapGuide. !80!
+92.205.102.57 - Coming Soon !80!
+203.23.159.205 - Apache HTTP Server Test Page powered by CentOS !80!
+54.231.204.48 - Amazon S3 - Cloud Object Storage  - AWS !80!
+65.21.67.219 - Заголовок не найден !80!
+35.241.146.35 - Заголовок не найден !80!
