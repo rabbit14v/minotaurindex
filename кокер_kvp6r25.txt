@@ -79,3 +79,28 @@
 23.196.2.19 - Заголовок не найден !80!
 91.132.254.158 - Nexylan !80!
 38.31.204.237 - 404 Not Found !80!
+52.57.29.170 - Заголовок не найден !80!
+142.214.181.77 - ERROR: The requested URL could not be retrieved !80!
+193.227.50.48 - Egyptian Neonatal Safety Training Network (ENSTN) !80!
+193.38.233.181 - Управление юзерботом !80!
+20.26.53.125 - Заголовок не найден !80!
+23.110.48.218 - 403 Forbidden !80!
+52.68.219.67 - Заголовок не найден !80!
+84.2.148.229 - 404 Not Found !80!
+52.219.163.73 - Amazon S3 - Cloud Object Storage  - AWS !80!
+104.17.44.25 - Direct IP access not allowed | Cloudflare !80!
+50.2.171.106 - 403 Forbidden !80!
+172.67.18.178 - Direct IP access not allowed | Cloudflare !80!
+207.154.253.68 - 404 Not Found !80!
+168.76.136.46 - 403 Forbidden !80!
+116.103.110.236 - Заголовок не найден !80!
+223.165.64.132 - hjh !80!
+47.104.236.203 - 智能血透管理系统 !80!
+178.128.146.228 - 404 Not Found !80!
+93.143.158.113 - RouterOS router configuration page !80!
+65.2.178.245 - Apache2 Ubuntu Default Page: It works !80!
+81.17.246.237 - IIS Windows Server !80!
+162.255.84.124 - Sistema de Administracion !80!
+180.184.43.22 - Заголовок не найден !80!
+121.192.177.170 - é¦é¡µ !80!
+202.51.196.163 - RouterOS router configuration page !80!
