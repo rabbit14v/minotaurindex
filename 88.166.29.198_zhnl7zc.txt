@@ -2741,3 +2741,20 @@
 210.5.185.226 - index !80!
 63.97.184.72 - Just a moment... !80!
 34.198.149.195 - Заголовок не найден !80!
+95.232.47.39 -  !80!
+18.246.152.155 - Заголовок не найден !80!
+158.247.195.116 - Web Server's Default Page !80!
+182.16.50.68 - Sorry, the website has been stopped !80!
+79.96.2.87 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365 !80!
+187.237.134.234 - IIS Windows Server !80!
+58.115.77.204 - 404 Not Found !80!
+2.134.54.151 - GPON Home Gateway !80!
+140.120.182.169 - IIS Windows !80!
+18.67.210.137 - Заголовок не найден !80!
+57.153.162.120 - Your Azure Function App is up and running. !80!
+73.184.7.102 - 401 Unauthorized !80!
+38.23.248.140 - Initializing... !80!
+23.63.20.117 - Заголовок не найден !80!
+45.60.89.159 - Заголовок не найден !80!
+23.38.129.244 - Заголовок не найден !80!
+177.44.100.231 -  !80!
