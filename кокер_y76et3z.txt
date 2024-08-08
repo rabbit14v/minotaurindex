@@ -19049,3 +19049,18 @@ zdc.club !80!
 43.134.77.73 - Welcome to nginx! !80!
 61.5.103.153 - Dev Portal Gelung | Develover  & Web Programming, Mobile Programming, Graphic Design dan Statistik !80!
 23.34.220.128 - Заголовок не найден !80!
+23.219.241.230 - Заголовок не найден !80!
+157.245.4.196 - 401 Authorization Required !80!
+209.17.123.247 - 404 - File or directory not found. !80!
+80.251.17.49 - Заголовок не найден !80!
+23.9.117.100 - Заголовок не найден !80!
+146.75.106.138 - Fastly error: unknown domain: 146.75.106.138 !80!
+92.47.52.163 - GPON Home Gateway !80!
+95.110.226.130 - Peek Deal - Digital Marketing !80!
+111.118.220.79 - Login - Entity Data !80!
+146.129.246.108 - Web Site Blocked !80!
+79.96.85.141 - Strona w przygotowaniu... !80!
+18.65.176.62 - Заголовок не найден !80!
+104.225.167.144 - Page Restricted !80!
+178.85.22.24 - Заголовок не найден !80!
+47.57.157.40 - IIS Windows Server !80!
