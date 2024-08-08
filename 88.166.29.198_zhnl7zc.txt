@@ -5534,3 +5534,16 @@
 36.37.139.175 -  !80!
 149.202.236.188 - HTTP Server Test Page powered by CentOS-WebPanel.com !80!
 3.127.94.17 - Login to Redash !80!
+38.47.197.33 - 403 Forbidden !80!
+78.141.145.152 - Webui !80!
+17.57.1.111 - 400 Bad Request !80!
+136.144.246.107 - sparki.dgebv.io !80!
+72.204.218.199 - Заголовок не найден !80!
+196.51.37.233 - ERROR: The requested URL could not be retrieved !80!
+52.104.87.26 - Заголовок не найден !80!
+108.139.95.209 - Заголовок не найден !80!
+20.187.47.60 - pbx.stamosandstamos.com (20.187.47.60) - FreePBX Administration !80!
+138.68.83.72 - Welcome to zentao! !80!
+24.199.118.173 - Bienvenue sur ADF | ADF !80!
+134.122.107.194 - Заголовок не найден !80!
+23.45.174.45 - Заголовок не найден !80!
