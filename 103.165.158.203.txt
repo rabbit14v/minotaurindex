@@ -3985,3 +3985,14 @@ server 3
 103.153.252.112:80 - Please wait, the page is opening...
 85.128.163.83:80 - Domena  jest utrzymywana na serwerach nazwa.pl
 69.195.115.139:80 - Not Acceptable!
+13.210.24.111:80 - Заголовок не найден
+23.34.222.174:80 - Заголовок не найден
+121.250.219.18:80 - 404 Not Found
+52.72.156.24:80 - Заголовок не найден
+194.58.39.55:80 - 500 Internal Server Error
+109.194.66.6:80 - Заголовок не найден
+144.217.68.137:80 - 403 Forbidden
+158.222.15.133:80 - 407 Proxy Authentication Required
+104.21.5.216:80 - Direct IP access not allowed | Cloudflare
+103.225.127.10:80 - WEB SERVICE
+154.209.104.202:80 - 403 Forbidden
