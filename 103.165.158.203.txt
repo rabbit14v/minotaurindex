@@ -2158,3 +2158,51 @@ server 3
 23.192.124.96:80 - Заголовок не найден
 156.240.35.73:80 - 404 Not Found
 18.67.10.251:80 - Заголовок не найден
+157.65.20.122:80 - Заголовок не найден
+104.88.187.137:80 - Заголовок не найден
+23.210.85.140:80 - Заголовок не найден
+177.71.201.130:80 - HTTP Status 401 – Unauthorized
+81.7.4.92:80 - HTTP Server Test Page powered by CentOS-WebPanel.com
+27.3.195.65:80 - Заголовок не найден
+45.119.82.7:80 - Welcome to nginx!
+23.197.101.195:80 - Заголовок не найден
+170.249.236.18:80 - Заголовок не найден
+38.38.139.44:80 - 404 Not Found
+184.85.38.212:80 - Заголовок не найден
+77.51.214.56:80 - Королев Калинина 11
+104.24.19.110:80 - Direct IP access not allowed | Cloudflare
+104.16.196.247:80 - Direct IP access not allowed | Cloudflare
+198.199.68.58:80 - Заголовок не найден
+41.78.169.24:80 - RouterOS router configuration page
+154.31.191.101:80 - 403 Forbidden
+23.41.146.233:80 - Заголовок не найден
+89.22.116.222:80 - Welcome to nginx!
+83.254.200.133:80 - Заголовок не найден
+154.31.232.162:80 - 404 Not Found
+54.175.95.89:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+3.164.231.111:80 - Заголовок не найден
+154.216.60.165:80 - 404 Not Found
+38.48.162.241:80 - 404 Not Found
+192.169.172.37:80 - Coming Soon
+52.228.39.81:80 - Заголовок не найден
+144.76.17.184:80 - Заголовок не найден
+94.237.37.1:80 - Kirjaudu | pshva.mygemilo.com
+15.228.213.101:80 - CTF Security Champions - ZUP
+54.231.165.60:80 - Amazon S3 - Cloud Object Storage  - AWS
+108.138.56.196:80 - Заголовок не найден
+3.36.69.26:80 - 502 Bad Gateway
+3.160.125.82:80 - Заголовок не найден
+23.195.191.122:80 - Заголовок не найден
+45.81.234.18:80 - Apache2 Debian Default Page: It works
+47.110.165.1:80 - Заголовок не найден
+3.101.34.120:80 - Welcome to CentOS
+47.254.152.118:80 - Apache HTTP Server Test Page powered by CentOS
+4.151.229.91:80 - Your Azure Function App is up and running.
+178.128.147.240:80 - Заголовок не найден
+181.123.61.122:80 - 
+23.64.168.112:80 - Заголовок не найден
+104.69.151.70:80 - Заголовок не найден
+185.146.84.7:80 - Error 403 - Forbidden
+94.19.34.85:80 - Bitnami Redmine Stack
+198.61.232.219:80 - Wholesale Baskets Supplier for Wholesale Gift Baskets and Wicker Baskets Wholesale Distributor  - The Lucky Clover Trading Co.
+203.160.126.117:80 - 404 Not Found
