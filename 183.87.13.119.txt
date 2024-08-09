@@ -2976,3 +2976,51 @@
 116.80.111.232 - Заголовок не найден !80!
 61.222.147.223 - IIS7 !80!
 211.21.98.100 - ownCloud !80!
+23.203.117.128 - Заголовок не найден !80!
+121.196.198.96 - 若依管理系统 !80!
+69.14.0.173 - Document Error: Not Found !80!
+13.76.212.250 - IIS Windows Server !80!
+103.173.19.143 - HTTP Server Test Page powered by CentOS-WebPanel.com !80!
+93.94.148.134 - Заголовок не найден !80!
+154.22.36.189 - ERROR: The requested URL could not be retrieved !80!
+52.71.251.56 - Push Ads !80!
+154.216.169.184 - 403 Forbidden !80!
+108.156.148.37 - Заголовок не найден !80!
+3.163.133.11 - Заголовок не найден !80!
+153.127.68.56 - Заголовок не найден !80!
+23.211.17.225 - Заголовок не найден !80!
+196.51.0.150 - ERROR: The requested URL could not be retrieved !80!
+59.145.65.77 - IIS Windows !80!
+190.175.38.25 - Заголовок не найден !80!
+23.32.184.109 - Заголовок не найден !80!
+50.54.86.71 - Server Error !80!
+20.195.89.12 - Microsoft Azure Web App - Error 404 !80!
+221.159.37.179 -  !80!
+20.194.225.194 - Welcome to nginx! !80!
+46.33.1.77 - Заголовок не найден !80!
+46.36.124.218 - Заголовок не найден !80!
+75.74.89.60 - Hello! Welcome to Synology Web Station! !80!
+108.175.15.211 - Заголовок не найден !80!
+178.242.189.4 -  !80!
+74.120.31.192 - Заголовок не найден !80!
+128.65.193.165 - web host not found !80!
+63.251.38.228 - 63.251.38.228 : arriving soon !80!
+103.102.5.1 - Welcome to nginx! !80!
+23.223.166.15 - Заголовок не найден !80!
+156.236.130.225 - Welcome to nginx! !80!
+181.192.11.121 -  !80!
+23.219.12.254 - Заголовок не найден !80!
+89.47.58.186 - Welcome to nginx! !80!
+54.37.224.116 - Welcome to nginx! !80!
+23.94.162.188 - 407 Proxy Authentication Required !80!
+35.201.218.28 - Apache2 Ubuntu Default Page: It works !80!
+120.132.119.141 - G-IN !80!
+18.143.148.73 - Home | AAiR Institute !80!
+23.202.7.223 - Заголовок не найден !80!
+164.68.125.122 - Web Server's Default Page !80!
+63.196.2.247 - AT&T WiFi Portal !80!
+46.101.140.156 - Glory hole finder, directory of all world holes &ndash; Holelisting.com !80!
+34.160.52.251 - 502 !80!
+95.248.253.55 - index !80!
+80.87.97.17 - Success! !80!
+72.167.210.94 - Welcome to the Iroquois Studies Association !80!
