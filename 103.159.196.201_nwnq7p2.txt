@@ -5910,3 +5910,24 @@
 47.100.184.9 - 登录 !80!
 205.251.212.154 - Заголовок не найден !80!
 186.64.114.47 - Заголовок не найден !80!
+50.2.85.55 - 403 Forbidden !80!
+52.3.76.30 - 503 Service Temporarily Unavailable !80!
+4.175.92.241 - Your Azure Function App is up and running. !80!
+27.254.239.129 - 403 Forbidden !80!
+123.57.244.240 - 403 Forbidden !80!
+66.22.233.32 - Заголовок не найден !80!
+121.163.12.142 -  !80!
+54.254.19.255 - Заголовок не найден !80!
+104.24.136.152 - Direct IP access not allowed | Cloudflare !80!
+197.2.109.106 - 403 Forbidden !80!
+45.119.9.214 - WEB SERVICE !80!
+154.55.218.209 - 404 Not Found !80!
+3.166.192.241 - Заголовок не найден !80!
+23.207.38.225 - Заголовок не найден !80!
+182.92.237.13 - Welcome to nginx! !80!
+171.244.40.37 - Crm !80!
+18.244.32.199 - Заголовок не найден !80!
+104.16.104.123 - Direct IP access not allowed | Cloudflare !80!
+91.9.35.216 - DAVINCI !80!
+52.218.237.113 - Amazon S3 - Cloud Object Storage  - AWS !80!
+104.16.139.117 - Direct IP access not allowed | Cloudflare !80!
