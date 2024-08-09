@@ -2847,3 +2847,71 @@
 54.180.244.236 - Elastic Beanstalk !80!
 34.49.140.165 - Cloud !80!
 185.158.238.43 - Paradox IP Module !80!
+182.160.99.69 - SMART OFFICE !80!
+146.75.116.164 - Fastly error: unknown domain 146.75.116.164 !80!
+4.144.193.117 - 404 Not Found !80!
+98.156.198.115 -  !80!
+114.132.125.103 - 403 Forbidden !80!
+44.198.59.34 - Welcome to nginx! !80!
+104.221.208.249 - 404 Not Found !80!
+104.119.97.92 - Заголовок не найден !80!
+23.76.206.218 - Заголовок не найден !80!
+91.197.34.230 - Index of / !80!
+20.8.137.160 - Your Azure Function App is up and running. !80!
+149.28.244.4 - Заголовок не найден !80!
+38.152.217.13 - ERROR: The requested URL could not be retrieved !80!
+182.72.194.132 - NetBird Dashboard !80!
+102.223.230.239 - Ubiquiti !80!
+54.150.83.38 - 401 Authorization Required !80!
+188.212.101.243 - Заголовок не найден !80!
+47.250.133.42 - Apache HTTP Server Test Page powered by CentOS !80!
+15.206.61.23 - Prometheus Time Series Collection and Processing Server !80!
+13.232.226.40 - 404 Not Found !80!
+14.177.239.45 - Configuration Error !80!
+72.240.126.54 - Заголовок не найден !80!
+5.183.102.160 - Apache2 Ubuntu Default Page: It works !80!
+146.75.28.135 - Fastly error: unknown domain 146.75.28.135 !80!
+120.46.181.151 - LNMPä¸é®å®è£å by Licess !80!
+114.115.213.237 - æ²¡ææ¾å°ç«ç¹ !80!
+5.159.101.137 - Success! !80!
+18.211.245.229 - Заголовок не найден !80!
+188.128.157.77 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365 !80!
+3.228.93.167 - 503 Service Temporarily Unavailable !80!
+31.220.77.127 - 404 Not Found !80!
+151.101.202.75 - Fastly error: unknown domain 151.101.202.75 !80!
+157.254.11.44 - Index of / !80!
+181.194.225.44 - Заголовок не найден !80!
+219.100.40.51 - Заголовок не найден !80!
+91.134.113.221 - Navnedag.com - Finn din navnedag! !80!
+185.51.189.168 - Заголовок не найден !80!
+209.16.108.80 - 403 Forbidden !80!
+4.245.83.104 - IIS Windows Server !80!
+3.17.156.209 - 404 Not Found !80!
+104.85.224.133 - Заголовок не найден !80!
+155.159.96.225 - Заголовок не найден !80!
+3.167.192.192 - Заголовок не найден !80!
+222.187.221.222 - ERROR217 !80!
+216.38.5.210 - Pharmacy NZ - Your Fast, Convenient New Zealand Online Pharmacy !80!
+13.224.233.186 - Заголовок не найден !80!
+23.59.138.71 - Заголовок не найден !80!
+77.81.229.46 -  !80!
+168.119.185.98 - Apache2 Ubuntu Default Page: It works !80!
+52.84.214.25 - Заголовок не найден !80!
+179.43.137.176 - ERROR: The requested URL could not be retrieved !80!
+121.123.101.134 - Grandstream Device Configuration !80!
+104.21.112.185 - Direct IP access not allowed | Cloudflare !80!
+3.30.120.203 - Заголовок не найден !80!
+23.49.40.212 - Заголовок не найден !80!
+54.218.87.81 - File not Found !80!
+104.17.6.144 - Direct IP access not allowed | Cloudflare !80!
+152.69.209.147 - Welcome to nginx! !80!
+191.242.31.190 - Error 404 (Not Found)!!1 !80!
+153.101.209.80 - 403 Forbidden !80!
+78.189.86.175 - Заголовок не найден !80!
+69.30.195.28 - Home | 69.30.195.28 !80!
+186.209.31.14 - F670L !80!
+173.88.214.131 -  !80!
+155.185.2.106 - Заголовок не найден !80!
+3.72.107.169 - Заголовок не найден !80!
+45.223.140.183 - Заголовок не найден !80!
+190.174.233.99 - Заголовок не найден !80!
