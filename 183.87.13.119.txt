@@ -2182,3 +2182,64 @@
 40.126.244.183 - Microsoft Azure Web App - Error 404 !80!
 220.132.71.30 -  !80!
 147.124.219.125 - Заголовок не найден !80!
+38.207.30.138 - æ²¡ææ¾å°ç«ç¹ !80!
+117.161.185.21 - Заголовок не найден !80!
+184.183.4.23 - Web Site Blocked !80!
+197.53.135.84 -  !80!
+54.151.225.20 - 404 Not Found !80!
+107.174.48.233 - 500 Internal Server Error !80!
+124.29.235.226 - Document Error: Unauthorized !80!
+123.57.188.39 - æ­åï¼ç«ç¹åå»ºæåï¼ !80!
+49.233.94.85 - We've got some trouble | 403 - Access Denied !80!
+39.174.99.52 - 403 Forbidden !80!
+182.92.238.138 - Заголовок не найден !80!
+13.229.59.42 - Grafana !80!
+23.207.47.80 - Заголовок не найден !80!
+31.131.1.44 - Invalid Request !80!
+47.114.17.140 - Заголовок не найден !80!
+185.197.208.103 - Bluestone PIM | Composable PIM Software for Enterprises !80!
+23.48.122.144 - Заголовок не найден !80!
+133.125.48.115 - Welcome to nginx! !80!
+165.232.152.32 - Welcome to nginx! !80!
+104.19.252.168 - Direct IP access not allowed | Cloudflare !80!
+122.252.128.120 - Заголовок не найден !80!
+74.79.79.1 -  !80!
+18.155.1.32 - Заголовок не найден !80!
+13.227.143.217 - Заголовок не найден !80!
+23.193.188.252 - Заголовок не найден !80!
+80.242.144.208 - Заголовок не найден !80!
+118.89.85.214 - Not Found !80!
+38.55.2.141 - 404 Not Found !80!
+68.178.199.232 - Coming Soon !80!
+185.208.180.169 - Заголовок не найден !80!
+27.75.31.74 - RouterOS router configuration page !80!
+104.253.122.219 - 403 Forbidden !80!
+66.228.141.83 - Wanderlodge Owners Group !80!
+198.37.115.238 - Apache HTTP Server Test Page powered by CentOS !80!
+92.118.133.6 - FASTPANEL2 !80!
+82.211.195.96 - index !80!
+15.165.131.192 - RAON Developers &#8211; The Easier way to develop microdisplay system for AR/VR devices, HMD, and projectors !80!
+87.190.52.107 - Заголовок не найден !80!
+182.89.223.223 - 403 Forbidden !80!
+3.110.35.86 - Bitnami NGINX Open Source !80!
+199.232.242.21 - Fastly error: unknown domain 199.232.242.21 !80!
+44.218.76.236 - Заголовок не найден !80!
+167.99.198.77 - Welcome to nginx! !80!
+107.163.189.186 - 404 Not Found !80!
+85.128.221.107 - Domena  jest utrzymywana na serwerach nazwa.pl !80!
+23.212.127.49 - Заголовок не найден !80!
+80.211.123.104 - SYSTEMATICA - CloudBANK !80!
+52.85.155.128 - Заголовок не найден !80!
+92.123.176.17 - Заголовок не найден !80!
+45.95.173.163 - vvjh.pics &mdash; Coming Soon !80!
+65.9.64.94 - Заголовок не найден !80!
+104.68.83.225 - Заголовок не найден !80!
+23.217.254.156 - Заголовок не найден !80!
+23.57.52.169 - Заголовок не найден !80!
+20.223.15.187 - 404 Not Found !80!
+46.242.233.137 - Strona w przygotowaniu !80!
+34.243.85.188 - Заголовок не найден !80!
+149.106.252.19 - Заголовок не найден !80!
+43.156.53.66 - IIS Windows Server !80!
+79.96.86.116 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365 !80!
+71.245.124.37 - SonicWall - Authentication !80!
