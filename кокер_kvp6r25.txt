@@ -14952,3 +14952,26 @@
 23.197.214.83 - Заголовок не найден !80!
 185.124.138.250 - 403 Forbidden !80!
 101.42.229.91 - æ²¡ææ¾å°ç«ç¹ !80!
+196.51.67.230 - ERROR: The requested URL could not be retrieved !80!
+95.31.45.167 - 404 Not Found !80!
+37.46.80.86 - Apache HTTP Server Test Page powered by CentOS !80!
+80.104.115.157 - ' + GetCommercialName() + ' - ' + TR_HEADER + ' !80!
+23.207.35.131 - Заголовок не найден !80!
+104.22.21.144 - Direct IP access not allowed | Cloudflare !80!
+18.238.67.99 - Заголовок не найден !80!
+54.176.78.57 - Заголовок не найден !80!
+210.68.118.48 - REMOTE SURVEILLANCE !80!
+119.91.65.242 - æ²¡ææ¾å°ç«ç¹ !80!
+52.56.169.156 - Microsoft Internet Information Services 8 !80!
+146.190.45.28 - Test Page for the Nginx HTTP Server on AlmaLinux !80!
+31.131.4.52 - Заголовок не найден !80!
+213.91.137.128 - Please wait, the page is opening... !80!
+176.97.210.121 - Apache2 Debian Default Page: It works !80!
+2.19.26.232 - Заголовок не найден !80!
+3.138.138.70 - ì ì¸ê³ í´ì¸ì¨ë©, ê¸°ì, ìí°íì¸ë¨¼í¸, ìì ì´ë²¤í¸ ë§¤ëì§ë¨¼í¸&ìì½ ì¬ì´í¸-ë ë¯¸ëì¤ í¬ìë² - REMINISCE FOREVER !80!
+198.144.150.12 - IIS7 !80!
+23.213.96.139 - Заголовок не найден !80!
+27.102.220.58 - Test Page for the Nginx HTTP Server on Rocky Linux !80!
+23.52.189.99 - Заголовок не найден !80!
+154.216.100.155 - 404 Not Found !80!
+198.244.232.163 - 404 Not Found !80!
