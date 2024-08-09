@@ -11919,3 +11919,94 @@
 77.37.114.172:80 - 403 Forbidden
 91.224.248.40:80 - Apache2 Ubuntu Default Page: It works
 165.22.198.35:80 - Apache2 Ubuntu Default Page: It works
+206.189.17.87:80 - Welcome to nginx!
+23.47.254.142:80 - Заголовок не найден
+183.111.199.196:80 - 403 Forbidden
+104.85.44.150:80 - Заголовок не найден
+34.205.199.208:80 - Заголовок не найден
+206.189.121.133:80 - Welcome to nginx!
+52.197.67.71:80 - Заголовок не найден
+52.78.49.75:80 - 패션온 상점 로그인
+52.216.143.160:80 - Amazon S3 - Cloud Object Storage  - AWS
+154.22.113.23:80 - JDB
+181.120.121.75:80 - 
+149.71.180.43:80 - 407 Proxy Authentication Required
+206.81.164.158:80 - Заголовок не найден
+154.177.48.23:80 - 
+199.127.62.89:80 - Login
+107.20.37.171:80 - Заголовок не найден
+112.48.183.186:80 - 403 Forbidden
+52.11.221.31:80 - 404 Not Found
+52.68.185.89:80 - 500 Internal Server Error
+23.32.74.59:80 - Заголовок не найден
+164.90.169.147:80 - Welcome to nginx!
+35.199.190.144:80 - Заголовок не найден
+20.166.104.4:80 - Your Azure Function App is up and running.
+156.241.182.133:80 - 404 Not Found
+23.38.62.191:80 - Заголовок не найден
+51.77.205.37:80 - Заголовок не найден
+103.157.96.126:80 - Заголовок не найден
+23.12.253.126:80 - Заголовок не найден
+178.128.163.241:80 - Apache2 Ubuntu Default Page: It works
+104.94.162.84:80 - Заголовок не найден
+199.212.27.22:80 - SOAOER | Open Learning provides open-license digital resources in communications and the humanities. It offers accessible, interactive learning materials for college and post-secondary students, written by faculty from Centennial College&#039;s School of Advancement.
+157.65.164.210:80 - Заголовок не найден
+18.155.226.7:80 - Заголовок не найден
+13.224.12.196:80 - Заголовок не найден
+8.12.16.52:80 - Заголовок не найден
+23.53.201.211:80 - Заголовок не найден
+23.12.234.216:80 - Заголовок не найден
+23.54.103.51:80 - Заголовок не найден
+58.194.170.113:80 - 404 Not Found
+103.109.96.140:80 - RouterOS router configuration page
+104.99.1.253:80 - Заголовок не найден
+199.127.46.24:80 - 403 Forbidden
+130.211.27.143:80 - Заголовок не найден
+45.67.215.235:80 - Direct IP access not allowed | Cloudflare
+104.18.197.91:80 - Direct IP access not allowed | Cloudflare
+58.254.138.6:80 - Заголовок не найден
+77.91.100.152:80 - Заголовок не найден
+104.27.28.205:80 - Direct IP access not allowed | Cloudflare
+3.165.20.216:80 - Заголовок не найден
+182.178.114.107:80 - WEB SERVICE
+132.145.115.9:80 - Заголовок не найден
+94.154.43.198:80 - 403 - Forbidden: Access is denied.
+52.71.254.91:80 - Error
+175.253.223.47:80 - Hello! Welcome to Synology Web Station!
+104.85.153.61:80 - Заголовок не найден
+184.30.210.63:80 - Заголовок не найден
+112.13.70.126:80 - Welcome to OpenResty!
+178.238.223.241:80 - 403 Forbidden
+23.59.0.184:80 - Заголовок не найден
+162.210.180.239:80 - IIS Windows Server
+104.83.34.182:80 - Заголовок не найден
+47.116.168.245:80 - 404 Not Found
+157.254.219.103:80 - Apache2 Ubuntu Default Page: It works
+23.197.163.160:80 - Заголовок не найден
+15.237.171.207:80 - The Deuce Bag
+104.18.166.208:80 - Direct IP access not allowed | Cloudflare
+216.119.87.97:80 - Заголовок не найден
+86.124.182.83:80 - WEB SERVICE
+95.100.200.197:80 - Заголовок не найден
+50.87.93.24:80 - Not Acceptable!
+104.19.179.1:80 - Direct IP access not allowed | Cloudflare
+121.22.249.156:80 - 403 Forbidden
+211.253.17.41:80 - 503 Service Unavailable
+103.51.150.175:80 - Please wait, the login page is opening...
+23.26.184.1:80 - Заголовок не найден
+38.11.97.111:80 - Заголовок не найден
+62.122.98.220:80 - Заголовок не найден
+104.16.69.149:80 - Direct IP access not allowed | Cloudflare
+198.176.47.154:80 - Welcome Page
+210.128.121.203:80 - Apache Tomcat
+54.239.164.178:80 - Заголовок не найден
+114.214.47.41:80 - 404 Not Found
+40.87.92.92:80 - Заголовок не найден
+104.110.20.166:80 - Заголовок не найден
+2.21.87.14:80 - Заголовок не найден
+168.119.132.120:80 - IIS Windows Server
+23.38.62.154:80 - Заголовок не найден
+191.102.21.95:80 - ZC-521
+188.166.159.221:80 - Hamish Dear&#039;s Warm Hugs &#8211; KEEP CHILDREN SMILING THROUGH THEIR TOUGHEST BATTLES
+191.102.181.109:80 - 407 Proxy Authentication Required
+78.84.100.136:80 - 
