@@ -856,3 +856,75 @@
 198.46.166.253:80 - 500 Internal Server Error
 167.172.8.136:80 - Заголовок не найден
 35.236.40.96:80 - Заголовок не найден
+93.219.106.46:80 - index
+154.126.49.39:80 - RouterOS router configuration page
+43.206.186.219:80 - 401 Unauthorized
+193.81.82.74:80 - Welcome
+47.103.133.207:80 - Заголовок не найден
+54.95.202.239:80 - IIS Windows Server
+185.80.36.202:80 - Заголовок не найден
+23.43.193.233:80 - Заголовок не найден
+191.102.135.205:80 - 407 Proxy Authentication Required
+45.64.107.60:80 - HTTP Server Test Page powered by CentOS
+85.128.237.94:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+66.243.241.231:80 - Заголовок не найден
+52.222.202.143:80 - Заголовок не найден
+87.165.127.202:80 - Grandstream Device Configuration
+23.79.91.92:80 - Заголовок не найден
+5.251.238.61:80 - GPON Home Gateway
+104.68.61.134:80 - Заголовок не найден
+211.105.136.240:80 - 
+95.101.40.16:80 - Заголовок не найден
+104.120.75.193:80 - Заголовок не найден
+23.26.249.211:80 - Apache2 Ubuntu Default Page: It works
+122.155.136.142:80 - Заголовок не найден
+110.238.118.207:80 - Apache2 Ubuntu Default Page: It works
+61.255.40.27:80 - 
+47.74.38.18:80 - Welcome to nginx!
+179.191.245.137:80 - Заголовок не найден
+199.19.157.21:80 - Test Page for the Apache HTTP Server on CloudLinux
+35.232.104.151:80 - 404 Not Found
+3.29.211.206:80 - 404 Not Found
+188.34.176.88:80 - Web Server's Default Page
+45.60.123.171:80 - Заголовок не найден
+38.12.185.251:80 - 404 Not Found
+5.144.166.109:80 - Seeweb
+46.137.149.24:80 - 404 Not Found
+23.213.65.94:80 - Заголовок не найден
+72.174.3.224:80 - 
+181.95.201.25:80 - Заголовок не найден
+61.40.189.13:80 - main page
+195.216.248.195:80 - 403 - Forbidden: Access is denied.
+47.242.150.210:80 - Заголовок не найден
+20.23.87.94:80 - Your Azure Function App is up and running.
+108.185.213.57:80 - WebCam
+14.189.11.165:80 - WEB SERVICE
+184.87.161.91:80 - Заголовок не найден
+170.187.249.59:80 - Заголовок не найден
+52.202.82.59:80 - Заголовок не найден
+34.144.232.69:80 - Заголовок не найден
+23.50.148.130:80 - Заголовок не найден
+36.236.9.134:80 - Заголовок не найден
+119.245.205.122:80 - Заголовок не найден
+18.164.224.205:80 - Заголовок не найден
+23.59.49.119:80 - Заголовок не найден
+89.171.83.99:80 - 403 Forbidden
+167.249.228.161:80 - 
+185.51.245.225:80 - Amateur Porn Tube - XXX Amateur Videos on AmateurPornHere.net
+192.254.136.253:80 - Welcome to Liftcraft Suspension Systems
+23.60.252.49:80 - Заголовок не найден
+13.65.172.193:80 - 404 Not Found
+14.184.232.120:80 - WEB SERVICE
+191.238.218.102:80 - Заголовок не найден
+23.36.168.168:80 - Заголовок не найден
+165.22.144.59:80 - dv Cloud
+202.93.244.78:80 - RouterOS router configuration page
+82.64.68.152:80 - Заголовок не найден
+47.93.57.177:80 - My JSP 'index.jsp' starting page
+156.253.14.13:80 - IIS Windows Server
+195.242.208.61:80 - ERROR: The requested URL could not be retrieved
+46.242.208.14:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+34.96.28.186:80 - Заголовок не найден
+39.104.224.66:80 - IIS Windows Server
+104.207.250.160:80 - Test Page for the Apache HTTP Server & InterWorx-CP
+137.184.56.210:80 - TechIQ Smart Farming Monitor
