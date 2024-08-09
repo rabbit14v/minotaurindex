@@ -20046,3 +20046,5 @@ Play
 34.249.233.195:80 - 400 The plain HTTP request was sent to HTTPS port
 196.51.6.83:80 - ERROR: The requested URL could not be retrieved
 191.252.179.42:80 - Dellano Sites | Sites, E-commerces e Artes
+157.112.59.137:80 - Заголовок не найден
+47.128.212.21:80 - 503 Service Temporarily Unavailable
