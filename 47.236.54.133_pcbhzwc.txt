@@ -1,0 +1,50 @@
+186.48.127.222:80 - 
+146.75.6.213:80 - Fastly error: unknown domain 146.75.6.213
+51.254.38.211:80 - 403 Forbidden
+8.217.102.68:80 - Заголовок не найден
+147.92.46.43:80 - Заголовок не найден
+20.14.248.101:80 - Your Azure Function App is up and running.
+122.248.219.177:80 - Welcome to nginx!
+120.24.239.161:80 - Welcome to nginx!
+202.59.80.47:80 - Nizara Communications (Pvt) Ltd - Powered by Nizara Support
+14.163.97.35:80 - 
+77.68.100.180:80 - Web Server's Default Page
+99.81.76.195:80 - Homepage - Knowledge Hub
+23.235.191.14:80 - 404 Not Found
+108.186.113.219:80 - æ²¡ææ¾å°ç«ç¹
+3.223.194.13:80 - Заголовок не найден
+51.255.61.54:80 - Web Server's Default Page
+208.115.193.162:80 - 404 Not Found
+23.51.188.253:80 - Заголовок не найден
+23.196.23.152:80 - Заголовок не найден
+23.7.43.92:80 - Заголовок не найден
+46.242.182.117:80 - Strona w przygotowaniu
+50.20.254.209:80 - Hosted By BisectHosting - BisectHosting
+45.60.255.178:80 - Заголовок не найден
+18.165.118.70:80 - Заголовок не найден
+91.143.131.106:80 - Welcome to nginx!
+54.146.2.143:80 - Заголовок не найден
+192.74.234.69:80 - Welcome to nginx!
+34.96.103.71:80 - Kloudfuse
+20.236.245.114:80 - Заголовок не найден
+212.77.179.179:80 - 403 Forbidden
+69.61.94.114:80 - Home
+50.87.110.225:80 - Not Acceptable!
+23.222.180.25:80 - Заголовок не найден
+173.255.254.199:80 - Apache2 Ubuntu Default Page: It works
+89.117.168.160:80 - 403 Forbidden
+18.154.60.88:80 - Заголовок не найден
+166.247.154.64:80 - Device Webserver
+13.92.191.223:80 - Заголовок не найден
+196.51.33.214:80 - ERROR: The requested URL could not be retrieved
+156.236.70.224:80 - Заголовок не найден
+3.34.84.47:80 - Заголовок не найден
+3.22.106.200:80 - Welcome to nginx!
+186.96.40.51:80 - Заголовок не найден
+87.92.43.65:80 - 
+201.182.92.122:80 - RouterOS router configuration page
+182.48.203.243:80 - Заголовок не найден
+38.48.228.145:80 - 404 Not Found
+35.73.97.204:80 - Test Page for the Apache HTTP Server
+198.44.178.86:80 - 404 Not Found
+151.237.67.109:80 - Please wait, the page is opening...
