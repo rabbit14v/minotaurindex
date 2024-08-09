@@ -2243,3 +2243,13 @@
 43.156.53.66 - IIS Windows Server !80!
 79.96.86.116 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365 !80!
 71.245.124.37 - SonicWall - Authentication !80!
+107.179.212.84 - mtegel.org - Home !80!
+211.25.123.103 - Заголовок не найден !80!
+120.232.187.170 - 403 Forbidden !80!
+103.173.56.140 - 奧索樂透網-台灣彩券大樂透、威力彩、樂線九宮格、今彩539、三星彩、四星彩、Bingo Bingo賓果賓果開獎號碼 !80!
+104.18.95.112 - Direct IP access not allowed | Cloudflare !80!
+38.65.227.228 - Test Page for the Centmin Mod Nginx HTTP Server !80!
+179.61.134.7 - Aritno Comm V !80!
+109.230.233.170 - Apache2 Ubuntu Default Page: It works !80!
+101.43.12.105 - æ²¡ææ¾å°ç«ç¹ !80!
+104.16.64.216 - Direct IP access not allowed | Cloudflare !80!
